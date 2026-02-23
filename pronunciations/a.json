@@ -1,0 +1,4510 @@
+{
+  "abase": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbās",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abase001.mp3"
+      }
+    ]
+  },
+  "abbess": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-bəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abbess01.mp3"
+      }
+    ]
+  },
+  "abbey": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-bē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abbey001.mp3"
+      }
+    ]
+  },
+  "abbot": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-bət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abbot001.mp3"
+      }
+    ]
+  },
+  "abdicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-di-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abdica01.mp3"
+      }
+    ]
+  },
+  "abdomen": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-də-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abdome01.mp3"
+      },
+      {
+        "syllables": "-ˌdō-",
+        "audio": null
+      },
+      {
+        "syllables": "əb-ˈdō-mən",
+        "audio": null
+      },
+      {
+        "syllables": "ab-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abdom01m.mp3"
+      }
+    ]
+  },
+  "abdominal": {
+    "pronunciations": [
+      {
+        "syllables": "ab-ˈdä-mə-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abdomi01.mp3"
+      },
+      {
+        "syllables": "əb-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈdäm-nᵊl",
+        "audio": null
+      }
+    ]
+  },
+  "abduction": {
+    "pronunciations": [
+      {
+        "syllables": "ab-ˈdək-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abduct03.mp3"
+      },
+      {
+        "syllables": "əb-",
+        "audio": null
+      }
+    ]
+  },
+  "abed": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbed",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abed0001.mp3"
+      }
+    ]
+  },
+  "aberration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-bə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aberra05.mp3"
+      }
+    ]
+  },
+  "abet": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbet",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abet0001.mp3"
+      }
+    ]
+  },
+  "abeyance": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbā-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abeyan01.mp3"
+      }
+    ]
+  },
+  "abhorrence": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈhȯr-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abhorr02.mp3"
+      },
+      {
+        "syllables": "-ˈhär-",
+        "audio": null
+      },
+      {
+        "syllables": "ab-",
+        "audio": null
+      }
+    ]
+  },
+  "abhorrent": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈhȯr-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abhorr03.mp3"
+      },
+      {
+        "syllables": "-ˈhär-",
+        "audio": null
+      },
+      {
+        "syllables": "ab-",
+        "audio": null
+      }
+    ]
+  },
+  "abidance": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbī-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abidan01.mp3"
+      }
+    ]
+  },
+  "abject": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-ˌjekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abject01.mp3"
+      }
+    ]
+  },
+  "abjure": {
+    "pronunciations": [
+      {
+        "syllables": "ab-ˈju̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abjure01.mp3"
+      }
+    ]
+  },
+  "able-bodied": {
+    "pronunciations": [
+      {
+        "syllables": "ˌā-bəl-ˈbä-dēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/able_b01.mp3"
+      }
+    ]
+  },
+  "ablution": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈblü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abluti01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "abnegate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-ni-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abnega01.mp3"
+      }
+    ]
+  },
+  "abnormal": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)ab-ˈnȯr-məl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abnorm01.mp3"
+      },
+      {
+        "syllables": "əb-",
+        "audio": null
+      }
+    ]
+  },
+  "abominable": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbäm-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abomin01.mp3"
+      },
+      {
+        "syllables": "-ˈbä-mə-",
+        "audio": null
+      }
+    ]
+  },
+  "abominate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbä-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abomin04.mp3"
+      }
+    ]
+  },
+  "abomination": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˌbä-mə-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abomin06.mp3"
+      }
+    ]
+  },
+  "aboriginal": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-bə-ˈri-jə-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aborig01.mp3"
+      },
+      {
+        "syllables": "-ˈrij-nəl",
+        "audio": null
+      }
+    ]
+  },
+  "aborigines": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-bə-ˈri-jə-(ˌ)nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aborig02.mp3"
+      },
+      {
+        "syllables": "-ˈrij-",
+        "audio": null
+      }
+    ]
+  },
+  "aboveboard": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbəv-ˌbȯrd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aboveb01.mp3"
+      }
+    ]
+  },
+  "abrade": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbrād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abrade01.mp3"
+      }
+    ]
+  },
+  "abrasion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbrā-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abrasi01.mp3"
+      }
+    ]
+  },
+  "abridge": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbrij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abridg01.mp3"
+      }
+    ]
+  },
+  "abridgment": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbrij-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abridg02.mp3"
+      }
+    ]
+  },
+  "abrogate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-brə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abroga01.mp3"
+      }
+    ]
+  },
+  "abrupt": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbrəpt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abrupt01.mp3"
+      }
+    ]
+  },
+  "abscess": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-ˌses",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absces01.mp3"
+      }
+    ]
+  },
+  "abscission": {
+    "pronunciations": [
+      {
+        "syllables": "ab-ˈsi-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abscis07.mp3"
+      }
+    ]
+  },
+  "abscond": {
+    "pronunciations": [
+      {
+        "syllables": "ab-ˈskänd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abscon01.mp3"
+      },
+      {
+        "syllables": "əb-",
+        "audio": null
+      }
+    ]
+  },
+  "absence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-sən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absenc01.mp3"
+      }
+    ]
+  },
+  "absent-minded": {
+    "pronunciations": [
+      {
+        "syllables": "ˌab-sənt-ˈmīn-dəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absent07.mp3"
+      }
+    ]
+  },
+  "absolution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌab-sə-ˈlü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absolu05.mp3"
+      }
+    ]
+  },
+  "absolve": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈzälv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absolv02.mp3"
+      },
+      {
+        "syllables": "-ˈsälv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absolv01.mp3"
+      },
+      {
+        "syllables": "-ˈzȯlv",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈsȯlv",
+        "audio": null
+      },
+      {
+        "syllables": "l",
+        "audio": null
+      }
+    ]
+  },
+  "absorb": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈsȯrb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absorb02.mp3"
+      },
+      {
+        "syllables": "-ˈzȯrb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absorb01.mp3"
+      }
+    ]
+  },
+  "absorption": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈsȯrp-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absorp04.mp3"
+      },
+      {
+        "syllables": "-ˈzȯrp-",
+        "audio": null
+      }
+    ]
+  },
+  "abstain": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈstān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abstai01.mp3"
+      },
+      {
+        "syllables": "ab-",
+        "audio": null
+      }
+    ]
+  },
+  "abstemious": {
+    "pronunciations": [
+      {
+        "syllables": "ab-ˈstē-mē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abstem01.mp3"
+      }
+    ]
+  },
+  "abstinence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈab-stə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abstin01.mp3"
+      }
+    ]
+  },
+  "abstruse": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈstrüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abstru01.mp3"
+      },
+      {
+        "syllables": "ab-",
+        "audio": null
+      }
+    ]
+  },
+  "absurd": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈsərd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absurd02.mp3"
+      },
+      {
+        "syllables": "-ˈzərd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/absurd01.mp3"
+      }
+    ]
+  },
+  "abundant": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbən-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abunda02.mp3"
+      }
+    ]
+  },
+  "abusive": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbyü-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abusiv01.mp3"
+      },
+      {
+        "syllables": "-ziv",
+        "audio": null
+      }
+    ]
+  },
+  "abut": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abut0001.mp3"
+      }
+    ]
+  },
+  "abyss": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbis",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/abyss001.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      },
+      {
+        "syllables": "ˈa-(ˌ)bis",
+        "audio": null
+      }
+    ]
+  },
+  "academic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-kə-ˈde-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/academ04.mp3"
+      }
+    ]
+  },
+  "academician": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-kə-də-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/academ07.mp3"
+      },
+      {
+        "syllables": "ə-ˌka-də-",
+        "audio": null
+      }
+    ]
+  },
+  "academy": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈka-də-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/academ10.mp3"
+      }
+    ]
+  },
+  "accede": {
+    "pronunciations": [
+      {
+        "syllables": "ak-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accede01.mp3"
+      },
+      {
+        "syllables": "ik-",
+        "audio": null
+      }
+    ]
+  },
+  "accelerate": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈse-lə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accele03.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      }
+    ]
+  },
+  "accept": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsept",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accept01.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      },
+      {
+        "syllables": "ek-",
+        "audio": null
+      }
+    ]
+  },
+  "access": {
+    "pronunciations": [
+      {
+        "syllables": "ˈak-ˌses",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/access01.mp3"
+      },
+      {
+        "syllables": "ik-ˈses",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/excess02.mp3"
+      }
+    ]
+  },
+  "accessible": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈse-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/access02.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      },
+      {
+        "syllables": "ek-",
+        "audio": null
+      }
+    ]
+  },
+  "accession": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈse-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/access06.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      }
+    ]
+  },
+  "accessory": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈse-sə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/access10.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      },
+      {
+        "syllables": "ek-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈses-rē",
+        "audio": null
+      },
+      {
+        "syllables": "ə-ˈse-",
+        "audio": null
+      }
+    ]
+  },
+  "acclaim": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈklām",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acclai01.mp3"
+      }
+    ]
+  },
+  "accommodate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkä-mə-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomm01.mp3"
+      }
+    ]
+  },
+  "accompaniment": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkəm-pə-nē-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp01.mp3"
+      },
+      {
+        "syllables": "-ˈkəmp-nē-",
+        "audio": null
+      }
+    ]
+  },
+  "accompanist": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkəmp-nist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp02.mp3"
+      },
+      {
+        "syllables": "-ˈkəm-pə-",
+        "audio": null
+      }
+    ]
+  },
+  "accompany": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkəmp-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp04.mp3"
+      },
+      {
+        "syllables": "-ˈkämp-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈkəm-pə-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈkäm-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp03.mp3"
+      }
+    ]
+  },
+  "accomplice": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkäm-pləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp06.mp3"
+      },
+      {
+        "syllables": "-ˈkəm-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp05.mp3"
+      }
+    ]
+  },
+  "accomplish": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkäm-plish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp08.mp3"
+      },
+      {
+        "syllables": "-ˈkəm-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accomp07.mp3"
+      }
+    ]
+  },
+  "accordion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkȯr-dē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accord05.mp3"
+      }
+    ]
+  },
+  "accost": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkȯst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accost01.mp3"
+      },
+      {
+        "syllables": "-ˈkäst",
+        "audio": null
+      }
+    ]
+  },
+  "account": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkau̇nt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accoun01.mp3"
+      }
+    ]
+  },
+  "accouter": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkü-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accout01.mp3"
+      }
+    ]
+  },
+  "accredit": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkre-dət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accred01.mp3"
+      }
+    ]
+  },
+  "accumulate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkyü-m(y)ə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accumu01.mp3"
+      }
+    ]
+  },
+  "accuracy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-kyə-rə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accura01.mp3"
+      },
+      {
+        "syllables": "ˈa-k(ə-)rə-",
+        "audio": null
+      }
+    ]
+  },
+  "accurate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-kyə-rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accura02.mp3"
+      },
+      {
+        "syllables": "ˈa-k(ə-)rət",
+        "audio": null
+      }
+    ]
+  },
+  "accursed": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkərst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accurs01.mp3"
+      },
+      {
+        "syllables": "-ˈkər-səd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accurs05.mp3"
+      }
+    ]
+  },
+  "accusation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-kyə-ˈzā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accusa02.mp3"
+      },
+      {
+        "syllables": "-(ˌ)kyü-",
+        "audio": null
+      }
+    ]
+  },
+  "accusatory": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkyü-zə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accusa04.mp3"
+      }
+    ]
+  },
+  "accuse": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkyüz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accuse01.mp3"
+      }
+    ]
+  },
+  "accustom": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkə-stəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/accust01.mp3"
+      }
+    ]
+  },
+  "acerbity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsər-bə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acerbi03.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "acetate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-sə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acetat01.mp3"
+      }
+    ]
+  },
+  "acetic": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsē-tik-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acetic01.mp3"
+      }
+    ]
+  },
+  "ache": {
+    "pronunciations": [
+      {
+        "syllables": "ˈāk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ache0001.mp3"
+      }
+    ]
+  },
+  "achromatic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-krə-ˈma-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/achrom02.mp3"
+      },
+      {
+        "syllables": "(ˌ)ā-",
+        "audio": null
+      }
+    ]
+  },
+  "acid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-səd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acid0001.mp3"
+      }
+    ]
+  },
+  "acidify": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsi-də-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acidif02.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "acknowledge": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈnä-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acknow01.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      }
+    ]
+  },
+  "acknowledgment": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈnä-lij-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acknow05.mp3"
+      },
+      {
+        "syllables": "ak-",
+        "audio": null
+      }
+    ]
+  },
+  "acme": {
+    "pronunciations": [
+      {
+        "syllables": "ˈak-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acme0001.mp3"
+      }
+    ]
+  },
+  "acoustic": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkü-stik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acoust01.mp3"
+      }
+    ]
+  },
+  "acquaint": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkwānt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquai01.mp3"
+      }
+    ]
+  },
+  "acquiesce": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-kwē-ˈes",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquie01.mp3"
+      }
+    ]
+  },
+  "acquiescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-kwē-ˈe-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquie02.mp3"
+      }
+    ]
+  },
+  "acquire": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkwī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquir02.mp3"
+      }
+    ]
+  },
+  "acquisition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-kwə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquis01.mp3"
+      }
+    ]
+  },
+  "acquit": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkwit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquit01.mp3"
+      }
+    ]
+  },
+  "acquittal": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkwi-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquit02.mp3"
+      }
+    ]
+  },
+  "acquittance": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkwi-tᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acquit03.mp3"
+      }
+    ]
+  },
+  "acreage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-k(ə-)rij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acreag01.mp3"
+      }
+    ]
+  },
+  "acrid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-krəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acrid001.mp3"
+      }
+    ]
+  },
+  "acrimonious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-krə-ˈmō-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acrimo01.mp3"
+      }
+    ]
+  },
+  "acrimony": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-krə-ˌmō-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acrimo02.mp3"
+      }
+    ]
+  },
+  "actionable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈak-sh(ə-)nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/action02.mp3"
+      }
+    ]
+  },
+  "actuality": {
+    "pronunciations": [
+      {
+        "syllables": "ˌak-chə-ˈwa-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/actual02.mp3"
+      },
+      {
+        "syllables": "ˌak-shə-",
+        "audio": null
+      }
+    ]
+  },
+  "actuary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈak-chə-ˌwer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/actuar03.mp3"
+      },
+      {
+        "syllables": "-shə-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌwe-rē-",
+        "audio": null
+      }
+    ]
+  },
+  "actuate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈak-chə-ˌwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/actuat01.mp3"
+      },
+      {
+        "syllables": "-shə-",
+        "audio": null
+      }
+    ]
+  },
+  "acumen": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-kyü-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acumen01.mp3"
+      },
+      {
+        "syllables": "ə-ˈkyü-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acumen02.mp3"
+      }
+    ]
+  },
+  "acute": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/acute001.mp3"
+      }
+    ]
+  },
+  "adamant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-də-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adaman03.mp3"
+      },
+      {
+        "syllables": "-ˌmant",
+        "audio": null
+      }
+    ]
+  },
+  "addendum": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈden-dəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/addend03.mp3"
+      }
+    ]
+  },
+  "addle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/addle001.mp3"
+      }
+    ]
+  },
+  "adduce": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈdüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adduce01.mp3"
+      },
+      {
+        "syllables": "-ˈdyüs",
+        "audio": null
+      }
+    ]
+  },
+  "adhere": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈhir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adhere01.mp3"
+      },
+      {
+        "syllables": "əd-",
+        "audio": null
+      }
+    ]
+  },
+  "adherence": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈhir-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adhere02.mp3"
+      },
+      {
+        "syllables": "əd-",
+        "audio": null
+      }
+    ]
+  },
+  "adherent": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈhir-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adhere03.mp3"
+      },
+      {
+        "syllables": "əd-",
+        "audio": null
+      }
+    ]
+  },
+  "adhesion": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈhē-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adhesi01.mp3"
+      },
+      {
+        "syllables": "əd-",
+        "audio": null
+      }
+    ]
+  },
+  "adieu": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈdü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adieu001.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈdyü",
+        "audio": null
+      }
+    ]
+  },
+  "adjacency": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈjā-sᵊn(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adjace01.mp3"
+      }
+    ]
+  },
+  "adjacent": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈjā-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adjace02.mp3"
+      }
+    ]
+  },
+  "adjudge": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈjəj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adjudg01.mp3"
+      }
+    ]
+  },
+  "adjunct": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-ˌjəŋ(k)t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adjunc01.mp3"
+      }
+    ]
+  },
+  "adjuration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-jə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adjura01.mp3"
+      }
+    ]
+  },
+  "adjutant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-jə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adjuta02.mp3"
+      }
+    ]
+  },
+  "administrator": {
+    "pronunciations": [
+      {
+        "syllables": "əd-ˈmi-nə-ˌstrā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/admini08.mp3"
+      },
+      {
+        "syllables": "-ˌstrā-ˌtȯr",
+        "audio": null
+      }
+    ]
+  },
+  "admissible": {
+    "pronunciations": [
+      {
+        "syllables": "əd-ˈmi-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/admiss01.mp3"
+      },
+      {
+        "syllables": "ad-",
+        "audio": null
+      }
+    ]
+  },
+  "admittance": {
+    "pronunciations": [
+      {
+        "syllables": "əd-ˈmi-tᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/admitt01.mp3"
+      },
+      {
+        "syllables": "ad-",
+        "audio": null
+      }
+    ]
+  },
+  "admonish": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈmä-nish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/admoni01.mp3"
+      }
+    ]
+  },
+  "admonition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌad-mə-ˈni-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/admoni04.mp3"
+      }
+    ]
+  },
+  "ado": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈdü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ado00001.mp3"
+      }
+    ]
+  },
+  "adoration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-də-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adorat01.mp3"
+      }
+    ]
+  },
+  "adroit": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈdrȯit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adroit01.mp3"
+      }
+    ]
+  },
+  "adulterant": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈdəl-t(ə-)rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adulte01.mp3"
+      }
+    ]
+  },
+  "adulterate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈdəl-tə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adulte02.mp3"
+      }
+    ]
+  },
+  "adumbrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-dəm-ˌbrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adumbr02.mp3"
+      },
+      {
+        "syllables": "a-ˈdəm-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adumbr01.mp3"
+      }
+    ]
+  },
+  "advent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈad-ˌvent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advent01.mp3"
+      },
+      {
+        "syllables": "-vənt",
+        "audio": null
+      }
+    ]
+  },
+  "adverse": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈvərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advers04.mp3"
+      },
+      {
+        "syllables": "ˈad-ˌvərs",
+        "audio": null
+      }
+    ]
+  },
+  "adversity": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈvər-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advers05.mp3"
+      }
+    ]
+  },
+  "advert": {
+    "pronunciations": [
+      {
+        "syllables": "ad-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advert01.mp3"
+      }
+    ]
+  },
+  "advertiser": {
+    "pronunciations": [
+      {
+        "syllables": "ˈad-vər-ˌtīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advert06.mp3"
+      }
+    ]
+  },
+  "advisory": {
+    "pronunciations": [
+      {
+        "syllables": "əd-ˈvīz-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/adviso01.mp3"
+      },
+      {
+        "syllables": "-ˈvī-zə-",
+        "audio": null
+      }
+    ]
+  },
+  "advocacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈad-və-kə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advoca01.mp3"
+      }
+    ]
+  },
+  "advocate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈad-və-kət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advoca02.mp3"
+      },
+      {
+        "syllables": "-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/advoca03.mp3"
+      }
+    ]
+  },
+  "aerial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈer-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aerial01.mp3"
+      },
+      {
+        "syllables": "ā-ˈir-ē-əl",
+        "audio": null
+      }
+    ]
+  },
+  "aeronaut": {
+    "pronunciations": [
+      {
+        "syllables": "ˈer-ə-ˌnȯt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aerona01.mp3"
+      },
+      {
+        "syllables": "-ˌnät",
+        "audio": null
+      }
+    ]
+  },
+  "aeronautics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌer-ə-ˈnȯ-tiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aerona02.mp3"
+      },
+      {
+        "syllables": "-ˈnä-",
+        "audio": null
+      }
+    ]
+  },
+  "aerostat": {
+    "pronunciations": [
+      {
+        "syllables": "ˈer-ō-ˌstat",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aerost01.mp3"
+      }
+    ]
+  },
+  "aerostatics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌer-ō-ˈsta-tiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aerost02.mp3"
+      }
+    ]
+  },
+  "affable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-fə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affabl01.mp3"
+      }
+    ]
+  },
+  "affect": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affect02.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "affectation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-ˌfek-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affect05.mp3"
+      }
+    ]
+  },
+  "affiliate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfi-lē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affili01.mp3"
+      }
+    ]
+  },
+  "affirmative": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfər-mə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affirm05.mp3"
+      }
+    ]
+  },
+  "affix": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affix001.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "affluence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-(ˌ)flü-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/afflue02.mp3"
+      },
+      {
+        "syllables": "a-ˈflü-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/afflue01.mp3"
+      },
+      {
+        "syllables": "ə-",
+        "audio": null
+      }
+    ]
+  },
+  "affront": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfrənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/affron01.mp3"
+      }
+    ]
+  },
+  "afire": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/afire001.mp3"
+      }
+    ]
+  },
+  "afoot": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfu̇t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/afoot001.mp3"
+      }
+    ]
+  },
+  "aforesaid": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfȯr-ˌsed",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/afores01.mp3"
+      }
+    ]
+  },
+  "afresh": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfresh",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/afresh01.mp3"
+      }
+    ]
+  },
+  "afterthought": {
+    "pronunciations": [
+      {
+        "syllables": "ˈaf-tər-ˌthȯt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aftert03.mp3"
+      }
+    ]
+  },
+  "agglomerate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈglä-mə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/agglom01.mp3"
+      }
+    ]
+  },
+  "aggrandize": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈgran-ˌdīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggran01.mp3"
+      },
+      {
+        "syllables": "ˈa-grən-",
+        "audio": null
+      }
+    ]
+  },
+  "aggravate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-grə-ˌvāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggrav01.mp3"
+      }
+    ]
+  },
+  "aggravation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-grə-ˈvā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggrav02.mp3"
+      }
+    ]
+  },
+  "aggregate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-gri-gət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggreg01.mp3"
+      }
+    ]
+  },
+  "aggress": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈgres",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggres01.mp3"
+      }
+    ]
+  },
+  "aggression": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈgre-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggres02.mp3"
+      }
+    ]
+  },
+  "aggrieve": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈgrēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aggrie01.mp3"
+      }
+    ]
+  },
+  "aghast": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈgast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aghast01.mp3"
+      }
+    ]
+  },
+  "agile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-jəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/agile002.mp3"
+      },
+      {
+        "syllables": "-ˌjī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/agile001.mp3"
+      }
+    ]
+  },
+  "agitate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-jə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/agitat01.mp3"
+      }
+    ]
+  },
+  "agrarian": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈgrer-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/agrari01.mp3"
+      }
+    ]
+  },
+  "aide-de-camp": {
+    "pronunciations": [
+      {
+        "syllables": "ˌād-di-ˈkamp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aide_d02.mp3"
+      },
+      {
+        "syllables": "-ˈkäⁿ",
+        "audio": null
+      }
+    ]
+  },
+  "ailment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈāl-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ailmen01.mp3"
+      }
+    ]
+  },
+  "airy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/airy0001.mp3"
+      }
+    ]
+  },
+  "akin": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkin",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/akin0001.mp3"
+      }
+    ]
+  },
+  "alabaster": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-lə-ˌba-stər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alabas01.mp3"
+      }
+    ]
+  },
+  "alacrity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈla-krə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alacri01.mp3"
+      }
+    ]
+  },
+  "albeit": {
+    "pronunciations": [
+      {
+        "syllables": "ȯl-ˈbē-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/albeit01.mp3"
+      },
+      {
+        "syllables": "al-",
+        "audio": null
+      }
+    ]
+  },
+  "albino": {
+    "pronunciations": [
+      {
+        "syllables": "al-ˈbī-(ˌ)nō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/albino01.mp3"
+      }
+    ]
+  },
+  "album": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-bəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/album001.mp3"
+      }
+    ]
+  },
+  "alchemy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-kə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alchem05.mp3"
+      }
+    ]
+  },
+  "alcohol": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-kə-ˌhȯl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alcoho01.mp3"
+      }
+    ]
+  },
+  "alcoholism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-kə-ˌhȯ-ˌli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alcoho04.mp3"
+      },
+      {
+        "syllables": "-kə-hə-",
+        "audio": null
+      }
+    ]
+  },
+  "alcove": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-ˌkōv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alcove01.mp3"
+      }
+    ]
+  },
+  "alder": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alder001.mp3"
+      }
+    ]
+  },
+  "alderman": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-dər-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alderm01.mp3"
+      }
+    ]
+  },
+  "alias": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-lē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alias001.mp3"
+      },
+      {
+        "syllables": "ˈāl-yəs",
+        "audio": null
+      }
+    ]
+  },
+  "alien": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-lē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alien001.mp3"
+      },
+      {
+        "syllables": "ˈāl-yən",
+        "audio": null
+      }
+    ]
+  },
+  "alienable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈāl-yə-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aliena01.mp3"
+      },
+      {
+        "syllables": "ˈā-lē-ə-nə-",
+        "audio": null
+      }
+    ]
+  },
+  "alienate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-lē-ə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aliena04.mp3"
+      },
+      {
+        "syllables": "ˈāl-yə-",
+        "audio": null
+      }
+    ]
+  },
+  "alienation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌā-lē-ə-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aliena06.mp3"
+      },
+      {
+        "syllables": "ˌāl-yə-",
+        "audio": null
+      }
+    ]
+  },
+  "aliment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-lə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alimen01.mp3"
+      }
+    ]
+  },
+  "alkali": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-kə-ˌlī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alkali01.mp3"
+      }
+    ]
+  },
+  "allay": {
+    "pronunciations": [
+      {
+        "syllables": "a-ˈlā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allay001.mp3"
+      },
+      {
+        "syllables": "ə-",
+        "audio": null
+      }
+    ]
+  },
+  "allege": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlej",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allege01.mp3"
+      }
+    ]
+  },
+  "allegory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-lə-ˌgȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allego07.mp3"
+      }
+    ]
+  },
+  "alleviate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlē-vē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allevi01.mp3"
+      }
+    ]
+  },
+  "alley": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alley001.mp3"
+      }
+    ]
+  },
+  "alliance": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlī-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allian01.mp3"
+      }
+    ]
+  },
+  "allot": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlät",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allot001.mp3"
+      }
+    ]
+  },
+  "allotment": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlät-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allotm01.mp3"
+      }
+    ]
+  },
+  "allude": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allude01.mp3"
+      }
+    ]
+  },
+  "allusion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/allusi01.mp3"
+      }
+    ]
+  },
+  "alluvion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlü-vē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alluvi02.mp3"
+      }
+    ]
+  },
+  "ally": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ally0002.mp3"
+      },
+      {
+        "syllables": "ˈa-ˌlī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ally0001.mp3"
+      }
+    ]
+  },
+  "almanac": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-mə-ˌnak",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/almana02.mp3"
+      },
+      {
+        "syllables": "ˈal-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/almana01.mp3"
+      }
+    ]
+  },
+  "aloof": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈlüf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aloof001.mp3"
+      }
+    ]
+  },
+  "altar": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altar001.mp3"
+      }
+    ]
+  },
+  "alter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alter001.mp3"
+      }
+    ]
+  },
+  "alteration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯl-tə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altera01.mp3"
+      }
+    ]
+  },
+  "altercate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-tər-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alterc01.mp3"
+      }
+    ]
+  },
+  "alternate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯl-tər-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altern01.mp3"
+      },
+      {
+        "syllables": "ˈal-",
+        "audio": null
+      },
+      {
+        "syllables": "ȯl-ˈtər-",
+        "audio": null
+      }
+    ]
+  },
+  "alternative": {
+    "pronunciations": [
+      {
+        "syllables": "ȯl-ˈtər-nə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altern04.mp3"
+      },
+      {
+        "syllables": "al-",
+        "audio": null
+      }
+    ]
+  },
+  "altitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-tə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altitu01.mp3"
+      },
+      {
+        "syllables": "-ˌtyüd",
+        "audio": null
+      }
+    ]
+  },
+  "alto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/alto0001.mp3"
+      },
+      {
+        "syllables": "ˈȯl-",
+        "audio": null
+      }
+    ]
+  },
+  "altruism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-trü-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altrui01.mp3"
+      }
+    ]
+  },
+  "altruist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈal-trü-ist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/altrui02.mp3"
+      }
+    ]
+  },
+  "amalgam": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmal-gəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amalga01.mp3"
+      }
+    ]
+  },
+  "amalgamate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmal-gə-ˌmāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amalga02.mp3"
+      }
+    ]
+  },
+  "amateur": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-mə-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amateu02.mp3"
+      },
+      {
+        "syllables": "-ˌchu̇r",
+        "audio": null
+      },
+      {
+        "syllables": "-(ˌ)tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amateu06.mp3"
+      },
+      {
+        "syllables": "-ˌtu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amateu01.mp3"
+      },
+      {
+        "syllables": "-ˌtyu̇r",
+        "audio": null
+      }
+    ]
+  },
+  "amatory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-mə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amator01.mp3"
+      }
+    ]
+  },
+  "ambidextrous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌam-bi-ˈdek-strəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambide02.mp3"
+      }
+    ]
+  },
+  "ambiguous": {
+    "pronunciations": [
+      {
+        "syllables": "am-ˈbi-gyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambigu02.mp3"
+      }
+    ]
+  },
+  "ambitious": {
+    "pronunciations": [
+      {
+        "syllables": "am-ˈbi-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambiti03.mp3"
+      }
+    ]
+  },
+  "ambrosial": {
+    "pronunciations": [
+      {
+        "syllables": "am-ˈbrō-zh(ē-)ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambro01m.mp3"
+      }
+    ]
+  },
+  "ambulance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-byə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambula05.mp3"
+      },
+      {
+        "syllables": "-bə-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌlan(t)s",
+        "audio": null
+      }
+    ]
+  },
+  "ambulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-byə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambula07.mp3"
+      }
+    ]
+  },
+  "ambush": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-ˌbu̇sh",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ambush01.mp3"
+      }
+    ]
+  },
+  "ameliorate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmēl-yə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amelio01.mp3"
+      },
+      {
+        "syllables": "-ˈmē-lē-ə-",
+        "audio": null
+      }
+    ]
+  },
+  "amenable": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmē-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amenab02.mp3"
+      },
+      {
+        "syllables": "-ˈme-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amenab01.mp3"
+      }
+    ]
+  },
+  "americanism": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmer-ə-kə-ˌni-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/americ08.mp3"
+      },
+      {
+        "syllables": "-ˈmər-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈme-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "amicable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-mi-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amicab01.mp3"
+      }
+    ]
+  },
+  "amity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-mə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amity001.mp3"
+      }
+    ]
+  },
+  "amorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-mə-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amorou01.mp3"
+      },
+      {
+        "syllables": "ˈam-rəs",
+        "audio": null
+      }
+    ]
+  },
+  "amorphous": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmȯr-fəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amorph01.mp3"
+      }
+    ]
+  },
+  "amour": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amour001.mp3"
+      },
+      {
+        "syllables": "ä-",
+        "audio": null
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "ampere": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-ˌpir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ampere01.mp3"
+      },
+      {
+        "syllables": "-ˌper",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amper02m.mp3"
+      }
+    ]
+  },
+  "ampersand": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-pər-ˌsand",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ampers01.mp3"
+      }
+    ]
+  },
+  "amphibious": {
+    "pronunciations": [
+      {
+        "syllables": "am-ˈfi-bē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amphib03.mp3"
+      }
+    ]
+  },
+  "amphitheater": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam(p)-fə-ˌthē(-ə)-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amphit01.mp3"
+      },
+      {
+        "syllables": "ˈam-pə-ˌthē-",
+        "audio": null
+      }
+    ]
+  },
+  "amplitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-plə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amplit01.mp3"
+      },
+      {
+        "syllables": "-ˌtyüd",
+        "audio": null
+      }
+    ]
+  },
+  "amply": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ample001.mp3"
+      }
+    ]
+  },
+  "amputate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈam-pyə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amputa01.mp3"
+      }
+    ]
+  },
+  "amusement": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈmyüz-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/amusem01.mp3"
+      }
+    ]
+  },
+  "anachronism": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈna-krə-ˌni-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anachr01.mp3"
+      }
+    ]
+  },
+  "anagram": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nə-ˌgram",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anagra01.mp3"
+      }
+    ]
+  },
+  "analogous": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈna-lə-gəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/analog07.mp3"
+      }
+    ]
+  },
+  "analogy": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈna-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/analog09.mp3"
+      }
+    ]
+  },
+  "analyst": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nə-ləst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/analys06.mp3"
+      }
+    ]
+  },
+  "analyze": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/analyz02.mp3"
+      }
+    ]
+  },
+  "anarchy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nər-kē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anarch11.mp3"
+      },
+      {
+        "syllables": "-ˌnär-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anarch10.mp3"
+      }
+    ]
+  },
+  "anathema": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈna-thə-mə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anathe01.mp3"
+      }
+    ]
+  },
+  "anatomy": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈna-tə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anatom03.mp3"
+      }
+    ]
+  },
+  "ancestry": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-ˌse-strē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ancest05.mp3"
+      }
+    ]
+  },
+  "anecdote": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nik-ˌdōt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anecdo07.mp3"
+      }
+    ]
+  },
+  "anemia": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈnē-mē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anemia01.mp3"
+      }
+    ]
+  },
+  "anemic": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈnē-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anemic01.mp3"
+      }
+    ]
+  },
+  "anemometer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-nə-ˈmä-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anemom01.mp3"
+      }
+    ]
+  },
+  "anesthetic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-nəs-ˈthe-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anesth04.mp3"
+      }
+    ]
+  },
+  "anew": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈnü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anew0001.mp3"
+      },
+      {
+        "syllables": "-ˈnyü",
+        "audio": null
+      }
+    ]
+  },
+  "angelic": {
+    "pronunciations": [
+      {
+        "syllables": "an-ˈje-lik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/angel002.mp3"
+      }
+    ]
+  },
+  "anglophobia": {
+    "pronunciations": [
+      {
+        "syllables": "ˈaŋ-glə-ˌfōb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anglop06.mp3"
+      }
+    ]
+  },
+  "anglo-saxon": {
+    "pronunciations": [
+      {
+        "syllables": "ˌaŋ-glō-ˈsak-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anglo07w.mp3"
+      }
+    ]
+  },
+  "angular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈaŋ-gyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/angula01.mp3"
+      }
+    ]
+  },
+  "anhydrous": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)an-ˈhī-drəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anhydr03.mp3"
+      }
+    ]
+  },
+  "animadversion": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-nə-ˌmad-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/animad01.mp3"
+      },
+      {
+        "syllables": "-məd-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈvər-shən",
+        "audio": null
+      }
+    ]
+  },
+  "animadvert": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-nə-ˌmad-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/animad02.mp3"
+      },
+      {
+        "syllables": "-məd-",
+        "audio": null
+      }
+    ]
+  },
+  "animalcule": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-nə-ˈmal-(ˌ)kyü(ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/animal04.mp3"
+      }
+    ]
+  },
+  "animate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/animat01.mp3"
+      }
+    ]
+  },
+  "animosity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-nə-ˈmä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/animos01.mp3"
+      }
+    ]
+  },
+  "annalist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nə-list",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annali01.mp3"
+      }
+    ]
+  },
+  "annals": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nᵊlz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annals01.mp3"
+      }
+    ]
+  },
+  "annex": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈneks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annex002.mp3"
+      },
+      {
+        "syllables": "ˈa-ˌneks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annex001.mp3"
+      }
+    ]
+  },
+  "annihilate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈnī-ə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annihi01.mp3"
+      }
+    ]
+  },
+  "annotate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-nə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annota01.mp3"
+      }
+    ]
+  },
+  "annual": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-yə(-wə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annual01.mp3"
+      },
+      {
+        "syllables": "-yü-əl",
+        "audio": null
+      }
+    ]
+  },
+  "annuity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈnü-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annuit02.mp3"
+      },
+      {
+        "syllables": "-ˈnyü-",
+        "audio": null
+      }
+    ]
+  },
+  "annunciation": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˌnən(t)-sē-ˈā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/annunc02.mp3"
+      }
+    ]
+  },
+  "anode": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-ˌnōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anode001.mp3"
+      }
+    ]
+  },
+  "anonymous": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈnä-nə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anonym03.mp3"
+      }
+    ]
+  },
+  "antagonism": {
+    "pronunciations": [
+      {
+        "syllables": "an-ˈta-gə-ˌni-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antago01.mp3"
+      }
+    ]
+  },
+  "antarctic": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)ant-ˈärk-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antarc02.mp3"
+      },
+      {
+        "syllables": "-ˈär-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antarc01.mp3"
+      }
+    ]
+  },
+  "ante": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ante0001.mp3"
+      }
+    ]
+  },
+  "antecede": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-tə-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antece01.mp3"
+      }
+    ]
+  },
+  "antecedent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-tə-ˈsē-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antece03.mp3"
+      }
+    ]
+  },
+  "antechamber": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-ti-ˌchām-bər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antech01.mp3"
+      }
+    ]
+  },
+  "antedate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-ti-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anteda01.mp3"
+      }
+    ]
+  },
+  "antediluvian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-ti-də-ˈlü-vē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antedi01.mp3"
+      },
+      {
+        "syllables": "-(ˌ)dī-",
+        "audio": null
+      }
+    ]
+  },
+  "antenatal": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-ti-ˈnā-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antena01.mp3"
+      }
+    ]
+  },
+  "anterior": {
+    "pronunciations": [
+      {
+        "syllables": "an-ˈtir-ē-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anteri01.mp3"
+      }
+    ]
+  },
+  "anteroom": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-ti-ˌrüm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antero01.mp3"
+      },
+      {
+        "syllables": "-ˌru̇m",
+        "audio": null
+      }
+    ]
+  },
+  "anthology": {
+    "pronunciations": [
+      {
+        "syllables": "an-ˈthä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anthol04.mp3"
+      }
+    ]
+  },
+  "anthracite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan(t)-thrə-ˌsīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anthra02.mp3"
+      }
+    ]
+  },
+  "anthropology": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan(t)-thrə-ˈpä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anthro09.mp3"
+      }
+    ]
+  },
+  "antic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antic001.mp3"
+      }
+    ]
+  },
+  "antichrist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tē-ˌkrīst",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌtī-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antich03.mp3"
+      }
+    ]
+  },
+  "anticlimax": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-tē-ˈklī-ˌmaks",
+        "audio": null
+      },
+      {
+        "syllables": "ˌan-ˌtī-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anticl06.mp3"
+      }
+    ]
+  },
+  "anticyclone": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-ti-ˈsī-ˌklōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anticy01.mp3"
+      }
+    ]
+  },
+  "antidote": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-ti-ˌdōt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antido03.mp3"
+      }
+    ]
+  },
+  "antiphon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tə-fən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antiph02.mp3"
+      },
+      {
+        "syllables": "-ˌfän",
+        "audio": null
+      }
+    ]
+  },
+  "antiphony": {
+    "pronunciations": [
+      {
+        "syllables": "an-ˈti-fə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antiph06.mp3"
+      }
+    ]
+  },
+  "antipodes": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tə-ˌpōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antipo02.mp3"
+      }
+    ]
+  },
+  "antiquary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tə-ˌkwer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antiqu04.mp3"
+      }
+    ]
+  },
+  "antiquate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tə-ˌkwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antiqu05.mp3"
+      }
+    ]
+  },
+  "antique": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)an-ˈtēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antiqu07.mp3"
+      },
+      {
+        "syllables": "ˈan-tik",
+        "audio": null
+      }
+    ]
+  },
+  "antiseptic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-tə-ˈsep-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antise03.mp3"
+      }
+    ]
+  },
+  "antislavery": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-tē-ˈslā-v(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antislavery_1.mp3"
+      },
+      {
+        "syllables": "ˌan-tī-",
+        "audio": null
+      }
+    ]
+  },
+  "antispasmodic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-tē-spaz-ˈmä-dik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antis15m.mp3"
+      },
+      {
+        "syllables": "ˌan-tī-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antisp02.mp3"
+      }
+    ]
+  },
+  "antistrophe": {
+    "pronunciations": [
+      {
+        "syllables": "an-ˈti-strə-(ˌ)fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antist06.mp3"
+      }
+    ]
+  },
+  "antitoxin": {
+    "pronunciations": [
+      {
+        "syllables": "ˌan-ti-ˈtäk-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antito02.mp3"
+      }
+    ]
+  },
+  "antonym": {
+    "pronunciations": [
+      {
+        "syllables": "ˈan-tə-ˌnim",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/antony01.mp3"
+      }
+    ]
+  },
+  "anxious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈaŋ(k)-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/anxiou01.mp3"
+      }
+    ]
+  },
+  "apathy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-pə-thē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apathy01.mp3"
+      }
+    ]
+  },
+  "aperture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-pər-ˌchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apertu01.mp3"
+      },
+      {
+        "syllables": "ˈa-pə-",
+        "audio": null
+      },
+      {
+        "syllables": "-chər",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌtyu̇r",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌtu̇r",
+        "audio": null
+      }
+    ]
+  },
+  "apex": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-ˌpeks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apex0001.mp3"
+      }
+    ]
+  },
+  "aphorism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-fə-ˌri-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aphori01.mp3"
+      }
+    ]
+  },
+  "apiary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-pē-ˌer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apiary01.mp3"
+      },
+      {
+        "syllables": "-ˌe-rē",
+        "audio": null
+      }
+    ]
+  },
+  "apogee": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-pə-(ˌ)jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apogee01.mp3"
+      }
+    ]
+  },
+  "apology": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apolog08.mp3"
+      }
+    ]
+  },
+  "apostasy": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpä-stə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aposta01.mp3"
+      }
+    ]
+  },
+  "apostate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpä-ˌstāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aposta02.mp3"
+      },
+      {
+        "syllables": "-stət",
+        "audio": null
+      }
+    ]
+  },
+  "apostle": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpä-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apostl01.mp3"
+      }
+    ]
+  },
+  "apothecary": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpä-thə-ˌker-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apothe01.mp3"
+      },
+      {
+        "syllables": "-ˌke-rē",
+        "audio": null
+      }
+    ]
+  },
+  "apotheosis": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˌpä-thē-ˈō-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apothe09.mp3"
+      },
+      {
+        "syllables": "ˌa-pə-ˈthē-ə-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apothe08.mp3"
+      }
+    ]
+  },
+  "appall": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpȯl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appall01.mp3"
+      }
+    ]
+  },
+  "apparent": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈper-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appare02.mp3"
+      },
+      {
+        "syllables": "-ˈpa-rənt",
+        "audio": null
+      }
+    ]
+  },
+  "apparition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-pə-ˈri-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appari01.mp3"
+      }
+    ]
+  },
+  "appease": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpēz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appeas01.mp3"
+      }
+    ]
+  },
+  "appellate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpe-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appell02.mp3"
+      }
+    ]
+  },
+  "appellation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-pə-ˈlā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appell03.mp3"
+      }
+    ]
+  },
+  "append": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/append01.mp3"
+      }
+    ]
+  },
+  "appertain": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-pər-ˈtān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appert01.mp3"
+      }
+    ]
+  },
+  "apposite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-pə-zət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apposi01.mp3"
+      }
+    ]
+  },
+  "apposition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-pə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apposi02.mp3"
+      }
+    ]
+  },
+  "appraise": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈprāz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apprai02.mp3"
+      }
+    ]
+  },
+  "appreciable": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈprē-shə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apprec02.mp3"
+      },
+      {
+        "syllables": "-ˈpri-sh(ē-)ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/apprec01.mp3"
+      }
+    ]
+  },
+  "apprehend": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-pri-ˈhend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appreh01.mp3"
+      }
+    ]
+  },
+  "apprehensible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-pri-ˈhen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/appreh02.mp3"
+      }
+    ]
+  },
+  "approbation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-prə-ˈbā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/approb03.mp3"
+      }
+    ]
+  },
+  "appropriate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈprō-prē-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/approp04.mp3"
+      }
+    ]
+  },
+  "aqueduct": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-kwə-ˌdəkt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aquedu01.mp3"
+      }
+    ]
+  },
+  "aqueous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-kwē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aqueou02.mp3"
+      },
+      {
+        "syllables": "ˈa-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aqueou01.mp3"
+      }
+    ]
+  },
+  "arbiter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-bə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbite01.mp3"
+      }
+    ]
+  },
+  "arbitrary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-bə-ˌtrer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbitr08.mp3"
+      },
+      {
+        "syllables": "-ˌtre-rē",
+        "audio": null
+      }
+    ]
+  },
+  "arbitrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-bə-ˌtrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbitr11.mp3"
+      }
+    ]
+  },
+  "arbor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-bər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbor001.mp3"
+      }
+    ]
+  },
+  "arboreal": {
+    "pronunciations": [
+      {
+        "syllables": "är-ˈbȯr-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbore01.mp3"
+      }
+    ]
+  },
+  "arborescent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌär-bə-ˈre-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbore04.mp3"
+      }
+    ]
+  },
+  "arboretum": {
+    "pronunciations": [
+      {
+        "syllables": "ˌär-bə-ˈrē-təm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbore06.mp3"
+      }
+    ]
+  },
+  "arboriculture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-bər-ə-ˌkəl-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbori02.mp3"
+      },
+      {
+        "syllables": "är-ˈbȯr-ə-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arbori01.mp3"
+      }
+    ]
+  },
+  "arcade": {
+    "pronunciations": [
+      {
+        "syllables": "är-ˈkād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arcade01.mp3"
+      }
+    ]
+  },
+  "archaic": {
+    "pronunciations": [
+      {
+        "syllables": "är-ˈkā-ik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archai01.mp3"
+      }
+    ]
+  },
+  "archaism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-kē-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archai03.mp3"
+      },
+      {
+        "syllables": "-(ˌ)kā-ˌi-",
+        "audio": null
+      }
+    ]
+  },
+  "archangel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈärk-ˌān-jəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archan01.mp3"
+      }
+    ]
+  },
+  "archbishop": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)ärch-ˈbi-shəp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archbi01.mp3"
+      }
+    ]
+  },
+  "archdeacon": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)ärch-ˈdē-kən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archde01.mp3"
+      }
+    ]
+  },
+  "archaeology": {
+    "pronunciations": [
+      {
+        "syllables": "ˌär-kē-ˈä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archae03.mp3"
+      }
+    ]
+  },
+  "archetype": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-ki-ˌtīp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archet01.mp3"
+      }
+    ]
+  },
+  "archipelago": {
+    "pronunciations": [
+      {
+        "syllables": "ˌär-kə-ˈpe-lə-ˌgō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/archip02.mp3"
+      },
+      {
+        "syllables": "ˌär-chə-",
+        "audio": null
+      }
+    ]
+  },
+  "ardent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ardent01.mp3"
+      }
+    ]
+  },
+  "ardor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ardor001.mp3"
+      }
+    ]
+  },
+  "arid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-rəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arid0001.mp3"
+      },
+      {
+        "syllables": "ˈer-əd",
+        "audio": null
+      }
+    ]
+  },
+  "aristocracy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-rə-ˈstä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aristo02.mp3"
+      },
+      {
+        "syllables": "ˌer-ə-",
+        "audio": null
+      }
+    ]
+  },
+  "aristocrat": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈri-stə-ˌkrat",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aristo03.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      },
+      {
+        "syllables": "ˈa-rə-stə-",
+        "audio": null
+      }
+    ]
+  },
+  "armada": {
+    "pronunciations": [
+      {
+        "syllables": "är-ˈmä-də",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/armada02.mp3"
+      },
+      {
+        "syllables": "-ˈmā-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/armada01.mp3"
+      },
+      {
+        "syllables": "-ˈma-",
+        "audio": null
+      }
+    ]
+  },
+  "armful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈärm-ˌfu̇l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/armful01.mp3"
+      }
+    ]
+  },
+  "armory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈärm-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/armory01.mp3"
+      },
+      {
+        "syllables": "ˈär-mə-",
+        "audio": null
+      }
+    ]
+  },
+  "aroma": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrō-mə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aroma001.mp3"
+      }
+    ]
+  },
+  "arraign": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arraig01.mp3"
+      }
+    ]
+  },
+  "arrange": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrānj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arrang01.mp3"
+      }
+    ]
+  },
+  "arrangement": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrānj-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arrang03.mp3"
+      }
+    ]
+  },
+  "arrant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arrant01.mp3"
+      },
+      {
+        "syllables": "ˈer-ənt",
+        "audio": null
+      }
+    ]
+  },
+  "arrear": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arrear01.mp3"
+      }
+    ]
+  },
+  "arrival": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrī-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arriva01.mp3"
+      }
+    ]
+  },
+  "arrogant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈer-ə-gənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arroga02.mp3"
+      },
+      {
+        "syllables": "ˈa-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "arrogate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈer-ə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arroga03.mp3"
+      },
+      {
+        "syllables": "ˈa-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "artesian well": {
+    "pronunciations": [
+      {
+        "syllables": "är-ˈtē-zhən-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/artesi01.mp3"
+      }
+    ]
+  },
+  "artful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈärt-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/artful01.mp3"
+      }
+    ]
+  },
+  "arthurian": {
+    "pronunciations": [
+      {
+        "syllables": "är-ˈthu̇r-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/arthur02.mp3"
+      },
+      {
+        "syllables": "-ˈthyu̇r-",
+        "audio": null
+      }
+    ]
+  },
+  "artifice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈär-tə-fəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/artifi01.mp3"
+      }
+    ]
+  },
+  "artless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈärt-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/artles01.mp3"
+      }
+    ]
+  },
+  "ascendant": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsen-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ascend05.mp3"
+      }
+    ]
+  },
+  "ascension": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsen(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ascens01.mp3"
+      }
+    ]
+  },
+  "ascent": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ascent01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "ascetic": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈse-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/asceti01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "ascribe": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈskrīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ascrib01.mp3"
+      }
+    ]
+  },
+  "asexual": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)ā-ˈsek-sh(ə-)wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/asexua01.mp3"
+      },
+      {
+        "syllables": "-shü-əl",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈsek-shəl",
+        "audio": null
+      }
+    ]
+  },
+  "ashen": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/ashen001.mp3"
+      }
+    ]
+  },
+  "askance": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈskan(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/askanc01.mp3"
+      }
+    ]
+  },
+  "asperity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsper-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/asperi01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈspe-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "aspirant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-sp(ə-)rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aspira01.mp3"
+      },
+      {
+        "syllables": "ə-ˈspī-rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aspira02.mp3"
+      }
+    ]
+  },
+  "aspiration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-spə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aspira05.mp3"
+      }
+    ]
+  },
+  "aspire": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈspī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aspire01.mp3"
+      }
+    ]
+  },
+  "assailant": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsā-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assail03.mp3"
+      }
+    ]
+  },
+  "assassin": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsa-sᵊn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assass01.mp3"
+      }
+    ]
+  },
+  "assassinate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsa-sə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assass02.mp3"
+      }
+    ]
+  },
+  "assassination": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˌsa-sə-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assass03.mp3"
+      }
+    ]
+  },
+  "assay": {
+    "pronunciations": [
+      {
+        "syllables": "a-ˈsā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assay002.mp3"
+      },
+      {
+        "syllables": "ˈa-ˌsā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assay001.mp3"
+      }
+    ]
+  },
+  "assent": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assent01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "assess": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈses",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assess01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "assessor": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈse-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assess04.mp3"
+      }
+    ]
+  },
+  "assets": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-ˌset",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/asset001.mp3"
+      },
+      {
+        "syllables": "-sət",
+        "audio": null
+      }
+    ]
+  },
+  "assiduous": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsij-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assidu02.mp3"
+      },
+      {
+        "syllables": "-ˈsi-jə-",
+        "audio": null
+      }
+    ]
+  },
+  "assignee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-sə-ˈnē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assign09.mp3"
+      },
+      {
+        "syllables": "ˌa-ˌsī-",
+        "audio": null
+      },
+      {
+        "syllables": "ə-ˌsī-",
+        "audio": null
+      }
+    ]
+  },
+  "assimilate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈsi-mə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assimi03.mp3"
+      }
+    ]
+  },
+  "assonance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-sə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assona01.mp3"
+      }
+    ]
+  },
+  "assonant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-sə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assona01.mp3"
+      }
+    ]
+  },
+  "assuage": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈswāj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/assuag01.mp3"
+      },
+      {
+        "syllables": "-ˈswāzh",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈswäzh",
+        "audio": null
+      }
+    ]
+  },
+  "astringent": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈstrin-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/astrin02.mp3"
+      }
+    ]
+  },
+  "astute": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈstüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/astute01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈstyüt",
+        "audio": null
+      }
+    ]
+  },
+  "atheism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-thē-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atheis01.mp3"
+      }
+    ]
+  },
+  "athirst": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈthərst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/athirs01.mp3"
+      }
+    ]
+  },
+  "athwart": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈthwȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/athwar01.mp3"
+      },
+      {
+        "syllables": "-ˈthȯrt",
+        "audio": null
+      }
+    ]
+  },
+  "atomizer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-tə-ˌmī-zər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atomiz03.mp3"
+      }
+    ]
+  },
+  "atonement": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈtōn-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atonem01.mp3"
+      }
+    ]
+  },
+  "atrocious": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈtrō-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atroci01.mp3"
+      }
+    ]
+  },
+  "atrocity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈträ-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atroci02.mp3"
+      }
+    ]
+  },
+  "attache": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-tə-ˈshā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/attach03.mp3"
+      },
+      {
+        "syllables": "ˌa-ˌta-",
+        "audio": null
+      },
+      {
+        "syllables": "ə-ˌta-",
+        "audio": null
+      }
+    ]
+  },
+  "attest": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈtest",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/attest01.mp3"
+      }
+    ]
+  },
+  "auburn": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-bərn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auburn01.mp3"
+      }
+    ]
+  },
+  "audacious": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈdā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/audaci01.mp3"
+      }
+    ]
+  },
+  "audible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/audibl01.mp3"
+      }
+    ]
+  },
+  "audition": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈdi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auditi01.mp3"
+      }
+    ]
+  },
+  "auditory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-də-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/audito04.mp3"
+      }
+    ]
+  },
+  "augment": {
+    "pronunciations": [
+      {
+        "syllables": "ȯg-ˈment",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/augmen01.mp3"
+      }
+    ]
+  },
+  "augur": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-gər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/augur001.mp3"
+      }
+    ]
+  },
+  "augustinian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯ-gə-ˈsti-nē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/august05.mp3"
+      }
+    ]
+  },
+  "aura": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aura0001.mp3"
+      }
+    ]
+  },
+  "aural": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aural001.mp3"
+      }
+    ]
+  },
+  "auricle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-i-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auricl01.mp3"
+      }
+    ]
+  },
+  "auricular": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈri-kyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auricu02.mp3"
+      }
+    ]
+  },
+  "auriferous": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈri-f(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aurife01.mp3"
+      }
+    ]
+  },
+  "aurora": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrȯr-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aurora01.mp3"
+      },
+      {
+        "syllables": "ȯ-",
+        "audio": null
+      }
+    ]
+  },
+  "auspice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-spəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auspic01.mp3"
+      }
+    ]
+  },
+  "austere": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈstir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auster01.mp3"
+      },
+      {
+        "syllables": "-ˈster",
+        "audio": null
+      }
+    ]
+  },
+  "autarchy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-ˌtär-kē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autarc03.mp3"
+      }
+    ]
+  },
+  "authentic": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈthen-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/authen01.mp3"
+      },
+      {
+        "syllables": "ȯ-",
+        "audio": null
+      }
+    ]
+  },
+  "authenticity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈthen-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/authen01.mp3"
+      },
+      {
+        "syllables": "ȯ-",
+        "audio": null
+      }
+    ]
+  },
+  "autobiography": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯ-tə-bī-ˈä-grə-fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autobi01.mp3"
+      },
+      {
+        "syllables": "-bē-",
+        "audio": null
+      }
+    ]
+  },
+  "autocracy": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈtä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autocr01.mp3"
+      }
+    ]
+  },
+  "autocrat": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-tə-ˌkrat",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autocr02.mp3"
+      }
+    ]
+  },
+  "automaton": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈtä-mə-tən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/automa14.mp3"
+      },
+      {
+        "syllables": "-mə-ˌtän",
+        "audio": null
+      }
+    ]
+  },
+  "autonomous": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈtä-nə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autono04.mp3"
+      }
+    ]
+  },
+  "autonomy": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈtä-nə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autono05.mp3"
+      }
+    ]
+  },
+  "autopsy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯ-ˌtäp-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autops01.mp3"
+      },
+      {
+        "syllables": "ˈȯ-təp-",
+        "audio": null
+      }
+    ]
+  },
+  "autumnal": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈtəm-nəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/autumn02.mp3"
+      }
+    ]
+  },
+  "auxiliary": {
+    "pronunciations": [
+      {
+        "syllables": "ȯg-ˈzil-yə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auxili02.mp3"
+      },
+      {
+        "syllables": "-ˈzil-rē",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈzi-lə-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/auxili01.mp3"
+      }
+    ]
+  },
+  "avalanche": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-və-ˌlanch",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avalan01.mp3"
+      }
+    ]
+  },
+  "avarice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-və-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avaric01.mp3"
+      },
+      {
+        "syllables": "ˈav-rəs",
+        "audio": null
+      }
+    ]
+  },
+  "aver": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈvər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aver0001.mp3"
+      }
+    ]
+  },
+  "averse": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈvərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/averse01.mp3"
+      }
+    ]
+  },
+  "aversion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aversi01.mp3"
+      },
+      {
+        "syllables": "-shən",
+        "audio": null
+      }
+    ]
+  },
+  "avert": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avert001.mp3"
+      }
+    ]
+  },
+  "aviary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈā-vē-ˌer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aviary01.mp3"
+      },
+      {
+        "syllables": "-ˌe-rē",
+        "audio": null
+      }
+    ]
+  },
+  "avidity": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈvi-də-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avidit01.mp3"
+      },
+      {
+        "syllables": "a-",
+        "audio": null
+      }
+    ]
+  },
+  "avocation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌa-və-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avocat01.mp3"
+      }
+    ]
+  },
+  "avow": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈvau̇",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/avow0001.mp3"
+      }
+    ]
+  },
+  "awaken": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈwā-kən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/awaken01.mp3"
+      }
+    ]
+  },
+  "awry": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/awry0001.mp3"
+      }
+    ]
+  },
+  "aye": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/aye_2_01.mp3"
+      }
+    ]
+  },
+  "azalea": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈzāl-yə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/azalea01.mp3"
+      }
+    ]
+  },
+  "azure": {
+    "pronunciations": [
+      {
+        "syllables": "ˈa-zhər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/azure001.mp3"
+      }
+    ]
+  }
+}

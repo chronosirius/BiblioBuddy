@@ -1,4 +1,4 @@
-const WORDS_PATH = "freevocabulary_words.json";
+const WORDS_PATH = "definitions.json";
 const SYNONYMS_DIR = "synonyms";
 const STORAGE_PREFIX = "biblioBuddy.v1";
 const MAX_ACTIVE_NON_MASTERED = 50;
@@ -37,7 +37,8 @@ const elements = {
   answerDetails: document.getElementById("answerDetails"),
   detailWord: document.getElementById("detailWord"),
   detailPos: document.getElementById("detailPos"),
-  detailDefinition: document.getElementById("detailDefinition"),
+  detailDefinitions: document.getElementById("detailDefinitions"),
+  detailPronunciation: document.getElementById("detailPronunciation"),
   detailSynonyms: document.getElementById("detailSynonyms"),
   detailSentences: document.getElementById("detailSentences"),
   feedback: document.getElementById("feedback"),
@@ -124,19 +125,44 @@ function bindEvents() {
 
 async function loadData() {
   const wordsResponse = await fetch(WORDS_PATH);
-  const words = await wordsResponse.json();
+  const wordsData = await wordsResponse.json();
+  
+  // Handle both array (old format) and object (new format) structures
+  let words;
+  if (Array.isArray(wordsData)) {
+    // Old array format - convert to object internally
+    words = wordsData.reduce((obj, item) => {
+      if (item && item.word) {
+        obj[item.word.trim()] = {
+          def: [{ definition: item.definition || "", type: item.type || "" }],
+          forms: [],
+        };
+      }
+      return obj;
+    }, {});
+  } else {
+    // New object format
+    words = wordsData;
+  }
+  
   const letters = getLettersFromWords(words);
   const synonymsData = await loadSynonymsByLetters(letters);
 
   state.synonymsData = synonymsData || {};
-  state.entries = words
-    .filter((item) => item && item.word && item.definition)
-    .map((item) => ({
-      word: item.word.trim(),
-      definition: item.definition.trim(),
-      pos: normalizePos(item.type || ""),
-      rawType: item.type || "",
-    }));
+  state.entries = Object.entries(words)
+    .filter(([word, data]) => word && data && Array.isArray(data.def) && data.def.length > 0)
+    .map(([word, data]) => {
+      const firstDef = data.def[0];
+      return {
+        word: word.trim(),
+        definitions: data.def || [],
+        // Keep single definition for backward compatibility with question generation
+        definition: firstDef?.definition || "",
+        pos: normalizePos(firstDef?.type || ""),
+        rawType: firstDef?.type || "",
+        forms: data.forms || [],
+      };
+    });
 
   state.entriesByPos = state.entries.reduce((map, entry) => {
     if (!map.has(entry.pos)) {
@@ -149,13 +175,23 @@ async function loadData() {
 
 function getLettersFromWords(words) {
   const letters = new Set();
-  words.forEach((item) => {
-    const word = String(item?.word || "").trim();
-    const letter = getWordLetter(word);
-    if (letter) {
-      letters.add(letter);
-    }
-  });
+  // Handle both object and array formats
+  if (Array.isArray(words)) {
+    words.forEach((item) => {
+      const word = String(item?.word || "").trim();
+      const letter = getWordLetter(word);
+      if (letter) {
+        letters.add(letter);
+      }
+    });
+  } else {
+    Object.keys(words).forEach((word) => {
+      const letter = getWordLetter(word);
+      if (letter) {
+        letters.add(letter);
+      }
+    });
+  }
   return Array.from(letters).sort();
 }
 
@@ -398,17 +434,20 @@ function buildQuestion(mode, entry) {
 
 function buildDefinitionQuestion(entry) {
   const samePos = state.entriesByPos.get(entry.pos) || [];
-  const options = buildUniqueOptions(
-    entry.definition,
-    samePos.map((item) => item.definition),
-    5
-  );
+  // Pick a random definition from this word's definitions
+  const correctDef = entry.definitions[Math.floor(Math.random() * entry.definitions.length)];
+  const correctText = correctDef?.definition || "";
+  
+  // Gather definition pool from same POS entries
+  const defPool = samePos.flatMap((item) => item.definitions.map((def) => def.definition));
+  
+  const options = buildUniqueOptions(correctText, defPool, 5);
 
   return {
     prompt: MODES.definitions.prompt,
     options: shuffle(options).map((text) => ({
       text,
-      isCorrect: text === entry.definition,
+      isCorrect: text === correctText,
     })),
   };
 }
@@ -445,7 +484,8 @@ function buildFitbQuestion(entry) {
   }
 
   const sentence = sentences[Math.floor(Math.random() * sentences.length)];
-  const blanked = blankSentence(sentence, entry.word);
+  // Pass word and its forms to blankSentence
+  const blanked = blankSentence(sentence, entry.word, entry.forms);
   const samePosEntries = state.entriesByPos.get(entry.pos) || [];
   const distractors = samePosEntries
     .map((item) => item.word)
@@ -499,9 +539,96 @@ function renderAnswerDetails(entry) {
 
   elements.detailWord.textContent = entry.word;
   elements.detailPos.textContent = entry.pos.toUpperCase();
-  elements.detailDefinition.textContent = entry.definition;
+
+  // Render multiple definitions as numbered list
+  const definitionsList = elements.detailDefinitions;
+  definitionsList.innerHTML = "";
+  const definitions = Array.isArray(entry.definitions) ? entry.definitions : [];
+  if (definitions.length > 0) {
+    definitions.forEach((def) => {
+      const li = document.createElement("li");
+      li.textContent = formatDefinitionText(def, entry.rawType);
+      definitionsList.appendChild(li);
+    });
+  } else {
+    // Fallback to single definition
+    const li = document.createElement("li");
+    li.textContent = formatDefinitionText({ definition: entry.definition }, entry.rawType);
+    definitionsList.appendChild(li);
+  }
+
+  // Load and render pronunciations
+  loadAndRenderPronunciations(entry.word);
+
   fillList(elements.detailSynonyms, limitedSynonyms, "No synonyms available.");
   fillList(elements.detailSentences, limitedSentences, "No example sentences available.");
+}
+
+function formatDefinitionText(definition, fallbackType) {
+  const type = String(definition?.type || fallbackType || "").trim();
+  const prefix = type ? `(${type}) ` : "";
+  const text = String(definition?.definition || "").trim();
+  return `${prefix}${text}`.trim();
+}
+
+async function loadAndRenderPronunciations(word) {
+  const letter = getWordLetter(word);
+  if (!letter) {
+    elements.detailPronunciation.innerHTML =
+      '<p class="pronunciation-empty">No pronunciation available.</p>';
+    return;
+  }
+
+  try {
+    const response = await fetch(`pronunciations/${letter}.json`);
+    if (!response.ok) {
+      elements.detailPronunciation.innerHTML =
+        '<p class="pronunciation-empty">No pronunciation available.</p>';
+      return;
+    }
+    const pronunciationsData = await response.json();
+    const wordPronunciations = pronunciationsData[word];
+
+    if (!wordPronunciations || !Array.isArray(wordPronunciations.pronunciations)) {
+      elements.detailPronunciation.innerHTML =
+        '<p class="pronunciation-empty">No pronunciation available.</p>';
+      return;
+    }
+
+    elements.detailPronunciation.innerHTML = "";
+    wordPronunciations.pronunciations.forEach((pron, index) => {
+      const div = document.createElement("div");
+      div.className = "pronunciation-item";
+
+      const syllablesSpan = document.createElement("span");
+      syllablesSpan.className = "pronunciation-text";
+      syllablesSpan.textContent = pron.syllables || "";
+
+      div.appendChild(syllablesSpan);
+
+      if (pron.audio) {
+        const audioBtn = document.createElement("button");
+        audioBtn.className = "audio-btn";
+        audioBtn.setAttribute("aria-label", `Play pronunciation ${index + 1}`);
+        audioBtn.innerHTML = "🔊";
+        audioBtn.addEventListener("click", () => playAudio(pron.audio));
+        div.appendChild(audioBtn);
+      }
+
+      elements.detailPronunciation.appendChild(div);
+    });
+  } catch (error) {
+    console.error(`Failed to load pronunciations for ${word}:`, error);
+    elements.detailPronunciation.innerHTML =
+      '<p class="pronunciation-empty">No pronunciation available.</p>';
+  }
+}
+
+function playAudio(url) {
+  const audio = new Audio(url);
+  audio.play().catch((error) => {
+    console.error("Failed to play audio:", error);
+  });
 }
 
 function fillList(listEl, items, emptyMessage) {
@@ -670,12 +797,19 @@ function normalizePos(type) {
   return "other";
 }
 
-function blankSentence(sentence, word) {
-  const escaped = escapeRegExp(word);
-  const regex = new RegExp(`\\b${escaped}(?:['’]s|s)?\\b`, "i");
-  if (regex.test(sentence)) {
-    return sentence.replace(regex, "____");
+function blankSentence(sentence, word, forms = []) {
+  // Try to blank the main word or any of its forms
+  const wordsToCheck = [word, ...(forms || [])];
+  
+  for (const wordToCheck of wordsToCheck) {
+    const escaped = escapeRegExp(wordToCheck);
+    const regex = new RegExp(`\\b${escaped}(?:['']s|s)?\\b`, "i");
+    if (regex.test(sentence)) {
+      return sentence.replace(regex, "____");
+    }
   }
+  
+  // If no word form found in sentence, blank at end
   return `${sentence} ____`;
 }
 

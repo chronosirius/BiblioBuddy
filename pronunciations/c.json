@@ -1,0 +1,4326 @@
+{
+  "cabal": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈbäl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cabal002.mp3"
+      },
+      {
+        "syllables": "-ˈbal",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cabal001.mp3"
+      }
+    ]
+  },
+  "cabinet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkab-nit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cabine01.mp3"
+      },
+      {
+        "syllables": "ˈka-bə-",
+        "audio": null
+      }
+    ]
+  },
+  "cacophony": {
+    "pronunciations": [
+      {
+        "syllables": "ka-ˈkä-fə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cacoph02.mp3"
+      },
+      {
+        "syllables": "-ˈkȯ-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈka-",
+        "audio": null
+      }
+    ]
+  },
+  "cadaverous": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈdav-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cadave04.mp3"
+      },
+      {
+        "syllables": "-ˈda-və-rəs",
+        "audio": null
+      }
+    ]
+  },
+  "cadence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkā-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cadenc01.mp3"
+      }
+    ]
+  },
+  "cadenza": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈden-zə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cadenz01.mp3"
+      }
+    ]
+  },
+  "caitiff": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkā-təf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/caitif01.mp3"
+      }
+    ]
+  },
+  "cajole": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈjōl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cajole01.mp3"
+      }
+    ]
+  },
+  "cajolery": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈjōl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cajole01.mp3"
+      }
+    ]
+  },
+  "calculable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkal-kyə-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/calcul01.mp3"
+      }
+    ]
+  },
+  "calculus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkal-kyə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/calcul09.mp3"
+      }
+    ]
+  },
+  "callosity": {
+    "pronunciations": [
+      {
+        "syllables": "ka-ˈlä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/callos01.mp3"
+      },
+      {
+        "syllables": "kə-",
+        "audio": null
+      }
+    ]
+  },
+  "callow": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-(ˌ)lō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/callow01.mp3"
+      }
+    ]
+  },
+  "calorie": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-lə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/calori03.mp3"
+      },
+      {
+        "syllables": "ˈkal-rē",
+        "audio": null
+      }
+    ]
+  },
+  "calumny": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-ləm-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/calumn04.mp3"
+      },
+      {
+        "syllables": "ˈkal-yəm-",
+        "audio": null
+      }
+    ]
+  },
+  "calvary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkal-v(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/calvar03.mp3"
+      }
+    ]
+  },
+  "calvinism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkal-və-ˌni-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/calvin02.mp3"
+      }
+    ]
+  },
+  "cameo": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-mē-ˌō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cameo001.mp3"
+      }
+    ]
+  },
+  "campaign": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)kam-ˈpān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/campai01.mp3"
+      }
+    ]
+  },
+  "canaanite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkā-nə-ˌnīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canaan01.mp3"
+      }
+    ]
+  },
+  "canary": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canary01.mp3"
+      }
+    ]
+  },
+  "candid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkan-dəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/candid01.mp3"
+      }
+    ]
+  },
+  "candor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkan-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/candor01.mp3"
+      },
+      {
+        "syllables": "-ˌdȯr",
+        "audio": null
+      }
+    ]
+  },
+  "canine": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkā-ˌnīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canine01.mp3"
+      },
+      {
+        "syllables": "ˈka-",
+        "audio": null
+      }
+    ]
+  },
+  "canon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-nən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canon001.mp3"
+      }
+    ]
+  },
+  "cant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkant",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cant0001.mp3"
+      }
+    ]
+  },
+  "cantata": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtä-tə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cantat01.mp3"
+      }
+    ]
+  },
+  "canto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkan-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canto001.mp3"
+      }
+    ]
+  },
+  "cantonment": {
+    "pronunciations": [
+      {
+        "syllables": "kan-ˈtōn-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canton07.mp3"
+      },
+      {
+        "syllables": "-ˈtän-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/canton06.mp3"
+      },
+      {
+        "syllables": "-ˈtün-",
+        "audio": null
+      }
+    ]
+  },
+  "capacious": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈpā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/capaci01.mp3"
+      }
+    ]
+  },
+  "capillary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-pə-ˌler-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/capill02.mp3"
+      },
+      {
+        "syllables": "-ˌle-rē",
+        "audio": null
+      },
+      {
+        "syllables": "kə-ˈpi-lə-rē",
+        "audio": null
+      }
+    ]
+  },
+  "capitulate": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈpi-chə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/capitu03.mp3"
+      }
+    ]
+  },
+  "caprice": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈprēs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/capric03.mp3"
+      }
+    ]
+  },
+  "caption": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkap-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/captio01.mp3"
+      }
+    ]
+  },
+  "captious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkap-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/captio04.mp3"
+      }
+    ]
+  },
+  "captivate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkap-tə-ˌvāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/captiv01.mp3"
+      }
+    ]
+  },
+  "carcass": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkär-kəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carcas01.mp3"
+      }
+    ]
+  },
+  "cardiac": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkär-dē-ˌak",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cardia03.mp3"
+      }
+    ]
+  },
+  "cardinal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkärd-nəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cardin01.mp3"
+      },
+      {
+        "syllables": "ˈkär-də-",
+        "audio": null
+      }
+    ]
+  },
+  "caret": {
+    "pronunciations": [
+      {
+        "syllables": "ˈker-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/caret001.mp3"
+      },
+      {
+        "syllables": "ˈka-rət",
+        "audio": null
+      }
+    ]
+  },
+  "caricature": {
+    "pronunciations": [
+      {
+        "syllables": "ˈker-i-kə-ˌchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carica01.mp3"
+      },
+      {
+        "syllables": "-ˌchər",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌtyu̇r",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌtu̇r",
+        "audio": null
+      },
+      {
+        "syllables": "ˈka-ri-",
+        "audio": null
+      }
+    ]
+  },
+  "carnage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkär-nij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carnag01.mp3"
+      }
+    ]
+  },
+  "carnal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkär-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carnal01.mp3"
+      }
+    ]
+  },
+  "carnivorous": {
+    "pronunciations": [
+      {
+        "syllables": "kär-ˈni-v(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carniv04.mp3"
+      }
+    ]
+  },
+  "carouse": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrau̇z",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carous02.mp3"
+      }
+    ]
+  },
+  "carrion": {
+    "pronunciations": [
+      {
+        "syllables": "ˈker-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/carrio01.mp3"
+      },
+      {
+        "syllables": "ˈka-rē-",
+        "audio": null
+      }
+    ]
+  },
+  "cartilage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkär-tə-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cartil01.mp3"
+      },
+      {
+        "syllables": "ˈkärt-lij",
+        "audio": null
+      }
+    ]
+  },
+  "cartridge": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkär-trij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cartri01.mp3"
+      },
+      {
+        "syllables": "ˈka-trij",
+        "audio": null
+      }
+    ]
+  },
+  "caste": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/caste001.mp3"
+      },
+      {
+        "syllables": "ˈkäst",
+        "audio": null
+      }
+    ]
+  },
+  "castigate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-stə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/castig01.mp3"
+      }
+    ]
+  },
+  "casual": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-zhə-wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/casual01.mp3"
+      },
+      {
+        "syllables": "ˈkazh-wəl",
+        "audio": null
+      },
+      {
+        "syllables": "ˈka-zhəl",
+        "audio": null
+      }
+    ]
+  },
+  "casualty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-zhəl-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/casualty.mp3"
+      },
+      {
+        "syllables": "ˈkazh-wəl-",
+        "audio": null
+      },
+      {
+        "syllables": "ˈka-zhə-wəl-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/casual02.mp3"
+      }
+    ]
+  },
+  "cataclysm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-tə-ˌkli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/catacl01.mp3"
+      }
+    ]
+  },
+  "cataract": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-tə-ˌrakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/catara01.mp3"
+      }
+    ]
+  },
+  "catastrophe": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈta-strə-(ˌ)fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/catast01.mp3"
+      }
+    ]
+  },
+  "cathode": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-ˌthōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cathod01.mp3"
+      }
+    ]
+  },
+  "catholicism": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈthä-lə-ˌsi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cathol06.mp3"
+      }
+    ]
+  },
+  "catholicity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌka-thə-ˈli-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cathol07.mp3"
+      },
+      {
+        "syllables": "ˌkath-ˈli-",
+        "audio": null
+      }
+    ]
+  },
+  "cat-o-nine-tails": {
+    "pronunciations": [
+      {
+        "syllables": "ˌka-tə-ˈnīn-ˌtālz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cat_o_01.mp3"
+      }
+    ]
+  },
+  "caucus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯ-kəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/caucus01.mp3"
+      }
+    ]
+  },
+  "causal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯ-zəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/causal01.mp3"
+      }
+    ]
+  },
+  "caustic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯ-stik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/causti01.mp3"
+      }
+    ]
+  },
+  "cauterize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯ-tə-ˌrīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cauter01.mp3"
+      }
+    ]
+  },
+  "cede": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cede0001.mp3"
+      }
+    ]
+  },
+  "censor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsen(t)-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/censer01.mp3"
+      }
+    ]
+  },
+  "censorious": {
+    "pronunciations": [
+      {
+        "syllables": "sen-ˈsȯr-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/censor04.mp3"
+      }
+    ]
+  },
+  "census": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsen(t)-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/census01.mp3"
+      }
+    ]
+  },
+  "centenary": {
+    "pronunciations": [
+      {
+        "syllables": "sen-ˈte-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centen03.mp3"
+      },
+      {
+        "syllables": "ˈsen-tə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centen02.mp3"
+      },
+      {
+        "syllables": "-ˌne-rē",
+        "audio": null
+      },
+      {
+        "syllables": "sen-ˈtē-nə-rē",
+        "audio": null
+      }
+    ]
+  },
+  "centiliter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsen-ti-ˌlē-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centil02.mp3"
+      },
+      {
+        "syllables": "ˈsän-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centil01.mp3"
+      }
+    ]
+  },
+  "centimeter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsen-tə-ˌmē-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centim03.mp3"
+      },
+      {
+        "syllables": "ˈsän-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centim02.mp3"
+      }
+    ]
+  },
+  "centurion": {
+    "pronunciations": [
+      {
+        "syllables": "sen-ˈchu̇r-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/centur01.mp3"
+      },
+      {
+        "syllables": "-ˈtyu̇r-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈtu̇r-",
+        "audio": null
+      }
+    ]
+  },
+  "cereal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsir-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cereal01.mp3"
+      }
+    ]
+  },
+  "ceremonial": {
+    "pronunciations": [
+      {
+        "syllables": "ˌser-ə-ˈmō-nē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/ceremo01.mp3"
+      },
+      {
+        "syllables": "ˌse-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "ceremonious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌser-ə-ˈmō-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/ceremo05.mp3"
+      },
+      {
+        "syllables": "ˌse-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "cessation": {
+    "pronunciations": [
+      {
+        "syllables": "se-ˈsā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cessat01.mp3"
+      }
+    ]
+  },
+  "cession": {
+    "pronunciations": [
+      {
+        "syllables": "ˈse-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cessio01.mp3"
+      }
+    ]
+  },
+  "chagrin": {
+    "pronunciations": [
+      {
+        "syllables": "shə-ˈgrin",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chagri01.mp3"
+      },
+      {
+        "syllables": "ˈsha-grin",
+        "audio": null
+      }
+    ]
+  },
+  "chameleon": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmēl-yən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chamel01.mp3"
+      }
+    ]
+  },
+  "chancery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈchan(t)-sə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chance08.mp3"
+      },
+      {
+        "syllables": "ˈchan(t)s-rē",
+        "audio": null
+      }
+    ]
+  },
+  "chaos": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkā-ˌäs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chaos001.mp3"
+      }
+    ]
+  },
+  "characteristic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌker-ik-tə-ˈri-stik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/charac05.mp3"
+      },
+      {
+        "syllables": "ˌka-rik-",
+        "audio": null
+      }
+    ]
+  },
+  "characterize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈker-ik-tə-ˌrīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/charac08.mp3"
+      },
+      {
+        "syllables": "ˈka-rik-",
+        "audio": null
+      }
+    ]
+  },
+  "charlatan": {
+    "pronunciations": [
+      {
+        "syllables": "ˈshär-lə-tən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/charla01.mp3"
+      }
+    ]
+  },
+  "chasm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈka-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chasm001.mp3"
+      }
+    ]
+  },
+  "chasten": {
+    "pronunciations": [
+      {
+        "syllables": "ˈchā-sᵊn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chaste03.mp3"
+      }
+    ]
+  },
+  "chastise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈcha-ˌstīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chastise.mp3"
+      },
+      {
+        "syllables": "(ˌ)cha-ˈstīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chasti01.mp3"
+      }
+    ]
+  },
+  "chastity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈcha-stə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chasti04.mp3"
+      }
+    ]
+  },
+  "chateau": {
+    "pronunciations": [
+      {
+        "syllables": "sha-ˈtō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chatea01.mp3"
+      }
+    ]
+  },
+  "chattel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈcha-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chatte01.mp3"
+      }
+    ]
+  },
+  "check": {
+    "pronunciations": [
+      {
+        "syllables": "ˈchek",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/check001.mp3"
+      }
+    ]
+  },
+  "chiffon": {
+    "pronunciations": [
+      {
+        "syllables": "shi-ˈfän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chiffo02.mp3"
+      },
+      {
+        "syllables": "ˈshi-ˌfän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chiffo01.mp3"
+      }
+    ]
+  },
+  "chivalry": {
+    "pronunciations": [
+      {
+        "syllables": "ˈshi-vəl-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chival03.mp3"
+      }
+    ]
+  },
+  "cholera": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-lə-rə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/choler02.mp3"
+      }
+    ]
+  },
+  "choleric": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-lə-rik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/choler04.mp3"
+      },
+      {
+        "syllables": "kə-ˈler-ik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/choler05.mp3"
+      }
+    ]
+  },
+  "choral": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/choral01.mp3"
+      }
+    ]
+  },
+  "christ": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrīst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/christ01.mp3"
+      }
+    ]
+  },
+  "christen": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkri-sᵊn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/christ04.mp3"
+      }
+    ]
+  },
+  "christendom": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkri-sᵊn-dəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/christ06.mp3"
+      }
+    ]
+  },
+  "chromatic": {
+    "pronunciations": [
+      {
+        "syllables": "krō-ˈma-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chroma04.mp3"
+      }
+    ]
+  },
+  "chronology": {
+    "pronunciations": [
+      {
+        "syllables": "krə-ˈnä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chrono14.mp3"
+      }
+    ]
+  },
+  "chronometer": {
+    "pronunciations": [
+      {
+        "syllables": "krə-ˈnä-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/chrono15.mp3"
+      }
+    ]
+  },
+  "cipher": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsī-fər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cipher01.mp3"
+      }
+    ]
+  },
+  "circulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsər-kyə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circul06.mp3"
+      }
+    ]
+  },
+  "circumference": {
+    "pronunciations": [
+      {
+        "syllables": "sər-ˈkəm(p)-f(ə-)rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circum08.mp3"
+      },
+      {
+        "syllables": "sə-",
+        "audio": null
+      },
+      {
+        "syllables": "-fərn(t)s",
+        "audio": null
+      }
+    ]
+  },
+  "circumlocution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌsər-kəm-lō-ˈkyü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circum16.mp3"
+      }
+    ]
+  },
+  "circumnavigate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌsər-kəm-ˈna-və-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circum19.mp3"
+      }
+    ]
+  },
+  "circumscribe": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsər-kəm-ˌskrīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circum24.mp3"
+      }
+    ]
+  },
+  "circumspect": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsər-kəm-ˌspekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/circum26.mp3"
+      }
+    ]
+  },
+  "citadel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsi-tə-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/citade01.mp3"
+      },
+      {
+        "syllables": "-ˌdel",
+        "audio": null
+      }
+    ]
+  },
+  "cite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cite0001.mp3"
+      }
+    ]
+  },
+  "claimant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklā-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/claima01.mp3"
+      }
+    ]
+  },
+  "clairvoyance": {
+    "pronunciations": [
+      {
+        "syllables": "kler-ˈvȯi-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clairv01.mp3"
+      }
+    ]
+  },
+  "clamorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklam-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clamor03.mp3"
+      },
+      {
+        "syllables": "ˈkla-mər-əs",
+        "audio": null
+      }
+    ]
+  },
+  "clan": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklan",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clan0001.mp3"
+      }
+    ]
+  },
+  "clandestine": {
+    "pronunciations": [
+      {
+        "syllables": "klan-ˈde-stən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clande01.mp3"
+      },
+      {
+        "syllables": "-ˌstīn",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌstēn",
+        "audio": null
+      },
+      {
+        "syllables": "ˈklan-də-",
+        "audio": null
+      }
+    ]
+  },
+  "clangor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklaŋ-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clange01.mp3"
+      },
+      {
+        "syllables": "-gər",
+        "audio": null
+      }
+    ]
+  },
+  "clarify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkler-ə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clarif01.mp3"
+      },
+      {
+        "syllables": "ˈkla-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "clarion": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkler-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clario01.mp3"
+      },
+      {
+        "syllables": "ˈkla-rē-",
+        "audio": null
+      }
+    ]
+  },
+  "classify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkla-sə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/classi15.mp3"
+      }
+    ]
+  },
+  "clearance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklir-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cleara01.mp3"
+      }
+    ]
+  },
+  "clemency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkle-mən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clemen01.mp3"
+      }
+    ]
+  },
+  "clement": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkle-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clemen02.mp3"
+      }
+    ]
+  },
+  "close-hauled": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklōs-ˈhȯld",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/close_07.mp3"
+      }
+    ]
+  },
+  "clothier": {
+    "pronunciations": [
+      {
+        "syllables": "ˈklōt͟h-yər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clothi01.mp3"
+      },
+      {
+        "syllables": "ˈklō-t͟hē-ər",
+        "audio": null
+      }
+    ]
+  },
+  "clumsy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkləm-zē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/clumsy01.mp3"
+      }
+    ]
+  },
+  "coagulate": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈa-gyə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coagul04.mp3"
+      }
+    ]
+  },
+  "coagulant": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈa-gyə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coagul01.mp3"
+      }
+    ]
+  },
+  "coalescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkō-ə-ˈles",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coales01.mp3"
+      }
+    ]
+  },
+  "coalition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkō-ə-ˈli-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coalit01.mp3"
+      }
+    ]
+  },
+  "coddle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coddle01.mp3"
+      }
+    ]
+  },
+  "codicil": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-də-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/codici01.mp3"
+      },
+      {
+        "syllables": "-ˌsil",
+        "audio": null
+      }
+    ]
+  },
+  "coerce": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coerce01.mp3"
+      }
+    ]
+  },
+  "coercion": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coerci01.mp3"
+      },
+      {
+        "syllables": "-shən",
+        "audio": null
+      }
+    ]
+  },
+  "coercive": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈər-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coerci02.mp3"
+      }
+    ]
+  },
+  "cogent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkō-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cogent01.mp3"
+      }
+    ]
+  },
+  "cognate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäg-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cognat01.mp3"
+      }
+    ]
+  },
+  "cognizant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäg-nə-zənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cogniz04.mp3"
+      }
+    ]
+  },
+  "cohere": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈhir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cohere01.mp3"
+      }
+    ]
+  },
+  "cohesion": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈhē-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cohesi01.mp3"
+      }
+    ]
+  },
+  "cohesive": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈhē-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cohesi03.mp3"
+      },
+      {
+        "syllables": "-ziv",
+        "audio": null
+      }
+    ]
+  },
+  "coincide": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkō-ən-ˈsīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coinci02.mp3"
+      },
+      {
+        "syllables": "ˈkō-ən-ˌsīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coinci01.mp3"
+      }
+    ]
+  },
+  "coincidence": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈin(t)-sə-dən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coinci03.mp3"
+      },
+      {
+        "syllables": "-sə-ˌden(t)s",
+        "audio": null
+      }
+    ]
+  },
+  "coincident": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈin(t)-sə-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coinci04.mp3"
+      },
+      {
+        "syllables": "-ˌdent",
+        "audio": null
+      }
+    ]
+  },
+  "collaborate": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈla-bə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collab01.mp3"
+      }
+    ]
+  },
+  "collapse": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlaps",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collap01.mp3"
+      }
+    ]
+  },
+  "collapsible": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlap-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collap03.mp3"
+      }
+    ]
+  },
+  "colleague": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-(ˌ)lēg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collea01.mp3"
+      }
+    ]
+  },
+  "collective": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlek-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collec08.mp3"
+      }
+    ]
+  },
+  "collector": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlek-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collec16.mp3"
+      }
+    ]
+  },
+  "collegian": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlē-j(ē-)ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/colleg04.mp3"
+      }
+    ]
+  },
+  "collide": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collid01.mp3"
+      }
+    ]
+  },
+  "collier": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäl-yər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collie02.mp3"
+      }
+    ]
+  },
+  "collision": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈli-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collis01.mp3"
+      }
+    ]
+  },
+  "colloquial": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlō-kwē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/colloq01.mp3"
+      }
+    ]
+  },
+  "colloquialism": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlō-kwē-ə-ˌli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/colloq04.mp3"
+      }
+    ]
+  },
+  "colloquy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-lə-kwē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/colloq08.mp3"
+      }
+    ]
+  },
+  "collusion": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/collus01.mp3"
+      }
+    ]
+  },
+  "colossus": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlä-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coloss05.mp3"
+      }
+    ]
+  },
+  "comely": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkəm-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comely01.mp3"
+      },
+      {
+        "syllables": "ˈkōm-",
+        "audio": null
+      },
+      {
+        "syllables": "ˈkäm-",
+        "audio": null
+      }
+    ]
+  },
+  "comestible": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈme-stə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comest01.mp3"
+      }
+    ]
+  },
+  "comical": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-mi-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comica01.mp3"
+      }
+    ]
+  },
+  "commemorate": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈme-mə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commem01.mp3"
+      }
+    ]
+  },
+  "commentary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-mən-ˌter-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commen17.mp3"
+      },
+      {
+        "syllables": "-ˌte-rē",
+        "audio": null
+      }
+    ]
+  },
+  "commingle": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmiŋ-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commin03.mp3"
+      },
+      {
+        "syllables": "kä-",
+        "audio": null
+      }
+    ]
+  },
+  "commissariat": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkä-mə-ˈser-ē-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commis07.mp3"
+      },
+      {
+        "syllables": "-ˈsär-",
+        "audio": null
+      }
+    ]
+  },
+  "commission": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commis09.mp3"
+      }
+    ]
+  },
+  "commitment": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmit-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commit03.mp3"
+      }
+    ]
+  },
+  "committal": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmi-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commit04.mp3"
+      }
+    ]
+  },
+  "commodity": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmä-də-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commod05.mp3"
+      }
+    ]
+  },
+  "commotion": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmō-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commot01.mp3"
+      }
+    ]
+  },
+  "commute": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/commut07.mp3"
+      }
+    ]
+  },
+  "comparable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-p(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compar03.mp3"
+      },
+      {
+        "syllables": "kəm-ˈpa-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compar04.mp3"
+      },
+      {
+        "syllables": "-ˈper-ə-",
+        "audio": null
+      }
+    ]
+  },
+  "comparative": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈper-ə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compar07.mp3"
+      },
+      {
+        "syllables": "-ˈpa-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "comparison": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈper-ə-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compar11.mp3"
+      },
+      {
+        "syllables": "-ˈpa-rə-",
+        "audio": null
+      }
+    ]
+  },
+  "compensate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-pən-ˌsāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compen07.mp3"
+      },
+      {
+        "syllables": "-ˌpen-",
+        "audio": null
+      }
+    ]
+  },
+  "competence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-pə-tən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compet02.mp3"
+      }
+    ]
+  },
+  "competent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-pə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compet04.mp3"
+      }
+    ]
+  },
+  "competitive": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpe-tə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compet06.mp3"
+      }
+    ]
+  },
+  "competitor": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpe-tə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compet07.mp3"
+      }
+    ]
+  },
+  "complacence": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈplā-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compla01.mp3"
+      }
+    ]
+  },
+  "complacent": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈplā-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compla03.mp3"
+      }
+    ]
+  },
+  "complaisance": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈplā-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compla08.mp3"
+      },
+      {
+        "syllables": "-zᵊn(t)s",
+        "audio": null
+      },
+      {
+        "syllables": "ˌkäm-plā-ˈzan(t)s",
+        "audio": null
+      },
+      {
+        "syllables": "-plə-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈzän(t)s",
+        "audio": null
+      }
+    ]
+  },
+  "complaisant": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈplā-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compla09.mp3"
+      },
+      {
+        "syllables": "-zᵊnt",
+        "audio": null
+      },
+      {
+        "syllables": "ˌkäm-plā-ˈzant",
+        "audio": null
+      },
+      {
+        "syllables": "-plə-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈzänt",
+        "audio": null
+      }
+    ]
+  },
+  "complement": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-plə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comple03.mp3"
+      }
+    ]
+  },
+  "complex": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-ˌpleks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comple15.mp3"
+      }
+    ]
+  },
+  "compliant": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈplī-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compli03.mp3"
+      }
+    ]
+  },
+  "complicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-plə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compli05.mp3"
+      }
+    ]
+  },
+  "complication": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkäm-plə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compli08.mp3"
+      }
+    ]
+  },
+  "complicity": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpli-s(ə-)tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compli13.mp3"
+      }
+    ]
+  },
+  "compliment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäm-plə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compli15.mp3"
+      }
+    ]
+  },
+  "component": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpō-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compon01.mp3"
+      },
+      {
+        "syllables": "ˈkäm-ˌpō-",
+        "audio": null
+      },
+      {
+        "syllables": "käm-ˈpō-",
+        "audio": null
+      }
+    ]
+  },
+  "comport": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compor01.mp3"
+      }
+    ]
+  },
+  "composure": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpō-zhər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compos13.mp3"
+      }
+    ]
+  },
+  "comprehensible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkäm-pri-ˈhen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compre03.mp3"
+      },
+      {
+        "syllables": "-prē-",
+        "audio": null
+      }
+    ]
+  },
+  "comprehension": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkäm-pri-ˈhen(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compre07.mp3"
+      },
+      {
+        "syllables": "-prē-",
+        "audio": null
+      }
+    ]
+  },
+  "comprehensive": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkäm-pri-ˈhen(t)-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compre08.mp3"
+      },
+      {
+        "syllables": "-prē-",
+        "audio": null
+      }
+    ]
+  },
+  "compress": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpres",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compre09.mp3"
+      }
+    ]
+  },
+  "compressible": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpre-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compre14.mp3"
+      }
+    ]
+  },
+  "compression": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpre-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compre16.mp3"
+      }
+    ]
+  },
+  "comprise": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈprīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compri01.mp3"
+      }
+    ]
+  },
+  "compulsion": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpəl-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compul01.mp3"
+      }
+    ]
+  },
+  "compulsory": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpəl-sə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compul04.mp3"
+      },
+      {
+        "syllables": "-ˈpəls-rē",
+        "audio": null
+      }
+    ]
+  },
+  "compunction": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpəŋ(k)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/compun01.mp3"
+      }
+    ]
+  },
+  "compute": {
+    "pronunciations": [
+      {
+        "syllables": "kəm-ˈpyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/comput05.mp3"
+      }
+    ]
+  },
+  "concede": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conced01.mp3"
+      }
+    ]
+  },
+  "conceit": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concei01.mp3"
+      }
+    ]
+  },
+  "conceive": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concei07.mp3"
+      }
+    ]
+  },
+  "concerto": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈcher-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concer13.mp3"
+      },
+      {
+        "syllables": "-ˈchər-",
+        "audio": null
+      }
+    ]
+  },
+  "concession": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈse-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conces01.mp3"
+      }
+    ]
+  },
+  "conciliate": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsi-lē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concil02.mp3"
+      }
+    ]
+  },
+  "conciliatory": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsil-yə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concil06.mp3"
+      },
+      {
+        "syllables": "-ˈsi-lē-ə-",
+        "audio": null
+      }
+    ]
+  },
+  "conclusive": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈklü-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conclu04.mp3"
+      },
+      {
+        "syllables": "-ziv",
+        "audio": null
+      }
+    ]
+  },
+  "concord": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌkȯrd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concor01.mp3"
+      },
+      {
+        "syllables": "ˈkäŋ-",
+        "audio": null
+      }
+    ]
+  },
+  "concordance": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈkȯr-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concor02.mp3"
+      },
+      {
+        "syllables": "kän-",
+        "audio": null
+      }
+    ]
+  },
+  "concur": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈkər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concur01.mp3"
+      },
+      {
+        "syllables": "kän-",
+        "audio": null
+      }
+    ]
+  },
+  "concurrence": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈkər-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concur02.mp3"
+      },
+      {
+        "syllables": "-ˈkə-rən(t)s",
+        "audio": null
+      },
+      {
+        "syllables": "kän-",
+        "audio": null
+      }
+    ]
+  },
+  "concurrent": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈkər-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concur04.mp3"
+      },
+      {
+        "syllables": "-ˈkə-rənt",
+        "audio": null
+      },
+      {
+        "syllables": "kän-",
+        "audio": null
+      }
+    ]
+  },
+  "concussion": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈkə-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/concus02.mp3"
+      }
+    ]
+  },
+  "condensation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-ˌden-ˈsā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conden02.mp3"
+      },
+      {
+        "syllables": "-dən-",
+        "audio": null
+      }
+    ]
+  },
+  "condense": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈden(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conden04.mp3"
+      }
+    ]
+  },
+  "condescend": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-di-ˈsend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/condes01.mp3"
+      }
+    ]
+  },
+  "condolence": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈdō-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/condol03.mp3"
+      },
+      {
+        "syllables": "ˈkän-də-",
+        "audio": null
+      }
+    ]
+  },
+  "conduce": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈdüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conduc01.mp3"
+      },
+      {
+        "syllables": "-ˈdyüs",
+        "audio": null
+      }
+    ]
+  },
+  "conducive": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈdü-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conduc02.mp3"
+      },
+      {
+        "syllables": "-ˈdyü-",
+        "audio": null
+      }
+    ]
+  },
+  "conductible": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈdəkt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conduc04.mp3"
+      },
+      {
+        "syllables": "ˈkän-ˌdəkt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conduc03.mp3"
+      }
+    ]
+  },
+  "conduit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌdü-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/condui01.mp3"
+      },
+      {
+        "syllables": "-ˌdyü-",
+        "audio": null
+      },
+      {
+        "syllables": "-dwət",
+        "audio": null
+      },
+      {
+        "syllables": "-dət",
+        "audio": null
+      }
+    ]
+  },
+  "confectionery": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfek-shə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confec06.mp3"
+      }
+    ]
+  },
+  "confederacy": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfe-d(ə-)rə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confed01.mp3"
+      }
+    ]
+  },
+  "confederate": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfe-d(ə-)rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confed03.mp3"
+      }
+    ]
+  },
+  "confer": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confer01.mp3"
+      }
+    ]
+  },
+  "conferee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-fə-ˈrē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confer06.mp3"
+      }
+    ]
+  },
+  "confessor": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfe-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confes10.mp3"
+      },
+      {
+        "syllables": "ˈkän-ˌfe-sər",
+        "audio": null
+      },
+      {
+        "syllables": "ˈkän-fə-ˌsȯr",
+        "audio": null
+      }
+    ]
+  },
+  "confidant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-fə-ˌdänt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confid01.mp3"
+      },
+      {
+        "syllables": "-ˌdant",
+        "audio": null
+      },
+      {
+        "syllables": "-dənt",
+        "audio": null
+      }
+    ]
+  },
+  "confide": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confid03.mp3"
+      }
+    ]
+  },
+  "confidence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-fə-dən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confid04.mp3"
+      },
+      {
+        "syllables": "-ˌden(t)s",
+        "audio": null
+      }
+    ]
+  },
+  "confident": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-fə-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confid05.mp3"
+      },
+      {
+        "syllables": "-ˌdent",
+        "audio": null
+      }
+    ]
+  },
+  "confinement": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfīn-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confin04.mp3"
+      }
+    ]
+  },
+  "confiscate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-fə-ˌskāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confis03.mp3"
+      },
+      {
+        "syllables": "kən-ˈfi-skət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confis04.mp3"
+      }
+    ]
+  },
+  "conflagration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-flə-ˈgrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confla02.mp3"
+      }
+    ]
+  },
+  "confluence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌflü-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conflu02.mp3"
+      },
+      {
+        "syllables": "kən-ˈflü-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conflu01.mp3"
+      }
+    ]
+  },
+  "confluent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌflü-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conflu03.mp3"
+      },
+      {
+        "syllables": "kən-ˈflü-",
+        "audio": null
+      }
+    ]
+  },
+  "conformance": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfȯr-mən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confor07.mp3"
+      }
+    ]
+  },
+  "conformable": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfȯr-mə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confor04.mp3"
+      }
+    ]
+  },
+  "conformation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-(ˌ)fȯr-ˈmā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confo01ld.mp3"
+      },
+      {
+        "syllables": "-fər-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confor08.mp3"
+      }
+    ]
+  },
+  "conformity": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfȯr-mə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confor10.mp3"
+      }
+    ]
+  },
+  "confront": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈfrənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/confro01.mp3"
+      }
+    ]
+  },
+  "congeal": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈjēl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/congea01.mp3"
+      }
+    ]
+  },
+  "congenial": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈjēn-yəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/congen06.mp3"
+      },
+      {
+        "syllables": "-ˈjē-nē-əl",
+        "audio": null
+      }
+    ]
+  },
+  "congest": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈjest",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conges01.mp3"
+      }
+    ]
+  },
+  "congregate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäŋ-gri-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/congre02.mp3"
+      }
+    ]
+  },
+  "coniferous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkä-nə-fər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conife01.mp3"
+      },
+      {
+        "syllables": "ˈkō-",
+        "audio": null
+      }
+    ]
+  },
+  "conjecture": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈjek-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjec01.mp3"
+      }
+    ]
+  },
+  "conjoin": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈjȯin",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjoi01.mp3"
+      },
+      {
+        "syllables": "kän-",
+        "audio": null
+      }
+    ]
+  },
+  "conjugal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ji-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjug01.mp3"
+      },
+      {
+        "syllables": "kən-ˈjü-",
+        "audio": null
+      }
+    ]
+  },
+  "conjugate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ji-gət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjug05.mp3"
+      },
+      {
+        "syllables": "-jə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjug06.mp3"
+      }
+    ]
+  },
+  "conjugation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-jə-ˈgā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjug08.mp3"
+      }
+    ]
+  },
+  "conjunction": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈjəŋ(k)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conjun03.mp3"
+      }
+    ]
+  },
+  "connive": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈnīv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conniv02.mp3"
+      }
+    ]
+  },
+  "connoisseur": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkä-nə-ˈsər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/connoi01.mp3"
+      },
+      {
+        "syllables": "-ˈsu̇r",
+        "audio": null
+      }
+    ]
+  },
+  "connote": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈnōt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/connot05.mp3"
+      },
+      {
+        "syllables": "kä-",
+        "audio": null
+      }
+    ]
+  },
+  "connubial": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈnü-bē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/connub01.mp3"
+      },
+      {
+        "syllables": "-ˈnyü-",
+        "audio": null
+      }
+    ]
+  },
+  "conquer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäŋ-kər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conque01.mp3"
+      }
+    ]
+  },
+  "consanguineous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-ˌsan-ˈgwi-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consan02.mp3"
+      },
+      {
+        "syllables": "-ˌsaŋ-",
+        "audio": null
+      }
+    ]
+  },
+  "conscience": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-shən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consci01.mp3"
+      }
+    ]
+  },
+  "conscientious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän(t)-shē-ˈen(t)-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consci03.mp3"
+      }
+    ]
+  },
+  "conscious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consci05.mp3"
+      }
+    ]
+  },
+  "conscript": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌskript",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conscr02.mp3"
+      }
+    ]
+  },
+  "consecrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-sə-ˌkrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consec01.mp3"
+      }
+    ]
+  },
+  "consecutive": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈse-kyə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consec07.mp3"
+      },
+      {
+        "syllables": "-kə-tiv",
+        "audio": null
+      }
+    ]
+  },
+  "consensus": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsen(t)-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consen02.mp3"
+      }
+    ]
+  },
+  "conservatism": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsər-və-ˌti-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conser05.mp3"
+      }
+    ]
+  },
+  "conservative": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsər-və-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conser06.mp3"
+      }
+    ]
+  },
+  "conservatory": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsər-və-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conser12.mp3"
+      }
+    ]
+  },
+  "consign": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consig04.mp3"
+      }
+    ]
+  },
+  "consignee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän(t)-sə-ˈnē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consig08.mp3"
+      },
+      {
+        "syllables": "ˌkän-ˌsī-",
+        "audio": null
+      },
+      {
+        "syllables": "kən-ˌsī-",
+        "audio": null
+      }
+    ]
+  },
+  "consignor": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consig04.mp3"
+      }
+    ]
+  },
+  "consistency": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsi-stən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consis04.mp3"
+      }
+    ]
+  },
+  "console": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌsōl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consol03.mp3"
+      }
+    ]
+  },
+  "consolidate": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsä-lə-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consol06.mp3"
+      }
+    ]
+  },
+  "consonance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-s(ə-)nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conson01.mp3"
+      }
+    ]
+  },
+  "consonant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-s(ə-)nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conson03.mp3"
+      }
+    ]
+  },
+  "consort": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌsȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consor01.mp3"
+      }
+    ]
+  },
+  "conspicuous": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈspi-kyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conspi02.mp3"
+      },
+      {
+        "syllables": "-kyü-əs",
+        "audio": null
+      }
+    ]
+  },
+  "conspirator": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈspir-ə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conspi07.mp3"
+      }
+    ]
+  },
+  "conspire": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈspī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conspi10.mp3"
+      }
+    ]
+  },
+  "constable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-stə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consta02.mp3"
+      },
+      {
+        "syllables": "ˈkən(t)-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consta01.mp3"
+      }
+    ]
+  },
+  "constellation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän(t)-stə-ˈlā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conste02.mp3"
+      }
+    ]
+  },
+  "consternation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän(t)-stər-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conste05.mp3"
+      }
+    ]
+  },
+  "constituency": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsti-chə-wən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consti04.mp3"
+      },
+      {
+        "syllables": "-ˈstich-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈsti-chü-ən(t)-",
+        "audio": null
+      }
+    ]
+  },
+  "constituent": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsti-chə-wənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consti05.mp3"
+      },
+      {
+        "syllables": "-ˈstich-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈsti-chü-ənt",
+        "audio": null
+      }
+    ]
+  },
+  "constrict": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈstrikt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/constr04.mp3"
+      }
+    ]
+  },
+  "consul": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consul01.mp3"
+      }
+    ]
+  },
+  "consulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-s(ə-)lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consul04.mp3"
+      }
+    ]
+  },
+  "consummate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän(t)-sə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consum10.mp3"
+      },
+      {
+        "syllables": "kən-ˈsə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consum11.mp3"
+      }
+    ]
+  },
+  "consumption": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsəm(p)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consum18.mp3"
+      }
+    ]
+  },
+  "consumptive": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈsəm(p)-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/consum19.mp3"
+      }
+    ]
+  },
+  "contagion": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtā-jən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contag01.mp3"
+      }
+    ]
+  },
+  "contagious": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtā-jəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contag02.mp3"
+      }
+    ]
+  },
+  "contaminate": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈta-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contam02.mp3"
+      }
+    ]
+  },
+  "contemplate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-təm-ˌplāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contem03.mp3"
+      },
+      {
+        "syllables": "-ˌtem-",
+        "audio": null
+      }
+    ]
+  },
+  "contemporaneous": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˌtem-pə-ˈrā-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contem09.mp3"
+      }
+    ]
+  },
+  "contemporary": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtem-pə-ˌrer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contem10.mp3"
+      },
+      {
+        "syllables": "-ˌre-rē",
+        "audio": null
+      }
+    ]
+  },
+  "contemptible": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtem(p)-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contem14.mp3"
+      }
+    ]
+  },
+  "contemptuous": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtem(p)-chə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contem17.mp3"
+      },
+      {
+        "syllables": "-chəs",
+        "audio": null
+      },
+      {
+        "syllables": "-shwəs",
+        "audio": null
+      },
+      {
+        "syllables": "-chü-əs",
+        "audio": null
+      }
+    ]
+  },
+  "contender": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈten-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conten02.mp3"
+      }
+    ]
+  },
+  "contiguity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-tə-ˈgyü-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contig01.mp3"
+      }
+    ]
+  },
+  "contiguous": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈti-gyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contig02.mp3"
+      },
+      {
+        "syllables": "-gyü-əs",
+        "audio": null
+      }
+    ]
+  },
+  "continence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-tə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin01.mp3"
+      }
+    ]
+  },
+  "contingency": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtin-jən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin07.mp3"
+      }
+    ]
+  },
+  "contingent": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtin-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin08.mp3"
+      }
+    ]
+  },
+  "continuance": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtin-yü-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin10.mp3"
+      }
+    ]
+  },
+  "continuation": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˌtin-yə-ˈwā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin12.mp3"
+      },
+      {
+        "syllables": "-yü-ˈā-",
+        "audio": null
+      }
+    ]
+  },
+  "continuity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-tə-ˈnü-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin17.mp3"
+      },
+      {
+        "syllables": "-ˈnyü-",
+        "audio": null
+      }
+    ]
+  },
+  "continuous": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtin-yü-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contin19.mp3"
+      }
+    ]
+  },
+  "contort": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contor01.mp3"
+      }
+    ]
+  },
+  "contraband": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-trə-ˌband",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contra04.mp3"
+      }
+    ]
+  },
+  "contradiction": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-trə-ˈdik-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contra31.mp3"
+      }
+    ]
+  },
+  "contradictory": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-trə-ˈdik-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contra33.mp3"
+      }
+    ]
+  },
+  "contraposition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-trə-pə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contra45.mp3"
+      }
+    ]
+  },
+  "contravene": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-trə-ˈvēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contra68.mp3"
+      }
+    ]
+  },
+  "contribution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-trə-ˈbyü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contri02.mp3"
+      }
+    ]
+  },
+  "contributor": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtri-byə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contre06.mp3"
+      },
+      {
+        "syllables": "-bə-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌbyü-",
+        "audio": null
+      }
+    ]
+  },
+  "contrite": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contri05.mp3"
+      },
+      {
+        "syllables": "ˈkän-ˌtrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contri06.mp3"
+      }
+    ]
+  },
+  "contrivance": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtrī-vən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contri08.mp3"
+      }
+    ]
+  },
+  "contrive": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtrīv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contri09.mp3"
+      }
+    ]
+  },
+  "control": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtrōl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contro01.mp3"
+      }
+    ]
+  },
+  "controller": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtrō-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contro07.mp3"
+      },
+      {
+        "syllables": "ˈkän-ˌtrō-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contro06.mp3"
+      }
+    ]
+  },
+  "contumacious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-tü-ˈmā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contum01.mp3"
+      },
+      {
+        "syllables": "-tyü-ˈmā-",
+        "audio": null
+      },
+      {
+        "syllables": "-chə-ˈmā-",
+        "audio": null
+      }
+    ]
+  },
+  "contumacy": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtü-mə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contum03.mp3"
+      },
+      {
+        "syllables": "-ˈtyü-",
+        "audio": null
+      },
+      {
+        "syllables": "ˈkän-tü-",
+        "audio": null
+      },
+      {
+        "syllables": "-tyü-",
+        "audio": null
+      },
+      {
+        "syllables": "-chə-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contum02.mp3"
+      }
+    ]
+  },
+  "contuse": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contus01.mp3"
+      },
+      {
+        "syllables": "-ˈtyü-",
+        "audio": null
+      }
+    ]
+  },
+  "contusion": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈtü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/contus01.mp3"
+      },
+      {
+        "syllables": "-ˈtyü-",
+        "audio": null
+      }
+    ]
+  },
+  "convalesce": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-və-ˈles",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conval01.mp3"
+      }
+    ]
+  },
+  "convalescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-və-ˈles",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conval01.mp3"
+      }
+    ]
+  },
+  "convalescent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-və-ˈles",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conval01.mp3"
+      }
+    ]
+  },
+  "convene": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conven01.mp3"
+      }
+    ]
+  },
+  "convenience": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvēn-yən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conven03.mp3"
+      }
+    ]
+  },
+  "converge": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvərj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conver01.mp3"
+      }
+    ]
+  },
+  "convergent": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvər-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conver04.mp3"
+      }
+    ]
+  },
+  "conversant": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvər-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conver08.mp3"
+      },
+      {
+        "syllables": "ˈkän-vər-sənt",
+        "audio": null
+      }
+    ]
+  },
+  "conversion": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conver20.mp3"
+      },
+      {
+        "syllables": "-shən",
+        "audio": null
+      }
+    ]
+  },
+  "convertible": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvər-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conver25.mp3"
+      }
+    ]
+  },
+  "convex": {
+    "pronunciations": [
+      {
+        "syllables": "kän-ˈveks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convex02.mp3"
+      },
+      {
+        "syllables": "ˈkän-ˌveks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convex01.mp3"
+      },
+      {
+        "syllables": "kən-ˈveks",
+        "audio": null
+      }
+    ]
+  },
+  "conveyance": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvā-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convey02.mp3"
+      }
+    ]
+  },
+  "convivial": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvi-vē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/conviv01.mp3"
+      },
+      {
+        "syllables": "-ˈviv-yəl",
+        "audio": null
+      }
+    ]
+  },
+  "convolution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkän-və-ˈlü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convol03.mp3"
+      }
+    ]
+  },
+  "convolve": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvälv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convol04.mp3"
+      },
+      {
+        "syllables": "-ˈvȯlv",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈväv",
+        "audio": null
+      },
+      {
+        "syllables": "-ˈvȯv",
+        "audio": null
+      }
+    ]
+  },
+  "convoy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkän-ˌvȯi",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convoy02.mp3"
+      },
+      {
+        "syllables": "kən-ˈvȯi",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convoy01.mp3"
+      }
+    ]
+  },
+  "convulse": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvəls",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convul02.mp3"
+      }
+    ]
+  },
+  "convulsion": {
+    "pronunciations": [
+      {
+        "syllables": "kən-ˈvəl-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/convul03.mp3"
+      }
+    ]
+  },
+  "copious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkō-pē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/copiou01.mp3"
+      }
+    ]
+  },
+  "coquette": {
+    "pronunciations": [
+      {
+        "syllables": "kō-ˈket",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coquet01.mp3"
+      }
+    ]
+  },
+  "cornice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cornic01.mp3"
+      },
+      {
+        "syllables": "-nish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cornis01.mp3"
+      }
+    ]
+  },
+  "cornucopia": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkȯr-nə-ˈkō-pē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cornuc01.mp3"
+      },
+      {
+        "syllables": "-nyə-ˈkō-",
+        "audio": null
+      }
+    ]
+  },
+  "corollary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-ə-ˌler-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coroll04.mp3"
+      },
+      {
+        "syllables": "ˈkär-",
+        "audio": null
+      },
+      {
+        "syllables": "-le-rē",
+        "audio": null
+      },
+      {
+        "syllables": "kə-ˈrä-lə-rē",
+        "audio": null
+      }
+    ]
+  },
+  "coronation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkȯr-ə-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corona14.mp3"
+      },
+      {
+        "syllables": "ˌkär-",
+        "audio": null
+      }
+    ]
+  },
+  "coronet": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkȯr-ə-ˈnet",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corone02.mp3"
+      },
+      {
+        "syllables": "ˌkär-",
+        "audio": null
+      }
+    ]
+  },
+  "corporal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-p(ə-)rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corpor01.mp3"
+      }
+    ]
+  },
+  "corporate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-p(ə-)rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corpor04.mp3"
+      }
+    ]
+  },
+  "corporeal": {
+    "pronunciations": [
+      {
+        "syllables": "kȯr-ˈpȯr-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corpor11.mp3"
+      }
+    ]
+  },
+  "corps": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corps001.mp3"
+      }
+    ]
+  },
+  "corpse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯrps",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corpse01.mp3"
+      }
+    ]
+  },
+  "corpulent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-pyə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corpul03.mp3"
+      }
+    ]
+  },
+  "corpuscle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-(ˌ)pə-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corpus10.mp3"
+      }
+    ]
+  },
+  "correlate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-ə-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/correl01.mp3"
+      },
+      {
+        "syllables": "ˈkär-",
+        "audio": null
+      },
+      {
+        "syllables": "-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/correl02.mp3"
+      }
+    ]
+  },
+  "correlative": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈre-lə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/correl07.mp3"
+      }
+    ]
+  },
+  "corrigible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-ə-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corrig03.mp3"
+      },
+      {
+        "syllables": "ˈkär-",
+        "audio": null
+      }
+    ]
+  },
+  "corroborate": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrä-bə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corrob02.mp3"
+      }
+    ]
+  },
+  "corroboration": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrä-bə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corrob02.mp3"
+      }
+    ]
+  },
+  "corrode": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corrod01.mp3"
+      }
+    ]
+  },
+  "corrosion": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrō-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corros01.mp3"
+      }
+    ]
+  },
+  "corrosive": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrō-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corros02.mp3"
+      },
+      {
+        "syllables": "-ziv",
+        "audio": null
+      }
+    ]
+  },
+  "corruptible": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrəpt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corrup01.mp3"
+      }
+    ]
+  },
+  "corruption": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrəp-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/corrup08.mp3"
+      }
+    ]
+  },
+  "cosmetic": {
+    "pronunciations": [
+      {
+        "syllables": "käz-ˈme-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmet01.mp3"
+      }
+    ]
+  },
+  "cosmic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäz-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmic01.mp3"
+      }
+    ]
+  },
+  "cosmogony": {
+    "pronunciations": [
+      {
+        "syllables": "käz-ˈmä-gə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmog02.mp3"
+      }
+    ]
+  },
+  "cosmography": {
+    "pronunciations": [
+      {
+        "syllables": "käz-ˈmä-grə-fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmog06.mp3"
+      }
+    ]
+  },
+  "cosmology": {
+    "pronunciations": [
+      {
+        "syllables": "käz-ˈmä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmol02.mp3"
+      }
+    ]
+  },
+  "cosmopolitan": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkäz-mə-ˈpä-lə-tən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmop02.mp3"
+      }
+    ]
+  },
+  "cosmopolitanism": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkäz-mə-ˈpä-lə-tən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmop02.mp3"
+      }
+    ]
+  },
+  "cosmos": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäz-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmos02.mp3"
+      },
+      {
+        "syllables": "-ˌmōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cosmos01.mp3"
+      },
+      {
+        "syllables": "-ˌmäs",
+        "audio": null
+      }
+    ]
+  },
+  "counter-claim": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇n-tər-ˌklām",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte12.mp3"
+      }
+    ]
+  },
+  "counteract": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkau̇n-tər-ˈakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte05.mp3"
+      }
+    ]
+  },
+  "counterbalance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇n-tər-ˌba-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte08.mp3"
+      },
+      {
+        "syllables": "ˌkau̇n-tər-ˈba-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte09.mp3"
+      }
+    ]
+  },
+  "countercharge": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇n-tər-ˌchärj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/countercharge_1.mp3"
+      }
+    ]
+  },
+  "counterfeit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇n-tər-ˌfit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte25.mp3"
+      }
+    ]
+  },
+  "counterpart": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇n-tər-ˌpärt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte46.mp3"
+      }
+    ]
+  },
+  "countervail": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkau̇n-tər-ˈvāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counte72.mp3"
+      }
+    ]
+  },
+  "counting-house": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇n-tiŋ-ˌhau̇s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/counti02.mp3"
+      }
+    ]
+  },
+  "countryman": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkən-trē-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/countr05.mp3"
+      },
+      {
+        "syllables": "-ˌman",
+        "audio": null
+      }
+    ]
+  },
+  "courageous": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈrā-jəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/courag02.mp3"
+      }
+    ]
+  },
+  "course": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯrs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/course01.mp3"
+      }
+    ]
+  },
+  "courser": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkȯr-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/course02.mp3"
+      }
+    ]
+  },
+  "courtesy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkər-tə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/courte03.mp3"
+      },
+      {
+        "syllables": "ˈkȯ-",
+        "audio": null
+      }
+    ]
+  },
+  "covenant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkə-və-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/covena01.mp3"
+      },
+      {
+        "syllables": "ˈkəv-",
+        "audio": null
+      }
+    ]
+  },
+  "covert": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkō-(ˌ)vərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/covert02.mp3"
+      },
+      {
+        "syllables": "kō-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/covert01.mp3"
+      },
+      {
+        "syllables": "ˈkə-vərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/covert04.mp3"
+      }
+    ]
+  },
+  "covey": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkə-vē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/covey001.mp3"
+      }
+    ]
+  },
+  "cower": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkau̇(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cower001.mp3"
+      }
+    ]
+  },
+  "coxswain": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkäk-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/coxswa01.mp3"
+      },
+      {
+        "syllables": "-ˌswān",
+        "audio": null
+      }
+    ]
+  },
+  "crag": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrag",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crag0001.mp3"
+      }
+    ]
+  },
+  "cranium": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrā-nē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/craniu01.mp3"
+      }
+    ]
+  },
+  "crass": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkras",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crass001.mp3"
+      }
+    ]
+  },
+  "craving": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrā-viŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cravin01.mp3"
+      }
+    ]
+  },
+  "creak": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/creak001.mp3"
+      }
+    ]
+  },
+  "creamery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkre-mə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/creame02.mp3"
+      },
+      {
+        "syllables": "ˈkrēm-rē",
+        "audio": null
+      }
+    ]
+  },
+  "creamy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrē-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cream004.mp3"
+      }
+    ]
+  },
+  "credence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrē-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/creden01.mp3"
+      }
+    ]
+  },
+  "credible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkre-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/credib02.mp3"
+      }
+    ]
+  },
+  "credulous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkre-jə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/credul02.mp3"
+      }
+    ]
+  },
+  "creed": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/creed001.mp3"
+      }
+    ]
+  },
+  "crematory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrē-mə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cremat05.mp3"
+      },
+      {
+        "syllables": "ˈkre-",
+        "audio": null
+      }
+    ]
+  },
+  "crevasse": {
+    "pronunciations": [
+      {
+        "syllables": "kri-ˈvas",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crevas01.mp3"
+      }
+    ]
+  },
+  "crevice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkre-vəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crevic01.mp3"
+      }
+    ]
+  },
+  "criterion": {
+    "pronunciations": [
+      {
+        "syllables": "krī-ˈtir-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/criter01.mp3"
+      },
+      {
+        "syllables": "krə-",
+        "audio": null
+      }
+    ]
+  },
+  "critique": {
+    "pronunciations": [
+      {
+        "syllables": "krə-ˈtēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/critiq01.mp3"
+      },
+      {
+        "syllables": "kri-",
+        "audio": null
+      }
+    ]
+  },
+  "crockery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrä-k(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crocke02.mp3"
+      }
+    ]
+  },
+  "crucible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrü-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crucib01.mp3"
+      }
+    ]
+  },
+  "crusade": {
+    "pronunciations": [
+      {
+        "syllables": "krü-ˈsād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crusad01.mp3"
+      }
+    ]
+  },
+  "crustacean": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkrə-ˈstā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crusta02.mp3"
+      }
+    ]
+  },
+  "crustaceous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkrə-ˈstā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crusta03.mp3"
+      }
+    ]
+  },
+  "cryptogram": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkrip-tə-ˌgram",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crypto12.mp3"
+      }
+    ]
+  },
+  "crystallize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkri-stə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/crysta05.mp3"
+      }
+    ]
+  },
+  "cudgel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkə-jəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cudgel01.mp3"
+      }
+    ]
+  },
+  "culinary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkə-lə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/culina03.mp3"
+      },
+      {
+        "syllables": "ˈkyü-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/culina02.mp3"
+      },
+      {
+        "syllables": "ˈkü-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/culin01v.mp3"
+      }
+    ]
+  },
+  "cull": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cull0001.mp3"
+      }
+    ]
+  },
+  "culpable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkəl-pə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/culpab01.mp3"
+      }
+    ]
+  },
+  "culprit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkəl-prət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/culpri01.mp3"
+      },
+      {
+        "syllables": "-ˌprit",
+        "audio": null
+      }
+    ]
+  },
+  "culvert": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkəl-vərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/culver04.mp3"
+      }
+    ]
+  },
+  "cupidity": {
+    "pronunciations": [
+      {
+        "syllables": "kyu̇-ˈpi-də-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cupidi01.mp3"
+      }
+    ]
+  },
+  "curable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkyu̇r-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curabl01.mp3"
+      },
+      {
+        "syllables": "ˈkyər-",
+        "audio": null
+      }
+    ]
+  },
+  "curator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkyu̇r-ˌā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curato02.mp3"
+      },
+      {
+        "syllables": "ˈkyər-",
+        "audio": null
+      },
+      {
+        "syllables": "kyu̇-ˈrā-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curato01.mp3"
+      },
+      {
+        "syllables": "ˈkyu̇r-ə-",
+        "audio": null
+      },
+      {
+        "syllables": "ˈkyər-",
+        "audio": null
+      }
+    ]
+  },
+  "curio": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkyu̇r-ē-ˌō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curio001.mp3"
+      },
+      {
+        "syllables": "ˈkyər-",
+        "audio": null
+      }
+    ]
+  },
+  "cursive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkər-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cursiv01.mp3"
+      }
+    ]
+  },
+  "cursory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkər-sə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cursor03.mp3"
+      },
+      {
+        "syllables": "ˈkərs-",
+        "audio": null
+      }
+    ]
+  },
+  "curt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curt0001.mp3"
+      }
+    ]
+  },
+  "curtail": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)kər-ˈtāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curtai01.mp3"
+      }
+    ]
+  },
+  "curtsy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkərt-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/curtsy01.mp3"
+      }
+    ]
+  },
+  "cycloid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsī-ˌklȯid",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cycloi01.mp3"
+      }
+    ]
+  },
+  "cygnet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsig-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cygnet01.mp3"
+      }
+    ]
+  },
+  "cynical": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsi-ni-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cynica01.mp3"
+      }
+    ]
+  },
+  "cynicism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsi-nə-ˌsi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cynici01.mp3"
+      }
+    ]
+  },
+  "cynosure": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsī-nə-ˌshu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cynosu02.mp3"
+      },
+      {
+        "syllables": "ˈsi-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/c/cynosu01.mp3"
+      }
+    ]
+  }
+}

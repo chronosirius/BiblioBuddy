@@ -609,6 +609,70 @@ h1 {
   }
 }
 
+/* Definitions list styling */
+.detail-definitions {
+  margin: 0;
+  padding-left: 0;
+  list-style-position: inside;
+  color: var(--ink-soft);
+}
+
+.detail-definitions li {
+  margin-bottom: 6px;
+}
+
+/* Pronunciations styling */
+.pronunciation-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.pronunciation-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 0;
+}
+
+.pronunciation-text {
+  font-family: "Courier New", monospace;
+  color: var(--ink-soft);
+  font-size: 14px;
+}
+
+.audio-btn {
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid #d7dfe6;
+  background: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  height: 32px;
+  width: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.audio-btn:hover {
+  background: #f0f0f0;
+  border-color: var(--ink-soft);
+}
+
+.audio-btn:active {
+  transform: scale(0.95);
+}
+
+.pronunciation-empty {
+  color: var(--ink-soft);
+  font-size: 14px;
+  margin: 0;
+  font-style: italic;
+}
+
 @media (max-width: 640px) {
   h1 {
     font-size: 42px;

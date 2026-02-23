@@ -1,4 +1,4 @@
-const WORDS_PATH = "freevocabulary_words.json";
+const WORDS_PATH = "definitions.json";
 const SYNONYMS_DIR = "synonyms";
 const STORAGE_PREFIX = "biblioBuddy.v1";
 
@@ -29,7 +29,8 @@ const elements = {
   categoryColumn: document.getElementById("categoryColumn"),
   cardWord: document.getElementById("cardWord"),
   cardPos: document.getElementById("cardPos"),
-  cardDefinition: document.getElementById("cardDefinition"),
+  cardDefinitions: document.getElementById("cardDefinitions"),
+  cardPronunciation: document.getElementById("cardPronunciation"),
   cardSynonyms: document.getElementById("cardSynonyms"),
   cardSentences: document.getElementById("cardSentences"),
 };
@@ -59,19 +60,44 @@ function bindEvents() {
 
 async function loadData() {
   const wordsResponse = await fetch(WORDS_PATH);
-  const words = await wordsResponse.json();
+  const wordsData = await wordsResponse.json();
+  
+  // Handle both array (old format) and object (new format) structures
+  let words;
+  if (Array.isArray(wordsData)) {
+    // Old array format - convert to object internally
+    words = wordsData.reduce((obj, item) => {
+      if (item && item.word) {
+        obj[item.word.trim()] = {
+          def: [{ definition: item.definition || "", type: item.type || "" }],
+          forms: [],
+        };
+      }
+      return obj;
+    }, {});
+  } else {
+    // New object format
+    words = wordsData;
+  }
+  
   const letters = getLettersFromWords(words);
   const synonymsData = await loadSynonymsByLetters(letters);
 
   state.synonymsData = synonymsData || {};
-  state.entries = words
-    .filter((item) => item && item.word && item.definition)
-    .map((item) => ({
-      word: item.word.trim(),
-      definition: item.definition.trim(),
-      pos: normalizePos(item.type || ""),
-      rawType: item.type || "",
-    }));
+  state.entries = Object.entries(words)
+    .filter(([word, data]) => word && data && Array.isArray(data.def) && data.def.length > 0)
+    .map(([word, data]) => {
+      const firstDef = data.def[0];
+      return {
+        word: word.trim(),
+        definitions: data.def || [],
+        // Keep single definition for backward compatibility with display
+        definition: firstDef?.definition || "",
+        pos: normalizePos(firstDef?.type || ""),
+        rawType: firstDef?.type || "",
+        forms: data.forms || [],
+      };
+    });
 
   state.entryMap = state.entries.reduce((map, entry) => {
     map.set(entry.word, entry);
@@ -142,7 +168,8 @@ function renderWordCard(word) {
   if (!word) {
     elements.cardWord.textContent = "Select a word";
     elements.cardPos.textContent = "";
-    elements.cardDefinition.textContent = "";
+    elements.cardDefinitions.innerHTML = "";
+    elements.cardPronunciation.innerHTML = "";
     fillList(elements.cardSynonyms, [], "");
     fillList(elements.cardSentences, [], "");
     return;
@@ -158,9 +185,94 @@ function renderWordCard(word) {
 
   elements.cardWord.textContent = entry.word;
   elements.cardPos.textContent = entry.pos.toUpperCase();
-  elements.cardDefinition.textContent = entry.definition;
+  renderDefinitionsList(elements.cardDefinitions, entry.definitions, entry.definition, entry.rawType);
+  loadAndRenderPronunciations(entry.word);
   fillList(elements.cardSynonyms, pickRandomSubset(synonyms, 10), "No synonyms available.");
   fillList(elements.cardSentences, pickRandomSubset(sentences, 10), "No example sentences available.");
+}
+
+function renderDefinitionsList(listEl, definitions, fallbackDefinition, fallbackType) {
+  listEl.innerHTML = "";
+  const items = Array.isArray(definitions) ? definitions : [];
+  if (items.length > 0) {
+    items.forEach((def) => {
+      const item = document.createElement("li");
+      item.textContent = formatDefinitionText(def, fallbackType);
+      listEl.appendChild(item);
+    });
+    return;
+  }
+
+  const item = document.createElement("li");
+  item.textContent = formatDefinitionText({ definition: fallbackDefinition }, fallbackType);
+  listEl.appendChild(item);
+}
+
+function formatDefinitionText(definition, fallbackType) {
+  const type = String(definition?.type || fallbackType || "").trim();
+  const prefix = type ? `(${type}) ` : "";
+  const text = String(definition?.definition || "").trim();
+  return `${prefix}${text}`.trim();
+}
+
+async function loadAndRenderPronunciations(word) {
+  const letter = getWordLetter(word);
+  if (!letter) {
+    elements.cardPronunciation.innerHTML =
+      '<p class="pronunciation-empty">No pronunciation available.</p>';
+    return;
+  }
+
+  try {
+    const response = await fetch(`pronunciations/${letter}.json`);
+    if (!response.ok) {
+      elements.cardPronunciation.innerHTML =
+        '<p class="pronunciation-empty">No pronunciation available.</p>';
+      return;
+    }
+    const pronunciationsData = await response.json();
+    const wordPronunciations = pronunciationsData[word];
+
+    if (!wordPronunciations || !Array.isArray(wordPronunciations.pronunciations)) {
+      elements.cardPronunciation.innerHTML =
+        '<p class="pronunciation-empty">No pronunciation available.</p>';
+      return;
+    }
+
+    elements.cardPronunciation.innerHTML = "";
+    wordPronunciations.pronunciations.forEach((pron, index) => {
+      const div = document.createElement("div");
+      div.className = "pronunciation-item";
+
+      const syllablesSpan = document.createElement("span");
+      syllablesSpan.className = "pronunciation-text";
+      syllablesSpan.textContent = pron.syllables || "";
+
+      div.appendChild(syllablesSpan);
+
+      if (pron.audio) {
+        const audioBtn = document.createElement("button");
+        audioBtn.className = "audio-btn";
+        audioBtn.setAttribute("aria-label", `Play pronunciation ${index + 1}`);
+        audioBtn.innerHTML = "🔊";
+        audioBtn.addEventListener("click", () => playAudio(pron.audio));
+        div.appendChild(audioBtn);
+      }
+
+      elements.cardPronunciation.appendChild(div);
+    });
+  } catch (error) {
+    console.error(`Failed to load pronunciations for ${word}:`, error);
+    elements.cardPronunciation.innerHTML =
+      '<p class="pronunciation-empty">No pronunciation available.</p>';
+  }
+}
+
+function playAudio(url) {
+  const audio = new Audio(url);
+  audio.play().catch((error) => {
+    console.error("Failed to play audio:", error);
+  });
 }
 
 function fillList(listEl, items, emptyMessage) {
@@ -222,13 +334,23 @@ function getCategory(score) {
 
 function getLettersFromWords(words) {
   const letters = new Set();
-  words.forEach((item) => {
-    const word = String(item?.word || "").trim();
-    const letter = getWordLetter(word);
-    if (letter) {
-      letters.add(letter);
-    }
-  });
+  // Handle both object and array formats
+  if (Array.isArray(words)) {
+    words.forEach((item) => {
+      const word = String(item?.word || "").trim();
+      const letter = getWordLetter(word);
+      if (letter) {
+        letters.add(letter);
+      }
+    });
+  } else {
+    Object.keys(words).forEach((word) => {
+      const letter = getWordLetter(word);
+      if (letter) {
+        letters.add(letter);
+      }
+    });
+  }
   return Array.from(letters).sort();
 }
 
