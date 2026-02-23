@@ -248,7 +248,6 @@ function renderQuestion() {
   if (selection && selection.special) {
     elements.questionMeta.textContent = MODES[state.mode].label;
     elements.questionTitle.textContent = "";
-    elements.posBadge.textContent = "";
     elements.options.innerHTML = "";
     elements.answerDetails.classList.remove("visible");
     elements.questionCard.classList.remove("correct", "incorrect");
@@ -268,7 +267,6 @@ function renderQuestion() {
     elements.questionMeta.textContent = "No words available";
     elements.questionTitle.textContent = "";
     elements.questionPrompt.textContent = "";
-    elements.posBadge.textContent = "";
     elements.options.innerHTML = "";
     elements.feedback.textContent = "";
     elements.nextButton.disabled = true;
@@ -283,7 +281,6 @@ function renderQuestion() {
   elements.questionTitle.textContent =
     state.mode === "fitb" ? "Complete the sentence" : entry.word;
   elements.questionPrompt.textContent = question.prompt;
-  elements.posBadge.textContent = entry.pos.toUpperCase();
   elements.feedback.textContent = "";
   elements.nextButton.disabled = true;
   elements.answerDetails.classList.remove("visible");
@@ -521,22 +518,54 @@ function renderAnswerDetails(entry) {
   const limitedSentences = pickRandomSubset(sentences, 10);
 
   elements.detailWord.textContent = entry.word;
-  elements.detailPos.textContent = entry.pos.toUpperCase();
 
-  // Render multiple definitions as numbered list
+  // Group definitions by part of speech
   const definitionsList = elements.detailDefinitions;
   definitionsList.innerHTML = "";
   const definitions = Array.isArray(entry.definitions) ? entry.definitions : [];
+  
   if (definitions.length > 0) {
+    // Group definitions by part of speech
+    const groupedDefs = {};
     definitions.forEach((def) => {
-      const li = document.createElement("li");
-      li.textContent = formatDefinitionText(def, entry.rawType);
-      definitionsList.appendChild(li);
+      const pos = def.type || "Other";
+      if (!groupedDefs[pos]) {
+        groupedDefs[pos] = [];
+      }
+      groupedDefs[pos].push(def.definition || "");
+    });
+
+    // Render each group
+    Object.entries(groupedDefs).forEach(([pos, defs]) => {
+      // Create a wrapper div for each POS group
+      const groupDiv = document.createElement("div");
+      groupDiv.style.marginBottom = "1em";
+      
+      // Create a header for the part of speech
+      const posHeader = document.createElement("p");
+      posHeader.style.fontWeight = "bold";
+      posHeader.style.marginBottom = "0.25em";
+      posHeader.textContent = pos;
+      groupDiv.appendChild(posHeader);
+
+      // Create an ordered list for definitions of this POS
+      const ol = document.createElement("ol");
+      ol.style.margin = "0";
+      ol.style.paddingLeft = "0";
+      ol.style.listStylePosition = "inside";
+      defs.forEach((defText) => {
+        const li = document.createElement("li");
+        li.textContent = defText;
+        ol.appendChild(li);
+      });
+      
+      groupDiv.appendChild(ol);
+      definitionsList.appendChild(groupDiv);
     });
   } else {
     // Fallback to single definition
     const li = document.createElement("li");
-    li.textContent = formatDefinitionText({ definition: entry.definition }, entry.rawType);
+    li.textContent = entry.definition || "No definition available.";
     definitionsList.appendChild(li);
   }
 

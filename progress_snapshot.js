@@ -28,7 +28,6 @@ const elements = {
   modeCapsule: document.getElementById("modeCapsule"),
   categoryColumn: document.getElementById("categoryColumn"),
   cardWord: document.getElementById("cardWord"),
-  cardPos: document.getElementById("cardPos"),
   cardDefinitions: document.getElementById("cardDefinitions"),
   cardPronunciation: document.getElementById("cardPronunciation"),
   cardSynonyms: document.getElementById("cardSynonyms"),
@@ -150,7 +149,6 @@ function renderCategories() {
 function renderWordCard(word) {
   if (!word) {
     elements.cardWord.textContent = "Select a word";
-    elements.cardPos.textContent = "";
     elements.cardDefinitions.innerHTML = "";
     elements.cardPronunciation.innerHTML = "";
     fillList(elements.cardSynonyms, [], "");
@@ -167,27 +165,59 @@ function renderWordCard(word) {
   const sentences = Array.isArray(data.sentences) ? data.sentences : [];
 
   elements.cardWord.textContent = entry.word;
-  elements.cardPos.textContent = entry.pos.toUpperCase();
-  renderDefinitionsList(elements.cardDefinitions, entry.definitions, entry.definition, entry.rawType);
+  renderDefinitionsList(elements.cardDefinitions, entry.definitions, entry.definition);
   loadAndRenderPronunciations(entry.word);
   fillList(elements.cardSynonyms, pickRandomSubset(synonyms, 10), "No synonyms available.");
   fillList(elements.cardSentences, pickRandomSubset(sentences, 10), "No example sentences available.");
 }
 
-function renderDefinitionsList(listEl, definitions, fallbackDefinition, fallbackType) {
+function renderDefinitionsList(listEl, definitions, fallbackDefinition) {
   listEl.innerHTML = "";
   const items = Array.isArray(definitions) ? definitions : [];
+  
   if (items.length > 0) {
+    // Group definitions by part of speech
+    const groupedDefs = {};
     items.forEach((def) => {
-      const item = document.createElement("li");
-      item.textContent = formatDefinitionText(def, fallbackType);
-      listEl.appendChild(item);
+      const pos = def.type || "Other";
+      if (!groupedDefs[pos]) {
+        groupedDefs[pos] = [];
+      }
+      groupedDefs[pos].push(def.definition || "");
+    });
+
+    // Render each group
+    Object.entries(groupedDefs).forEach(([pos, defs]) => {
+      // Create a wrapper div for each POS group
+      const groupDiv = document.createElement("div");
+      groupDiv.style.marginBottom = "1em";
+      
+      // Create a header for the part of speech
+      const posHeader = document.createElement("p");
+      posHeader.style.fontWeight = "bold";
+      posHeader.style.marginBottom = "0.25em";
+      posHeader.textContent = pos;
+      groupDiv.appendChild(posHeader);
+
+      // Create an ordered list for definitions of this POS
+      const ol = document.createElement("ol");
+      ol.style.margin = "0";
+      ol.style.paddingLeft = "0";
+      ol.style.listStylePosition = "inside";
+      defs.forEach((defText) => {
+        const li = document.createElement("li");
+        li.textContent = defText;
+        ol.appendChild(li);
+      });
+      
+      groupDiv.appendChild(ol);
+      listEl.appendChild(groupDiv);
     });
     return;
   }
 
   const item = document.createElement("li");
-  item.textContent = formatDefinitionText({ definition: fallbackDefinition }, fallbackType);
+  item.textContent = fallbackDefinition || "No definition available.";
   listEl.appendChild(item);
 }
 
