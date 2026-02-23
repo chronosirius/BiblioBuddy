@@ -1,0 +1,3917 @@
+{
+  "ichthyic": {
+    "def": [
+      {
+        "definition": "Fish-like.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ichthyology": {
+    "def": [
+      {
+        "definition": "The branch of zoology that treats of fishes.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ichthyosaurs": {
+    "def": [
+      {
+        "definition": "A fossil reptile.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "icily": {
+    "def": [
+      {
+        "definition": "Frigidly.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "iciness": {
+    "def": [
+      {
+        "definition": "The state of being icy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "icon": {
+    "def": [
+      {
+        "definition": "An image or likeness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "iconoclast": {
+    "def": [
+      {
+        "definition": "An image-breaker.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "idealize": {
+    "def": [
+      {
+        "definition": "To make to conform to some mental or imaginary standard.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "idiom": {
+    "def": [
+      {
+        "definition": "A use of words peculiar to a particular language.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "idiosyncrasy": {
+    "def": [
+      {
+        "definition": "A mental quality or habit peculiar to an individual.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "idolize": {
+    "def": [
+      {
+        "definition": "To regard with inordinate love or admiration.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "ignoble": {
+    "def": [
+      {
+        "definition": "Low in character or purpose.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ignominious": {
+    "def": [
+      {
+        "definition": "Shameful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "iliad": {
+    "def": [
+      {
+        "definition": "A Greek epic poem describing scenes from the siege of Troy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "illegal": {
+    "def": [
+      {
+        "definition": "Not according to law.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illegible": {
+    "def": [
+      {
+        "definition": "Undecipherable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illegitimate": {
+    "def": [
+      {
+        "definition": "Unlawfully begotten.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illiberal": {
+    "def": [
+      {
+        "definition": "Stingy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illicit": {
+    "def": [
+      {
+        "definition": "Unlawful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illimitable": {
+    "def": [
+      {
+        "definition": "Boundless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illiterate": {
+    "def": [
+      {
+        "definition": "Having little or no book-learning.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ill-natured": {
+    "def": [
+      {
+        "definition": "Surly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illogical": {
+    "def": [
+      {
+        "definition": "Contrary to the rules of sound thought.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illuminant": {
+    "def": [
+      {
+        "definition": "That which may be used to produce light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "illuminate": {
+    "def": [
+      {
+        "definition": "To supply with light.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "illumine": {
+    "def": [
+      {
+        "definition": "To make bright or clear.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "illusion": {
+    "def": [
+      {
+        "definition": "An unreal image presented to the senses.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "illusive": {
+    "def": [
+      {
+        "definition": "Deceptive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "illusory": {
+    "def": [
+      {
+        "definition": "Deceiving or tending to deceive, as by false appearance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imaginable": {
+    "def": [
+      {
+        "definition": "That can be imagined or conceived in the mind.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imaginary": {
+    "def": [
+      {
+        "definition": "Fancied.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imbibe": {
+    "def": [
+      {
+        "definition": "To drink or take in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "imbroglio": {
+    "def": [
+      {
+        "definition": "A misunderstanding attended by ill feeling, perplexity, or strife.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "imbrue": {
+    "def": [
+      {
+        "definition": "To wet or moisten.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "imitation": {
+    "def": [
+      {
+        "definition": "That which is made as a likeness or copy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "imitator": {
+    "def": [
+      {
+        "definition": "One who makes in imitation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "immaculate": {
+    "def": [
+      {
+        "definition": "Without spot or blemish.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immaterial": {
+    "def": [
+      {
+        "definition": "Of no essential consequence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immature": {
+    "def": [
+      {
+        "definition": "Not full-grown.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immeasurable": {
+    "def": [
+      {
+        "definition": "Indefinitely extensive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immense": {
+    "def": [
+      {
+        "definition": "Very great in degree, extent, size, or quantity.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immerse": {
+    "def": [
+      {
+        "definition": "To plunge or dip entirely under water or other fluid.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "immersion": {
+    "def": [
+      {
+        "definition": "The act of plunging or dipping entirely under water or another fluid.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "immigrant": {
+    "def": [
+      {
+        "definition": "A foreigner who enters a country to settle there.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "immigrate": {
+    "def": [
+      {
+        "definition": "To come into a country or region from a former habitat.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "imminence": {
+    "def": [
+      {
+        "definition": "Impending evil or danger.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "imminent": {
+    "def": [
+      {
+        "definition": "Dangerous and close at hand.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immiscible": {
+    "def": [
+      {
+        "definition": "Separating, as oil and water.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immoral": {
+    "def": [
+      {
+        "definition": "Habitually engaged in licentious or lewd practices.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immortalize": {
+    "def": [
+      {
+        "definition": "To cause to last or to be known or remembered throughout a great or",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "immovable": {
+    "def": [
+      {
+        "definition": "Steadfast.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immune": {
+    "def": [
+      {
+        "definition": "Exempt, as from disease.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "immutable": {
+    "def": [
+      {
+        "definition": "Unchangeable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impair": {
+    "def": [
+      {
+        "definition": "To cause to become less or worse.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impalpable": {
+    "def": [
+      {
+        "definition": "Imperceptible to the touch.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impartial": {
+    "def": [
+      {
+        "definition": "Unbiased.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impassable": {
+    "def": [
+      {
+        "definition": "That can not be passed through or over.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impassible": {
+    "def": [
+      {
+        "definition": "Not moved or affected by feeling.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impassive": {
+    "def": [
+      {
+        "definition": "Unmoved by or not exhibiting feeling.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impatience": {
+    "def": [
+      {
+        "definition": "Unwillingness to brook delays or wait the natural course of things.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impeccable": {
+    "def": [
+      {
+        "definition": "Blameless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impecunious": {
+    "def": [
+      {
+        "definition": "Having no money.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impede": {
+    "def": [
+      {
+        "definition": "To be an obstacle or to place obstacles in the way of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impel": {
+    "def": [
+      {
+        "definition": "To drive or urge forward.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impend": {
+    "def": [
+      {
+        "definition": "To be imminent.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "imperative": {
+    "def": [
+      {
+        "definition": "Obligatory.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imperceptible": {
+    "def": [
+      {
+        "definition": "Indiscernible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imperfectible": {
+    "def": [
+      {
+        "definition": "That can not be perfected.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imperil": {
+    "def": [
+      {
+        "definition": "To endanger.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "imperious": {
+    "def": [
+      {
+        "definition": "Insisting on obedience.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impermissible": {
+    "def": [
+      {
+        "definition": "Not permissible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impersonal": {
+    "def": [
+      {
+        "definition": "Not relating to a particular person or thing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impersonate": {
+    "def": [
+      {
+        "definition": "To appear or act in the character of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impersuadable": {
+    "def": [
+      {
+        "definition": "Unyielding.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impertinence": {
+    "def": [
+      {
+        "definition": "Rudeness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "imperturbable": {
+    "def": [
+      {
+        "definition": "Calm.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impervious": {
+    "def": [
+      {
+        "definition": "Impenetrable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impetuosity": {
+    "def": [
+      {
+        "definition": "Rashness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impetuous": {
+    "def": [
+      {
+        "definition": "Impulsive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impetus": {
+    "def": [
+      {
+        "definition": "Any impulse or incentive.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impiety": {
+    "def": [
+      {
+        "definition": "Irreverence toward God.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impious": {
+    "def": [
+      {
+        "definition": "Characterized by irreverence or irreligion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "implausible": {
+    "def": [
+      {
+        "definition": "Not plausible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impliable": {
+    "def": [
+      {
+        "definition": "Capable of being inferred.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "implicate": {
+    "def": [
+      {
+        "definition": "To show or prove to be involved in or concerned",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "implicit": {
+    "def": [
+      {
+        "definition": "Implied.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "imply": {
+    "def": [
+      {
+        "definition": "To signify.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impolitic": {
+    "def": [
+      {
+        "definition": "Inexpedient.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "importation": {
+    "def": [
+      {
+        "definition": "The act or practice of bringing from one country into another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "importunate": {
+    "def": [
+      {
+        "definition": "Urgent in character, request, or demand.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "importune": {
+    "def": [
+      {
+        "definition": "To harass with persistent demands or entreaties.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impotent": {
+    "def": [
+      {
+        "definition": "Destitute of or lacking in power, physical, moral, or intellectual.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impoverish": {
+    "def": [
+      {
+        "definition": "To make indigent or poor.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impracticable": {
+    "def": [
+      {
+        "definition": "Not feasible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impregnable": {
+    "def": [
+      {
+        "definition": "That can not be taken by assault.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impregnate": {
+    "def": [
+      {
+        "definition": "To make pregnant.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impromptu": {
+    "def": [
+      {
+        "definition": "Anything done or said on the impulse of the moment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "improper": {
+    "def": [
+      {
+        "definition": "Not appropriate, suitable, or becoming.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impropriety": {
+    "def": [
+      {
+        "definition": "The state or quality of being unfit, unseemly, or inappropriate.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "improvident": {
+    "def": [
+      {
+        "definition": "Lacking foresight or thrift.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "improvise": {
+    "def": [
+      {
+        "definition": "To do anything extemporaneously or offhand.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "imprudent": {
+    "def": [
+      {
+        "definition": "Heedless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impudence": {
+    "def": [
+      {
+        "definition": "Insolent disrespect.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impugn": {
+    "def": [
+      {
+        "definition": "To assail with arguments, insinuations, or accusations.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "impulsion": {
+    "def": [
+      {
+        "definition": "Impetus.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impulsive": {
+    "def": [
+      {
+        "definition": "Unpremeditated.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impunity": {
+    "def": [
+      {
+        "definition": "Freedom from punishment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "impure": {
+    "def": [
+      {
+        "definition": "Tainted.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "impute": {
+    "def": [
+      {
+        "definition": "To attribute.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inaccessible": {
+    "def": [
+      {
+        "definition": "Difficult of approach.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inaccurate": {
+    "def": [
+      {
+        "definition": "Not exactly according to the facts.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inactive": {
+    "def": [
+      {
+        "definition": "Inert.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inadequate": {
+    "def": [
+      {
+        "definition": "Insufficient.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inadmissible": {
+    "def": [
+      {
+        "definition": "Not to be approved, considered, or allowed, as testimony.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inadvertent": {
+    "def": [
+      {
+        "definition": "Accidental.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inadvisable": {
+    "def": [
+      {
+        "definition": "Unadvisable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inane": {
+    "def": [
+      {
+        "definition": "Silly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inanimate": {
+    "def": [
+      {
+        "definition": "Destitute of animal life.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inapprehensible": {
+    "def": [
+      {
+        "definition": "Not to be understood.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inapt": {
+    "def": [
+      {
+        "definition": "Awkward or slow.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inarticulate": {
+    "def": [
+      {
+        "definition": "Speechless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inaudible": {
+    "def": [
+      {
+        "definition": "That can not be heard.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inborn": {
+    "def": [
+      {
+        "definition": "Implanted by nature.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inbred": {
+    "def": [
+      {
+        "definition": "Innate.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incandescence": {
+    "def": [
+      {
+        "definition": "The state of being white or glowing with heat.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incandescent": {
+    "def": [
+      {
+        "definition": "White or glowing with heat.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incapacitate": {
+    "def": [
+      {
+        "definition": "To deprive of power, capacity, competency, or qualification.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "incapacity": {
+    "def": [
+      {
+        "definition": "Want of power to apprehend, understand, and manage.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incarcerate": {
+    "def": [
+      {
+        "definition": "To imprison.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "incendiary": {
+    "def": [
+      {
+        "definition": "Chemical or person who starts a fire-literally or figuratively.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incentive": {
+    "def": [
+      {
+        "definition": "That which moves the mind or inflames the passions.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inception": {
+    "def": [
+      {
+        "definition": "The beginning.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inceptive": {
+    "def": [
+      {
+        "definition": "Beginning.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incessant": {
+    "def": [
+      {
+        "definition": "Unceasing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inchmeal": {
+    "def": [
+      {
+        "definition": "Piecemeal.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "inchoate": {
+    "def": [
+      {
+        "definition": "Incipient.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inchoative": {
+    "def": [
+      {
+        "definition": "That which begins, or expresses beginning.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incidence": {
+    "def": [
+      {
+        "definition": "Casual occurrence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incident": {
+    "def": [
+      {
+        "definition": "A happening in general, especially one of little importance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incidentally": {
+    "def": [
+      {
+        "definition": "Without intention.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "incinerate": {
+    "def": [
+      {
+        "definition": "To reduce to ashes.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "incipience": {
+    "def": [
+      {
+        "definition": "Beginning.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incipient": {
+    "def": [
+      {
+        "definition": "Initial.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incisor": {
+    "def": [
+      {
+        "definition": "A front or cutting tooth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incite": {
+    "def": [
+      {
+        "definition": "To rouse to a particular action.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "incitement": {
+    "def": [
+      {
+        "definition": "That which moves to action, or serves as an incentive or stimulus.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incoercible": {
+    "def": [
+      {
+        "definition": "Incapable of being forced, constrained, or compelled.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incoherence": {
+    "def": [
+      {
+        "definition": "Want of connection, or agreement, as of parts or ideas in thought, speech,",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incoherent": {
+    "def": [
+      {
+        "definition": "Not logically coordinated, as to parts, elements, or details.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incombustible": {
+    "def": [
+      {
+        "definition": "That can not be burned.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incomparable": {
+    "def": [
+      {
+        "definition": "Matchless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incompatible": {
+    "def": [
+      {
+        "definition": "Discordant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incompetence": {
+    "def": [
+      {
+        "definition": "General lack of capacity or fitness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "incompetent": {
+    "def": [
+      {
+        "definition": "Not having the abilities desired or necessary for any purpose.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incomplete": {
+    "def": [
+      {
+        "definition": "Lacking some element, part, or adjunct necessary or required.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incomprehensible": {
+    "def": [
+      {
+        "definition": "Not understandable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incompressible": {
+    "def": [
+      {
+        "definition": "Resisting all attempts to reduce volume by pressure.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inconceivable": {
+    "def": [
+      {
+        "definition": "Incomprehensible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incongruous": {
+    "def": [
+      {
+        "definition": "Unsuitable for the time, place, or occasion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inconsequential": {
+    "def": [
+      {
+        "definition": "Valueless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inconsiderable": {
+    "def": [
+      {
+        "definition": "Small in quantity or importance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inconsistent": {
+    "def": [
+      {
+        "definition": "Contradictory.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inconstant": {
+    "def": [
+      {
+        "definition": "Changeable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "incontrovertible": {
+    "def": [
+      {
+        "definition": "Indisputable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inconvenient": {
+    "def": [
+      {
+        "definition": "Interfering with comfort or progress.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indefensible": {
+    "def": [
+      {
+        "definition": "Untenable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indefinitely": {
+    "def": [
+      {
+        "definition": "In a vague or uncertain way.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "indelible": {
+    "def": [
+      {
+        "definition": "That can not be blotted out, effaced, destroyed, or removed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indescribable": {
+    "def": [
+      {
+        "definition": "That can not be described.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indestructible": {
+    "def": [
+      {
+        "definition": "That can not be destroyed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indicant": {
+    "def": [
+      {
+        "definition": "That which points out.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indicator": {
+    "def": [
+      {
+        "definition": "One who or that which points out.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "indict": {
+    "def": [
+      {
+        "definition": "To find and declare chargeable with crime.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "indigence": {
+    "def": [
+      {
+        "definition": "Poverty.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "indigenous": {
+    "def": [
+      {
+        "definition": "Native.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indigent": {
+    "def": [
+      {
+        "definition": "Poor.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indigestible": {
+    "def": [
+      {
+        "definition": "Not digestible, or difficult to digest.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indigestion": {
+    "def": [
+      {
+        "definition": "Difficulty or failure in the alimentary canal in changing food into",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "indignant": {
+    "def": [
+      {
+        "definition": "Having such anger and scorn as is aroused by meanness or wickedness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indignity": {
+    "def": [
+      {
+        "definition": "Unmerited contemptuous conduct or treatment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "indiscernible": {
+    "def": [
+      {
+        "definition": "Not perceptible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indiscreet": {
+    "def": [
+      {
+        "definition": "Lacking wise judgment.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indiscriminate": {
+    "def": [
+      {
+        "definition": "Promiscuous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indispensable": {
+    "def": [
+      {
+        "definition": "Necessary or requisite for the purpose.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indistinct": {
+    "def": [
+      {
+        "definition": "Vague.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indivertible": {
+    "def": [
+      {
+        "definition": "That can not be turned aside.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indivisible": {
+    "def": [
+      {
+        "definition": "Not separable into parts.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indolence": {
+    "def": [
+      {
+        "definition": "Laziness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "indolent": {
+    "def": [
+      {
+        "definition": "Habitually inactive or idle.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "indomitable": {
+    "def": [
+      {
+        "definition": "Unconquerable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "induct": {
+    "def": [
+      {
+        "definition": "To bring in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "indulgence": {
+    "def": [
+      {
+        "definition": "The yielding to inclination, passion, desire, or propensity in oneself or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "indulgent": {
+    "def": [
+      {
+        "definition": "Yielding to the desires or humor of oneself or those under one's care.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inebriate": {
+    "def": [
+      {
+        "definition": "To intoxicate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inedible": {
+    "def": [
+      {
+        "definition": "Not good for food.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ineffable": {
+    "def": [
+      {
+        "definition": "Unutterable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inefficient": {
+    "def": [
+      {
+        "definition": "Not accomplishing an intended purpose.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inefficiency": {
+    "def": [
+      {
+        "definition": "That which does not accomplish an intended purpose.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ineligible": {
+    "def": [
+      {
+        "definition": "Not suitable to be selected or chosen.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inept": {
+    "def": [
+      {
+        "definition": "Not fit or suitable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inert": {
+    "def": [
+      {
+        "definition": "Inanimate.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inestimable": {
+    "def": [
+      {
+        "definition": "Above price.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inevitable": {
+    "def": [
+      {
+        "definition": "Unavoidable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexcusable": {
+    "def": [
+      {
+        "definition": "Not to be justified.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexhaustible": {
+    "def": [
+      {
+        "definition": "So large or furnishing so great a supply as not to be emptied, wasted,",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexorable": {
+    "def": [
+      {
+        "definition": "Unrelenting.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexpedient": {
+    "def": [
+      {
+        "definition": "Unadvisable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexpensive": {
+    "def": [
+      {
+        "definition": "Low-priced.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexperience": {
+    "def": [
+      {
+        "definition": "Lack of or deficiency in experience.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inexplicable": {
+    "def": [
+      {
+        "definition": "Such as can not be made plain.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inexpressible": {
+    "def": [
+      {
+        "definition": "Unutterable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inextensible": {
+    "def": [
+      {
+        "definition": "Of unchangeable length or area.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infallible": {
+    "def": [
+      {
+        "definition": "Exempt from error of judgment, as in opinion or statement.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infamous": {
+    "def": [
+      {
+        "definition": "Publicly branded or notorious, as for vice, or crime.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infamy": {
+    "def": [
+      {
+        "definition": "Total loss or destitution of honor or reputation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inference": {
+    "def": [
+      {
+        "definition": "The derivation of a judgment from any given material of knowledge on the",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infernal": {
+    "def": [
+      {
+        "definition": "Akin to or befitting hell or its occupants.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infest": {
+    "def": [
+      {
+        "definition": "To be present in such numbers as to be a source of annoyance, trouble, or",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "infidel": {
+    "def": [
+      {
+        "definition": "One who denies the existence of God.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infidelity": {
+    "def": [
+      {
+        "definition": "Disloyalty.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infinite": {
+    "def": [
+      {
+        "definition": "Measureless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infinity": {
+    "def": [
+      {
+        "definition": "Boundless or immeasurable extension or duration.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infirm": {
+    "def": [
+      {
+        "definition": "Lacking in bodily or mental strength.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infirmary": {
+    "def": [
+      {
+        "definition": "A place for the reception or treatment of the sick.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infirmity": {
+    "def": [
+      {
+        "definition": "A physical, mental, or moral weakness or flaw.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inflammable": {
+    "def": [
+      {
+        "definition": "Easily set on fire or excited.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inflammation": {
+    "def": [
+      {
+        "definition": "A morbid process in some part of the body characterized by heat, swelling,",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inflexible": {
+    "def": [
+      {
+        "definition": "That can not be altered or varied.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "influence": {
+    "def": [
+      {
+        "definition": "Ability to sway the will of another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "influential": {
+    "def": [
+      {
+        "definition": "Having the power to sway the will of another.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "influx": {
+    "def": [
+      {
+        "definition": "Infusion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infrequence": {
+    "def": [
+      {
+        "definition": "Rareness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "infrequent": {
+    "def": [
+      {
+        "definition": "Uncommon.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "infringe": {
+    "def": [
+      {
+        "definition": "To trespass upon.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "infuse": {
+    "def": [
+      {
+        "definition": "To instill, introduce, or inculcate, as principles or qualities.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "infusion": {
+    "def": [
+      {
+        "definition": "The act of imbuing, or pouring in.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ingenious": {
+    "def": [
+      {
+        "definition": "Evincing skill, originality, or cleverness, as in contrivance or",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ingenuity": {
+    "def": [
+      {
+        "definition": "Cleverness in contriving, combining, or originating.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ingenuous": {
+    "def": [
+      {
+        "definition": "Candid, frank, or open in character or quality.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inglorious": {
+    "def": [
+      {
+        "definition": "Shameful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ingraft": {
+    "def": [
+      {
+        "definition": "To set or implant deeply and firmly.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "ingratiate": {
+    "def": [
+      {
+        "definition": "To win confidence or good graces for oneself.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "ingratitude": {
+    "def": [
+      {
+        "definition": "Insensibility to kindness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ingredient": {
+    "def": [
+      {
+        "definition": "Component.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inherence": {
+    "def": [
+      {
+        "definition": "The state of being permanently existing in something.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inherent": {
+    "def": [
+      {
+        "definition": "Intrinsic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inhibit": {
+    "def": [
+      {
+        "definition": "To hold back or in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inhospitable": {
+    "def": [
+      {
+        "definition": "Not disposed to entertain strangers gratuitously.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inhuman": {
+    "def": [
+      {
+        "definition": "Savage.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inhume": {
+    "def": [
+      {
+        "definition": "To place in the earth, as a dead body.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inimical": {
+    "def": [
+      {
+        "definition": "Adverse.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "iniquity": {
+    "def": [
+      {
+        "definition": "Gross wrong or injustice.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "initiate": {
+    "def": [
+      {
+        "definition": "To perform the first act or rite.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inject": {
+    "def": [
+      {
+        "definition": "To introduce, as a fluid, by injection.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "injunction": {
+    "def": [
+      {
+        "definition": "Mandate.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inkling": {
+    "def": [
+      {
+        "definition": "A hint.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inland": {
+    "def": [
+      {
+        "definition": "Remote from the sea.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inlet": {
+    "def": [
+      {
+        "definition": "A small body of water leading into a larger.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inmost": {
+    "def": [
+      {
+        "definition": "Deepest within.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "innocuous": {
+    "def": [
+      {
+        "definition": "Harmless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "innovate": {
+    "def": [
+      {
+        "definition": "To introduce or strive to introduce new things.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "innuendo": {
+    "def": [
+      {
+        "definition": "Insinuation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "innumerable": {
+    "def": [
+      {
+        "definition": "Countless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inoffensive": {
+    "def": [
+      {
+        "definition": "Causing nothing displeasing or disturbing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inopportune": {
+    "def": [
+      {
+        "definition": "Unsuitable or inconvenient, especially as to time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inquire": {
+    "def": [
+      {
+        "definition": "To ask information about.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inquisition": {
+    "def": [
+      {
+        "definition": "A court or tribunal for examination and punishment of heretics.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inquisitive": {
+    "def": [
+      {
+        "definition": "Given to questioning, especially out of curiosity.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inquisitor": {
+    "def": [
+      {
+        "definition": "One who makes an investigation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inroad": {
+    "def": [
+      {
+        "definition": "Forcible encroachment or trespass.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insatiable": {
+    "def": [
+      {
+        "definition": "That desires or craves immoderately or unappeasably.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inscribe": {
+    "def": [
+      {
+        "definition": "To enter in a book, or on a list, roll, or document, by writing.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inscrutable": {
+    "def": [
+      {
+        "definition": "Impenetrably mysterious or profound.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insecure": {
+    "def": [
+      {
+        "definition": "Not assured of safety.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insensible": {
+    "def": [
+      {
+        "definition": "Imperceptible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insentient": {
+    "def": [
+      {
+        "definition": "Lacking the power of feeling or perceiving.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inseparable": {
+    "def": [
+      {
+        "definition": "That can not be separated.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insidious": {
+    "def": [
+      {
+        "definition": "Working ill by slow and stealthy means.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insight": {
+    "def": [
+      {
+        "definition": "Intellectual discernment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insignificance": {
+    "def": [
+      {
+        "definition": "Lack of import or of importance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insignificant": {
+    "def": [
+      {
+        "definition": "Without importance, force, or influence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insinuate": {
+    "def": [
+      {
+        "definition": "To imply.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "insipid": {
+    "def": [
+      {
+        "definition": "Tasteless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insistence": {
+    "def": [
+      {
+        "definition": "Urgency.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insistent": {
+    "def": [
+      {
+        "definition": "Urgent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insolence": {
+    "def": [
+      {
+        "definition": "Pride or haughtiness exhibited in contemptuous and overbearing treatment of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insolent": {
+    "def": [
+      {
+        "definition": "Impudent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insomnia": {
+    "def": [
+      {
+        "definition": "Sleeplessness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inspector": {
+    "def": [
+      {
+        "definition": "An official appointed to examine or oversee any matter of public interest or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "instance": {
+    "def": [
+      {
+        "definition": "A single occurrence or happening of a given kind.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "instant": {
+    "def": [
+      {
+        "definition": "A very brief portion of time.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "instantaneous": {
+    "def": [
+      {
+        "definition": "Done without perceptible lapse of time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "instigate": {
+    "def": [
+      {
+        "definition": "To provoke.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "instigator": {
+    "def": [
+      {
+        "definition": "One who incites to evil.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "instill": {
+    "def": [
+      {
+        "definition": "To infuse.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "instructive": {
+    "def": [
+      {
+        "definition": "Conveying knowledge.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insufficiency": {
+    "def": [
+      {
+        "definition": "Inadequacy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insufficient": {
+    "def": [
+      {
+        "definition": "Inadequate for some need, purpose, or use.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insular": {
+    "def": [
+      {
+        "definition": "Pertaining to an island.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insulate": {
+    "def": [
+      {
+        "definition": "To place in a detached state or situation.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "insuperable": {
+    "def": [
+      {
+        "definition": "Invincible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insuppressible": {
+    "def": [
+      {
+        "definition": "Incapable of being concealed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "insurgence": {
+    "def": [
+      {
+        "definition": "Uprising.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insurgent": {
+    "def": [
+      {
+        "definition": "One who takes part in forcible opposition to the constituted authorities of a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "insurrection": {
+    "def": [
+      {
+        "definition": "The state of being in active resistance to authority.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intangible": {
+    "def": [
+      {
+        "definition": "Not perceptible to the touch.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "integrity": {
+    "def": [
+      {
+        "definition": "Uprightness of character and soundness of moral principle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intellect": {
+    "def": [
+      {
+        "definition": "The faculty of perception or thought.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intellectual": {
+    "def": [
+      {
+        "definition": "Characterized by intelligence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intelligence": {
+    "def": [
+      {
+        "definition": "Capacity to know or understand.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intelligible": {
+    "def": [
+      {
+        "definition": "Comprehensible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intemperance": {
+    "def": [
+      {
+        "definition": "Immoderate action or indulgence, as of the appetites.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intension": {
+    "def": [
+      {
+        "definition": "The act of stringing or stretching, or state of being strained.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intensive": {
+    "def": [
+      {
+        "definition": "Adding emphasis or force.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intention": {
+    "def": [
+      {
+        "definition": "That upon which the mind is set.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interact": {
+    "def": [
+      {
+        "definition": "To act reciprocally.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intercede": {
+    "def": [
+      {
+        "definition": "To mediate between persons.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intercept": {
+    "def": [
+      {
+        "definition": "To interrupt the course of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intercession": {
+    "def": [
+      {
+        "definition": "Entreaty in behalf of others.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intercessor": {
+    "def": [
+      {
+        "definition": "A mediator.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interdict": {
+    "def": [
+      {
+        "definition": "Authoritative act of prohibition.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interim": {
+    "def": [
+      {
+        "definition": "Time between acts or periods.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interlocutor": {
+    "def": [
+      {
+        "definition": "One who takes part in a conversation or oral discussion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interlude": {
+    "def": [
+      {
+        "definition": "An action or event considered as coming between others of greater length.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intermediate": {
+    "def": [
+      {
+        "definition": "Being in a middle place or degree or between extremes.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "interminable": {
+    "def": [
+      {
+        "definition": "Having no limit or end.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intermission": {
+    "def": [
+      {
+        "definition": "A recess.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intermit": {
+    "def": [
+      {
+        "definition": "To cause to cease temporarily.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intermittent": {
+    "def": [
+      {
+        "definition": "A temporary discontinuance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "interpolation": {
+    "def": [
+      {
+        "definition": "Verbal interference.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interpose": {
+    "def": [
+      {
+        "definition": "To come between other things or persons.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "interposition": {
+    "def": [
+      {
+        "definition": "A coming between.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interpreter": {
+    "def": [
+      {
+        "definition": "A person who makes intelligible the speech of a foreigner by oral",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interrogate": {
+    "def": [
+      {
+        "definition": "To examine formally by questioning.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "interrogative": {
+    "def": [
+      {
+        "definition": "Having the nature or form of a question.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "interrogatory": {
+    "def": [
+      {
+        "definition": "A question or inquiry.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "interrupt": {
+    "def": [
+      {
+        "definition": "To stop while in progress.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intersect": {
+    "def": [
+      {
+        "definition": "To cut through or into so as to divide.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intervale": {
+    "def": [
+      {
+        "definition": "A low tract of land between hills, especially along a river.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intervene": {
+    "def": [
+      {
+        "definition": "To interfere for some end.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intestacy": {
+    "def": [
+      {
+        "definition": "The condition resulting from one's dying not having made a valid will.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intestate": {
+    "def": [
+      {
+        "definition": "Not having made a valid will.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intestine": {
+    "def": [
+      {
+        "definition": "That part of the digestive tube below or behind the stomach, extending to the",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intimacy": {
+    "def": [
+      {
+        "definition": "Close or confidential friendship.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intimidate": {
+    "def": [
+      {
+        "definition": "To cause to become frightened.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intolerable": {
+    "def": [
+      {
+        "definition": "Insufferable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intolerance": {
+    "def": [
+      {
+        "definition": "Inability or unwillingness to bear or endure.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intolerant": {
+    "def": [
+      {
+        "definition": "Bigoted.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intoxicant": {
+    "def": [
+      {
+        "definition": "Anything that unduly exhilarates or excites.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intoxicate": {
+    "def": [
+      {
+        "definition": "To make drunk.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intracellular": {
+    "def": [
+      {
+        "definition": "Occurring or situated within a cell.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intramural": {
+    "def": [
+      {
+        "definition": "Situated within the walls of a city.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intrepid": {
+    "def": [
+      {
+        "definition": "Fearless and bold.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intricacy": {
+    "def": [
+      {
+        "definition": "Perplexity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intricate": {
+    "def": [
+      {
+        "definition": "Difficult to follow or understand.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "intrigue": {
+    "def": [
+      {
+        "definition": "A plot or scheme, usually complicated and intended to accomplish something by",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intrinsic": {
+    "def": [
+      {
+        "definition": "Inherent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "introductory": {
+    "def": [
+      {
+        "definition": "Preliminary.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "introgression": {
+    "def": [
+      {
+        "definition": "Entrance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intromit": {
+    "def": [
+      {
+        "definition": "To insert.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "introspect": {
+    "def": [
+      {
+        "definition": "To look into.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "introspection": {
+    "def": [
+      {
+        "definition": "The act of observing and analyzing one's own thoughts and feelings.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "introversion": {
+    "def": [
+      {
+        "definition": "The act of turning or directing inward, physically or mentally.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "introvert": {
+    "def": [
+      {
+        "definition": "To turn within.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intrude": {
+    "def": [
+      {
+        "definition": "To come in without leave or license.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "intrusion": {
+    "def": [
+      {
+        "definition": "The act of entering without warrant or invitation; encroachment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "intuition": {
+    "def": [
+      {
+        "definition": "Instinctive knowledge or feeling.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inundate": {
+    "def": [
+      {
+        "definition": "To fill with an overflowing abundance.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inundation": {
+    "def": [
+      {
+        "definition": "Flood.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inure": {
+    "def": [
+      {
+        "definition": "To harden or toughen by use, exercise, or exposure.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "invalid": {
+    "def": [
+      {
+        "definition": "One who is disabled by illness or injury.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "invalidate": {
+    "def": [
+      {
+        "definition": "To render of no force or effect.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "invaluable": {
+    "def": [
+      {
+        "definition": "Exceedingly precious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "invariable": {
+    "def": [
+      {
+        "definition": "Unchangeable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "invasion": {
+    "def": [
+      {
+        "definition": "Encroachment, as by an act of intrusion or trespass.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "invective": {
+    "def": [
+      {
+        "definition": "An utterance intended to cast censure, or reproach.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inveigh": {
+    "def": [
+      {
+        "definition": "To utter vehement censure or invective.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "inventive": {
+    "def": [
+      {
+        "definition": "Quick at contrivance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inverse": {
+    "def": [
+      {
+        "definition": "Contrary in tendency or direction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inversion": {
+    "def": [
+      {
+        "definition": "Change of order so that the first shall become last and the last first.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "invert": {
+    "def": [
+      {
+        "definition": "To turn inside out, upside down, or in opposite direction.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "investigator": {
+    "def": [
+      {
+        "definition": "One who investigates.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "investor": {
+    "def": [
+      {
+        "definition": "One who invests money.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "inveterate": {
+    "def": [
+      {
+        "definition": "Habitual.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "invidious": {
+    "def": [
+      {
+        "definition": "Showing or feeling envy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "invigorate": {
+    "def": [
+      {
+        "definition": "To animate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "invincible": {
+    "def": [
+      {
+        "definition": "Not to be conquered, subdued, or overcome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inviolable": {
+    "def": [
+      {
+        "definition": "Incapable of being injured or disturbed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "invoke": {
+    "def": [
+      {
+        "definition": "To call on for assistance or protection.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "involuntary": {
+    "def": [
+      {
+        "definition": "Unwilling.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "involution": {
+    "def": [
+      {
+        "definition": "Complication.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "involve": {
+    "def": [
+      {
+        "definition": "To draw into entanglement, literally or figuratively.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "invulnerable": {
+    "def": [
+      {
+        "definition": "That can not be wounded or hurt.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "inwardly": {
+    "def": [
+      {
+        "definition": "With no outward manifestation.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "iota": {
+    "def": [
+      {
+        "definition": "A small or insignificant mark or part.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "irascible": {
+    "def": [
+      {
+        "definition": "Prone to anger.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irate": {
+    "def": [
+      {
+        "definition": "Moved to anger.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ire": {
+    "def": [
+      {
+        "definition": "Wrath.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "iridescence": {
+    "def": [
+      {
+        "definition": "A many-colored appearance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "iridescent": {
+    "def": [
+      {
+        "definition": "Exhibiting changing rainbow-colors due to the interference of the light.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irk": {
+    "def": [
+      {
+        "definition": "To afflict with pain, vexation, or fatigue.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "irksome": {
+    "def": [
+      {
+        "definition": "Wearisome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irony": {
+    "def": [
+      {
+        "definition": "Censure or ridicule under cover of praise or compliment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "irradiance": {
+    "def": [
+      {
+        "definition": "Luster.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "irradiate": {
+    "def": [
+      {
+        "definition": "To render clear and intelligible.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "irrational": {
+    "def": [
+      {
+        "definition": "Not possessed of reasoning powers or understanding.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irreducible": {
+    "def": [
+      {
+        "definition": "That can not be lessened.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irrefragable": {
+    "def": [
+      {
+        "definition": "That can not be refuted or disproved.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irrefrangible": {
+    "def": [
+      {
+        "definition": "That can not be broken or violated.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irrelevant": {
+    "def": [
+      {
+        "definition": "Inapplicable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irreligious": {
+    "def": [
+      {
+        "definition": "Indifferent or opposed to religion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irreparable": {
+    "def": [
+      {
+        "definition": "That can not be rectified or made amends for.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irrepressible": {
+    "def": [
+      {
+        "definition": "That can not be restrained or kept down.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irresistible": {
+    "def": [
+      {
+        "definition": "That can not be successfully withstood or opposed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irresponsible": {
+    "def": [
+      {
+        "definition": "Careless of or unable to meet responsibilities.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irreverence": {
+    "def": [
+      {
+        "definition": "The quality showing or expressing a deficiency of veneration, especially",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "irreverent": {
+    "def": [
+      {
+        "definition": "Showing or expressing a deficiency of veneration, especially for sacred",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irreverential": {
+    "def": [
+      {
+        "definition": "Showing or expressing a deficiency of veneration, especially for sacred",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irreversible": {
+    "def": [
+      {
+        "definition": "Irrevocable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irrigant": {
+    "def": [
+      {
+        "definition": "Serving to water lands by artificial means.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irrigate": {
+    "def": [
+      {
+        "definition": "To water, as land, by ditches or other artificial means.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "irritable": {
+    "def": [
+      {
+        "definition": "Showing impatience or ill temper on little provocation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "irritancy": {
+    "def": [
+      {
+        "definition": "The quality of producing vexation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "irritant": {
+    "def": [
+      {
+        "definition": "A mechanical, chemical, or pathological agent of inflammation, pain, or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "irritate": {
+    "def": [
+      {
+        "definition": "To excite ill temper or impatience in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "irruption": {
+    "def": [
+      {
+        "definition": "Sudden invasion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "isle": {
+    "def": [
+      {
+        "definition": "An island.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "islet": {
+    "def": [
+      {
+        "definition": "A little island.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "isobar": {
+    "def": [
+      {
+        "definition": "A line joining points at which the barometric pressure is the same at a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "isochronous": {
+    "def": [
+      {
+        "definition": "Relating to or denoting equal intervals of time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "isolate": {
+    "def": [
+      {
+        "definition": "To separate from others of its kind.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "isothermal": {
+    "def": [
+      {
+        "definition": "Having or marking equality of temperature.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "itinerant": {
+    "def": [
+      {
+        "definition": "Wandering.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "itinerary": {
+    "def": [
+      {
+        "definition": "A detailed account or diary of a journey.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "itinerate": {
+    "def": [
+      {
+        "definition": "To wander from place to place.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  }
+}

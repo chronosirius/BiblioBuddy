@@ -1,0 +1,3341 @@
+{
+  "s-head": {
+    "def": [
+      {
+        "definition": "A human skull as a symbol of death.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sacrifice": {
+    "def": [
+      {
+        "definition": "To make an offering of to deity, especially by presenting on an altar.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sacrificial": {
+    "def": [
+      {
+        "definition": "Offering or offered as an atonement for sin.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sacrilege": {
+    "def": [
+      {
+        "definition": "The act of violating or profaning anything sacred.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sacrilegious": {
+    "def": [
+      {
+        "definition": "Impious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "safeguard": {
+    "def": [
+      {
+        "definition": "To protect.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sagacious": {
+    "def": [
+      {
+        "definition": "Able to discern and distinguish with wise perception.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "salacious": {
+    "def": [
+      {
+        "definition": "Having strong sexual desires.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "salience": {
+    "def": [
+      {
+        "definition": "The condition of standing out distinctly.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "salient": {
+    "def": [
+      {
+        "definition": "Standing out prominently.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "saline": {
+    "def": [
+      {
+        "definition": "Constituting or consisting of salt.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "salutary": {
+    "def": [
+      {
+        "definition": "Beneficial.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "salutation": {
+    "def": [
+      {
+        "definition": "Any form of greeting, hailing, or welcome, whether by word or act.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "salutatory": {
+    "def": [
+      {
+        "definition": "The opening oration at the commencement in American colleges.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "salvage": {
+    "def": [
+      {
+        "definition": "Any act of saving property.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "salvo": {
+    "def": [
+      {
+        "definition": "A salute given by firing all the guns, as at the funeral of an officer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sanctimonious": {
+    "def": [
+      {
+        "definition": "Making an ostentatious display or hypocritical pretense of holiness or",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sanction": {
+    "def": [
+      {
+        "definition": "To approve authoritatively.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sanctity": {
+    "def": [
+      {
+        "definition": "Holiness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sanguinary": {
+    "def": [
+      {
+        "definition": "Bloody.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sanguine": {
+    "def": [
+      {
+        "definition": "Having the color of blood.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sanguineous": {
+    "def": [
+      {
+        "definition": "Consisting of blood.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sapid": {
+    "def": [
+      {
+        "definition": "Affecting the sense of taste.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sapience": {
+    "def": [
+      {
+        "definition": "Deep wisdom or knowledge.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sapient": {
+    "def": [
+      {
+        "definition": "Possessing wisdom.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sapiential": {
+    "def": [
+      {
+        "definition": "Possessing wisdom.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "saponaceous": {
+    "def": [
+      {
+        "definition": "Having the nature or quality of soap.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sarcasm": {
+    "def": [
+      {
+        "definition": "Cutting and reproachful language.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sarcophagus": {
+    "def": [
+      {
+        "definition": "A stone coffin or a chest-like tomb.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sardonic": {
+    "def": [
+      {
+        "definition": "Scornfully or bitterly sarcastic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "satiate": {
+    "def": [
+      {
+        "definition": "To satisfy fully the appetite or desire of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "satire": {
+    "def": [
+      {
+        "definition": "The employment of sarcasm, irony, or keenness of wit in ridiculing vices.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "satiric": {
+    "def": [
+      {
+        "definition": "Resembling poetry, in which vice, incapacity ,or corruption is held up to",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "satirize": {
+    "def": [
+      {
+        "definition": "To treat with sarcasm or derisive wit.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "satyr": {
+    "def": [
+      {
+        "definition": "A very lascivious person.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "savage": {
+    "def": [
+      {
+        "definition": "A wild and uncivilized human being.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "savor": {
+    "def": [
+      {
+        "definition": "To perceive by taste or smell.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "scabbard": {
+    "def": [
+      {
+        "definition": "The sheath of a sword or similar bladed weapon.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scarcity": {
+    "def": [
+      {
+        "definition": "Insufficiency of supply for needs or ordinary demands.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scholarly": {
+    "def": [
+      {
+        "definition": "Characteristic of an erudite person.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "scholastic": {
+    "def": [
+      {
+        "definition": "Pertaining to education or schools.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "scintilla": {
+    "def": [
+      {
+        "definition": "The faintest ray.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scintillate": {
+    "def": [
+      {
+        "definition": "To emit or send forth sparks or little flashes of light.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "scope": {
+    "def": [
+      {
+        "definition": "A range of action or view.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scoundrel": {
+    "def": [
+      {
+        "definition": "A man without principle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scribble": {
+    "def": [
+      {
+        "definition": "Hasty, careless writing.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scribe": {
+    "def": [
+      {
+        "definition": "One who writes or is skilled in writing.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "script": {
+    "def": [
+      {
+        "definition": "Writing or handwriting of the ordinary cursive form.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scriptural": {
+    "def": [
+      {
+        "definition": "Pertaining to, contained in, or warranted by the Holy Scriptures.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "scruple": {
+    "def": [
+      {
+        "definition": "Doubt or uncertainty regarding a question of moral right or duty.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "scrupulous": {
+    "def": [
+      {
+        "definition": "Cautious in action for fear of doing wrong.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "scurrilous": {
+    "def": [
+      {
+        "definition": "Grossly indecent or vulgar.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "scuttle": {
+    "def": [
+      {
+        "definition": "To sink (a ship) by making holes in the bottom.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "scythe": {
+    "def": [
+      {
+        "definition": "A long curved blade for mowing, reaping, etc.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seance": {
+    "def": [
+      {
+        "definition": "A meeting of spirituals for consulting spirits.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sear": {
+    "def": [
+      {
+        "definition": "To burn on the surface.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sebaceous": {
+    "def": [
+      {
+        "definition": "Pertaining to or appearing like fat.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "secant": {
+    "def": [
+      {
+        "definition": "Cutting, especially into two parts.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "secede": {
+    "def": [
+      {
+        "definition": "To withdraw from union or association, especially from a political or religious",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "secession": {
+    "def": [
+      {
+        "definition": "Voluntary withdrawal from fellowship, especially from political or religious",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seclude": {
+    "def": [
+      {
+        "definition": "To place, keep, or withdraw from the companionship of others.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "seclusion": {
+    "def": [
+      {
+        "definition": "Solitude.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "secondary": {
+    "def": [
+      {
+        "definition": "Less important or effective than that which is primary.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "secondly": {
+    "def": [
+      {
+        "definition": "In the second place in order or succession.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "second-rate": {
+    "def": [
+      {
+        "definition": "Second in quality, size, rank, importance, etc.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "secrecy": {
+    "def": [
+      {
+        "definition": "Concealment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "secretary": {
+    "def": [
+      {
+        "definition": "One who attends to correspondence, keeps records. or does other writing for",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "secretive": {
+    "def": [
+      {
+        "definition": "Having a tendency to conceal.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sedate": {
+    "def": [
+      {
+        "definition": "Even-tempered.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sedentary": {
+    "def": [
+      {
+        "definition": "Involving or requiring much sitting.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sediment": {
+    "def": [
+      {
+        "definition": "Matter that settles to the bottom of a liquid.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sedition": {
+    "def": [
+      {
+        "definition": "Conduct directed against public order and the tranquillity of the state.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seditious": {
+    "def": [
+      {
+        "definition": "Promotive of conduct directed against public order and the tranquillity of",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "seduce": {
+    "def": [
+      {
+        "definition": "To entice to surrender chastity.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sedulous": {
+    "def": [
+      {
+        "definition": "Persevering in effort or endeavor.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "seer": {
+    "def": [
+      {
+        "definition": "A prophet.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seethe": {
+    "def": [
+      {
+        "definition": "To be violently excited or agitated.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "seignior": {
+    "def": [
+      {
+        "definition": "A title of honor or respectful address, equivalent to sir.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seismograph": {
+    "def": [
+      {
+        "definition": "An instrument for recording the phenomena of earthquakes.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seize": {
+    "def": [
+      {
+        "definition": "To catch or take hold of suddenly and forcibly.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "selective": {
+    "def": [
+      {
+        "definition": "Having the power of choice.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "self-respect": {
+    "def": [
+      {
+        "definition": "Rational self-esteem.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "semblance": {
+    "def": [
+      {
+        "definition": "Outward appearance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "semicivilized": {
+    "def": [
+      {
+        "definition": "Half-civilized.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "semiconscious": {
+    "def": [
+      {
+        "definition": "Partially conscious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "semiannual": {
+    "def": [
+      {
+        "definition": "Recurring at intervals of six months.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "semicircle": {
+    "def": [
+      {
+        "definition": "A half-circle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seminar": {
+    "def": [
+      {
+        "definition": "Any assemblage of pupils for real research in some specific study under a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "seminary": {
+    "def": [
+      {
+        "definition": "A special school, as of theology or pedagogics.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "senile": {
+    "def": [
+      {
+        "definition": "Peculiar to or proceeding from the weakness or infirmity of old age.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sensation": {
+    "def": [
+      {
+        "definition": "A condition of mind resulting from spiritual or inherent feeling.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sense": {
+    "def": [
+      {
+        "definition": "The signification conveyed by some word, phrase, or action.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sensibility": {
+    "def": [
+      {
+        "definition": "Power to perceive or feel.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sensitive": {
+    "def": [
+      {
+        "definition": "Easily affected by outside operations or influences.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sensorium": {
+    "def": [
+      {
+        "definition": "The sensory apparatus.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sensual": {
+    "def": [
+      {
+        "definition": "Pertaining to the body or the physical senses.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sensuous": {
+    "def": [
+      {
+        "definition": "Having a warm appreciation of the beautiful or of the refinements of luxury.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sentence": {
+    "def": [
+      {
+        "definition": "A related group of words containing a subject and a predicate and expressing a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sentience": {
+    "def": [
+      {
+        "definition": "Capacity for sensation or sense-perception.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sentient": {
+    "def": [
+      {
+        "definition": "Possessing the power of sense or sense-perception.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sentinel": {
+    "def": [
+      {
+        "definition": "Any guard or watch stationed for protection.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "separable": {
+    "def": [
+      {
+        "definition": "Capable of being disjoined or divided.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "separate": {
+    "def": [
+      {
+        "definition": "To take apart.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "separatist": {
+    "def": [
+      {
+        "definition": "A seceder.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "septennial": {
+    "def": [
+      {
+        "definition": "Recurring every seven years.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sepulcher": {
+    "def": [
+      {
+        "definition": "A burial-place.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sequacious": {
+    "def": [
+      {
+        "definition": "Ready to be led.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sequel": {
+    "def": [
+      {
+        "definition": "That which follows in consequence of what has previously happened.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sequence": {
+    "def": [
+      {
+        "definition": "The order in which a number or persons, things, or events follow one another",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sequent": {
+    "def": [
+      {
+        "definition": "Following in the order of time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sequester": {
+    "def": [
+      {
+        "definition": "To cause to withdraw or retire, as from society or public life.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sequestrate": {
+    "def": [
+      {
+        "definition": "To confiscate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sergeant": {
+    "def": [
+      {
+        "definition": "A non-commissioned military officer ranking next above a corporal.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sergeant-at-arms": {
+    "def": [
+      {
+        "definition": "An executive officer in legislative bodies who enforces the orders of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sergeant-major": {
+    "def": [
+      {
+        "definition": "The highest non-commissioned officer in a regiment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "service": {
+    "def": [
+      {
+        "definition": "Any work done for the benefit of another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "serviceable": {
+    "def": [
+      {
+        "definition": "Durable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "servitude": {
+    "def": [
+      {
+        "definition": "Slavery.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "severance": {
+    "def": [
+      {
+        "definition": "Separation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "severely": {
+    "def": [
+      {
+        "definition": "Extremely.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "sextet": {
+    "def": [
+      {
+        "definition": "A band of six singers or players.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sextuple": {
+    "def": [
+      {
+        "definition": "Multiplied by six.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sheer": {
+    "def": [
+      {
+        "definition": "Absolute.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "shiftless": {
+    "def": [
+      {
+        "definition": "Wanting in resource, energy, or executive ability.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "shrewd": {
+    "def": [
+      {
+        "definition": "Characterized by skill at understanding and profiting by circumstances.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "shriek": {
+    "def": [
+      {
+        "definition": "A sharp, shrill outcry or scream, caused by agony or terror.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "shrinkage": {
+    "def": [
+      {
+        "definition": "A contraction of any material into less bulk or dimension.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "shrivel": {
+    "def": [
+      {
+        "definition": "To draw or be drawn into wrinkles.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "shuffle": {
+    "def": [
+      {
+        "definition": "A mixing or changing the order of things.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sibilance": {
+    "def": [
+      {
+        "definition": "A hissing sound.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sibilant": {
+    "def": [
+      {
+        "definition": "Made with a hissing sound.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sibilate": {
+    "def": [
+      {
+        "definition": "To give a hissing sound to, as in pronouncing the letter s.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sidelong": {
+    "def": [
+      {
+        "definition": "Inclining or tending to one side.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sidereal": {
+    "def": [
+      {
+        "definition": "Pertaining to stars or constellations.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "siege": {
+    "def": [
+      {
+        "definition": "A beleaguerment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "significance": {
+    "def": [
+      {
+        "definition": "Importance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "significant": {
+    "def": [
+      {
+        "definition": "Important, especially as pointing something out.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "signification": {
+    "def": [
+      {
+        "definition": "The meaning conveyed by language, actions, or signs.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "similar": {
+    "def": [
+      {
+        "definition": "Bearing resemblance to one another or to something else.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "simile": {
+    "def": [
+      {
+        "definition": "A comparison which directs the mind to the representative object itself.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "similitude": {
+    "def": [
+      {
+        "definition": "Similarity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "simplify": {
+    "def": [
+      {
+        "definition": "To make less complex or difficult.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "simulate": {
+    "def": [
+      {
+        "definition": "Imitate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "simultaneous": {
+    "def": [
+      {
+        "definition": "Occurring, done, or existing at the same time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sinecure": {
+    "def": [
+      {
+        "definition": "Any position having emoluments with few or no duties.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "singe": {
+    "def": [
+      {
+        "definition": "To burn slightly or superficially.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sinister": {
+    "def": [
+      {
+        "definition": "Evil.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sinuosity": {
+    "def": [
+      {
+        "definition": "The quality of curving in and out.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sinuous": {
+    "def": [
+      {
+        "definition": "Curving in and out.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sinus": {
+    "def": [
+      {
+        "definition": "An opening or cavity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "siren": {
+    "def": [
+      {
+        "definition": "A sea-nymph, described by Homer as dwelling between the island of Circe and",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sirocco": {
+    "def": [
+      {
+        "definition": "hot winds from Africa.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sisterhood": {
+    "def": [
+      {
+        "definition": "A body of sisters united by some bond of sympathy or by a religious vow.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "skeptic": {
+    "def": [
+      {
+        "definition": "One who doubts any statements.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "skepticism": {
+    "def": [
+      {
+        "definition": "The entertainment of doubt concerning something.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "skiff": {
+    "def": [
+      {
+        "definition": "Usually, a small light boat propelled by oars.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "skirmish": {
+    "def": [
+      {
+        "definition": "Desultory fighting between advanced detachments of two armies.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sleight": {
+    "def": [
+      {
+        "definition": "A trick or feat so deftly done that the manner of performance escapes",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "slight": {
+    "def": [
+      {
+        "definition": "Of a small importance or significance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "slothful": {
+    "def": [
+      {
+        "definition": "Lazy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sluggard": {
+    "def": [
+      {
+        "definition": "A person habitually lazy or idle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sociable": {
+    "def": [
+      {
+        "definition": "Inclined to seek company.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "socialism": {
+    "def": [
+      {
+        "definition": "A theory of civil polity that aims to secure the reconstruction of society.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "socialist": {
+    "def": [
+      {
+        "definition": "One who advocates reconstruction of society by collective ownership of land",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sociology": {
+    "def": [
+      {
+        "definition": "The philosophical study of society.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sol": {
+    "def": [
+      {
+        "definition": "The sun.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "solace": {
+    "def": [
+      {
+        "definition": "Comfort in grief, trouble, or calamity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "solar": {
+    "def": [
+      {
+        "definition": "Pertaining to the sun.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "solder": {
+    "def": [
+      {
+        "definition": "A fusible alloy used for joining metallic surfaces or margins.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "soldier": {
+    "def": [
+      {
+        "definition": "A person engaged in military service.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "solecism": {
+    "def": [
+      {
+        "definition": "Any violation of established rules or customs.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "solicitor": {
+    "def": [
+      {
+        "definition": "One who represents a client in court of justice; an attorney.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "solicitude": {
+    "def": [
+      {
+        "definition": "Uneasiness of mind occasioned by desire, anxiety, or fear.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "soliloquy": {
+    "def": [
+      {
+        "definition": "A monologue.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "solstice": {
+    "def": [
+      {
+        "definition": "The time of year when the sun is at its greatest declination.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "soluble": {
+    "def": [
+      {
+        "definition": "Capable of being dissolved, as in a fluid.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "solvent": {
+    "def": [
+      {
+        "definition": "Having sufficient funds to pay all debts.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "somber": {
+    "def": [
+      {
+        "definition": "Gloomy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "somniferous": {
+    "def": [
+      {
+        "definition": "Tending to produce sleep.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "somnolence": {
+    "def": [
+      {
+        "definition": "Oppressive drowsiness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "somnolent": {
+    "def": [
+      {
+        "definition": "Sleepy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sonata": {
+    "def": [
+      {
+        "definition": "An instrumental composition.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sonnet": {
+    "def": [
+      {
+        "definition": "A poem of fourteen decasyllabic or octosyllabiclines expressing two successive",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sonorous": {
+    "def": [
+      {
+        "definition": "Resonant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "soothsayer": {
+    "def": [
+      {
+        "definition": "One who claims to have supernatural insight or foresight.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sophism": {
+    "def": [
+      {
+        "definition": "A false argument understood to be such by the reasoner himself and",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sophistical": {
+    "def": [
+      {
+        "definition": "Fallacious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sophisticate": {
+    "def": [
+      {
+        "definition": "To deprive of simplicity of mind or manner.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sophistry": {
+    "def": [
+      {
+        "definition": "Reasoning sound in appearance only, especially when designedly deceptive.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "soprano": {
+    "def": [
+      {
+        "definition": "A woman's or boy's voice of high range.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sorcery": {
+    "def": [
+      {
+        "definition": "Witchcraft.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sordid": {
+    "def": [
+      {
+        "definition": "Of degraded character or nature.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "souvenir": {
+    "def": [
+      {
+        "definition": "A token of remembrance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sparse": {
+    "def": [
+      {
+        "definition": "Thinly diffused.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "spartan": {
+    "def": [
+      {
+        "definition": "Exceptionally brave; rigorously severe.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "spasmodic": {
+    "def": [
+      {
+        "definition": "Convulsive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "specialize": {
+    "def": [
+      {
+        "definition": "To assume an individual or specific character, or adopt a singular or",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "specialty": {
+    "def": [
+      {
+        "definition": "An employment limited to one particular line of work.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "specie": {
+    "def": [
+      {
+        "definition": "A coin or coins of gold, silver, copper, or other metal.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "species": {
+    "def": [
+      {
+        "definition": "A classificatory group of animals or plants subordinate to a genus.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "specimen": {
+    "def": [
+      {
+        "definition": "One of a class of persons or things regarded as representative of the class.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "specious": {
+    "def": [
+      {
+        "definition": "Plausible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "spectator": {
+    "def": [
+      {
+        "definition": "One who beholds or looks on.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "specter": {
+    "def": [
+      {
+        "definition": "Apparition.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "spectrum": {
+    "def": [
+      {
+        "definition": "An image formed by rays of light or other radiant energy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "speculate": {
+    "def": [
+      {
+        "definition": "To pursue inquiries and form conjectures.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "speculator": {
+    "def": [
+      {
+        "definition": "One who makes an investment that involves a risk of loss, but also a chance",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sphericity": {
+    "def": [
+      {
+        "definition": "The state or condition of being a sphere.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "spheroid": {
+    "def": [
+      {
+        "definition": "A body having nearly the form of a sphere.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "spherometer": {
+    "def": [
+      {
+        "definition": "An instrument for measuring curvature or radii of spherical surfaces.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "spinous": {
+    "def": [
+      {
+        "definition": "Having spines.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "spinster": {
+    "def": [
+      {
+        "definition": "A woman who has never been married.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "spontaneous": {
+    "def": [
+      {
+        "definition": "Arising from inherent qualities or tendencies without external efficient",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sprightly": {
+    "def": [
+      {
+        "definition": "Vivacious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "spurious": {
+    "def": [
+      {
+        "definition": "Not genuine.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "squabble": {
+    "def": [
+      {
+        "definition": "To quarrel.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "squalid": {
+    "def": [
+      {
+        "definition": "Having a dirty, mean, poverty-stricken appearance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "squatter": {
+    "def": [
+      {
+        "definition": "One who settles on land without permission or right.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stagnant": {
+    "def": [
+      {
+        "definition": "Not flowing: said of water, as in a pool.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stagnate": {
+    "def": [
+      {
+        "definition": "To become dull or inert.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "stagnation": {
+    "def": [
+      {
+        "definition": "The condition of not flowing or not changing.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stagy": {
+    "def": [
+      {
+        "definition": "Having a theatrical manner.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "staid": {
+    "def": [
+      {
+        "definition": "Of a steady and sober character.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stallion": {
+    "def": [
+      {
+        "definition": "An uncastrated male horse, commonly one kept for breeding.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stanchion": {
+    "def": [
+      {
+        "definition": "A vertical bar, or a pair of bars, used to confine cattle in a stall.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stanza": {
+    "def": [
+      {
+        "definition": "A group of rimed lines, usually forming one of a series of similar divisions in",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "statecraft": {
+    "def": [
+      {
+        "definition": "The art of conducting state affairs.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "static": {
+    "def": [
+      {
+        "definition": "Pertaining to or designating bodies at rest or forces in equilibrium.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "statics": {
+    "def": [
+      {
+        "definition": "The branch of mechanics that treats of the relations that subsist among forces",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stationary": {
+    "def": [
+      {
+        "definition": "Not moving.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "statistician": {
+    "def": [
+      {
+        "definition": "One who is skilled in collecting and tabulating numerical facts.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "statuesque": {
+    "def": [
+      {
+        "definition": "Having the grace, pose, or quietude of a statue.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "statuette": {
+    "def": [
+      {
+        "definition": "A figurine.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stature": {
+    "def": [
+      {
+        "definition": "The natural height of an animal body.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "statute": {
+    "def": [
+      {
+        "definition": "Any authoritatively declared rule, ordinance, decree, or law.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stealth": {
+    "def": [
+      {
+        "definition": "A concealed manner of acting.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stellar": {
+    "def": [
+      {
+        "definition": "Pertaining to the stars.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "steppe": {
+    "def": [
+      {
+        "definition": "One of the extensive plains in Russia and Siberia.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sterling": {
+    "def": [
+      {
+        "definition": "Genuine.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stifle": {
+    "def": [
+      {
+        "definition": "To smother.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "stigma": {
+    "def": [
+      {
+        "definition": "A mark of infamy or token of disgrace attaching to a person as the result of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stiletto": {
+    "def": [
+      {
+        "definition": "A small dagger.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stimulant": {
+    "def": [
+      {
+        "definition": "Anything that rouses to activity or to quickened action.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stimulate": {
+    "def": [
+      {
+        "definition": "To rouse to activity or to quickened action.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "stimulus": {
+    "def": [
+      {
+        "definition": "Incentive.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stingy": {
+    "def": [
+      {
+        "definition": "Cheap, unwilling to spend money.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stipend": {
+    "def": [
+      {
+        "definition": "A definite amount paid at stated periods in compensation for services or as an",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stoicism": {
+    "def": [
+      {
+        "definition": "The principles or the practice of the Stoics-being very even tempered in",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stolid": {
+    "def": [
+      {
+        "definition": "Expressing no power of feeling or perceiving.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "strait": {
+    "def": [
+      {
+        "definition": "A narrow passage of water connecting two larger bodies of water.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stratagem": {
+    "def": [
+      {
+        "definition": "Any clever trick or device for obtaining an advantage.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stratum": {
+    "def": [
+      {
+        "definition": "A natural or artificial layer, bed, or thickness of any substance or material.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "streamlet": {
+    "def": [
+      {
+        "definition": "Rivulet.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stringency": {
+    "def": [
+      {
+        "definition": "Strictness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "stringent": {
+    "def": [
+      {
+        "definition": "Rigid.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stripling": {
+    "def": [
+      {
+        "definition": "A mere youth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "studious": {
+    "def": [
+      {
+        "definition": "Having or showing devotion to the acquisition of knowledge.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stultify": {
+    "def": [
+      {
+        "definition": "To give an appearance of foolishness to.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "stupendous": {
+    "def": [
+      {
+        "definition": "Of prodigious size, bulk, or degree.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "stupor": {
+    "def": [
+      {
+        "definition": "Profound lethargy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suasion": {
+    "def": [
+      {
+        "definition": "The act of persuading.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suave": {
+    "def": [
+      {
+        "definition": "Smooth and pleasant in manner.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subacid": {
+    "def": [
+      {
+        "definition": "Somewhat sharp or biting.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subaquatic": {
+    "def": [
+      {
+        "definition": "Being, formed, or operating under water.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subconscious": {
+    "def": [
+      {
+        "definition": "Being or occurring in the mind, but without attendant consciousness or",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subjacent": {
+    "def": [
+      {
+        "definition": "Situated directly underneath.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subjection": {
+    "def": [
+      {
+        "definition": "The act of bringing into a state of submission.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "subjugate": {
+    "def": [
+      {
+        "definition": "To conquer.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "subliminal": {
+    "def": [
+      {
+        "definition": "Being beneath the threshold of consciousness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sublingual": {
+    "def": [
+      {
+        "definition": "Situated beneath the tongue.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "submarine": {
+    "def": [
+      {
+        "definition": "Existing, done, or operating beneath the surface of the sea.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "submerge": {
+    "def": [
+      {
+        "definition": "To place or plunge under water.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "submergence": {
+    "def": [
+      {
+        "definition": "The act of submerging.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "submersible": {
+    "def": [
+      {
+        "definition": "Capable of being put underwater.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "submersion": {
+    "def": [
+      {
+        "definition": "The act of submerging.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "submission": {
+    "def": [
+      {
+        "definition": "A yielding to the power or authority of another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "submittal": {
+    "def": [
+      {
+        "definition": "The act of submitting.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "subordinate": {
+    "def": [
+      {
+        "definition": "Belonging to an inferior order in a classification.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subsequent": {
+    "def": [
+      {
+        "definition": "Following in time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subservience": {
+    "def": [
+      {
+        "definition": "The quality, character, or condition of being servilely following",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "subservient": {
+    "def": [
+      {
+        "definition": "Servilely following another's behests.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subside": {
+    "def": [
+      {
+        "definition": "To relapse into a state of repose and tranquillity.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "subsist": {
+    "def": [
+      {
+        "definition": "To be maintained or sustained.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "subsistence": {
+    "def": [
+      {
+        "definition": "Sustenance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "substantive": {
+    "def": [
+      {
+        "definition": "Solid.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subtend": {
+    "def": [
+      {
+        "definition": "To extend opposite to.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "subterfuge": {
+    "def": [
+      {
+        "definition": "Evasion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "subterranean": {
+    "def": [
+      {
+        "definition": "Situated or occurring below the surface of the earth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subtle": {
+    "def": [
+      {
+        "definition": "Discriminating.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "subtrahend": {
+    "def": [
+      {
+        "definition": "That which is to be subtracted.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "subversion": {
+    "def": [
+      {
+        "definition": "An overthrow, as from the foundation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "subvert": {
+    "def": [
+      {
+        "definition": "To bring to ruin.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "succeed": {
+    "def": [
+      {
+        "definition": "To accomplish what is attempted or intended.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "success": {
+    "def": [
+      {
+        "definition": "A favorable or prosperous course or termination of anything attempted.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "successful": {
+    "def": [
+      {
+        "definition": "Having reached a high degree of worldly prosperity.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "successor": {
+    "def": [
+      {
+        "definition": "One who or that which takes the place of a predecessor or preceding thing.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "succinct": {
+    "def": [
+      {
+        "definition": "Concise.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "succulent": {
+    "def": [
+      {
+        "definition": "Juicy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "succumb": {
+    "def": [
+      {
+        "definition": "To cease to resist.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "sufferance": {
+    "def": [
+      {
+        "definition": "Toleration.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sufficiency": {
+    "def": [
+      {
+        "definition": "An ample or adequate supply.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suffrage": {
+    "def": [
+      {
+        "definition": "The right or privilege of voting.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suffuse": {
+    "def": [
+      {
+        "definition": "To cover or fill the surface of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "suggestible": {
+    "def": [
+      {
+        "definition": "That can be suggested.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "suggestive": {
+    "def": [
+      {
+        "definition": "Stimulating to thought or reflection.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "summary": {
+    "def": [
+      {
+        "definition": "An abstract.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sumptuous": {
+    "def": [
+      {
+        "definition": "Rich and costly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "superabundance": {
+    "def": [
+      {
+        "definition": "An excessive amount.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "superadd": {
+    "def": [
+      {
+        "definition": "To add in addition to what has been added.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "superannuate": {
+    "def": [
+      {
+        "definition": "To become deteriorated or incapacitated by long service.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "superb": {
+    "def": [
+      {
+        "definition": "Sumptuously elegant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "supercilious": {
+    "def": [
+      {
+        "definition": "Exhibiting haughty and careless contempt.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "superficial": {
+    "def": [
+      {
+        "definition": "Knowing and understanding only the ordinary and the obvious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "superfluity": {
+    "def": [
+      {
+        "definition": "That part of anything that is in excess of what is needed.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "superfluous": {
+    "def": [
+      {
+        "definition": "Being more than is needed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "superheat": {
+    "def": [
+      {
+        "definition": "To heat to excess.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "superintend": {
+    "def": [
+      {
+        "definition": "To have the charge and direction of, especially of some work or movement.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "superintendence": {
+    "def": [
+      {
+        "definition": "Direction and management.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "superintendent": {
+    "def": [
+      {
+        "definition": "One who has the charge and direction of, especially of some work or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "superlative": {
+    "def": [
+      {
+        "definition": "That which is of the highest possible excellence or eminence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "supernatural": {
+    "def": [
+      {
+        "definition": "Caused miraculously or by the immediate exercise of divine power.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "supernumerary": {
+    "def": [
+      {
+        "definition": "Superfluous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "supersede": {
+    "def": [
+      {
+        "definition": "To displace.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "supine": {
+    "def": [
+      {
+        "definition": "Lying on the back.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "supplant": {
+    "def": [
+      {
+        "definition": "To take the place of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "supple": {
+    "def": [
+      {
+        "definition": "Easily bent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "supplementary": {
+    "def": [
+      {
+        "definition": "Being an addition to.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "supplicant": {
+    "def": [
+      {
+        "definition": "One who asks humbly and earnestly.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "supplicate": {
+    "def": [
+      {
+        "definition": "To beg.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "supposition": {
+    "def": [
+      {
+        "definition": "Conjecture.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suppress": {
+    "def": [
+      {
+        "definition": "To prevent from being disclosed or punished.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "suppressible": {
+    "def": [
+      {
+        "definition": "Capable of being suppressed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "suppression": {
+    "def": [
+      {
+        "definition": "A forcible putting or keeping down.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "supramundane": {
+    "def": [
+      {
+        "definition": "Supernatural.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "surcharge": {
+    "def": [
+      {
+        "definition": "An additional amount charged.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "surety": {
+    "def": [
+      {
+        "definition": "Security for payment or performance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "surfeit": {
+    "def": [
+      {
+        "definition": "To feed to fullness or to satiety.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "surmise": {
+    "def": [
+      {
+        "definition": "To conjecture.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "surmount": {
+    "def": [
+      {
+        "definition": "To overcome by force of will.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "surreptitious": {
+    "def": [
+      {
+        "definition": "Clandestine.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "surrogate": {
+    "def": [
+      {
+        "definition": "One who or that which is substituted for or appointed to act in place of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "surround": {
+    "def": [
+      {
+        "definition": "To encircle.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "surveyor": {
+    "def": [
+      {
+        "definition": "A land-measurer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "susceptibility": {
+    "def": [
+      {
+        "definition": "A specific capability of feeling or emotion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "susceptible": {
+    "def": [
+      {
+        "definition": "Easily under a specified power or influence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "suspense": {
+    "def": [
+      {
+        "definition": "Uncertainty.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suspension": {
+    "def": [
+      {
+        "definition": "A hanging from a support.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "suspicious": {
+    "def": [
+      {
+        "definition": "Inclined to doubt or mistrust.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sustenance": {
+    "def": [
+      {
+        "definition": "Food.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "swarthy": {
+    "def": [
+      {
+        "definition": "Having a dark hue, especially a dark or sunburned complexion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sybarite": {
+    "def": [
+      {
+        "definition": "A luxurious person.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sycophant": {
+    "def": [
+      {
+        "definition": "A servile flatterer, especially of those in authority or influence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "syllabic": {
+    "def": [
+      {
+        "definition": "Consisting of that which is uttered in a single vocal impulse.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "syllabication": {
+    "def": [
+      {
+        "definition": "Division of words into that which is uttered in a single vocal impulse.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "syllable": {
+    "def": [
+      {
+        "definition": "That which is uttered in a single vocal impulse.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "syllabus": {
+    "def": [
+      {
+        "definition": "Outline of a subject, course, lecture, or treatise.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sylph": {
+    "def": [
+      {
+        "definition": "A slender, graceful young woman or girl.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "symmetrical": {
+    "def": [
+      {
+        "definition": "Well-balanced.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "symmetry": {
+    "def": [
+      {
+        "definition": "Relative proportion and harmony.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "sympathetic": {
+    "def": [
+      {
+        "definition": "Having a fellow-feeling for or like feelings with another or others.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "sympathize": {
+    "def": [
+      {
+        "definition": "To share the sentiments or mental states of another.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "symphonic": {
+    "def": [
+      {
+        "definition": "Characterized by a harmonious or agreeable mingling of sounds.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "symphonious": {
+    "def": [
+      {
+        "definition": "Marked by a harmonious or agreeable mingling of sounds.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "symphony": {
+    "def": [
+      {
+        "definition": "A harmonious or agreeable mingling of sounds.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "synchronism": {
+    "def": [
+      {
+        "definition": "Simultaneousness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "syndicate": {
+    "def": [
+      {
+        "definition": "An association of individuals united for the prosecution of some enterprise.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "syneresis": {
+    "def": [
+      {
+        "definition": "The coalescence of two vowels or syllables, as e'er for ever.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "synod": {
+    "def": [
+      {
+        "definition": "An ecclesiastical council.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "synonym": {
+    "def": [
+      {
+        "definition": "A word having the same or almost the same meaning as some other.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "synopsis": {
+    "def": [
+      {
+        "definition": "A syllabus or summary.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "systematic": {
+    "def": [
+      {
+        "definition": "Methodical.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  }
+}

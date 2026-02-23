@@ -1,0 +1,8602 @@
+{
+  "abase": {
+    "def": [
+      {
+        "definition": "to lower in rank, office, prestige, or esteem",
+        "type": "v."
+      },
+      {
+        "definition": "to lower physically",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abase",
+      "abased",
+      "abasement",
+      "abasements",
+      "abases",
+      "abasing"
+    ]
+  },
+  "abbess": {
+    "def": [
+      {
+        "definition": "a woman who is the superior of a convent of nuns",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abbess",
+      "abbesses"
+    ]
+  },
+  "abbey": {
+    "def": [
+      {
+        "definition": "a monastery ruled by an abbot",
+        "type": "n."
+      },
+      {
+        "definition": "a convent ruled by an abbess",
+        "type": "n."
+      },
+      {
+        "definition": "an abbey church",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abbey",
+      "abbeys"
+    ]
+  },
+  "abbot": {
+    "def": [
+      {
+        "definition": "the superior of a monastery for men",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abbot",
+      "abbots"
+    ]
+  },
+  "abdicate": {
+    "def": [
+      {
+        "definition": "to renounce a throne, high office, dignity, or function",
+        "type": "v."
+      },
+      {
+        "definition": "to relinquish (something, such as sovereign power) formally",
+        "type": "v."
+      },
+      {
+        "definition": "to cast off : discard",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abdicable",
+      "abdicate",
+      "abdicated",
+      "abdicates",
+      "abdicating",
+      "abdicator",
+      "abdicators"
+    ]
+  },
+  "abdomen": {
+    "def": [
+      {
+        "definition": "the part of the body between the thorax and the pelvis with the exception of the back —called also belly",
+        "type": "n."
+      },
+      {
+        "definition": "the cavity of the abdomen that is lined by peritoneum, is bounded above by the diaphragm, anteriorly by a wall of muscle and tissue, and posteriorly by the spinal column, is continuous below with the pelvic cavity, and contains many of the visceral organs and especially those involved in digestion (such as the stomach, liver, pancreas, kidneys, and intestines) : abdominal cavity",
+        "type": "n."
+      },
+      {
+        "definition": "the posterior section of the body behind the thorax in an arthropod",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abdomen",
+      "abdomens"
+    ]
+  },
+  "abdominal": {
+    "def": [
+      {
+        "definition": "of, relating to, or involving the  {dx}see also",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abdominal",
+      "abdominally"
+    ]
+  },
+  "abduction": {
+    "def": [
+      {
+        "definition": "the action of abducting : the condition of being abducted",
+        "type": "adj."
+      },
+      {
+        "definition": "the unlawful carrying away of a woman for marriage or sexual intercourse",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abduction",
+      "abductions"
+    ]
+  },
+  "abed": {
+    "def": [
+      {
+        "definition": "in bed",
+        "type": "adv./adj."
+      }
+    ],
+    "forms": [
+      "abed"
+    ]
+  },
+  "aberration": {
+    "def": [
+      {
+        "definition": "the fact or an instance of deviating or being aberrant especially from a moral standard or normal state",
+        "type": "n."
+      },
+      {
+        "definition": "something or someone regarded as atypical and therefore able to be ignored or discounted",
+        "type": "n."
+      },
+      {
+        "definition": "failure of a mirror, refracting surface, or lens to produce exact point-to-point correspondence between an object and its image",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aberration",
+      "aberrational",
+      "aberrations"
+    ]
+  },
+  "abet": {
+    "def": [
+      {
+        "definition": "to actively second and encourage (something, such as an activity or plan)",
+        "type": "v."
+      },
+      {
+        "definition": "to assist or support (someone) in the achievement of a purpose; especially : to assist, encourage, instigate, or support with criminal intent in attempting or carrying out a crime —often used in the phrase aid and abet",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abet",
+      "abetment",
+      "abetments",
+      "abets",
+      "abetted",
+      "abetter",
+      "abetters",
+      "abetting",
+      "abettor",
+      "abettors"
+    ]
+  },
+  "abeyance": {
+    "def": [
+      {
+        "definition": "a state of temporary inactivity : suspension —used chiefly in the phrase in abeyance",
+        "type": "n."
+      },
+      {
+        "definition": "a lapse in succession during which there is no person in whom a title is vested",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abeyance",
+      "abeyances",
+      "abeyant",
+      "in abeyance"
+    ]
+  },
+  "abhorrence": {
+    "def": [
+      {
+        "definition": "the act or state of abhorring or despising something or someone",
+        "type": "n."
+      },
+      {
+        "definition": "a feeling of strong repugnance or disgust : loathing",
+        "type": "n."
+      },
+      {
+        "definition": "something regarded as repugnant or disgusting",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abhorrence",
+      "abhorrences"
+    ]
+  },
+  "abhorrent": {
+    "def": [
+      {
+        "definition": "causing or deserving strong dislike or hatred : being so repugnant as to stir up positive antagonism",
+        "type": "adj."
+      },
+      {
+        "definition": "not agreeable : contrary",
+        "type": "adj."
+      },
+      {
+        "definition": "feeling or showing strong dislike or hatred",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abhorrent",
+      "abhorrently"
+    ]
+  },
+  "abidance": {
+    "def": [
+      {
+        "definition": "an act or state of abiding : continuance",
+        "type": "n."
+      },
+      {
+        "definition": "compliance",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abidance",
+      "abidances"
+    ]
+  },
+  "abject": {
+    "def": [
+      {
+        "definition": "sunk to or existing in a low state or condition : very bad or severe",
+        "type": "adv."
+      },
+      {
+        "definition": "cast down in spirit : servile, spiritless",
+        "type": "adv."
+      },
+      {
+        "definition": "showing hopelessness or resignation",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "abject",
+      "abjectly",
+      "abjectness",
+      "abjectnesses"
+    ]
+  },
+  "abjure": {
+    "def": [
+      {
+        "definition": "to renounce upon oath",
+        "type": "v."
+      },
+      {
+        "definition": "to reject solemnly",
+        "type": "v."
+      },
+      {
+        "definition": "to abstain from : avoid",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abjure",
+      "abjured",
+      "abjurer",
+      "abjurers",
+      "abjures",
+      "abjuring"
+    ]
+  },
+  "able-bodied": {
+    "def": [
+      {
+        "definition": "having a sound strong body",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "able-bodied"
+    ]
+  },
+  "ablution": {
+    "def": [
+      {
+        "definition": "the washing of one's body or part of it (as in a religious rite) —usually plural",
+        "type": "n."
+      },
+      {
+        "definition": "a building on a military base that houses bathing and toilet facilities",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ablution",
+      "ablutionary",
+      "ablutions"
+    ]
+  },
+  "abnegate": {
+    "def": [
+      {
+        "definition": "deny, renounce",
+        "type": "v."
+      },
+      {
+        "definition": "surrender, relinquish",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abnegate",
+      "abnegated",
+      "abnegates",
+      "abnegating",
+      "abnegator",
+      "abnegators"
+    ]
+  },
+  "abnormal": {
+    "def": [
+      {
+        "definition": "deviating from the normal or average",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abnormal",
+      "abnormally"
+    ]
+  },
+  "abominable": {
+    "def": [
+      {
+        "definition": "worthy of or causing disgust or hatred : detestable",
+        "type": "adj."
+      },
+      {
+        "definition": "very bad or unpleasant",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abominable",
+      "abominably"
+    ]
+  },
+  "abominate": {
+    "def": [
+      {
+        "definition": "to hate or loathe intensely",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abominate",
+      "abominated",
+      "abominates",
+      "abominating",
+      "abominator",
+      "abominators"
+    ]
+  },
+  "abomination": {
+    "def": [
+      {
+        "definition": "something regarded with disgust or hatred : something abominable",
+        "type": "n."
+      },
+      {
+        "definition": "extreme disgust and hatred : loathing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abomination",
+      "abominations"
+    ]
+  },
+  "aboriginal": {
+    "def": [
+      {
+        "definition": "being the first or earliest known of its kind present in a region : indigenous, native",
+        "type": "adv."
+      },
+      {
+        "definition": "of, relating to, or descended from the earliest known inhabitants of a place and especially of a place that was colonized : indigenous; specifically Aboriginalor less commonly aboriginal : of, relating to, or descended from a group of peoples who along with the Torres Strait Islander peoples are the earliest known inhabitants of Australia",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "Aboriginal",
+      "aboriginal",
+      "aboriginally"
+    ]
+  },
+  "aborigines": {
+    "def": [
+      {
+        "definition": "a person descended from the earliest known inhabitants of a place and especially of a place that was colonized : an Indigenous person",
+        "type": "n."
+      },
+      {
+        "definition": "a member of any of the Indigenous peoples of Australia : a person descended from the earliest known inhabitants of Australia",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Aborigine",
+      "Aborigines",
+      "aborigine",
+      "aborigines"
+    ]
+  },
+  "aboveboard": {
+    "def": [
+      {
+        "definition": "in a straightforward manner",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "aboveboard"
+    ]
+  },
+  "abrade": {
+    "def": [
+      {
+        "definition": "to rub or wear away especially by friction : erode",
+        "type": "v."
+      },
+      {
+        "definition": "to irritate or roughen by rubbing",
+        "type": "v."
+      },
+      {
+        "definition": "to wear down in spirit : irritate, weary",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abradable",
+      "abrade",
+      "abraded",
+      "abrader",
+      "abraders",
+      "abrades",
+      "abrading"
+    ]
+  },
+  "abrasion": {
+    "def": [
+      {
+        "definition": "a wearing, grinding, or rubbing away by friction",
+        "type": "n."
+      },
+      {
+        "definition": "irritation",
+        "type": "n."
+      },
+      {
+        "definition": "an abraded area of the skin or mucous membrane",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abrasion",
+      "abrasions"
+    ]
+  },
+  "abridge": {
+    "def": [
+      {
+        "definition": "to shorten by omission of words without sacrifice of sense : condense",
+        "type": "v."
+      },
+      {
+        "definition": "to shorten in duration or extent",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce in scope : diminish",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abridge",
+      "abridged",
+      "abridger",
+      "abridgers",
+      "abridges",
+      "abridging"
+    ]
+  },
+  "abridgment": {
+    "def": [
+      {
+        "definition": "the action of abridging something : the state of being abridged",
+        "type": "adj."
+      },
+      {
+        "definition": "a shortened form of a work retaining the general sense and unity of the original",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abridgement",
+      "abridgements",
+      "abridgment",
+      "abridgments"
+    ]
+  },
+  "abrogate": {
+    "def": [
+      {
+        "definition": "to abolish by authoritative action : annul",
+        "type": "v."
+      },
+      {
+        "definition": "to treat as nonexistent : to fail to do what is required by (something, such as a responsibility)",
+        "type": "v."
+      },
+      {
+        "definition": "to suppress or prevent (a biological function or process and especially an immune response)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abrogate",
+      "abrogated",
+      "abrogates",
+      "abrogating",
+      "abrogation",
+      "abrogations"
+    ]
+  },
+  "abrupt": {
+    "def": [
+      {
+        "definition": "characterized by or involving action or change without preparation or warning : sudden and unexpected",
+        "type": "adj."
+      },
+      {
+        "definition": "rudely or unceremoniously curt",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking smoothness or continuity",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abrupt",
+      "abrupter",
+      "abruptest",
+      "abruptness",
+      "abruptnesses"
+    ]
+  },
+  "abscess": {
+    "def": [
+      {
+        "definition": "a localized collection of pus surrounded by inflamed tissue",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abscess",
+      "abscessed",
+      "abscesses"
+    ]
+  },
+  "abscission": {
+    "def": [
+      {
+        "definition": "the act or process of cutting off : removal",
+        "type": "n."
+      },
+      {
+        "definition": "the natural separation of flowers, fruit, or leaves from plants at a special separation layer",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abscission",
+      "abscissions"
+    ]
+  },
+  "abscond": {
+    "def": [
+      {
+        "definition": "to depart secretly and hide oneself",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abscond",
+      "absconded",
+      "absconder",
+      "absconders",
+      "absconding",
+      "absconds"
+    ]
+  },
+  "absence": {
+    "def": [
+      {
+        "definition": "a state or condition in which something expected, wanted, or looked for is not present or does not exist : a state or condition in which something is absent",
+        "type": "n."
+      },
+      {
+        "definition": "a failure to be present at a usual or expected place : the state of being absent",
+        "type": "adj."
+      },
+      {
+        "definition": "the period of time that one is absent",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "absence",
+      "absence of mind",
+      "absences",
+      "conspicuous by their absence",
+      "in the absence of"
+    ]
+  },
+  "absent-minded": {
+    "def": [
+      {
+        "definition": "lost in thought and unaware of one's surroundings or actions : preoccupied",
+        "type": "adv."
+      },
+      {
+        "definition": "tending to forget or fail to notice things : given to absence of mind",
+        "type": "adv."
+      },
+      {
+        "definition": "indicative of or resulting from preoccupation or absence of mind",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "absent-minded",
+      "absent-mindedly",
+      "absent-mindedness",
+      "absent-mindednesses",
+      "absentminded",
+      "absentmindedly",
+      "absentmindedness",
+      "absentmindednesses"
+    ]
+  },
+  "absolution": {
+    "def": [
+      {
+        "definition": "the act of forgiving someone for having done something wrong or sinful the act of  someone or the state of being absolved",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "absolution",
+      "absolutions"
+    ]
+  },
+  "absolve": {
+    "def": [
+      {
+        "definition": "to set (someone) free from an obligation or the consequences of guilt",
+        "type": "v."
+      },
+      {
+        "definition": "to pardon or forgive (a sin) : to remit (a sin) by absolution",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "absolve",
+      "absolved",
+      "absolver",
+      "absolvers",
+      "absolves",
+      "absolving"
+    ]
+  },
+  "absorb": {
+    "def": [
+      {
+        "definition": "to take in (something, such as water) in a natural or gradual way",
+        "type": "v."
+      },
+      {
+        "definition": "to take in (knowledge, attitudes, etc.) : acquire, learn",
+        "type": "v."
+      },
+      {
+        "definition": "use up, consume",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "absorb",
+      "absorbabilities",
+      "absorbability",
+      "absorbable",
+      "absorbed",
+      "absorbing",
+      "absorbs"
+    ]
+  },
+  "absorption": {
+    "def": [
+      {
+        "definition": "the process of absorbing something or of being absorbed",
+        "type": "adj."
+      },
+      {
+        "definition": "interception of radiant energy or sound waves",
+        "type": "n."
+      },
+      {
+        "definition": "entire occupation of the mind",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "absorption",
+      "absorptions",
+      "absorptive"
+    ]
+  },
+  "abstain": {
+    "def": [
+      {
+        "definition": "to choose not to do or have something : to refrain deliberately and often with an effort of self-denial from an action or practice",
+        "type": "v."
+      },
+      {
+        "definition": "to choose not to vote",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abstain",
+      "abstained",
+      "abstainer",
+      "abstainers",
+      "abstaining",
+      "abstains"
+    ]
+  },
+  "abstemious": {
+    "def": [
+      {
+        "definition": "marked by restraint especially in the eating of food or drinking of alcohol",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abstemious",
+      "abstemiously",
+      "abstemiousness",
+      "abstemiousnesses"
+    ]
+  },
+  "abstinence": {
+    "def": [
+      {
+        "definition": "the practice of abstaining from something : the practice of not doing or having something that is wanted or enjoyable",
+        "type": "adv."
+      },
+      {
+        "definition": "habitual abstaining from intoxicating beverages",
+        "type": "adv."
+      },
+      {
+        "definition": "abstention from sexual intercourse",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "abstinence",
+      "abstinences",
+      "abstinent",
+      "abstinently"
+    ]
+  },
+  "abstruse": {
+    "def": [
+      {
+        "definition": "difficult to comprehend",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "abstruse",
+      "abstrusely",
+      "abstruseness",
+      "abstrusenesses",
+      "abstruser",
+      "abstrusest"
+    ]
+  },
+  "absurd": {
+    "def": [
+      {
+        "definition": "ridiculously unreasonable, unsound, or incongruous : extremely silly or ridiculous",
+        "type": "adv."
+      },
+      {
+        "definition": "having no rational or orderly relationship to human life : meaningless; also : lacking order or value",
+        "type": "adv."
+      },
+      {
+        "definition": "dealing with the absurd or with absurdism",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "absurd",
+      "absurder",
+      "absurdest",
+      "absurdly",
+      "absurdness",
+      "absurdnesses"
+    ]
+  },
+  "abundant": {
+    "def": [
+      {
+        "definition": "existing or occurring in large amounts : ample",
+        "type": "adv."
+      },
+      {
+        "definition": "marked by great plenty (as of resources)",
+        "type": "adv."
+      },
+      {
+        "definition": "amply supplied : abounding",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "abundant",
+      "abundantly"
+    ]
+  },
+  "abusive": {
+    "def": [
+      {
+        "definition": "using harsh, insulting language",
+        "type": "adv."
+      },
+      {
+        "definition": "harsh and insulting",
+        "type": "adv."
+      },
+      {
+        "definition": "using or involving physical violence or emotional cruelty",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "abusive",
+      "abusively",
+      "abusiveness",
+      "abusivenesses"
+    ]
+  },
+  "abut": {
+    "def": [
+      {
+        "definition": "to border on : to touch along an edge",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to touch or lean for support",
+        "type": "v."
+      },
+      {
+        "definition": "to touch along a border or with a projecting part",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "abut",
+      "abuts",
+      "abutted",
+      "abutting"
+    ]
+  },
+  "abyss": {
+    "def": [
+      {
+        "definition": "an immeasurably deep gulf or great space",
+        "type": "n."
+      },
+      {
+        "definition": "intellectual or moral depths",
+        "type": "n."
+      },
+      {
+        "definition": "the bottomless gulf, pit, or chaos of the old cosmogonies",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "abyss",
+      "abysses"
+    ]
+  },
+  "academic": {
+    "def": [
+      {
+        "definition": "of, relating to, or associated with an academy or school especially of higher learning",
+        "type": "adv."
+      },
+      {
+        "definition": "of or relating to performance in courses of study",
+        "type": "adv."
+      },
+      {
+        "definition": "very learned but inexperienced in practical matters",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "academic",
+      "academical",
+      "academically"
+    ]
+  },
+  "academician": {
+    "def": [
+      {
+        "definition": "a member of an academy for promoting science, art, or literature",
+        "type": "n."
+      },
+      {
+        "definition": "a follower of an artistic or philosophical tradition or a promoter of its ideas",
+        "type": "n."
+      },
+      {
+        "definition": "academic",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "academician",
+      "academicians"
+    ]
+  },
+  "academy": {
+    "def": [
+      {
+        "definition": "a school usually above the elementary level; especially : a private high school",
+        "type": "n."
+      },
+      {
+        "definition": "a high school or college in which special subjects or skills are taught",
+        "type": "n."
+      },
+      {
+        "definition": "higher education —used with the",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Academies",
+      "Academy",
+      "academies",
+      "academy"
+    ]
+  },
+  "accede": {
+    "def": [
+      {
+        "definition": "to express approval or give consent : to agree to a request or demand —usually + to",
+        "type": "v."
+      },
+      {
+        "definition": "to become a party to something (such as an agreement) —usually + to",
+        "type": "v."
+      },
+      {
+        "definition": "to enter upon an office or position —usually + to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accede",
+      "acceded",
+      "acceded to the throne",
+      "accedes",
+      "acceding"
+    ]
+  },
+  "accelerate": {
+    "def": [
+      {
+        "definition": "to move faster : to gain speed",
+        "type": "v."
+      },
+      {
+        "definition": "to progress from grade to grade more rapidly than usual : to follow a speeded-up educational program",
+        "type": "v."
+      },
+      {
+        "definition": "to bring about at an earlier time",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accelerate",
+      "accelerated",
+      "accelerates",
+      "accelerating",
+      "acceleratingly"
+    ]
+  },
+  "accept": {
+    "def": [
+      {
+        "definition": "to receive (something offered) willingly",
+        "type": "v."
+      },
+      {
+        "definition": "to be able or designed to take or hold (something applied or added)",
+        "type": "v."
+      },
+      {
+        "definition": "to give admittance or approval to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accept",
+      "accepted",
+      "accepting",
+      "acceptingly",
+      "acceptingness",
+      "acceptingnesses",
+      "accepts"
+    ]
+  },
+  "access": {
+    "def": [
+      {
+        "definition": "permission, liberty, or ability to enter, approach, or pass to and from a place or to approach or communicate with a person or thing",
+        "type": "v."
+      },
+      {
+        "definition": "freedom or ability to obtain or make use of something",
+        "type": "n."
+      },
+      {
+        "definition": "a way or means of entering or approaching",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "access",
+      "accesses"
+    ]
+  },
+  "accessible": {
+    "def": [
+      {
+        "definition": "capable of being reached; also : being within reach",
+        "type": "adv."
+      },
+      {
+        "definition": "easy to speak to or deal with",
+        "type": "adv."
+      },
+      {
+        "definition": "capable of being used or seen : available",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "accessibilities",
+      "accessibility",
+      "accessible",
+      "accessibleness",
+      "accessiblenesses",
+      "accessibly"
+    ]
+  },
+  "accession": {
+    "def": [
+      {
+        "definition": "the act or process by which someone rises to a position of honor or power",
+        "type": "n."
+      },
+      {
+        "definition": "an act of coming near or to something : approach, admittance",
+        "type": "n."
+      },
+      {
+        "definition": "something added : acquisition",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accession",
+      "accessional",
+      "accessions"
+    ]
+  },
+  "accessory": {
+    "def": [
+      {
+        "definition": "an object or device that is not essential in itself but adds to the beauty, convenience, or effectiveness of something else",
+        "type": "n."
+      },
+      {
+        "definition": "a thing of secondary or lesser importance : adjunct",
+        "type": "n."
+      },
+      {
+        "definition": "a person not actually or constructively present but contributing as an assistant or instigator to the commission of an offense —called also accessory before the fact",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accessaries",
+      "accessary",
+      "accessories",
+      "accessory",
+      "accessory after the fact",
+      "accessory before the fact",
+      "accessory nerve"
+    ]
+  },
+  "acclaim": {
+    "def": [
+      {
+        "definition": "applaud, praise",
+        "type": "v."
+      },
+      {
+        "definition": "to declare by acclamation",
+        "type": "v."
+      },
+      {
+        "definition": "to shout praise or applause",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acclaim",
+      "acclaimed",
+      "acclaimer",
+      "acclaimers",
+      "acclaiming",
+      "acclaims"
+    ]
+  },
+  "accommodate": {
+    "def": [
+      {
+        "definition": "to provide with something desired, needed, or suited",
+        "type": "v."
+      },
+      {
+        "definition": "to make room for",
+        "type": "v."
+      },
+      {
+        "definition": "to hold without crowding or inconvenience",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accommodate",
+      "accommodated",
+      "accommodates",
+      "accommodating",
+      "accommodative",
+      "accommodativeness",
+      "accommodativenesses",
+      "accommodator",
+      "accommodators"
+    ]
+  },
+  "accompaniment": {
+    "def": [
+      {
+        "definition": "an instrumental or vocal part designed to support or complement a melody",
+        "type": "n."
+      },
+      {
+        "definition": "an addition (such as an ornament) intended to give completeness or symmetry to something : complement",
+        "type": "n."
+      },
+      {
+        "definition": "an accompanying situation or occurrence : concomitant",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accompaniment",
+      "accompanimental",
+      "accompaniments"
+    ]
+  },
+  "accompanist": {
+    "def": [
+      {
+        "definition": "one (such as a pianist) who plays an {a_link|accompaniment}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accompanist",
+      "accompanists"
+    ]
+  },
+  "accompany": {
+    "def": [
+      {
+        "definition": "to go with as an associate or companion",
+        "type": "v."
+      },
+      {
+        "definition": "to perform an accompaniment to or for",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to be in association",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accompanied",
+      "accompanies",
+      "accompany",
+      "accompanying"
+    ]
+  },
+  "accomplice": {
+    "def": [
+      {
+        "definition": "one associated with another especially in wrongdoing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accomplice",
+      "accomplices"
+    ]
+  },
+  "accomplish": {
+    "def": [
+      {
+        "definition": "to bring about (a result) by effort",
+        "type": "v."
+      },
+      {
+        "definition": "to bring to completion : fulfill",
+        "type": "v."
+      },
+      {
+        "definition": "to succeed in reaching (a stage in a progression)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accomplish",
+      "accomplishable",
+      "accomplished",
+      "accomplisher",
+      "accomplishers",
+      "accomplishes",
+      "accomplishing"
+    ]
+  },
+  "accordion": {
+    "def": [
+      {
+        "definition": "a portable keyboard wind instrument in which the wind is forced past free reeds by means of a hand-operated bellows",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accordion",
+      "accordionist",
+      "accordionists",
+      "accordions"
+    ]
+  },
+  "accost": {
+    "def": [
+      {
+        "definition": "to approach and speak to (someone) in an often challenging or aggressive way",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accost",
+      "accosted",
+      "accosting",
+      "accosts"
+    ]
+  },
+  "account": {
+    "def": [
+      {
+        "definition": "a record of debit and credit entries to cover transactions involving a particular item or a particular person or concern",
+        "type": "n."
+      },
+      {
+        "definition": "a statement of transactions during a fiscal period and the resulting balance",
+        "type": "n."
+      },
+      {
+        "definition": "reckoning, computation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "account",
+      "accounts"
+    ]
+  },
+  "accouter": {
+    "def": [
+      {
+        "definition": "to provide with equipment or furnishings",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accouter",
+      "accoutered",
+      "accoutering",
+      "accouters",
+      "accoutre",
+      "accoutred",
+      "accoutres",
+      "accoutring"
+    ]
+  },
+  "accredit": {
+    "def": [
+      {
+        "definition": "to give official authorization to or approval of:",
+        "type": "v."
+      },
+      {
+        "definition": "to provide with credentials; especially : to send (an envoy) with letters of authorization",
+        "type": "v."
+      },
+      {
+        "definition": "to recognize or vouch for as conforming with a standard",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accredit",
+      "accreditable",
+      "accreditation",
+      "accreditations",
+      "accredited",
+      "accrediting",
+      "accredits"
+    ]
+  },
+  "accumulate": {
+    "def": [
+      {
+        "definition": "to gather or pile up especially little by little : amass",
+        "type": "v."
+      },
+      {
+        "definition": "to increase gradually in quantity or number",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accumulate",
+      "accumulated",
+      "accumulates",
+      "accumulating"
+    ]
+  },
+  "accuracy": {
+    "def": [
+      {
+        "definition": "freedom from mistake or error : correctness",
+        "type": "n."
+      },
+      {
+        "definition": "conformity to truth or to a standard or model : exactness",
+        "type": "n."
+      },
+      {
+        "definition": "degree of conformity of a measure to a standard or a true value",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "accuracies",
+      "accuracy"
+    ]
+  },
+  "accurate": {
+    "def": [
+      {
+        "definition": "free from error especially as the result of care",
+        "type": "adj."
+      },
+      {
+        "definition": "conforming exactly to truth or to a standard : exact",
+        "type": "adj."
+      },
+      {
+        "definition": "able to give an accurate result",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "accurate",
+      "accurateness",
+      "accuratenesses"
+    ]
+  },
+  "accursed": {
+    "def": [
+      {
+        "definition": "being under or as if under a curse",
+        "type": "adv."
+      },
+      {
+        "definition": "damnable",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "accursed",
+      "accursedly",
+      "accursedness",
+      "accursednesses",
+      "accurst"
+    ]
+  },
+  "accusation": {
+    "def": [
+      {
+        "definition": "a charge of wrongdoing",
+        "type": "n."
+      },
+      {
+        "definition": "the act of accusing someone : the state or fact of being accused",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "accusation",
+      "accusations"
+    ]
+  },
+  "accusatory": {
+    "def": [
+      {
+        "definition": "containing or expressing {a_link|accusation}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "accusatory"
+    ]
+  },
+  "accuse": {
+    "def": [
+      {
+        "definition": "to charge with a fault or offense : blame",
+        "type": "v."
+      },
+      {
+        "definition": "to charge with an offense judicially or by a public process",
+        "type": "v."
+      },
+      {
+        "definition": "to bring an accusation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accuse",
+      "accused",
+      "accuser",
+      "accusers",
+      "accuses",
+      "accusing",
+      "accusingly"
+    ]
+  },
+  "accustom": {
+    "def": [
+      {
+        "definition": "to make familiar with something through use or experience",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "accustom",
+      "accustomation",
+      "accustomations",
+      "accustomed",
+      "accustoming",
+      "accustoms"
+    ]
+  },
+  "acerbity": {
+    "def": [
+      {
+        "definition": "the quality of being {a_link|acerbic}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acerbities",
+      "acerbity"
+    ]
+  },
+  "acetate": {
+    "def": [
+      {
+        "definition": "a salt or ester of acetic acid",
+        "type": "n."
+      },
+      {
+        "definition": "cellulose acetate; also : something (such as a textile fiber) made from cellulose acetate",
+        "type": "n."
+      },
+      {
+        "definition": "a phonograph recording disk made of an acetate or coated with cellulose acetate",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acetate",
+      "acetates"
+    ]
+  },
+  "acetic": {
+    "def": [
+      {
+        "definition": "a colorless pungent liquid acid C{inf}2H{inf}4O{inf}2 that is the chief acid of vinegar and that is used especially in synthesis (as of plastics)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acetic acid",
+      "acetic acids"
+    ]
+  },
+  "ache": {
+    "def": [
+      {
+        "definition": "to suffer a usually dull persistent pain",
+        "type": "v."
+      },
+      {
+        "definition": "to become distressed or disturbed (as with anxiety or regret)",
+        "type": "v."
+      },
+      {
+        "definition": "to feel compassion",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ache",
+      "ached",
+      "aches",
+      "aching"
+    ]
+  },
+  "achillean": {
+    "def": [
+      {
+        "definition": "Invulnerable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "achromatic": {
+    "def": [
+      {
+        "definition": "refracting light without dispersing it into its constituent colors : giving images practically free from extraneous colors",
+        "type": "adv."
+      },
+      {
+        "definition": "not readily colored by the usual staining agents",
+        "type": "adv."
+      },
+      {
+        "definition": "possessing no hue : being or involving black, gray, or white : neutral",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "achromatic",
+      "achromatically",
+      "achromatism",
+      "achromatisms",
+      "achromatize",
+      "achromatized",
+      "achromatizes",
+      "achromatizing"
+    ]
+  },
+  "acid": {
+    "def": [
+      {
+        "definition": "a sour substance; specifically : any of various typically water-soluble and sour compounds that in solution are capable of reacting with a base to form a salt, redden litmus, and have a pH less than 7, that are hydrogen-containing molecules or ions able to give up a proton to a base, or that are substances able to accept an unshared pair of electrons from a base",
+        "type": "adj."
+      },
+      {
+        "definition": "something incisive, biting, or sarcastic",
+        "type": "v."
+      },
+      {
+        "definition": "lsd",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acid",
+      "acids",
+      "acidy"
+    ]
+  },
+  "acidify": {
+    "def": [
+      {
+        "definition": "to make acid",
+        "type": "v."
+      },
+      {
+        "definition": "to convert into an acid",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acidification",
+      "acidifications",
+      "acidified",
+      "acidifies",
+      "acidify",
+      "acidifying"
+    ]
+  },
+  "acknowledge": {
+    "def": [
+      {
+        "definition": "to recognize the rights, authority, or status of",
+        "type": "v."
+      },
+      {
+        "definition": "to disclose knowledge of or agreement with",
+        "type": "v."
+      },
+      {
+        "definition": "to express gratitude or obligation for",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acknowledge",
+      "acknowledged",
+      "acknowledges",
+      "acknowledging"
+    ]
+  },
+  "acknowledgment": {
+    "def": [
+      {
+        "definition": "the act of acknowledging something or someone",
+        "type": "n."
+      },
+      {
+        "definition": "recognition or favorable notice of an act or achievement",
+        "type": "n."
+      },
+      {
+        "definition": "a thing done or given in recognition of something received",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acknowledgement",
+      "acknowledgements",
+      "acknowledgment",
+      "acknowledgments"
+    ]
+  },
+  "acme": {
+    "def": [
+      {
+        "definition": "the highest point or stage (as of growth or development)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acme",
+      "acmes"
+    ]
+  },
+  "acoustic": {
+    "def": [
+      {
+        "definition": "of or relating to the sense or organs of hearing, to sound, or to the science of sounds : such as",
+        "type": "adv."
+      },
+      {
+        "definition": "deadening or absorbing sound",
+        "type": "adv."
+      },
+      {
+        "definition": "operated by or utilizing sound waves",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "acoustic",
+      "acoustical",
+      "acoustically"
+    ]
+  },
+  "acquaint": {
+    "def": [
+      {
+        "definition": "to cause to know personally",
+        "type": "v."
+      },
+      {
+        "definition": "to make familiar : to cause to know firsthand",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acquaint",
+      "acquainted",
+      "acquainting",
+      "acquaints"
+    ]
+  },
+  "acquiesce": {
+    "def": [
+      {
+        "definition": "to accept, agree, or comply usually by staying silent or by not arguing",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acquiesce",
+      "acquiesced",
+      "acquiesces",
+      "acquiescing"
+    ]
+  },
+  "acquiescence": {
+    "def": [
+      {
+        "definition": "the act or action of acquiescing —often used with to",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being acquiescent : passive assent or submission",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "acquiescence",
+      "acquiescences"
+    ]
+  },
+  "acquire": {
+    "def": [
+      {
+        "definition": "to get as one's own:",
+        "type": "v."
+      },
+      {
+        "definition": "to come into possession or control of often by unspecified means",
+        "type": "v."
+      },
+      {
+        "definition": "to come to have as a new or added characteristic, trait, or ability (as by sustained effort or natural selection)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acquire",
+      "acquired",
+      "acquires",
+      "acquiring"
+    ]
+  },
+  "acquisition": {
+    "def": [
+      {
+        "definition": "the act of acquiring something",
+        "type": "n."
+      },
+      {
+        "definition": "something or someone acquired or gained",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acquisition",
+      "acquisitional",
+      "acquisitions",
+      "acquisitor",
+      "acquisitors"
+    ]
+  },
+  "acquit": {
+    "def": [
+      {
+        "definition": "to discharge completely (as from an accusation or obligation)",
+        "type": "v."
+      },
+      {
+        "definition": "to conduct (oneself) usually satisfactorily especially under stress",
+        "type": "v."
+      },
+      {
+        "definition": "to pay off (something, such as a claim or debt)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "acquit",
+      "acquits",
+      "acquitted",
+      "acquitter",
+      "acquitters",
+      "acquitting"
+    ]
+  },
+  "acquittal": {
+    "def": [
+      {
+        "definition": "a setting free from the charge of an offense by verdict, sentence, or other legal process",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acquittal",
+      "acquittals"
+    ]
+  },
+  "acquittance": {
+    "def": [
+      {
+        "definition": "a document evidencing a discharge from an obligation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acquittance",
+      "acquittances"
+    ]
+  },
+  "acreage": {
+    "def": [
+      {
+        "definition": "area in {a_link|acres}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acreage",
+      "acreages"
+    ]
+  },
+  "acrid": {
+    "def": [
+      {
+        "definition": "sharp and harsh or unpleasantly pungent in taste or odor : irritating",
+        "type": "adv."
+      },
+      {
+        "definition": "deeply or violently bitter : acrimonious",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "acrid",
+      "acrider",
+      "acridest",
+      "acridities",
+      "acridity",
+      "acridly",
+      "acridness",
+      "acridnesses"
+    ]
+  },
+  "acrimonious": {
+    "def": [
+      {
+        "definition": "angry and bitter , biting, or  especially in feeling, language, or manner",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "acrimonious",
+      "acrimoniously",
+      "acrimoniousness",
+      "acrimoniousnesses"
+    ]
+  },
+  "acrimony": {
+    "def": [
+      {
+        "definition": "anger and bitterness harsh or biting sharpness especially of words, manner, or feelings",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acrimonies",
+      "acrimony"
+    ]
+  },
+  "actionable": {
+    "def": [
+      {
+        "definition": "subject to or affording ground for an action or suit at law",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being acted on",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "actionable",
+      "actionably"
+    ]
+  },
+  "actuality": {
+    "def": [
+      {
+        "definition": "the quality or state of being actual",
+        "type": "adj."
+      },
+      {
+        "definition": "something that is actual : fact, reality",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "actualities",
+      "actuality"
+    ]
+  },
+  "actuary": {
+    "def": [
+      {
+        "definition": "clerk, registrar",
+        "type": "n."
+      },
+      {
+        "definition": "a person who calculates insurance and annuity premiums, reserves, and dividends",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "actuaries",
+      "actuary"
+    ]
+  },
+  "actuate": {
+    "def": [
+      {
+        "definition": "to put into mechanical action or motion",
+        "type": "v."
+      },
+      {
+        "definition": "to move to action",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "actuate",
+      "actuated",
+      "actuates",
+      "actuating",
+      "actuation",
+      "actuations"
+    ]
+  },
+  "acumen": {
+    "def": [
+      {
+        "definition": "clarity of mind and depth of perception, , or  especially in practical decision-making",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "acumen",
+      "acumens"
+    ]
+  },
+  "acute": {
+    "def": [
+      {
+        "definition": "characterized by sharpness or severity of sudden onset",
+        "type": "adv."
+      },
+      {
+        "definition": "of rapid onset and relatively short duration",
+        "type": "adv."
+      },
+      {
+        "definition": "being, providing, or requiring short-term medical care (as for acute disease or traumatic injury)",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "acute",
+      "acutely",
+      "acuteness",
+      "acutenesses",
+      "acuter",
+      "acutest"
+    ]
+  },
+  "adamant": {
+    "def": [
+      {
+        "definition": "unshakable or  especially in maintaining a position or opinion",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "adamant"
+    ]
+  },
+  "addendum": {
+    "def": [
+      {
+        "definition": "a thing added : addition",
+        "type": "n."
+      },
+      {
+        "definition": "a supplement to a book —often used in plural but singular in construction",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "addenda",
+      "addendum",
+      "addendums"
+    ]
+  },
+  "addle": {
+    "def": [
+      {
+        "definition": "rotten",
+        "type": "v."
+      },
+      {
+        "definition": "confused",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "addle"
+    ]
+  },
+  "adduce": {
+    "def": [
+      {
+        "definition": "to offer as example, reason, or proof in discussion or analysis",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "adduce",
+      "adduced",
+      "adducer",
+      "adducers",
+      "adduces",
+      "adducing"
+    ]
+  },
+  "adhere": {
+    "def": [
+      {
+        "definition": "to hold fast or stick by or as if by gluing, suction, grasping, or fusing",
+        "type": "v."
+      },
+      {
+        "definition": "to give support or maintain loyalty",
+        "type": "v."
+      },
+      {
+        "definition": "to bind oneself to observance",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "adhere",
+      "adhered",
+      "adheres",
+      "adhering"
+    ]
+  },
+  "adherence": {
+    "def": [
+      {
+        "definition": "the act, action, or quality of adhering",
+        "type": "n."
+      },
+      {
+        "definition": "steady or faithful attachment : fidelity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adherence",
+      "adherences"
+    ]
+  },
+  "adherent": {
+    "def": [
+      {
+        "definition": "one who adheres to something: such as",
+        "type": "n."
+      },
+      {
+        "definition": "a follower of a leader, party, or profession",
+        "type": "adj."
+      },
+      {
+        "definition": "a believer in or advocate especially of a particular idea or church",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "adherent",
+      "adherents"
+    ]
+  },
+  "adhesion": {
+    "def": [
+      {
+        "definition": "steady or firm attachment : adherence",
+        "type": "n."
+      },
+      {
+        "definition": "the action or state of adhering",
+        "type": "n."
+      },
+      {
+        "definition": "the abnormal union of separate tissue surfaces by new fibrous tissue resulting from an inflammatory process; also : the newly formed uniting tissue",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adhesion",
+      "adhesional",
+      "adhesions"
+    ]
+  },
+  "adieu": {
+    "def": [
+      {
+        "definition": "an expression of good wishes when someone leaves",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adieu",
+      "adieus",
+      "adieux"
+    ]
+  },
+  "adjacency": {
+    "def": [
+      {
+        "definition": "something that is adjacent",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being adjacent : contiguity",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "adjacencies",
+      "adjacency"
+    ]
+  },
+  "adjacent": {
+    "def": [
+      {
+        "definition": "having a common endpoint or border",
+        "type": "adv."
+      },
+      {
+        "definition": "not distant : nearby",
+        "type": "adv."
+      },
+      {
+        "definition": "immediately preceding or following with nothing similar intervening",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "adjacent",
+      "adjacently"
+    ]
+  },
+  "adjudge": {
+    "def": [
+      {
+        "definition": "to decide or rule upon as a judge : adjudicate",
+        "type": "v."
+      },
+      {
+        "definition": "to pronounce judicially : rule",
+        "type": "v."
+      },
+      {
+        "definition": "sentence, condemn",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "adjudge",
+      "adjudged",
+      "adjudges",
+      "adjudging"
+    ]
+  },
+  "adjunct": {
+    "def": [
+      {
+        "definition": "something joined or added to another thing but not essentially a part of it",
+        "type": "n."
+      },
+      {
+        "definition": "a word or word group that qualifies or completes the meaning of another word or other words and is not itself a main structural element in its sentence",
+        "type": "n."
+      },
+      {
+        "definition": "an adverb or adverbial phrase (such as heartily in \"They ate heartily\" or at noon in \"We left at noon\") attached to the verb of a clause especially to express a relation of time, place, frequency, degree, or manner",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adjunct",
+      "adjunctive",
+      "adjuncts"
+    ]
+  },
+  "adjuration": {
+    "def": [
+      {
+        "definition": "a solemn oath",
+        "type": "n."
+      },
+      {
+        "definition": "an earnest urging or advising",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adjuration",
+      "adjurations",
+      "adjuratory"
+    ]
+  },
+  "adjutant": {
+    "def": [
+      {
+        "definition": "a staff officer in the army, air force, or marine corps who assists the commanding officer and is responsible especially for correspondence",
+        "type": "adj."
+      },
+      {
+        "definition": "one who helps : assistant",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adjutant",
+      "adjutants"
+    ]
+  },
+  "administrator": {
+    "def": [
+      {
+        "definition": "a person legally vested with the right of administration of an estate",
+        "type": "n."
+      },
+      {
+        "definition": "one who administers especially business, school, or governmental affairs",
+        "type": "v."
+      },
+      {
+        "definition": "a person who manages a computer network or system",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "administrator",
+      "administrators"
+    ]
+  },
+  "admissible": {
+    "def": [
+      {
+        "definition": "capable of being allowed or conceded : permissible",
+        "type": "adj."
+      },
+      {
+        "definition": "capable or worthy of being admitted",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "admissibilities",
+      "admissibility",
+      "admissible"
+    ]
+  },
+  "admittance": {
+    "def": [
+      {
+        "definition": "the act or process of admitting",
+        "type": "n."
+      },
+      {
+        "definition": "permission to enter",
+        "type": "n."
+      },
+      {
+        "definition": "the reciprocal of the impedance of a circuit",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "admittance",
+      "admittances"
+    ]
+  },
+  "admonish": {
+    "def": [
+      {
+        "definition": "to indicate duties or obligations to",
+        "type": "v."
+      },
+      {
+        "definition": "to express warning or disapproval to (someone) about a fault or oversight especially in a gentle but serious way",
+        "type": "v."
+      },
+      {
+        "definition": "to give friendly earnest advice or encouragement to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "admonish",
+      "admonished",
+      "admonisher",
+      "admonishers",
+      "admonishes",
+      "admonishing",
+      "admonishingly",
+      "admonishment",
+      "admonishments"
+    ]
+  },
+  "admonition": {
+    "def": [
+      {
+        "definition": "gentle or friendly reproof",
+        "type": "n."
+      },
+      {
+        "definition": "counsel or warning against fault or oversight",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "admonition",
+      "admonitions"
+    ]
+  },
+  "ado": {
+    "def": [
+      {
+        "definition": "heightened fuss or concern : to-do",
+        "type": "n."
+      },
+      {
+        "definition": "time-wasting bother over trivial details",
+        "type": "n."
+      },
+      {
+        "definition": "trouble, difficulty",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ado",
+      "ados",
+      "without ado"
+    ]
+  },
+  "adoration": {
+    "def": [
+      {
+        "definition": "the act of {a_link|adoring} the state of being {a_link|adored}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adoration",
+      "adorations"
+    ]
+  },
+  "adroit": {
+    "def": [
+      {
+        "definition": "having or showing , cleverness, or resourcefulness in handling situations",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "adroit",
+      "adroiter",
+      "adroitest",
+      "adroitly",
+      "adroitness",
+      "adroitnesses"
+    ]
+  },
+  "adulterant": {
+    "def": [
+      {
+        "definition": "an {a_link|adulterating} substance or agent",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adulterant",
+      "adulterants"
+    ]
+  },
+  "adulterate": {
+    "def": [
+      {
+        "definition": "to corrupt, debase, or make impure by the addition of a foreign or inferior substance or element",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "adulterate",
+      "adulterated",
+      "adulterates",
+      "adulterating",
+      "adulterator",
+      "adulterators"
+    ]
+  },
+  "adumbrate": {
+    "def": [
+      {
+        "definition": "to foreshadow vaguely : intimate",
+        "type": "v."
+      },
+      {
+        "definition": "to suggest, disclose, or outline partially",
+        "type": "v."
+      },
+      {
+        "definition": "overshadow, obscure",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "adumbrate",
+      "adumbrated",
+      "adumbrates",
+      "adumbrating",
+      "adumbration",
+      "adumbrations",
+      "adumbrative",
+      "adumbratively"
+    ]
+  },
+  "advent": {
+    "def": [
+      {
+        "definition": "the period beginning four Sundays before Christmas and observed by some Christians as a season of prayer and fasting",
+        "type": "n."
+      },
+      {
+        "definition": "the coming of Christ at the Incarnation",
+        "type": "n."
+      },
+      {
+        "definition": "second coming",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Advent",
+      "Advents",
+      "advent"
+    ]
+  },
+  "adverse": {
+    "def": [
+      {
+        "definition": "acting against or in a contrary direction : hostile",
+        "type": "adj."
+      },
+      {
+        "definition": "opposed to one's interests; especially : unfavorable",
+        "type": "adj."
+      },
+      {
+        "definition": "causing harm : harmful",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "adverse",
+      "adverseness",
+      "adversenesses"
+    ]
+  },
+  "adversity": {
+    "def": [
+      {
+        "definition": "a state or instance of serious or continued difficulty or misfortune",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adversities",
+      "adversity"
+    ]
+  },
+  "advert": {
+    "def": [
+      {
+        "definition": "to turn the mind or attention —used with to",
+        "type": "v."
+      },
+      {
+        "definition": "to call attention in the course of speaking or writing : make reference —used with to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "advert",
+      "adverted",
+      "adverting",
+      "adverts"
+    ]
+  },
+  "advertiser": {
+    "def": [
+      {
+        "definition": "to make the public aware of (something or someone) especially by means of a published or broadcast notice : such as",
+        "type": "v."
+      },
+      {
+        "definition": "to present (something or oneself) to the public in a way that is intended to attract customers : promote",
+        "type": "v."
+      },
+      {
+        "definition": "to announce (something wanted or offered) publicly",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "advertise",
+      "advertised",
+      "advertiser",
+      "advertisers",
+      "advertises",
+      "advertising"
+    ]
+  },
+  "advisory": {
+    "def": [
+      {
+        "definition": "having or exercising power to advise",
+        "type": "adj."
+      },
+      {
+        "definition": "containing or giving advice",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "advisory"
+    ]
+  },
+  "advocacy": {
+    "def": [
+      {
+        "definition": "the act or process of supporting a cause or proposal the act or process of advocating {dx_def}see {/dx_def} something",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "advocacies",
+      "advocacy"
+    ]
+  },
+  "advocate": {
+    "def": [
+      {
+        "definition": "one who defends or maintains a cause or proposal",
+        "type": "n."
+      },
+      {
+        "definition": "one who supports or promotes the interests of a cause or group",
+        "type": "n."
+      },
+      {
+        "definition": "one who pleads the cause of another; specifically : one who pleads the cause of another before a tribunal or judicial court",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "advocate",
+      "advocates"
+    ]
+  },
+  "aerial": {
+    "def": [
+      {
+        "definition": "of, relating to, or occurring in the air or atmosphere",
+        "type": "adv."
+      },
+      {
+        "definition": "existing or growing in the air rather than in the ground or in water",
+        "type": "adv."
+      },
+      {
+        "definition": "high in the air",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "aerial",
+      "aerially"
+    ]
+  },
+  "aeronaut": {
+    "def": [
+      {
+        "definition": "one who operates or travels in an airship or balloon",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aeronaut",
+      "aeronauts"
+    ]
+  },
+  "aeronautics": {
+    "def": [
+      {
+        "definition": "a science dealing with the operation of aircraft",
+        "type": "adv."
+      },
+      {
+        "definition": "the art or science of flight",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "aeronautic",
+      "aeronautical",
+      "aeronautically",
+      "aeronautics"
+    ]
+  },
+  "aerostat": {
+    "def": [
+      {
+        "definition": "a lighter-than-air aircraft (such as a balloon or blimp) {dx}compare",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aerostat",
+      "aerostats"
+    ]
+  },
+  "aerostatics": {
+    "def": [
+      {
+        "definition": "a branch of statics that deals with the equilibrium of gaseous fluids and of solid bodies immersed in them",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aerostatics"
+    ]
+  },
+  "affable": {
+    "def": [
+      {
+        "definition": "being pleasant and at ease in talking to others",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by ease and friendliness",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "affabilities",
+      "affability",
+      "affable"
+    ]
+  },
+  "affect": {
+    "def": [
+      {
+        "definition": "to produce an effect upon (someone or something):",
+        "type": "v."
+      },
+      {
+        "definition": "to act on and cause a change in (someone or something)",
+        "type": "v."
+      },
+      {
+        "definition": "to cause illness, symptoms, etc., in (someone or something)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "affect",
+      "affectabilities",
+      "affectability",
+      "affectable",
+      "affected",
+      "affecting",
+      "affects"
+    ]
+  },
+  "affectation": {
+    "def": [
+      {
+        "definition": "speech or conduct not natural to oneself : an unnatural form of behavior meant especially to impress others",
+        "type": "n."
+      },
+      {
+        "definition": "the act of taking on or displaying an attitude or mode of behavior not natural to oneself or not genuinely felt",
+        "type": "adj."
+      },
+      {
+        "definition": "a striving after",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "affectation",
+      "affectations"
+    ]
+  },
+  "affiliate": {
+    "def": [
+      {
+        "definition": "to bring or receive into close connection as a member or branch",
+        "type": "v."
+      },
+      {
+        "definition": "to associate as a member",
+        "type": "v."
+      },
+      {
+        "definition": "to trace the origin of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "affiliate",
+      "affiliated",
+      "affiliates",
+      "affiliating"
+    ]
+  },
+  "affirmative": {
+    "def": [
+      {
+        "definition": "asserting that the fact is so",
+        "type": "adv."
+      },
+      {
+        "definition": "positive",
+        "type": "adv."
+      },
+      {
+        "definition": "favoring or supporting a proposition or motion",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "affirmative",
+      "affirmatively"
+    ]
+  },
+  "affix": {
+    "def": [
+      {
+        "definition": "to attach physically",
+        "type": "v."
+      },
+      {
+        "definition": "to attach in any way : add, append",
+        "type": "v."
+      },
+      {
+        "definition": "impress",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "affix",
+      "affixable",
+      "affixation",
+      "affixations",
+      "affixed",
+      "affixes",
+      "affixing",
+      "affixment",
+      "affixments"
+    ]
+  },
+  "affluence": {
+    "def": [
+      {
+        "definition": "abundance of property : wealth",
+        "type": "n."
+      },
+      {
+        "definition": "an abundant flow or supply : profusion",
+        "type": "n."
+      },
+      {
+        "definition": "a flowing to or toward a point : influx",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "affluence",
+      "affluences"
+    ]
+  },
+  "affront": {
+    "def": [
+      {
+        "definition": "to insult especially to the face by behavior or language",
+        "type": "v."
+      },
+      {
+        "definition": "to cause offense to",
+        "type": "v."
+      },
+      {
+        "definition": "to face in defiance : confront",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "affront",
+      "affronted",
+      "affronting",
+      "affronts"
+    ]
+  },
+  "afire": {
+    "def": [
+      {
+        "definition": "being on fire : blazing",
+        "type": "adj."
+      },
+      {
+        "definition": "being in a state of great excitement or energy",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "afire"
+    ]
+  },
+  "afoot": {
+    "def": [
+      {
+        "definition": "on foot",
+        "type": "adv."
+      },
+      {
+        "definition": "in the process of development : underway",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "afoot"
+    ]
+  },
+  "aforesaid": {
+    "def": [
+      {
+        "definition": "said or named before or above",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "aforesaid"
+    ]
+  },
+  "afresh": {
+    "def": [
+      {
+        "definition": "from a fresh beginning ,",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "afresh"
+    ]
+  },
+  "afterthought": {
+    "def": [
+      {
+        "definition": "an idea occurring later",
+        "type": "n."
+      },
+      {
+        "definition": "something (such as a part or feature) not thought of originally : something secondary",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "afterthought",
+      "afterthoughts"
+    ]
+  },
+  "agglomerate": {
+    "def": [
+      {
+        "definition": "to gather into a ball, mass, or cluster",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "agglomerate",
+      "agglomerated",
+      "agglomerates",
+      "agglomerating"
+    ]
+  },
+  "aggrandize": {
+    "def": [
+      {
+        "definition": "to make great or greater : increase, enlarge",
+        "type": "v."
+      },
+      {
+        "definition": "to make appear great or greater : praise highly",
+        "type": "v."
+      },
+      {
+        "definition": "to enhance the power, wealth, position, or reputation of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "aggrandize",
+      "aggrandized",
+      "aggrandizement",
+      "aggrandizements",
+      "aggrandizer",
+      "aggrandizers",
+      "aggrandizes",
+      "aggrandizing"
+    ]
+  },
+  "aggravate": {
+    "def": [
+      {
+        "definition": "to make (something) worse, more serious, or more severe : to intensify (something) unpleasantly",
+        "type": "v."
+      },
+      {
+        "definition": "to make (someone) angry or irritated especially by bothering again and again",
+        "type": "v."
+      },
+      {
+        "definition": "to produce inflammation in (a part of the body) : irritate",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "aggravate",
+      "aggravated",
+      "aggravates",
+      "aggravating"
+    ]
+  },
+  "aggravation": {
+    "def": [
+      {
+        "definition": "an act or circumstance that intensifies something or makes something worse",
+        "type": "n."
+      },
+      {
+        "definition": "the act, action, or result of aggravating something or someone; especially : an increasing in seriousness or severity",
+        "type": "n."
+      },
+      {
+        "definition": "irritation, provocation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aggravation",
+      "aggravations"
+    ]
+  },
+  "aggregate": {
+    "def": [
+      {
+        "definition": "formed by the collection of units or particles into a body, mass, or amount : collective: such as",
+        "type": "adv."
+      },
+      {
+        "definition": "clustered in a dense mass or head",
+        "type": "adv."
+      },
+      {
+        "definition": "formed from several separate ovaries of a single flower",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "aggregate",
+      "aggregately",
+      "aggregateness",
+      "aggregatenesses"
+    ]
+  },
+  "aggress": {
+    "def": [
+      {
+        "definition": "to commit {a_link|aggression} act {a_link|aggressively}",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "aggress",
+      "aggressed",
+      "aggresses",
+      "aggressing"
+    ]
+  },
+  "aggression": {
+    "def": [
+      {
+        "definition": "a forceful action or procedure (such as an unprovoked attack) especially when intended to dominate or master",
+        "type": "n."
+      },
+      {
+        "definition": "the practice of making attacks or encroachments; especially : unprovoked violation by one country of the territorial integrity of another",
+        "type": "n."
+      },
+      {
+        "definition": "hostile, injurious, or destructive behavior or outlook especially when caused by frustration",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aggression",
+      "aggressions"
+    ]
+  },
+  "aggrieve": {
+    "def": [
+      {
+        "definition": "to give pain or trouble to : distress",
+        "type": "v."
+      },
+      {
+        "definition": "to inflict injury on",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "aggrieve",
+      "aggrieved",
+      "aggrieves",
+      "aggrieving"
+    ]
+  },
+  "aghast": {
+    "def": [
+      {
+        "definition": "struck with terror, amazement, or horror shocked and upset",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "aghast"
+    ]
+  },
+  "agile": {
+    "def": [
+      {
+        "definition": "marked by ready ability to move with quick easy grace",
+        "type": "adv."
+      },
+      {
+        "definition": "having a quick resourceful and adaptable character",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "agile",
+      "agilely"
+    ]
+  },
+  "agitate": {
+    "def": [
+      {
+        "definition": "to excite and often trouble the mind or feelings of : disturb",
+        "type": "v."
+      },
+      {
+        "definition": "to discuss excitedly and earnestly",
+        "type": "v."
+      },
+      {
+        "definition": "to stir up public discussion of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "agitate",
+      "agitated",
+      "agitatedly",
+      "agitates",
+      "agitating"
+    ]
+  },
+  "agrarian": {
+    "def": [
+      {
+        "definition": "of or relating to fields or lands or their tenure",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of farmers or their way of life",
+        "type": "v."
+      },
+      {
+        "definition": "organized or designed to promote agricultural interests",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "agrarian"
+    ]
+  },
+  "aide-de-camp": {
+    "def": [
+      {
+        "definition": "a military aide",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aide-de-camp",
+      "aides-de-camp"
+    ]
+  },
+  "ailment": {
+    "def": [
+      {
+        "definition": "a bodily disorder or chronic disease",
+        "type": "n."
+      },
+      {
+        "definition": "unrest, uneasiness",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ailment",
+      "ailments"
+    ]
+  },
+  "airy": {
+    "def": [
+      {
+        "definition": "of or relating to air : atmospheric",
+        "type": "adv."
+      },
+      {
+        "definition": "high in the air : lofty",
+        "type": "adv."
+      },
+      {
+        "definition": "performed in air : aerial",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "airier",
+      "airiest",
+      "airily",
+      "airiness",
+      "airinesses",
+      "airy"
+    ]
+  },
+  "akin": {
+    "def": [
+      {
+        "definition": "related by blood : descended from a common ancestor or prototype",
+        "type": "adj."
+      },
+      {
+        "definition": "essentially similar, related, or compatible",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "akin"
+    ]
+  },
+  "alabaster": {
+    "def": [
+      {
+        "definition": "a compact fine-textured usually white and translucent gypsum often carved into vases and ornaments",
+        "type": "n."
+      },
+      {
+        "definition": "a hard calcite or aragonite that is translucent and sometimes banded",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alabaster",
+      "alabasters",
+      "alabastrine"
+    ]
+  },
+  "alacrity": {
+    "def": [
+      {
+        "definition": "promptness in response cheerful readiness",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alacrities",
+      "alacritous",
+      "alacrity"
+    ]
+  },
+  "albeit": {
+    "def": [
+      {
+        "definition": "even though",
+        "type": "conj."
+      }
+    ],
+    "forms": [
+      "albeit"
+    ]
+  },
+  "albino": {
+    "def": [
+      {
+        "definition": "an organism exhibiting deficient pigmentation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "albino",
+      "albinos"
+    ]
+  },
+  "album": {
+    "def": [
+      {
+        "definition": "a book for holding a collection of items (such as photographs, stamps, or coins) on pages that are initially blank",
+        "type": "n."
+      },
+      {
+        "definition": "a digital folder (as on a smartphone or computer) for grouping image or video files",
+        "type": "n."
+      },
+      {
+        "definition": "a collection of one or more audio recordings that is presented as a single unit and is typically longer than a single or an EP",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "album",
+      "albums"
+    ]
+  },
+  "alchemy": {
+    "def": [
+      {
+        "definition": "a medieval chemical science and speculative philosophy aiming to achieve the transmutation of the base metals into gold, the discovery of a universal cure for disease, and the discovery of a means of indefinitely prolonging life",
+        "type": "adv."
+      },
+      {
+        "definition": "a power or process that changes or transforms something in a mysterious or impressive way",
+        "type": "adv."
+      },
+      {
+        "definition": "an inexplicable or mysterious transmuting",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "alchemic",
+      "alchemical",
+      "alchemically",
+      "alchemies",
+      "alchemy"
+    ]
+  },
+  "alcohol": {
+    "def": [
+      {
+        "definition": "ethanol especially when considered as the intoxicating agent in fermented and distilled liquors",
+        "type": "n."
+      },
+      {
+        "definition": "drink (such as whiskey or beer) containing ethanol",
+        "type": "n."
+      },
+      {
+        "definition": "a mixture of ethanol and water that is usually 95 percent ethanol",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alcohol",
+      "alcohols"
+    ]
+  },
+  "alcoholism": {
+    "def": [
+      {
+        "definition": "continued excessive or compulsive use of alcoholic drinks",
+        "type": "n."
+      },
+      {
+        "definition": "a chronic, progressive, potentially fatal disorder marked by excessive and usually compulsive drinking of alcohol leading to psychological and physical dependence or addiction",
+        "type": "adj."
+      },
+      {
+        "definition": "acute alcohol poisoning resulting from the usually rapid consumption of excessive alcoholic beverages",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alcoholism",
+      "alcoholisms"
+    ]
+  },
+  "alcove": {
+    "def": [
+      {
+        "definition": "a small recessed section of a room : nook",
+        "type": "n."
+      },
+      {
+        "definition": "an arched opening (as in a wall) : niche",
+        "type": "n."
+      },
+      {
+        "definition": "summerhouse",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alcove",
+      "alcoved",
+      "alcoves"
+    ]
+  },
+  "alder": {
+    "def": [
+      {
+        "definition": "any of a genus (Alnus) of toothed-leaved trees or shrubs of the birch family that have catkins which become woody, that typically grow in cool moist ground, and that have wood used especially in turnery",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alder",
+      "alders"
+    ]
+  },
+  "alderman": {
+    "def": [
+      {
+        "definition": "a person governing a kingdom, district, or shire as viceroy for an Anglo-Saxon king",
+        "type": "n."
+      },
+      {
+        "definition": "a magistrate formerly ranking next below the mayor in an English or Irish city or borough",
+        "type": "n."
+      },
+      {
+        "definition": "a high-ranking member of a borough or county council in Ireland or formerly in England chosen by elected members",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alderman",
+      "aldermanic",
+      "aldermen"
+    ]
+  },
+  "aldermanship": {
+    "def": [
+      {
+        "definition": "The dignity, condition, office, or term of office of an alderman.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "alias": {
+    "def": [
+      {
+        "definition": "an assumed or additional name that a person sometimes uses",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alias",
+      "aliases"
+    ]
+  },
+  "alien": {
+    "def": [
+      {
+        "definition": "belonging or relating to another person, place, or thing : strange",
+        "type": "adv."
+      },
+      {
+        "definition": "relating, belonging, or owing allegiance to another country or government : foreign",
+        "type": "adv."
+      },
+      {
+        "definition": "exotic",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "alien",
+      "alienly",
+      "alienness",
+      "aliennesses"
+    ]
+  },
+  "alienable": {
+    "def": [
+      {
+        "definition": "transferable to another's ownership",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "alienabilities",
+      "alienability",
+      "alienable"
+    ]
+  },
+  "alienate": {
+    "def": [
+      {
+        "definition": "to cause to be estranged : to make unfriendly, hostile, or indifferent especially where attachment formerly existed",
+        "type": "v."
+      },
+      {
+        "definition": "to convey or transfer (something, such as property or a right) usually by a specific act (as a sale) rather than the due course of law (as by descent)",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to be withdrawn or diverted",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "alienate",
+      "alienated",
+      "alienates",
+      "alienating",
+      "alienator",
+      "alienators"
+    ]
+  },
+  "alienation": {
+    "def": [
+      {
+        "definition": "a withdrawing or separation of a person or a person's affections from an object or position of former attachment : estrangement",
+        "type": "n."
+      },
+      {
+        "definition": "a conveyance of property to another",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alienation",
+      "alienations"
+    ]
+  },
+  "aliment": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aliment",
+      "aliments"
+    ]
+  },
+  "alkali": {
+    "def": [
+      {
+        "definition": "a soluble salt obtained from the ashes of plants and consisting largely of potassium or sodium carbonate; broadly : a substance (such as a hydroxide or carbonate of an alkali metal) having marked basic properties",
+        "type": "adj."
+      },
+      {
+        "definition": "alkali metal",
+        "type": "n."
+      },
+      {
+        "definition": "a soluble salt or a mixture of soluble salts present in some soils of arid regions in quantity detrimental to agriculture",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alkali",
+      "alkalies",
+      "alkalis"
+    ]
+  },
+  "allay": {
+    "def": [
+      {
+        "definition": "to subdue or reduce in intensity or severity : alleviate",
+        "type": "v."
+      },
+      {
+        "definition": "to make quiet : calm",
+        "type": "v."
+      },
+      {
+        "definition": "to diminish in strength : subside",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "allay",
+      "allayed",
+      "allaying",
+      "allays"
+    ]
+  },
+  "allege": {
+    "def": [
+      {
+        "definition": "to assert without proof or before proving",
+        "type": "v."
+      },
+      {
+        "definition": "to bring forward as a reason or excuse",
+        "type": "v."
+      },
+      {
+        "definition": "to adduce or bring forward as a source or authority",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "allege",
+      "alleged",
+      "alleges",
+      "alleging"
+    ]
+  },
+  "allegory": {
+    "def": [
+      {
+        "definition": "the expression of truths or generalizations about human existence by means of symbolic figures and actions; also : an instance (as in literature or painting) of such expression",
+        "type": "n."
+      },
+      {
+        "definition": "a symbolic representation : emblem",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "allegories",
+      "allegory"
+    ]
+  },
+  "alleviate": {
+    "def": [
+      {
+        "definition": "relieve, lessen: such as",
+        "type": "v."
+      },
+      {
+        "definition": "to make (something, such as pain or suffering) more bearable",
+        "type": "v."
+      },
+      {
+        "definition": "to partially remove or correct (something undesirable)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "alleviate",
+      "alleviated",
+      "alleviates",
+      "alleviating",
+      "alleviation",
+      "alleviations",
+      "alleviator",
+      "alleviators"
+    ]
+  },
+  "alley": {
+    "def": [
+      {
+        "definition": "a garden or park walk bordered by trees or bushes",
+        "type": "n."
+      },
+      {
+        "definition": "a grassed enclosure for bowling or skittles",
+        "type": "n."
+      },
+      {
+        "definition": "a hardwood lane for bowling; also : a room or building housing a group of such lanes",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alley",
+      "alleys",
+      "down her alley",
+      "down his alley",
+      "down its alley",
+      "down my alley",
+      "down our alley",
+      "down their alley",
+      "down your alley"
+    ]
+  },
+  "alliance": {
+    "def": [
+      {
+        "definition": "the state of being allied : the action of allying",
+        "type": "adj."
+      },
+      {
+        "definition": "a bond or connection between families, states, parties, or individuals",
+        "type": "n."
+      },
+      {
+        "definition": "an association to further the common interests of the members; specifically : a confederation of nations by treaty",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alliance",
+      "alliances"
+    ]
+  },
+  "allot": {
+    "def": [
+      {
+        "definition": "to assign as a share or portion",
+        "type": "v."
+      },
+      {
+        "definition": "to distribute by or as if by lot",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "allot",
+      "allots",
+      "allotted",
+      "allotter",
+      "allotters",
+      "allotting"
+    ]
+  },
+  "allotment": {
+    "def": [
+      {
+        "definition": "the act of allotting something : apportionment",
+        "type": "n."
+      },
+      {
+        "definition": "something that is allotted; especially, chiefly British : a plot of land let to an individual for cultivation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "allotment",
+      "allotments"
+    ]
+  },
+  "allude": {
+    "def": [
+      {
+        "definition": "to make  reference",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "allude",
+      "alluded",
+      "alludes",
+      "alluding"
+    ]
+  },
+  "allusion": {
+    "def": [
+      {
+        "definition": "an implied or indirect reference; also : the use of such references",
+        "type": "n."
+      },
+      {
+        "definition": "the act of making an indirect reference to something : the act of alluding to something",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "allusion",
+      "allusions"
+    ]
+  },
+  "alluvion": {
+    "def": [
+      {
+        "definition": "the wash or flow of water against a shore",
+        "type": "n."
+      },
+      {
+        "definition": "flood, inundation",
+        "type": "n."
+      },
+      {
+        "definition": "alluvium",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alluvion",
+      "alluvions"
+    ]
+  },
+  "ally": {
+    "def": [
+      {
+        "definition": "to unite or form a connection or relation between : associate —usually used with with or to",
+        "type": "v."
+      },
+      {
+        "definition": "to form or enter into an alliance —usually used with with",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "allied",
+      "allies",
+      "ally",
+      "allying"
+    ]
+  },
+  "almanac": {
+    "def": [
+      {
+        "definition": "a publication containing astronomical and meteorological data for a given year and often including a miscellany of other information",
+        "type": "n."
+      },
+      {
+        "definition": "a usually annual publication containing statistical, tabular, and general information",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "almanac",
+      "almanacs"
+    ]
+  },
+  "aloof": {
+    "def": [
+      {
+        "definition": "removed or  either physically or emotionally",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "aloof",
+      "aloofly"
+    ]
+  },
+  "altar": {
+    "def": [
+      {
+        "definition": "a usually raised structure or place on which sacrifices are offered or incense is burned in worship —often used figuratively to describe a thing given great or undue precedence or value especially at the cost of something else",
+        "type": "n."
+      },
+      {
+        "definition": "a tablelike construction used in the Christian church in celebrating the Eucharist",
+        "type": "n."
+      },
+      {
+        "definition": "a table or place which serves as a center of worship or ritual—often used with the to refer to the act of getting married",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "altar",
+      "altars",
+      "leave her at the altar",
+      "leave him at the altar",
+      "leaves her at the altar",
+      "leaves him at the altar",
+      "leaving her at the altar",
+      "leaving him at the altar",
+      "left her at the altar",
+      "left him at the altar"
+    ]
+  },
+  "alter": {
+    "def": [
+      {
+        "definition": "to make different without changing into something else",
+        "type": "v."
+      },
+      {
+        "definition": "castrate, spay",
+        "type": "adv."
+      },
+      {
+        "definition": "to become different",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "alter",
+      "alterabilities",
+      "alterability",
+      "alterable",
+      "alterably",
+      "altered",
+      "alterer",
+      "alterers",
+      "altering",
+      "alters"
+    ]
+  },
+  "alteration": {
+    "def": [
+      {
+        "definition": "the act or process of altering something : the state of being altered",
+        "type": "adj."
+      },
+      {
+        "definition": "the result of changing or altering something: such as",
+        "type": "n."
+      },
+      {
+        "definition": "a change made in fitting a garment",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alteration",
+      "alterations"
+    ]
+  },
+  "altercate": {
+    "def": [
+      {
+        "definition": "to dispute angrily or noisily",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "altercate",
+      "altercated",
+      "altercates",
+      "altercating"
+    ]
+  },
+  "alternate": {
+    "def": [
+      {
+        "definition": "occurring or succeeding by turns",
+        "type": "n."
+      },
+      {
+        "definition": "arranged first on one side and then on the other at different levels or points along an axial line",
+        "type": "n."
+      },
+      {
+        "definition": "arranged one above or alongside the other",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alternate"
+    ]
+  },
+  "alternative": {
+    "def": [
+      {
+        "definition": "offering or expressing a choice",
+        "type": "adv."
+      },
+      {
+        "definition": "different from the usual or conventional: such as",
+        "type": "adv."
+      },
+      {
+        "definition": "existing or functioning outside the established cultural, social, or economic system",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "alternative",
+      "alternatively",
+      "alternativeness",
+      "alternativenesses"
+    ]
+  },
+  "altitude": {
+    "def": [
+      {
+        "definition": "the vertical elevation of an object above a surface (such as sea level or land) of a planet or natural satellite",
+        "type": "n."
+      },
+      {
+        "definition": "the angular elevation of a celestial object above the horizon",
+        "type": "n."
+      },
+      {
+        "definition": "a perpendicular line segment from a vertex of a geometric figure (such as a triangle or a pyramid) to the opposite side or the opposite side extended or from a side or face to a parallel side or face or the side or face extended",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "altitude",
+      "altitudes",
+      "altitudinal",
+      "altitudinous"
+    ]
+  },
+  "alto": {
+    "def": [
+      {
+        "definition": "countertenor",
+        "type": "n."
+      },
+      {
+        "definition": "contralto",
+        "type": "n."
+      },
+      {
+        "definition": "the second highest voice part in a 4-part chorus",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "alto",
+      "altos"
+    ]
+  },
+  "altruism": {
+    "def": [
+      {
+        "definition": "unselfish regard for or devotion to the welfare of others",
+        "type": "n."
+      },
+      {
+        "definition": "behavior by an animal that is not beneficial to or may be harmful to itself but that benefits others of its species",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "altruism",
+      "altruisms"
+    ]
+  },
+  "altruist": {
+    "def": [
+      {
+        "definition": "one that adheres to or practices altruism: such as",
+        "type": "n."
+      },
+      {
+        "definition": "an unselfish person whose actions show concern for the welfare of others",
+        "type": "n."
+      },
+      {
+        "definition": "an animal that behaves in a way which is not beneficial to or may be harmful to itself but which benefits the survival of others of its species",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "altruist",
+      "altruists"
+    ]
+  },
+  "amalgam": {
+    "def": [
+      {
+        "definition": "a mixture of different elements",
+        "type": "n."
+      },
+      {
+        "definition": "an alloy of mercury with another metal that is solid or liquid at room temperature according to the proportion of mercury present and is used especially in making tooth cements",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "amalgam",
+      "amalgams"
+    ]
+  },
+  "amalgamate": {
+    "def": [
+      {
+        "definition": "to unite in or as if in an",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "amalgamate",
+      "amalgamated",
+      "amalgamates",
+      "amalgamating",
+      "amalgamator",
+      "amalgamators"
+    ]
+  },
+  "amateur": {
+    "def": [
+      {
+        "definition": "one who engages in a pursuit, study, science, or sport as a pastime rather than as a profession",
+        "type": "adv."
+      },
+      {
+        "definition": "one lacking in experience and competence in an art or science",
+        "type": "adv."
+      },
+      {
+        "definition": "devotee, admirer",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "amateur",
+      "amateurish",
+      "amateurishly",
+      "amateurishness",
+      "amateurishnesses",
+      "amateurism",
+      "amateurisms",
+      "amateurs"
+    ]
+  },
+  "amatory": {
+    "def": [
+      {
+        "definition": "of, relating to, or expressing sexual love",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "amatory"
+    ]
+  },
+  "ambidextrous": {
+    "def": [
+      {
+        "definition": "using both hands with equal ease or dexterity",
+        "type": "adv."
+      },
+      {
+        "definition": "using both feet with equal ease : two-footed",
+        "type": "adv."
+      },
+      {
+        "definition": "designed or suitable for use by the left or right hand",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ambidextrous",
+      "ambidextrously"
+    ]
+  },
+  "ambiguous": {
+    "def": [
+      {
+        "definition": "capable of being understood in two or more possible senses or ways",
+        "type": "adv."
+      },
+      {
+        "definition": "difficult to discern or categorize",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ambiguous",
+      "ambiguously",
+      "ambiguousness",
+      "ambiguousnesses"
+    ]
+  },
+  "ambitious": {
+    "def": [
+      {
+        "definition": "having or controlled by ambition : having a desire to be successful, powerful, or famous",
+        "type": "adv."
+      },
+      {
+        "definition": "having a desire to achieve a particular goal : aspiring",
+        "type": "adv."
+      },
+      {
+        "definition": "resulting from, characterized by, or showing ambition",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ambitious",
+      "ambitiously",
+      "ambitiousness",
+      "ambitiousnesses"
+    ]
+  },
+  "ambrosial": {
+    "def": [
+      {
+        "definition": "the food of the Greek and Roman gods",
+        "type": "adv."
+      },
+      {
+        "definition": "the ointment or perfume of the gods",
+        "type": "adv."
+      },
+      {
+        "definition": "something extremely pleasing to taste or smell",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ambrosia",
+      "ambrosial",
+      "ambrosially",
+      "ambrosias"
+    ]
+  },
+  "ambulance": {
+    "def": [
+      {
+        "definition": "a vehicle equipped for transporting the injured or sick",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ambulance",
+      "ambulances"
+    ]
+  },
+  "ambulate": {
+    "def": [
+      {
+        "definition": "to move from place to place",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ambulate",
+      "ambulated",
+      "ambulates",
+      "ambulating"
+    ]
+  },
+  "ambush": {
+    "def": [
+      {
+        "definition": "to attack by surprise from a hidden place : waylay",
+        "type": "v."
+      },
+      {
+        "definition": "to station in ambush",
+        "type": "v."
+      },
+      {
+        "definition": "to lie in wait : lurk",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ambush",
+      "ambushed",
+      "ambusher",
+      "ambushers",
+      "ambushes",
+      "ambushing",
+      "ambushment",
+      "ambushments"
+    ]
+  },
+  "ameliorate": {
+    "def": [
+      {
+        "definition": "to make better or more tolerable",
+        "type": "v."
+      },
+      {
+        "definition": "to grow better",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ameliorate",
+      "ameliorated",
+      "ameliorates",
+      "ameliorating",
+      "amelioration",
+      "ameliorations",
+      "ameliorative",
+      "ameliorator",
+      "ameliorators",
+      "amelioratory"
+    ]
+  },
+  "amenable": {
+    "def": [
+      {
+        "definition": "having or showing willingness to agree or to accept something that is wanted or asked for —usually used with to",
+        "type": "adv."
+      },
+      {
+        "definition": "readily yielding, submitting, or cooperating —usually used with to",
+        "type": "adv."
+      },
+      {
+        "definition": "able to be controlled, organized, or affected by something —usually used with to",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "amenabilities",
+      "amenability",
+      "amenable",
+      "amenably"
+    ]
+  },
+  "americanism": {
+    "def": [
+      {
+        "definition": "a characteristic feature of American English especially as contrasted with British English",
+        "type": "n."
+      },
+      {
+        "definition": "attachment or allegiance to the traditions, interests, or ideals of the U.S.",
+        "type": "n."
+      },
+      {
+        "definition": "a custom or trait peculiar to America",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Americanism",
+      "Americanisms"
+    ]
+  },
+  "amicable": {
+    "def": [
+      {
+        "definition": "characterized by friendly",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "amicabilities",
+      "amicability",
+      "amicable",
+      "amicableness",
+      "amicablenesses",
+      "amicably"
+    ]
+  },
+  "amity": {
+    "def": [
+      {
+        "definition": "friendship; especially : friendly relations between nations",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "amities",
+      "amity"
+    ]
+  },
+  "amorous": {
+    "def": [
+      {
+        "definition": "strongly moved by love and especially sexual love",
+        "type": "adv."
+      },
+      {
+        "definition": "being in love : enamored —usually used with of",
+        "type": "adv."
+      },
+      {
+        "definition": "indicative of love",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "amorous",
+      "amorously",
+      "amorousness",
+      "amorousnesses"
+    ]
+  },
+  "amorphous": {
+    "def": [
+      {
+        "definition": "having no definite form : shapeless",
+        "type": "adv."
+      },
+      {
+        "definition": "being without definite character or nature : unclassifiable",
+        "type": "adv."
+      },
+      {
+        "definition": "lacking organization or unity",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "amorphous",
+      "amorphously",
+      "amorphousness",
+      "amorphousnesses"
+    ]
+  },
+  "amour": {
+    "def": [
+      {
+        "definition": "a usually  love affair",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "amour",
+      "amours"
+    ]
+  },
+  "ampere": {
+    "def": [
+      {
+        "definition": "the practical meter-kilogram-second unit of electric current that is equivalent to a flow of one coulomb per second or to the steady current produced by one volt applied across a resistance of one ohm",
+        "type": "n."
+      },
+      {
+        "definition": "the base unit of electric current in the International System of Units that is defined by setting the fixed numerical value of the elementary charge to 1.602176634 x 10-19 ampere seconds",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ampere",
+      "amperes"
+    ]
+  },
+  "ampersand": {
+    "def": [
+      {
+        "definition": "a character typically & standing for the word and",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ampersand",
+      "ampersands"
+    ]
+  },
+  "amphibious": {
+    "def": [
+      {
+        "definition": "combining two characteristics",
+        "type": "adv."
+      },
+      {
+        "definition": "relating to or adapted for both land and water",
+        "type": "adv."
+      },
+      {
+        "definition": "executed by coordinated action of land, sea, and air forces organized for invasion; also : trained or organized for such action",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "amphibious",
+      "amphibiously",
+      "amphibiousness",
+      "amphibiousnesses"
+    ]
+  },
+  "amphitheater": {
+    "def": [
+      {
+        "definition": "an oval or circular building with rising tiers of seats ranged about an open space and used in ancient Rome especially for contests and spectacles",
+        "type": "adv."
+      },
+      {
+        "definition": "a very large auditorium",
+        "type": "adv."
+      },
+      {
+        "definition": "a room with a gallery from which doctors and students may observe surgical operations",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "amphitheater",
+      "amphitheaters",
+      "amphitheatric",
+      "amphitheatrical",
+      "amphitheatrically"
+    ]
+  },
+  "amplitude": {
+    "def": [
+      {
+        "definition": "the extent or range of a quality, property, process, or phenomenon: such as",
+        "type": "n."
+      },
+      {
+        "definition": "the extent of a vibratory movement (as of a pendulum) measured from the mean position to an extreme",
+        "type": "n."
+      },
+      {
+        "definition": "the maximum departure of the value of an alternating current or wave from the average value",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "amplitude",
+      "amplitudes",
+      "argument"
+    ]
+  },
+  "amply": {
+    "def": [
+      {
+        "definition": "generous or more than adequate in size, scope, or capacity",
+        "type": "adv."
+      },
+      {
+        "definition": "generously sufficient to satisfy a requirement or need",
+        "type": "adv."
+      },
+      {
+        "definition": "buxom, portly",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ample",
+      "ampleness",
+      "amplenesses",
+      "ampler",
+      "amplest",
+      "amply"
+    ]
+  },
+  "amputate": {
+    "def": [
+      {
+        "definition": "to remove by or as if by cutting",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "amputate",
+      "amputated",
+      "amputates",
+      "amputating",
+      "amputation",
+      "amputations"
+    ]
+  },
+  "amusement": {
+    "def": [
+      {
+        "definition": "a means of amusing or entertaining",
+        "type": "n."
+      },
+      {
+        "definition": "the condition of being amused",
+        "type": "adj."
+      },
+      {
+        "definition": "pleasurable diversion : entertainment",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "amusement",
+      "amusements"
+    ]
+  },
+  "anachronism": {
+    "def": [
+      {
+        "definition": "an error in chronology; especially : a chronological misplacing of persons, events, objects, or customs in regard to each other",
+        "type": "adv."
+      },
+      {
+        "definition": "a person or a thing that is chronologically out of place; especially : one from a former age that is incongruous in the present",
+        "type": "adv."
+      },
+      {
+        "definition": "the state or condition of being chronologically out of place",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anachronic",
+      "anachronism",
+      "anachronisms",
+      "anachronistic",
+      "anachronistically",
+      "anachronous",
+      "anachronously"
+    ]
+  },
+  "anagram": {
+    "def": [
+      {
+        "definition": "a word or phrase made by transposing the letters of another word or phrase",
+        "type": "adv."
+      },
+      {
+        "definition": "a game in which words are formed by rearranging the letters of other words or by arranging letters taken (as from a stock of cards or blocks) at random",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anagram",
+      "anagrammatic",
+      "anagrammatical",
+      "anagrammatically",
+      "anagrams"
+    ]
+  },
+  "analogous": {
+    "def": [
+      {
+        "definition": "similar or comparable to something else either in general or in some specific detail  similar in a way that invites comparison showing an  or a likeness that permits one to draw an analogy",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "analogous",
+      "analogously",
+      "analogousness",
+      "analogousnesses"
+    ]
+  },
+  "analogy": {
+    "def": [
+      {
+        "definition": "a comparison of two otherwise unlike things based on resemblance of a particular aspect; also : one of the two things being compared",
+        "type": "adj."
+      },
+      {
+        "definition": "resemblance in some particulars between things otherwise unlike : similarity",
+        "type": "n."
+      },
+      {
+        "definition": "inference that if two or more things agree with one another in some respects they will probably agree in others",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "analogies",
+      "analogy"
+    ]
+  },
+  "analyst": {
+    "def": [
+      {
+        "definition": "a person who analyzes or who is skilled in analysis",
+        "type": "n."
+      },
+      {
+        "definition": "psychoanalyst",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "analyst",
+      "analysts"
+    ]
+  },
+  "analyze": {
+    "def": [
+      {
+        "definition": "to study or determine the nature and relationship of the parts of (something) by analysis",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to scientific or grammatical analysis",
+        "type": "v."
+      },
+      {
+        "definition": "psychoanalyze",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "analyse",
+      "analyzabilities",
+      "analyzability",
+      "analyzable",
+      "analyze",
+      "analyzed",
+      "analyzer",
+      "analyzers",
+      "analyzes",
+      "analyzing"
+    ]
+  },
+  "anarchy": {
+    "def": [
+      {
+        "definition": "a state of lawlessness or political disorder due to the absence of governmental authority",
+        "type": "n."
+      },
+      {
+        "definition": "absence of government",
+        "type": "n."
+      },
+      {
+        "definition": "a utopian society of individuals who enjoy complete freedom without government",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anarchies",
+      "anarchy"
+    ]
+  },
+  "anathema": {
+    "def": [
+      {
+        "definition": "someone or something intensely disliked or loathed —usually used in the phrase be anathema (to)",
+        "type": "n."
+      },
+      {
+        "definition": "one that is cursed by ecclesiastical authority",
+        "type": "n."
+      },
+      {
+        "definition": "a ban or curse solemnly pronounced by ecclesiastical authority and accompanied by excommunication",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anathema",
+      "anathemas",
+      "anathemata",
+      "was anathema to"
+    ]
+  },
+  "anatomy": {
+    "def": [
+      {
+        "definition": "a branch of morphology that deals with the structure of organisms",
+        "type": "n."
+      },
+      {
+        "definition": "a treatise on anatomical science or art",
+        "type": "n."
+      },
+      {
+        "definition": "the art of separating the parts of an organism in order to ascertain their position, relations, structure, and function : dissection",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anatomies",
+      "anatomy"
+    ]
+  },
+  "ancestry": {
+    "def": [
+      {
+        "definition": "line of descent : lineage; especially : honorable, noble, or aristocratic descent",
+        "type": "n."
+      },
+      {
+        "definition": "persons initiating or comprising a line of descent : ancestors",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ancestries",
+      "ancestry"
+    ]
+  },
+  "anecdote": {
+    "def": [
+      {
+        "definition": "a usually short  of an interesting, amusing, or biographical incident",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anecdota",
+      "anecdote",
+      "anecdotes"
+    ]
+  },
+  "anemia": {
+    "def": [
+      {
+        "definition": "a condition in which the blood is deficient in red blood cells, in hemoglobin, or in total volume",
+        "type": "n."
+      },
+      {
+        "definition": "ischemia",
+        "type": "n."
+      },
+      {
+        "definition": "lack of vitality",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anemia",
+      "anemias"
+    ]
+  },
+  "anemic": {
+    "def": [
+      {
+        "definition": "relating to or affected with anemia",
+        "type": "adv."
+      },
+      {
+        "definition": "lacking force, vitality, or spirit",
+        "type": "adv."
+      },
+      {
+        "definition": "lacking interest or savor : insipid",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anemic",
+      "anemically"
+    ]
+  },
+  "anemometer": {
+    "def": [
+      {
+        "definition": "an instrument for measuring and indicating the force or speed and sometimes direction of the wind",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anemometer",
+      "anemometers"
+    ]
+  },
+  "anesthetic": {
+    "def": [
+      {
+        "definition": "of, relating to, or capable of producing anesthesia",
+        "type": "adv."
+      },
+      {
+        "definition": "lacking awareness or sensitivity",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anesthetic",
+      "anesthetically"
+    ]
+  },
+  "anew": {
+    "def": [
+      {
+        "definition": "for an additional time : again",
+        "type": "adv."
+      },
+      {
+        "definition": "in a new or different form",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anew"
+    ]
+  },
+  "angelic": {
+    "def": [
+      {
+        "definition": "of or relating to   resembling, or suggestive of, an angel (as in purity, holiness, innocence, or beauty)",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "angelic",
+      "angelical",
+      "angelically"
+    ]
+  },
+  "anglophobia": {
+    "def": [
+      {
+        "definition": "a person who is averse to or dislikes England and things English",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Anglophobe",
+      "Anglophobes",
+      "Anglophobia",
+      "Anglophobias",
+      "Anglophobic"
+    ]
+  },
+  "anglo-saxon": {
+    "def": [
+      {
+        "definition": "a member of the Germanic peoples conquering England in the fifth century a.d. and forming the ruling class until the Norman conquest",
+        "type": "n."
+      },
+      {
+        "definition": "englishman; specifically : a person descended from the Anglo-Saxons",
+        "type": "n."
+      },
+      {
+        "definition": "a white gentile of an English-speaking nation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Anglo-Saxon",
+      "Anglo-Saxons"
+    ]
+  },
+  "angular": {
+    "def": [
+      {
+        "definition": "forming an angle : sharp-cornered",
+        "type": "adv."
+      },
+      {
+        "definition": "having one or more angles",
+        "type": "adv."
+      },
+      {
+        "definition": "measured by an angle",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "angular",
+      "angularly"
+    ]
+  },
+  "anhydrous": {
+    "def": [
+      {
+        "definition": "free from water and especially water of crystallization",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "anhydrous"
+    ]
+  },
+  "animadversion": {
+    "def": [
+      {
+        "definition": "a critical and usually censorious remark —often used with on",
+        "type": "n."
+      },
+      {
+        "definition": "adverse criticism",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "animadversion",
+      "animadversions"
+    ]
+  },
+  "animadvert": {
+    "def": [
+      {
+        "definition": "notice, observe",
+        "type": "v."
+      },
+      {
+        "definition": "to make an animadversion",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "animadvert",
+      "animadverted",
+      "animadverting",
+      "animadverts"
+    ]
+  },
+  "animalcule": {
+    "def": [
+      {
+        "definition": "a minute usually microscopic organism",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "animalcula",
+      "animalculae",
+      "animalcule",
+      "animalcules",
+      "animalculum"
+    ]
+  },
+  "animate": {
+    "def": [
+      {
+        "definition": "possessing or characterized by life : alive",
+        "type": "adv."
+      },
+      {
+        "definition": "full of life : animated",
+        "type": "adv."
+      },
+      {
+        "definition": "of or relating to animal life as opposed to plant life",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "animate",
+      "animately",
+      "animateness",
+      "animatenesses"
+    ]
+  },
+  "animosity": {
+    "def": [
+      {
+        "definition": "a strong feeling of dislike or hatred  or resentment tending toward active hostility an antagonistic attitude",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "animosities",
+      "animosity"
+    ]
+  },
+  "annalist": {
+    "def": [
+      {
+        "definition": "a writer of {a_link|annals}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "annalist",
+      "annalistic",
+      "annalists"
+    ]
+  },
+  "annals": {
+    "def": [
+      {
+        "definition": "a record of events arranged in yearly sequence",
+        "type": "n."
+      },
+      {
+        "definition": "historical records : chronicles",
+        "type": "n."
+      },
+      {
+        "definition": "records of the activities of an organization",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "annals"
+    ]
+  },
+  "annex": {
+    "def": [
+      {
+        "definition": "to incorporate (an additional geographic area) within the domain of a country, state, etc.",
+        "type": "v."
+      },
+      {
+        "definition": "to add (something) to something earlier, larger, or more important —often used with to",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain or take (something) for oneself",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "annex",
+      "annexed",
+      "annexes",
+      "annexing"
+    ]
+  },
+  "annihilate": {
+    "def": [
+      {
+        "definition": "to cause to cease to exist : to do away with entirely so that nothing remains",
+        "type": "v."
+      },
+      {
+        "definition": "to destroy a considerable part of",
+        "type": "v."
+      },
+      {
+        "definition": "to defeat overwhelmingly : rout",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "annihilate",
+      "annihilated",
+      "annihilates",
+      "annihilating",
+      "annihilatory"
+    ]
+  },
+  "annotate": {
+    "def": [
+      {
+        "definition": "to make or furnish critical or explanatory notes or comment",
+        "type": "v."
+      },
+      {
+        "definition": "to make or furnish annotations for (something, such as a literary work or subject)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "annotate",
+      "annotated",
+      "annotates",
+      "annotating",
+      "annotative",
+      "annotator",
+      "annotators"
+    ]
+  },
+  "annual": {
+    "def": [
+      {
+        "definition": "covering the period of a year",
+        "type": "n."
+      },
+      {
+        "definition": "occurring or happening every year or once a year : yearly",
+        "type": "adj."
+      },
+      {
+        "definition": "completing the life cycle in one growing season or single year",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "annual"
+    ]
+  },
+  "annuity": {
+    "def": [
+      {
+        "definition": "a sum of money payable yearly or at other regular intervals",
+        "type": "n."
+      },
+      {
+        "definition": "the right to receive an annuity",
+        "type": "n."
+      },
+      {
+        "definition": "a contract or agreement providing for the payment of an annuity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "annuities",
+      "annuity"
+    ]
+  },
+  "annunciation": {
+    "def": [
+      {
+        "definition": "March 25 observed as a church festival in commemoration of the announcement of the Incarnation to the Virgin Mary",
+        "type": "n."
+      },
+      {
+        "definition": "the act of announcing or of being announced : announcement",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Annunciation",
+      "Annunciations",
+      "annunciation",
+      "annunciations"
+    ]
+  },
+  "anode": {
+    "def": [
+      {
+        "definition": "the electrode of an electrochemical cell at which oxidation occurs: such as",
+        "type": "adv."
+      },
+      {
+        "definition": "the positive terminal of an electrolytic cell",
+        "type": "adv."
+      },
+      {
+        "definition": "the negative terminal of a galvanic cell",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anodal",
+      "anodally",
+      "anode",
+      "anodes",
+      "anodic",
+      "anodically"
+    ]
+  },
+  "anonymous": {
+    "def": [
+      {
+        "definition": "of unknown authorship or origin",
+        "type": "adj."
+      },
+      {
+        "definition": "not named or identified",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking individuality, distinction, or recognizability",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "anonymous",
+      "anonymousness",
+      "anonymousnesses"
+    ]
+  },
+  "antagonism": {
+    "def": [
+      {
+        "definition": "opposition of a conflicting force, tendency, or principle",
+        "type": "n."
+      },
+      {
+        "definition": "actively expressed opposition or hostility",
+        "type": "n."
+      },
+      {
+        "definition": "opposition in physiological action; especially : interaction of two or more substances such that the action of any one of them on living cells or tissues is lessened",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antagonism",
+      "antagonisms"
+    ]
+  },
+  "antarctic": {
+    "def": [
+      {
+        "definition": "of or relating to the South Pole or to the region near it",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Antarctic",
+      "antarctic"
+    ]
+  },
+  "ante": {
+    "def": [
+      {
+        "definition": "a poker stake usually put up before the deal to build the pot",
+        "type": "v."
+      },
+      {
+        "definition": "cost, price",
+        "type": "v."
+      },
+      {
+        "definition": "risk, stakes",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ante",
+      "antes"
+    ]
+  },
+  "antecede": {
+    "def": [
+      {
+        "definition": "precede",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "antecede",
+      "anteceded",
+      "antecedes",
+      "anteceding"
+    ]
+  },
+  "antecedent": {
+    "def": [
+      {
+        "definition": "a substantive word, phrase, or clause whose denotation is referred to by a pronoun that typically follows the substantive (such as John in \"Maria saw John and called to him\"); broadly : a word or phrase replaced by a substitute",
+        "type": "n."
+      },
+      {
+        "definition": "a preceding event, condition, or cause",
+        "type": "n."
+      },
+      {
+        "definition": "the significant events, conditions, and traits of one's earlier life",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antecedent",
+      "antecedents"
+    ]
+  },
+  "antechamber": {
+    "def": [
+      {
+        "definition": "anteroom",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antechamber",
+      "antechambers"
+    ]
+  },
+  "antedate": {
+    "def": [
+      {
+        "definition": "a date assigned to an event or document earlier than the actual date of the event or document",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antedate",
+      "antedates"
+    ]
+  },
+  "antediluvian": {
+    "def": [
+      {
+        "definition": "of or relating to the period before the flood described in the Bible",
+        "type": "adj."
+      },
+      {
+        "definition": "made, evolved, or developed a long time ago",
+        "type": "adj."
+      },
+      {
+        "definition": "extremely primitive or outmoded",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "antediluvian",
+      "antediluvians"
+    ]
+  },
+  "antemeridian": {
+    "def": [
+      {
+        "definition": "Before noon.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "antemundane": {
+    "def": [
+      {
+        "definition": "Pertaining to time before the world's creation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "antenatal": {
+    "def": [
+      {
+        "definition": "prenatal",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "antenatal",
+      "antenatally"
+    ]
+  },
+  "anterior": {
+    "def": [
+      {
+        "definition": "situated before or toward the front",
+        "type": "adv."
+      },
+      {
+        "definition": "situated near or toward the head or part most nearly corresponding to a head",
+        "type": "adv."
+      },
+      {
+        "definition": "coming before in time or development",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anterior",
+      "anteriorly"
+    ]
+  },
+  "anteroom": {
+    "def": [
+      {
+        "definition": "a small outer room that leads to another room and that is often used as a waiting room",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anteroom",
+      "anterooms"
+    ]
+  },
+  "anthology": {
+    "def": [
+      {
+        "definition": "a collection of selected literary pieces or passages or works of art or music",
+        "type": "n."
+      },
+      {
+        "definition": "assortment",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anthological",
+      "anthologies",
+      "anthology"
+    ]
+  },
+  "anthracite": {
+    "def": [
+      {
+        "definition": "a hard natural coal of high luster differing from bituminous coal in containing little volatile matter and in burning very cleanly",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anthracite",
+      "anthracites",
+      "anthracitic",
+      "hard coal"
+    ]
+  },
+  "anthropology": {
+    "def": [
+      {
+        "definition": "the science of human beings; especially : the study of human beings and their ancestors through time and space and in relation to physical character, environmental and social relations, and culture",
+        "type": "adv."
+      },
+      {
+        "definition": "theology dealing with the origin, nature, and destiny of human beings",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anthropological",
+      "anthropologically",
+      "anthropologies",
+      "anthropologist",
+      "anthropologists",
+      "anthropology"
+    ]
+  },
+  "anthropomorphous": {
+    "def": [
+      {
+        "definition": "Having or resembling human form.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "antic": {
+    "def": [
+      {
+        "definition": "an attention-drawing, often wildly playful or funny act or action : caper —usually plural",
+        "type": "n."
+      },
+      {
+        "definition": "a performer of a grotesque or ludicrous part : buffoon",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antic",
+      "antics"
+    ]
+  },
+  "antichrist": {
+    "def": [
+      {
+        "definition": "one who denies or opposes Christ; specifically : a great antagonist expected to fill the world with wickedness but to be conquered forever by Christ at his second coming",
+        "type": "n."
+      },
+      {
+        "definition": "—used in an exaggerated way to describe a person regarded as a powerful and malevolent adversary—usually used with the",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Anti-Christ",
+      "Anti-Christs",
+      "Antichrist",
+      "Antichrists",
+      "anti-Christ",
+      "anti-Christs",
+      "antichrist",
+      "antichrists"
+    ]
+  },
+  "anticlimax": {
+    "def": [
+      {
+        "definition": "the usually sudden transition in discourse from a significant idea to a trivial or ludicrous idea; also : an instance of this transition",
+        "type": "n."
+      },
+      {
+        "definition": "an event, period, or outcome that is strikingly less important or dramatic than expected",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anticlimax",
+      "anticlimaxes"
+    ]
+  },
+  "anticyclone": {
+    "def": [
+      {
+        "definition": "a system of winds that rotates about a center of high atmospheric pressure clockwise in the northern hemisphere and counterclockwise in the southern, that usually advances at 20 to 30 miles (about 30 to 50 kilometers) per hour, and that usually has a diameter of 1500 to 2500 miles (2400 to 4000 kilometers)",
+        "type": "n."
+      },
+      {
+        "definition": "high",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "anticyclone",
+      "anticyclones",
+      "anticyclonic"
+    ]
+  },
+  "antidote": {
+    "def": [
+      {
+        "definition": "a remedy to counteract the effects of poison",
+        "type": "n."
+      },
+      {
+        "definition": "something that relieves, prevents, or counteracts",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "antidote",
+      "antidoted",
+      "antidotes",
+      "antidoting"
+    ]
+  },
+  "antilogy": {
+    "def": [
+      {
+        "definition": "Inconsistency or contradiction in terms or ideas.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "antipathize": {
+    "def": [
+      {
+        "definition": "To show or feel a feeling of antagonism, aversion, or dislike.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "antiphon": {
+    "def": [
+      {
+        "definition": "a psalm, anthem, or verse sung responsively",
+        "type": "n."
+      },
+      {
+        "definition": "a verse usually from Scripture said or sung before and after a canticle, psalm, or psalm verse as part of the liturgy",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antiphon",
+      "antiphons"
+    ]
+  },
+  "antiphony": {
+    "def": [
+      {
+        "definition": "responsive alternation between two groups especially of singers",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antiphonies",
+      "antiphony"
+    ]
+  },
+  "antipodes": {
+    "def": [
+      {
+        "definition": "the parts of the earth diametrically opposite —usually used in plural—often used of Australia and New Zealand as contrasted to the western hemisphere",
+        "type": "n."
+      },
+      {
+        "definition": "the exact opposite or contrary",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antipode",
+      "antipodean",
+      "antipodeans",
+      "antipodes"
+    ]
+  },
+  "antiquary": {
+    "def": [
+      {
+        "definition": "antiquarian",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antiquaries",
+      "antiquary"
+    ]
+  },
+  "antiquate": {
+    "def": [
+      {
+        "definition": "to make old or obsolete",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "antiquate",
+      "antiquated",
+      "antiquates",
+      "antiquating",
+      "antiquation",
+      "antiquations"
+    ]
+  },
+  "antique": {
+    "def": [
+      {
+        "definition": "existing since or belonging to earlier times : ancient",
+        "type": "adj."
+      },
+      {
+        "definition": "being in the style or fashion of former times",
+        "type": "adj."
+      },
+      {
+        "definition": "made in or representative of the work of an earlier period; also : being an antique",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "antique"
+    ]
+  },
+  "antiseptic": {
+    "def": [
+      {
+        "definition": "opposing microbial infection; especially : preventing or inhibiting the growth or action of microorganisms (such as bacteria) in or on living tissue (such as the skin or mucous membranes)",
+        "type": "adv."
+      },
+      {
+        "definition": "relating to or characterized by the use of antiseptic substances",
+        "type": "adv."
+      },
+      {
+        "definition": "scrupulously clean : aseptic",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "antiseptic",
+      "antiseptically"
+    ]
+  },
+  "antislavery": {
+    "def": [
+      {
+        "definition": "opposed to",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "anti-slaveries",
+      "anti-slavery",
+      "antislaveries",
+      "antislavery"
+    ]
+  },
+  "antispasmodic": {
+    "def": [
+      {
+        "definition": "capable of preventing or relieving spasms or convulsions",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "antispasmodic",
+      "antispasmodics"
+    ]
+  },
+  "antistrophe": {
+    "def": [
+      {
+        "definition": "the repetition of words in reversed order",
+        "type": "adv."
+      },
+      {
+        "definition": "the repetition of a word or phrase at the end of successive clauses",
+        "type": "adv."
+      },
+      {
+        "definition": "a returning movement in Greek choral dance exactly answering to a previous strophe",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "antistrophe",
+      "antistrophes",
+      "antistrophic",
+      "antistrophically"
+    ]
+  },
+  "antitoxin": {
+    "def": [
+      {
+        "definition": "an {a_link|antibody} that is capable of neutralizing the specific toxin (such as a specific causative agent of disease) that stimulated its production in the body and is produced in animals for medical purposes by injection of a toxin or toxoid with the resulting serum being used to counteract the toxin in other individuals",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antitoxin",
+      "antitoxins"
+    ]
+  },
+  "antonym": {
+    "def": [
+      {
+        "definition": "a word of opposite meaning",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "antonym",
+      "antonymic",
+      "antonymies",
+      "antonymous",
+      "antonyms",
+      "antonymy"
+    ]
+  },
+  "anxious": {
+    "def": [
+      {
+        "definition": "characterized by extreme uneasiness of mind or brooding fear about some contingency : worried",
+        "type": "adv."
+      },
+      {
+        "definition": "characterized by, resulting from, or causing anxiety : worrying",
+        "type": "adv."
+      },
+      {
+        "definition": "ardently or earnestly wishing",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "anxious",
+      "anxiously",
+      "anxiousness",
+      "anxiousnesses"
+    ]
+  },
+  "apathy": {
+    "def": [
+      {
+        "definition": "lack of feeling or emotion : impassiveness",
+        "type": "n."
+      },
+      {
+        "definition": "lack of interest or concern : indifference",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apathies",
+      "apathy"
+    ]
+  },
+  "aperture": {
+    "def": [
+      {
+        "definition": "an opening or open space : hole",
+        "type": "n."
+      },
+      {
+        "definition": "the opening in a photographic lens that admits the light",
+        "type": "n."
+      },
+      {
+        "definition": "the diameter of the stop in an optical system that determines the diameter of the bundle of rays traversing the instrument",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aperture",
+      "apertures"
+    ]
+  },
+  "apex": {
+    "def": [
+      {
+        "definition": "the uppermost point : vertex",
+        "type": "n."
+      },
+      {
+        "definition": "the narrowed or pointed end : tip",
+        "type": "n."
+      },
+      {
+        "definition": "the highest or culminating point",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apex",
+      "apexes",
+      "apices"
+    ]
+  },
+  "aphorism": {
+    "def": [
+      {
+        "definition": "a concise statement of a principle",
+        "type": "adv."
+      },
+      {
+        "definition": "a terse formulation of a truth or sentiment : adage",
+        "type": "adv."
+      },
+      {
+        "definition": "an ingeniously terse style of expression : aphoristic language",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "aphorism",
+      "aphorisms",
+      "aphorist",
+      "aphoristic",
+      "aphoristically",
+      "aphorists"
+    ]
+  },
+  "apiary": {
+    "def": [
+      {
+        "definition": "a place where bees are kept",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apiaries",
+      "apiary"
+    ]
+  },
+  "apogee": {
+    "def": [
+      {
+        "definition": "the point in the orbit of an object (such as a satellite) orbiting the earth that is at the greatest distance from the center of the earth; also : the point farthest from a planet or a satellite (such as the moon) reached by an object orbiting it",
+        "type": "n."
+      },
+      {
+        "definition": "the farthest or highest point : culmination",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apogean",
+      "apogee",
+      "apogees"
+    ]
+  },
+  "apology": {
+    "def": [
+      {
+        "definition": "an admission of error or discourtesy accompanied by an expression of regret",
+        "type": "n."
+      },
+      {
+        "definition": "an expression of regret for not being able to do something",
+        "type": "adj."
+      },
+      {
+        "definition": "something that is said or written to defend something that other people criticize : defense",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apologies",
+      "apology"
+    ]
+  },
+  "apostasy": {
+    "def": [
+      {
+        "definition": "an act of refusing to continue to follow, obey, or recognize a religious faith",
+        "type": "n."
+      },
+      {
+        "definition": "abandonment of a previous loyalty : defection",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apostasies",
+      "apostasy"
+    ]
+  },
+  "apostate": {
+    "def": [
+      {
+        "definition": "one who commits",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apostate",
+      "apostates"
+    ]
+  },
+  "apostle": {
+    "def": [
+      {
+        "definition": "one sent on a mission: such as",
+        "type": "n."
+      },
+      {
+        "definition": "one of an authoritative New Testament group sent out to preach the gospel and made up especially of Christ's 12 original disciples and Paul",
+        "type": "n."
+      },
+      {
+        "definition": "the first prominent Christian missionary to a region or group",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apostle",
+      "apostles",
+      "apostleship",
+      "apostleships"
+    ]
+  },
+  "apothecary": {
+    "def": [
+      {
+        "definition": "one who prepares and sells drugs or compounds for medicinal purposes",
+        "type": "n."
+      },
+      {
+        "definition": "pharmacy",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apothecaries",
+      "apothecary"
+    ]
+  },
+  "apotheosis": {
+    "def": [
+      {
+        "definition": "the perfect form or example of something : quintessence",
+        "type": "n."
+      },
+      {
+        "definition": "the highest or best part of something : peak",
+        "type": "n."
+      },
+      {
+        "definition": "elevation to divine status : deification",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apotheoses",
+      "apotheosis",
+      "apotheosize",
+      "apotheosized",
+      "apotheosizes",
+      "apotheosizing"
+    ]
+  },
+  "appall": {
+    "def": [
+      {
+        "definition": "to overcome with consternation, shock, or dismay",
+        "type": "v."
+      },
+      {
+        "definition": "weaken, fail",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "appal",
+      "appall",
+      "appalled",
+      "appalling",
+      "appalls",
+      "appals"
+    ]
+  },
+  "apparent": {
+    "def": [
+      {
+        "definition": "open to view : visible",
+        "type": "adj."
+      },
+      {
+        "definition": "clear or manifest to the understanding",
+        "type": "adj."
+      },
+      {
+        "definition": "appearing as actual to the eye or mind",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "apparent",
+      "apparentness",
+      "apparentnesses"
+    ]
+  },
+  "apparition": {
+    "def": [
+      {
+        "definition": "an unusual or unexpected sight : phenomenon",
+        "type": "n."
+      },
+      {
+        "definition": "a ghostly figure",
+        "type": "n."
+      },
+      {
+        "definition": "the act of becoming visible : appearance",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apparition",
+      "apparitional",
+      "apparitions"
+    ]
+  },
+  "appease": {
+    "def": [
+      {
+        "definition": "pacify, conciliate; especially : to make concessions to (someone, such as an aggressor or a critic) often at the sacrifice of principles",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to subside : allay",
+        "type": "v."
+      },
+      {
+        "definition": "to bring to a state of peace or quiet : calm",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "appeasable",
+      "appease",
+      "appeased",
+      "appeaser",
+      "appeasers",
+      "appeases",
+      "appeasing"
+    ]
+  },
+  "appellate": {
+    "def": [
+      {
+        "definition": "of, relating to, or recognizing {a_link|appeals}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "appellate"
+    ]
+  },
+  "appellation": {
+    "def": [
+      {
+        "definition": "an identifying name or title : designation",
+        "type": "n."
+      },
+      {
+        "definition": "a geographical name (as of a region, village, or vineyard) under which a winegrower is authorized to identify and market wine; also : the area designated by such a name",
+        "type": "n."
+      },
+      {
+        "definition": "the act of calling by a name",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "appellation",
+      "appellations"
+    ]
+  },
+  "append": {
+    "def": [
+      {
+        "definition": "attach, affix",
+        "type": "v."
+      },
+      {
+        "definition": "to add as a supplement or appendix (as in a book)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "append",
+      "appended",
+      "appending",
+      "appends"
+    ]
+  },
+  "appertain": {
+    "def": [
+      {
+        "definition": "to belong or be connected as a rightful part or attribute",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "appertain",
+      "appertained",
+      "appertaining",
+      "appertains"
+    ]
+  },
+  "apposite": {
+    "def": [
+      {
+        "definition": "highly  or appropriate",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "apposite",
+      "appositely",
+      "appositeness",
+      "appositenesses"
+    ]
+  },
+  "apposition": {
+    "def": [
+      {
+        "definition": "a grammatical construction in which two or more usually adjacent words, phrases, or clauses (especially nouns or noun equivalents) that have the same referent stand in the same syntactical relation to the rest of a sentence (such as the poet and Burns in \"a biography of the poet Burns\")",
+        "type": "n."
+      },
+      {
+        "definition": "the relation between such words, phrases, or clauses",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of apposing; specifically : the deposition of successive layers upon those already present (as in cell walls)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "apposition",
+      "appositional",
+      "appositions"
+    ]
+  },
+  "appraise": {
+    "def": [
+      {
+        "definition": "to set a value on : to estimate the amount of",
+        "type": "v."
+      },
+      {
+        "definition": "to evaluate the worth, significance, or status of; especially : to give an expert judgment of the value or merit of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "appraisal",
+      "appraise",
+      "appraised",
+      "appraisee",
+      "appraisees",
+      "appraisement",
+      "appraisements",
+      "appraiser",
+      "appraisers",
+      "appraises",
+      "appraising",
+      "appraisive"
+    ]
+  },
+  "appreciable": {
+    "def": [
+      {
+        "definition": "capable of being perceived or measured",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "appreciable",
+      "appreciably"
+    ]
+  },
+  "apprehend": {
+    "def": [
+      {
+        "definition": "arrest, seize",
+        "type": "v."
+      },
+      {
+        "definition": "to become aware of : perceive",
+        "type": "v."
+      },
+      {
+        "definition": "to anticipate especially with anxiety, dread, or fear",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "apprehend",
+      "apprehended",
+      "apprehending",
+      "apprehends"
+    ]
+  },
+  "apprehensible": {
+    "def": [
+      {
+        "definition": "capable of being {a_link|apprehended}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "apprehensible",
+      "apprehensibly"
+    ]
+  },
+  "approbation": {
+    "def": [
+      {
+        "definition": "commendation, praise",
+        "type": "n."
+      },
+      {
+        "definition": "an act of approving formally or officially",
+        "type": "n."
+      },
+      {
+        "definition": "proof",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "approbation",
+      "approbations",
+      "approbatory"
+    ]
+  },
+  "appropriate": {
+    "def": [
+      {
+        "definition": "especially suitable or",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "appropriate",
+      "appropriately",
+      "appropriateness",
+      "appropriatenesses"
+    ]
+  },
+  "aqueduct": {
+    "def": [
+      {
+        "definition": "a conduit for water; especially : one for carrying a large quantity of flowing water",
+        "type": "n."
+      },
+      {
+        "definition": "a structure for conveying a canal over a river or hollow",
+        "type": "n."
+      },
+      {
+        "definition": "a canal or passage in a part or organ",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aqueduct",
+      "aqueducts"
+    ]
+  },
+  "aqueous": {
+    "def": [
+      {
+        "definition": "of, relating to, or resembling water",
+        "type": "v."
+      },
+      {
+        "definition": "made from, with, or by water",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the aqueous humor",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "aqueous"
+    ]
+  },
+  "arbiter": {
+    "def": [
+      {
+        "definition": "a person with power to decide a dispute : judge",
+        "type": "n."
+      },
+      {
+        "definition": "a person or agency whose judgment or opinion is considered authoritative",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arbiter",
+      "arbiters"
+    ]
+  },
+  "arbitrary": {
+    "def": [
+      {
+        "definition": "chosen, decided, etc. seemingly at random or on a whim rather than in a reasoned or methodical way; also : random",
+        "type": "adv."
+      },
+      {
+        "definition": "based on or determined by individual preference or convenience rather than by necessity or the intrinsic value of something",
+        "type": "adv."
+      },
+      {
+        "definition": "not restrained or limited in the exercise of power : ruling by absolute authority",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "arbitrarily",
+      "arbitrariness",
+      "arbitrarinesses",
+      "arbitrary"
+    ]
+  },
+  "arbitrate": {
+    "def": [
+      {
+        "definition": "to act as arbiter upon (a disputed question) : to settle (a dispute between two people or groups) after hearing the arguments and opinions of both",
+        "type": "v."
+      },
+      {
+        "definition": "to submit or refer for decision to an arbiter",
+        "type": "v."
+      },
+      {
+        "definition": "decide, determine",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "arbitrate",
+      "arbitrated",
+      "arbitrates",
+      "arbitrating",
+      "arbitrative"
+    ]
+  },
+  "arbor": {
+    "def": [
+      {
+        "definition": "a shelter of vines or branches or of latticework covered with climbing shrubs or vines",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arbor",
+      "arbores",
+      "arbors"
+    ]
+  },
+  "arboreal": {
+    "def": [
+      {
+        "definition": "of, relating to, or resembling a tree",
+        "type": "adv."
+      },
+      {
+        "definition": "inhabiting or frequenting trees",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "arboreal",
+      "arboreally"
+    ]
+  },
+  "arborescent": {
+    "def": [
+      {
+        "definition": "resembling a tree in properties, growth, structure, or appearance",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "arborescence",
+      "arborescences",
+      "arborescent"
+    ]
+  },
+  "arboretum": {
+    "def": [
+      {
+        "definition": "a place where trees, shrubs, and herbaceous plants are cultivated for scientific and educational purposes",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arboreta",
+      "arboretum",
+      "arboretums"
+    ]
+  },
+  "arboriculture": {
+    "def": [
+      {
+        "definition": "the cultivation of trees and shrubs especially for ornamental purposes",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arboricultural",
+      "arboriculture",
+      "arboricultures"
+    ]
+  },
+  "arcade": {
+    "def": [
+      {
+        "definition": "a long arched building or gallery",
+        "type": "n."
+      },
+      {
+        "definition": "an arched covered passageway or avenue (as between shops)",
+        "type": "n."
+      },
+      {
+        "definition": "a building that includes many shops",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arcade",
+      "arcades"
+    ]
+  },
+  "archaic": {
+    "def": [
+      {
+        "definition": "having the characteristics of the language of the past and surviving chiefly in specialized uses",
+        "type": "adv."
+      },
+      {
+        "definition": "of, relating to, or characteristic of an earlier or more primitive time : antiquated",
+        "type": "adv."
+      },
+      {
+        "definition": "of or belonging to the early or formative phases of a culture or a period of artistic development; especially : of or belonging to the period leading up to the classical period of Greek culture",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "Archaic",
+      "archaic",
+      "archaically"
+    ]
+  },
+  "archaism": {
+    "def": [
+      {
+        "definition": "the use of archaic diction or style",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of archaic usage",
+        "type": "n."
+      },
+      {
+        "definition": "something archaic; especially : something (such as a practice or custom) that is outmoded or old-fashioned",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "archaism",
+      "archaisms",
+      "archaist",
+      "archaistic",
+      "archaists",
+      "archaize",
+      "archaized",
+      "archaizes",
+      "archaizing"
+    ]
+  },
+  "archangel": {
+    "def": [
+      {
+        "definition": "a chief angel",
+        "type": "n."
+      },
+      {
+        "definition": "an order of angels",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "archangel",
+      "archangelic",
+      "archangels"
+    ]
+  },
+  "archbishop": {
+    "def": [
+      {
+        "definition": "a bishop at the head of an ecclesiastical province or one of equivalent honorary rank",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "archbishop",
+      "archbishops"
+    ]
+  },
+  "archdeacon": {
+    "def": [
+      {
+        "definition": "a clergyperson having the duty of assisting a diocesan bishop in ceremonial functions or administrative work",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "archdeacon",
+      "archdeacons"
+    ]
+  },
+  "archaeology": {
+    "def": [
+      {
+        "definition": "the scientific study of material remains (such as tools, pottery, jewelry, stone walls, and monuments) of past human life and activities",
+        "type": "adv."
+      },
+      {
+        "definition": "remains of the culture of a people : antiquities",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "archaeological",
+      "archaeologically",
+      "archaeologies",
+      "archaeologist",
+      "archaeologists",
+      "archaeology",
+      "archeologies",
+      "archeology"
+    ]
+  },
+  "archetype": {
+    "def": [
+      {
+        "definition": "the original pattern or model of which all things of the same type are representations or copies : prototype; also : a perfect example",
+        "type": "adv."
+      },
+      {
+        "definition": "idea",
+        "type": "adv."
+      },
+      {
+        "definition": "an inherited idea or mode of thought in the psychology of Carl Gustav Jung that is derived from the experience of the race and is present in the unconscious of the individual",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "archetypal",
+      "archetypally",
+      "archetype",
+      "archetypes",
+      "archetypical",
+      "archetypically"
+    ]
+  },
+  "archipelago": {
+    "def": [
+      {
+        "definition": "an expanse of water with many scattered islands",
+        "type": "n."
+      },
+      {
+        "definition": "a group of islands",
+        "type": "n."
+      },
+      {
+        "definition": "something resembling an archipelago; especially : a group or scattering of similar things",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "archipelago",
+      "archipelagoes",
+      "archipelagos"
+    ]
+  },
+  "ardent": {
+    "def": [
+      {
+        "definition": "characterized by warmth of feeling typically expressed in eager zealous support or activity",
+        "type": "adv."
+      },
+      {
+        "definition": "fiery, hot",
+        "type": "adv."
+      },
+      {
+        "definition": "shining, glowing",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ardent",
+      "ardenter",
+      "ardentest",
+      "ardently"
+    ]
+  },
+  "ardor": {
+    "def": [
+      {
+        "definition": "an often restless or transitory warmth of feeling",
+        "type": "n."
+      },
+      {
+        "definition": "extreme vigor or energy : intensity",
+        "type": "n."
+      },
+      {
+        "definition": "zeal",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ardor",
+      "ardors"
+    ]
+  },
+  "arid": {
+    "def": [
+      {
+        "definition": "excessively dry; specifically : having insufficient rainfall to support agriculture",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking in interest and life : jejune",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "arid",
+      "arider",
+      "aridest",
+      "aridities",
+      "aridity",
+      "aridness",
+      "aridnesses"
+    ]
+  },
+  "aristocracy": {
+    "def": [
+      {
+        "definition": "government by the best individuals or by a small privileged class",
+        "type": "n."
+      },
+      {
+        "definition": "a government in which power is vested in a minority consisting of those believed to be best qualified",
+        "type": "adj."
+      },
+      {
+        "definition": "a state with such a government",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aristocracies",
+      "aristocracy"
+    ]
+  },
+  "aristocrat": {
+    "def": [
+      {
+        "definition": "a member of an aristocracy; especially : noble",
+        "type": "n."
+      },
+      {
+        "definition": "one who has the bearing and viewpoint typical of the aristocracy",
+        "type": "n."
+      },
+      {
+        "definition": "one who favors aristocracy",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aristocrat",
+      "aristocrats"
+    ]
+  },
+  "armada": {
+    "def": [
+      {
+        "definition": "a fleet of warships",
+        "type": "n."
+      },
+      {
+        "definition": "a large force or group usually of moving things",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "armada",
+      "armadas"
+    ]
+  },
+  "armful": {
+    "def": [
+      {
+        "definition": "as much as the arm or arms can hold",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "armful",
+      "armfuls",
+      "armsful"
+    ]
+  },
+  "armory": {
+    "def": [
+      {
+        "definition": "a supply of arms for defense or attack",
+        "type": "n."
+      },
+      {
+        "definition": "a collection of available resources",
+        "type": "n."
+      },
+      {
+        "definition": "a place where arms and military equipment are stored; especially : one used for training reserve military personnel",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "armories",
+      "armory"
+    ]
+  },
+  "aroma": {
+    "def": [
+      {
+        "definition": "a distinctive, pervasive, and usually pleasant or savory smell; broadly : odor",
+        "type": "n."
+      },
+      {
+        "definition": "the odor of a wine imparted by the grapes from which it is made",
+        "type": "n."
+      },
+      {
+        "definition": "a distinctive quality or atmosphere : flavor",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aroma",
+      "aromas"
+    ]
+  },
+  "arraign": {
+    "def": [
+      {
+        "definition": "to call (a defendant) before a court to answer to an indictment : charge",
+        "type": "v."
+      },
+      {
+        "definition": "to accuse of wrong, inadequacy, or imperfection",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "arraign",
+      "arraigned",
+      "arraigning",
+      "arraignment",
+      "arraignments",
+      "arraigns"
+    ]
+  },
+  "arrange": {
+    "def": [
+      {
+        "definition": "to put into a proper order or into a correct or suitable sequence, relationship, or adjustment",
+        "type": "v."
+      },
+      {
+        "definition": "to make preparations for : plan",
+        "type": "v."
+      },
+      {
+        "definition": "to adapt (a musical composition) by scoring for voices or instruments other than those for which originally written",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "arrange",
+      "arranged",
+      "arranger",
+      "arrangers",
+      "arranges",
+      "arranging"
+    ]
+  },
+  "arrangement": {
+    "def": [
+      {
+        "definition": "the state of being arranged : order",
+        "type": "adj."
+      },
+      {
+        "definition": "the act of arranging",
+        "type": "n."
+      },
+      {
+        "definition": "something arranged: such as",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arrangement",
+      "arrangements"
+    ]
+  },
+  "arrant": {
+    "def": [
+      {
+        "definition": "being notoriously without moderation",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "arrant",
+      "arrantly"
+    ]
+  },
+  "arrear": {
+    "def": [
+      {
+        "definition": "the state of being behind in the discharge of obligations —usually used in plural",
+        "type": "adj."
+      },
+      {
+        "definition": "an unfinished duty —usually used in plural",
+        "type": "n."
+      },
+      {
+        "definition": "an unpaid and overdue debt —usually used in plural",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arrear",
+      "arrears",
+      "in arrears"
+    ]
+  },
+  "arrival": {
+    "def": [
+      {
+        "definition": "the act of arriving",
+        "type": "n."
+      },
+      {
+        "definition": "the attainment of an end or state",
+        "type": "n."
+      },
+      {
+        "definition": "one that has recently arrived",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "arrival",
+      "arrivals"
+    ]
+  },
+  "arrogant": {
+    "def": [
+      {
+        "definition": "exaggerating or disposed to exaggerate one's own worth or importance as shown especially by excessively confident or rudely dismissive behavior",
+        "type": "adv."
+      },
+      {
+        "definition": "showing an offensive attitude of superiority : coming from or characterized by arrogance",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "arrogant",
+      "arrogantly"
+    ]
+  },
+  "arrogate": {
+    "def": [
+      {
+        "definition": "to claim or seize without justification",
+        "type": "v."
+      },
+      {
+        "definition": "to make undue claims to having : assume",
+        "type": "v."
+      },
+      {
+        "definition": "to claim on behalf of another : ascribe",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "arrogate",
+      "arrogated",
+      "arrogates",
+      "arrogating",
+      "arrogation",
+      "arrogations"
+    ]
+  },
+  "artesian well": {
+    "def": [
+      {
+        "definition": "a well in which water is under pressure; especially : one in which the water flows to the surface naturally",
+        "type": "n."
+      },
+      {
+        "definition": "a deep well",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "artesian well",
+      "artesian wells"
+    ]
+  },
+  "artful": {
+    "def": [
+      {
+        "definition": "performed with or showing art or skill",
+        "type": "adv."
+      },
+      {
+        "definition": "using or characterized by art and skill : dexterous",
+        "type": "adv."
+      },
+      {
+        "definition": "adroit in attaining an end usually by insinuating or indirect means : wily",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "artful",
+      "artfuller",
+      "artfullest",
+      "artfully",
+      "artfulness",
+      "artfulnesses"
+    ]
+  },
+  "arthurian": {
+    "def": [
+      {
+        "definition": "of or relating to King {a_link|Arthur} and his court",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Arthurian"
+    ]
+  },
+  "artifice": {
+    "def": [
+      {
+        "definition": "clever or artful skill : ingenuity",
+        "type": "n."
+      },
+      {
+        "definition": "an ingenious device or expedient",
+        "type": "n."
+      },
+      {
+        "definition": "an artful stratagem : trick",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "artifice",
+      "artifices"
+    ]
+  },
+  "artless": {
+    "def": [
+      {
+        "definition": "lacking art, knowledge, or skill : uncultured",
+        "type": "adv."
+      },
+      {
+        "definition": "made without skill : crude",
+        "type": "adv."
+      },
+      {
+        "definition": "free from artificiality : natural",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "artless",
+      "artlessly",
+      "artlessness",
+      "artlessnesses"
+    ]
+  },
+  "ascendant": {
+    "def": [
+      {
+        "definition": "the point of the ecliptic or degree of the zodiac that rises above the eastern horizon at any moment",
+        "type": "adj."
+      },
+      {
+        "definition": "a state or position of dominant power or importance",
+        "type": "n."
+      },
+      {
+        "definition": "a lineal or collateral relative in the ascending line",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "ascendant",
+      "ascendants",
+      "ascendent",
+      "ascendents"
+    ]
+  },
+  "ascension": {
+    "def": [
+      {
+        "definition": "the act or process of {a_link|ascending}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ascension",
+      "ascensions"
+    ]
+  },
+  "ascent": {
+    "def": [
+      {
+        "definition": "the act of rising or mounting upward : climb",
+        "type": "n."
+      },
+      {
+        "definition": "an upward slope or rising grade : acclivity",
+        "type": "n."
+      },
+      {
+        "definition": "the degree of elevation : inclination, gradient",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "ascent",
+      "ascents"
+    ]
+  },
+  "ascetic": {
+    "def": [
+      {
+        "definition": "practicing strict self-denial as a measure of personal and especially spiritual discipline",
+        "type": "adv."
+      },
+      {
+        "definition": "austere in appearance, manner, or attitude",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ascetic",
+      "ascetical",
+      "ascetically",
+      "ascetics"
+    ]
+  },
+  "ascribe": {
+    "def": [
+      {
+        "definition": "to refer to a supposed cause, source, or author to say or think that (something) is caused by, comes from, or is associated with a particular person or thing",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ascribable",
+      "ascribe",
+      "ascribed",
+      "ascribes",
+      "ascribing"
+    ]
+  },
+  "asexual": {
+    "def": [
+      {
+        "definition": "lacking sex or functional sex organs",
+        "type": "adv."
+      },
+      {
+        "definition": "involving or reproducing by reproductive processes (such as cell division, spore formation, fission, or budding ) that do not involve the union of individuals or gametes",
+        "type": "adv."
+      },
+      {
+        "definition": "produced by asexual reproduction",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "asexual",
+      "asexualities",
+      "asexuality",
+      "asexually",
+      "asexuals"
+    ]
+  },
+  "ashen": {
+    "def": [
+      {
+        "definition": "of, relating to, or made from ash wood",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "ashen"
+    ]
+  },
+  "askance": {
+    "def": [
+      {
+        "definition": "with disapproval or distrust : scornfully",
+        "type": "adv."
+      },
+      {
+        "definition": "with a side-glance : obliquely",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "askance",
+      "askant",
+      "looked askance"
+    ]
+  },
+  "asperity": {
+    "def": [
+      {
+        "definition": "roughness of manner or of temper : harshness of behavior or speech that expresses bitterness or anger",
+        "type": "n."
+      },
+      {
+        "definition": "rigor, severity",
+        "type": "n."
+      },
+      {
+        "definition": "roughness of surface : unevenness; also : a tiny projection from a surface",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "asperities",
+      "asperity"
+    ]
+  },
+  "aspirant": {
+    "def": [
+      {
+        "definition": "one who {a_link|aspires}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aspirant",
+      "aspirants"
+    ]
+  },
+  "aspiration": {
+    "def": [
+      {
+        "definition": "a strong desire to achieve something high or great —usually plural",
+        "type": "n."
+      },
+      {
+        "definition": "an object of such desire",
+        "type": "n."
+      },
+      {
+        "definition": "a drawing of something in, out, up, or through by or as if by suction: such as",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aspiration",
+      "aspirational",
+      "aspirations"
+    ]
+  },
+  "aspire": {
+    "def": [
+      {
+        "definition": "to seek to attain or accomplish a particular goal",
+        "type": "v."
+      },
+      {
+        "definition": "ascend, soar",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "aspire",
+      "aspired",
+      "aspirer",
+      "aspirers",
+      "aspires",
+      "aspiring"
+    ]
+  },
+  "assailant": {
+    "def": [
+      {
+        "definition": "a person who attacks someone violently",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "assailant",
+      "assailants"
+    ]
+  },
+  "assassin": {
+    "def": [
+      {
+        "definition": "a person who commits murder; especially : one who murders a politically prominent person either for money or from fanatical adherence to a cause",
+        "type": "n."
+      },
+      {
+        "definition": "a person belonging to a Shia Muslim sect during the time of the Crusades whose members were notorious for murdering prominent enemies",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Assassin",
+      "Assassins",
+      "assassin",
+      "assassins"
+    ]
+  },
+  "assassinate": {
+    "def": [
+      {
+        "definition": "to murder (a usually prominent person) by sudden or secret attack often for political reasons",
+        "type": "v."
+      },
+      {
+        "definition": "to injure or destroy unexpectedly and treacherously",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "assassinate",
+      "assassinated",
+      "assassinates",
+      "assassinating",
+      "assassinator",
+      "assassinators"
+    ]
+  },
+  "assassination": {
+    "def": [
+      {
+        "definition": "murder by sudden or secret attack often for political reasons : the act or an instance of assassinating someone (such as a prominent political leader)",
+        "type": "n."
+      },
+      {
+        "definition": "treacherous destruction of a person's reputation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "assassination",
+      "assassinations"
+    ]
+  },
+  "assay": {
+    "def": [
+      {
+        "definition": "to analyze (something, such as an ore) for one or more specific components",
+        "type": "v."
+      },
+      {
+        "definition": "to judge the worth of : estimate",
+        "type": "v."
+      },
+      {
+        "definition": "try, attempt",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "assay",
+      "assayed",
+      "assayer",
+      "assayers",
+      "assaying",
+      "assays"
+    ]
+  },
+  "assent": {
+    "def": [
+      {
+        "definition": "to agree to or approve of something (such as an idea or suggestion) especially after  consideration",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "assent",
+      "assented",
+      "assenter",
+      "assenters",
+      "assenting",
+      "assentor",
+      "assentors",
+      "assents"
+    ]
+  },
+  "assess": {
+    "def": [
+      {
+        "definition": "to examine and make a judgment about (as with regard to nature, importance, size, or value)",
+        "type": "v."
+      },
+      {
+        "definition": "to determine the rate or amount of (something, such as a tax, charge, or fine)",
+        "type": "v."
+      },
+      {
+        "definition": "to impose (something, such as a tax) according to an established rate",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "assess",
+      "assessed",
+      "assesses",
+      "assessing"
+    ]
+  },
+  "assessor": {
+    "def": [
+      {
+        "definition": "an official who assists a judge or magistrate",
+        "type": "n."
+      },
+      {
+        "definition": "one that assesses; especially : an official who assesses property for taxation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "assessor",
+      "assessors"
+    ]
+  },
+  "assets": {
+    "def": [
+      {
+        "definition": "the property of a deceased person subject by law to the payment of the person's debts and legacies",
+        "type": "n."
+      },
+      {
+        "definition": "the entire property of a person, association, corporation, or estate applicable or subject to the payment of debts",
+        "type": "n."
+      },
+      {
+        "definition": "advantage, resource —sometimes used euphemistically or humorously in the plural to refer to parts of a person's body (such as the breasts or buttocks) that are considered attractive",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "asset",
+      "assets"
+    ]
+  },
+  "assiduous": {
+    "def": [
+      {
+        "definition": "showing great care, attention, and effort marked by careful  attention or persistent application",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "assiduous",
+      "assiduously",
+      "assiduousness",
+      "assiduousnesses"
+    ]
+  },
+  "assignee": {
+    "def": [
+      {
+        "definition": "a person to whom an assignment is made",
+        "type": "n."
+      },
+      {
+        "definition": "a person appointed to act for another",
+        "type": "n."
+      },
+      {
+        "definition": "a person to whom a right or property is legally transferred",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "assignee",
+      "assignees"
+    ]
+  },
+  "assimilate": {
+    "def": [
+      {
+        "definition": "to take into the mind and thoroughly understand",
+        "type": "v."
+      },
+      {
+        "definition": "to take in and utilize as nourishment : to absorb into the system",
+        "type": "v."
+      },
+      {
+        "definition": "to absorb into the cultural tradition of a population or group",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "assimilate",
+      "assimilated",
+      "assimilates",
+      "assimilating",
+      "assimilator",
+      "assimilators"
+    ]
+  },
+  "assonance": {
+    "def": [
+      {
+        "definition": "relatively close juxtaposition of similar sounds especially of vowels (as in \"rise high in the bright sky\")",
+        "type": "n."
+      },
+      {
+        "definition": "repetition of vowels without repetition of consonants (as in stony and holy) used as an alternative to rhyme in verse",
+        "type": "adj."
+      },
+      {
+        "definition": "resemblance of sound in words or syllables",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "assonance",
+      "assonances",
+      "assonant",
+      "assonantal",
+      "assonants"
+    ]
+  },
+  "assonant": {
+    "def": [
+      {
+        "definition": "relatively close juxtaposition of similar sounds especially of vowels (as in \"rise high in the bright sky\")",
+        "type": "adj."
+      },
+      {
+        "definition": "repetition of vowels without repetition of consonants (as in stony and holy) used as an alternative to rhyme in verse",
+        "type": "adj."
+      },
+      {
+        "definition": "resemblance of sound in words or syllables",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "assonance",
+      "assonances",
+      "assonant",
+      "assonantal",
+      "assonants"
+    ]
+  },
+  "assonate": {
+    "def": [
+      {
+        "definition": "To accord in sound, especially vowel sound.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "assuage": {
+    "def": [
+      {
+        "definition": "to lessen the intensity of (something that pains or distresses) : ease",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce to a state of peace, calm, or quiet : pacify, quiet",
+        "type": "v."
+      },
+      {
+        "definition": "to put an end to by satisfying : appease, quench",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "assuage",
+      "assuaged",
+      "assuagement",
+      "assuagements",
+      "assuages",
+      "assuaging"
+    ]
+  },
+  "astringent": {
+    "def": [
+      {
+        "definition": "causing a tightening of soft organic tissues : styptic",
+        "type": "adv."
+      },
+      {
+        "definition": "suggestive of an astringent effect upon tissue : rigidly severe : austere; also : pungent, caustic",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "astringent",
+      "astringently"
+    ]
+  },
+  "astute": {
+    "def": [
+      {
+        "definition": "having or showing shrewdness and an ability to notice and understand things clearly mentally sharp or clever",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "astute",
+      "astutely",
+      "astuteness",
+      "astutenesses",
+      "astuter",
+      "astutest"
+    ]
+  },
+  "atheism": {
+    "def": [
+      {
+        "definition": "a lack of belief or a strong disbelief in the existence of a god or any gods",
+        "type": "n."
+      },
+      {
+        "definition": "a philosophical or religious position characterized by disbelief in the existence of a god or any gods",
+        "type": "adj."
+      },
+      {
+        "definition": "godlessness especially in conduct : ungodliness, wickedness",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "atheism",
+      "atheisms"
+    ]
+  },
+  "athirst": {
+    "def": [
+      {
+        "definition": "thirsty",
+        "type": "adj."
+      },
+      {
+        "definition": "having a strong eager desire",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "athirst"
+    ]
+  },
+  "athwart": {
+    "def": [
+      {
+        "definition": "across",
+        "type": "adv."
+      },
+      {
+        "definition": "in opposition to",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "athwart"
+    ]
+  },
+  "atomizer": {
+    "def": [
+      {
+        "definition": "an instrument for {a_link|atomizing} usually a perfume, disinfectant, or medicament",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "atomizer",
+      "atomizers"
+    ]
+  },
+  "atone": {
+    "def": [
+      {
+        "definition": "at harmony in a state of agreement",
+        "type": "phrase"
+      }
+    ],
+    "forms": [
+      "at one"
+    ]
+  },
+  "atonement": {
+    "def": [
+      {
+        "definition": "reparation for an offense or injury : satisfaction",
+        "type": "n."
+      },
+      {
+        "definition": "the reconciliation of God and humankind through the sacrificial death of Jesus Christ",
+        "type": "n."
+      },
+      {
+        "definition": "reconciliation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "atonement",
+      "atonements"
+    ]
+  },
+  "atrocious": {
+    "def": [
+      {
+        "definition": "extremely wicked, brutal, or cruel : barbaric",
+        "type": "adv."
+      },
+      {
+        "definition": "appalling, horrifying",
+        "type": "adv."
+      },
+      {
+        "definition": "utterly revolting : abominable",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "atrocious",
+      "atrociously",
+      "atrociousness",
+      "atrociousnesses"
+    ]
+  },
+  "atrocity": {
+    "def": [
+      {
+        "definition": "a shockingly bad or atrocious act, object, or situation",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being atrocious",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "atrocities",
+      "atrocity"
+    ]
+  },
+  "attache": {
+    "def": [
+      {
+        "definition": "a technical expert on a country's diplomatic staff at a foreign capital",
+        "type": "n."
+      },
+      {
+        "definition": "attaché case",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "attache",
+      "attaches"
+    ]
+  },
+  "attest": {
+    "def": [
+      {
+        "definition": "to affirm to be true or genuine; specifically : to authenticate by signing as a witness",
+        "type": "v."
+      },
+      {
+        "definition": "to authenticate officially",
+        "type": "v."
+      },
+      {
+        "definition": "to establish or verify the usage of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "attest",
+      "attested",
+      "attester",
+      "attesters",
+      "attesting",
+      "attests"
+    ]
+  },
+  "attorney-general": {
+    "def": [
+      {
+        "definition": "the chief law officer of a nation or state who represents the government in litigation and serves as its principal legal adviser",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "attorney general",
+      "attorney generals",
+      "attorneys general"
+    ]
+  },
+  "auburn": {
+    "def": [
+      {
+        "definition": "of the color auburn",
+        "type": "adj."
+      },
+      {
+        "definition": "of a reddish-brown color",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "auburn"
+    ]
+  },
+  "audacious": {
+    "def": [
+      {
+        "definition": "intrepidly daring : adventurous",
+        "type": "adv."
+      },
+      {
+        "definition": "recklessly bold : rash",
+        "type": "adv."
+      },
+      {
+        "definition": "contemptuous of law, religion, or decorum : insolent",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "audacious",
+      "audaciously",
+      "audaciousness",
+      "audaciousnesses"
+    ]
+  },
+  "audible": {
+    "def": [
+      {
+        "definition": "heard or capable of being heard",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "audibilities",
+      "audibility",
+      "audible",
+      "audibly"
+    ]
+  },
+  "audition": {
+    "def": [
+      {
+        "definition": "the power or sense of hearing",
+        "type": "n."
+      },
+      {
+        "definition": "the act of hearing; especially : a critical hearing",
+        "type": "n."
+      },
+      {
+        "definition": "a trial performance to appraise an entertainer's merits",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "audition",
+      "auditions"
+    ]
+  },
+  "auditory": {
+    "def": [
+      {
+        "definition": "audience",
+        "type": "adj."
+      },
+      {
+        "definition": "auditorium",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "auditories",
+      "auditory",
+      "auditory nerve"
+    ]
+  },
+  "augment": {
+    "def": [
+      {
+        "definition": "to make greater, more numerous, larger, or more intense",
+        "type": "v."
+      },
+      {
+        "definition": "supplement",
+        "type": "v."
+      },
+      {
+        "definition": "to add an augment to (a verb form)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "augment",
+      "augmented",
+      "augmenter",
+      "augmenters",
+      "augmenting",
+      "augmentor",
+      "augmentors",
+      "augments"
+    ]
+  },
+  "augur": {
+    "def": [
+      {
+        "definition": "an official diviner of ancient Rome",
+        "type": "v."
+      },
+      {
+        "definition": "one held to foretell events by omens",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "augur",
+      "augurs"
+    ]
+  },
+  "augustinian": {
+    "def": [
+      {
+        "definition": "a member of an Augustinian order; specifically : a friar of the Hermits of St. Augustine founded in 1256 and devoted to educational, missionary, and parish work",
+        "type": "n."
+      },
+      {
+        "definition": "a follower of St. Augustine",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Augustinian",
+      "Augustinians"
+    ]
+  },
+  "aura": {
+    "def": [
+      {
+        "definition": "a distinctive quality or atmosphere that seems to surround someone or something",
+        "type": "n."
+      },
+      {
+        "definition": "the quality of being impressively cool, charming, or appealing —often used before another noun",
+        "type": "adj."
+      },
+      {
+        "definition": "a subtle sensory stimulus (such as an aroma)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aura",
+      "aura farming",
+      "aura point",
+      "aura points",
+      "aurae",
+      "auras"
+    ]
+  },
+  "aural": {
+    "def": [
+      {
+        "definition": "of or relating to the ear or to the sense of hearing",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "aural",
+      "auralities",
+      "aurality",
+      "aurally"
+    ]
+  },
+  "auricle": {
+    "def": [
+      {
+        "definition": "an atrium of a heart",
+        "type": "n."
+      },
+      {
+        "definition": "pinna",
+        "type": "n."
+      },
+      {
+        "definition": "an anterior ear-shaped pouch in each atrium of the human heart",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "auricle",
+      "auricles"
+    ]
+  },
+  "auricular": {
+    "def": [
+      {
+        "definition": "told privately",
+        "type": "adj."
+      },
+      {
+        "definition": "understood or recognized by the sense of hearing",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or using the ear or the sense of hearing",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "auricular"
+    ]
+  },
+  "auriferous": {
+    "def": [
+      {
+        "definition": "containing gold",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "auriferous"
+    ]
+  },
+  "aurora": {
+    "def": [
+      {
+        "definition": "dawn",
+        "type": "n."
+      },
+      {
+        "definition": "the Roman goddess of dawn",
+        "type": "n."
+      },
+      {
+        "definition": "a luminous phenomenon that consists of streamers or arches of light appearing in the upper atmosphere of a planet's magnetic polar regions and is caused by the emission of light from atoms excited by electrons accelerated along the planet's magnetic field lines",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Aurora",
+      "Auroras",
+      "aurora",
+      "aurorae",
+      "auroral",
+      "auroras",
+      "aurorean"
+    ]
+  },
+  "auspice": {
+    "def": [
+      {
+        "definition": "kindly patronage and guidance",
+        "type": "n."
+      },
+      {
+        "definition": "a prophetic sign; especially : a favorable sign",
+        "type": "n."
+      },
+      {
+        "definition": "observation by an augur especially of the flight and feeding of birds to discover omens",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "auspice",
+      "auspices"
+    ]
+  },
+  "austere": {
+    "def": [
+      {
+        "definition": "stern and cold in appearance or manner",
+        "type": "adv."
+      },
+      {
+        "definition": "somber, grave",
+        "type": "adv."
+      },
+      {
+        "definition": "morally strict : ascetic",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "austere",
+      "austerely",
+      "austereness",
+      "austerenesses",
+      "austerer",
+      "austerest"
+    ]
+  },
+  "autarchy": {
+    "def": [
+      {
+        "definition": "autarky",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "autarch",
+      "autarchies",
+      "autarchs",
+      "autarchy"
+    ]
+  },
+  "authentic": {
+    "def": [
+      {
+        "definition": "not false or imitation : real, actual",
+        "type": "adv."
+      },
+      {
+        "definition": "true to one's own personality, spirit, or character",
+        "type": "adv."
+      },
+      {
+        "definition": "worthy of acceptance or belief as conforming to or based on fact",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "authentic",
+      "authentically",
+      "authenticities",
+      "authenticity"
+    ]
+  },
+  "authenticity": {
+    "def": [
+      {
+        "definition": "not false or imitation : real, actual",
+        "type": "adv."
+      },
+      {
+        "definition": "true to one's own personality, spirit, or character",
+        "type": "adv."
+      },
+      {
+        "definition": "worthy of acceptance or belief as conforming to or based on fact",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "authentic",
+      "authentically",
+      "authenticities",
+      "authenticity"
+    ]
+  },
+  "autobiography": {
+    "def": [
+      {
+        "definition": "the  of a person narrated by that person a usually written account of a person's life in their own words",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "autobiographies",
+      "autobiography"
+    ]
+  },
+  "autocracy": {
+    "def": [
+      {
+        "definition": "the authority or rule of an autocrat",
+        "type": "n."
+      },
+      {
+        "definition": "government in which one person possesses unlimited power",
+        "type": "n."
+      },
+      {
+        "definition": "a community or state governed by autocracy",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "autocracies",
+      "autocracy"
+    ]
+  },
+  "autocrat": {
+    "def": [
+      {
+        "definition": "a person (such as a monarch) ruling with unlimited authority",
+        "type": "n."
+      },
+      {
+        "definition": "one who has undisputed influence or power",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "autocrat",
+      "autocrats"
+    ]
+  },
+  "automaton": {
+    "def": [
+      {
+        "definition": "a mechanism that is relatively self-operating; especially : robot",
+        "type": "n."
+      },
+      {
+        "definition": "a machine or control mechanism designed to follow automatically a predetermined sequence of operations or respond to encoded instructions",
+        "type": "n."
+      },
+      {
+        "definition": "an individual who acts in a mechanical fashion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "automata",
+      "automaton",
+      "automatons"
+    ]
+  },
+  "autonomous": {
+    "def": [
+      {
+        "definition": "having the right or power of self-government",
+        "type": "adv."
+      },
+      {
+        "definition": "undertaken or carried on without outside control : self-contained",
+        "type": "adv."
+      },
+      {
+        "definition": "able to carry out tasks and adapt to new information without direct human guidance or intervention; also : relating to or involving such an ability",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "autonomous",
+      "autonomously"
+    ]
+  },
+  "autonomy": {
+    "def": [
+      {
+        "definition": "the quality or state of being autonomous: as",
+        "type": "adj."
+      },
+      {
+        "definition": "the quality or state of being independent, free, and self-directing; specifically, in Kantian philosophy : moral self-determination based on reason",
+        "type": "adj."
+      },
+      {
+        "definition": "the quality or state of being self-governing; especially : the right of self-government",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "autonomies",
+      "autonomy"
+    ]
+  },
+  "autopsy": {
+    "def": [
+      {
+        "definition": "an examination of a body after death to determine the cause of death or the character and extent of changes produced by disease —called also necropsy",
+        "type": "n."
+      },
+      {
+        "definition": "a critical examination, evaluation, or assessment of someone or something past",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "autopsied",
+      "autopsies",
+      "autopsy",
+      "autopsying"
+    ]
+  },
+  "autumnal": {
+    "def": [
+      {
+        "definition": "of, relating to, or characteristic of",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "autumnal",
+      "autumnally"
+    ]
+  },
+  "auxiliary": {
+    "def": [
+      {
+        "definition": "offering or providing help",
+        "type": "n."
+      },
+      {
+        "definition": "functioning in a subsidiary capacity",
+        "type": "n."
+      },
+      {
+        "definition": "accompanying another verb and typically expressing person, number, mood, or tense",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "auxiliary"
+    ]
+  },
+  "avalanche": {
+    "def": [
+      {
+        "definition": "a large mass of snow, ice, earth, rock, or other material in swift motion down a mountainside or over a precipice",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden great or overwhelming rush or accumulation of something",
+        "type": "n."
+      },
+      {
+        "definition": "a cumulative process in which photons or accelerated charge carriers produce additional photons or charge carriers through collisions (as with gas molecules)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "avalanche",
+      "avalanches"
+    ]
+  },
+  "avarice": {
+    "def": [
+      {
+        "definition": "excessive or  desire for wealth or profit ,",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "avarice",
+      "avarices"
+    ]
+  },
+  "aver": {
+    "def": [
+      {
+        "definition": "to declare positively",
+        "type": "v."
+      },
+      {
+        "definition": "to verify or prove to be true in pleading a cause",
+        "type": "v."
+      },
+      {
+        "definition": "to allege or assert in pleading",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "aver",
+      "averred",
+      "averring",
+      "avers"
+    ]
+  },
+  "averse": {
+    "def": [
+      {
+        "definition": "having an active feeling of , dislike, or distaste",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "averse",
+      "aversely",
+      "averseness",
+      "aversenesses"
+    ]
+  },
+  "aversion": {
+    "def": [
+      {
+        "definition": "a feeling of repugnance toward something with a desire to avoid or turn from it",
+        "type": "n."
+      },
+      {
+        "definition": "a settled dislike : antipathy",
+        "type": "n."
+      },
+      {
+        "definition": "a tendency to extinguish a behavior or to avoid a thing or situation and especially a usually pleasurable one because it is or has been associated with a noxious stimulus",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aversion",
+      "aversions"
+    ]
+  },
+  "avert": {
+    "def": [
+      {
+        "definition": "to turn away or aside (the eyes, one's gaze, etc.) in avoidance",
+        "type": "v."
+      },
+      {
+        "definition": "to see coming and ward off : avoid",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "avert",
+      "averted",
+      "averting",
+      "averts"
+    ]
+  },
+  "aviary": {
+    "def": [
+      {
+        "definition": "a place for keeping birds confined",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "aviaries",
+      "aviary"
+    ]
+  },
+  "avidity": {
+    "def": [
+      {
+        "definition": "the quality or state of being avid:",
+        "type": "adj."
+      },
+      {
+        "definition": "keen eagerness",
+        "type": "n."
+      },
+      {
+        "definition": "consuming greed",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "avidities",
+      "avidity"
+    ]
+  },
+  "avocation": {
+    "def": [
+      {
+        "definition": "a subordinate occupation pursued in addition to one's vocation especially for enjoyment : hobby",
+        "type": "n."
+      },
+      {
+        "definition": "customary employment : vocation",
+        "type": "n."
+      },
+      {
+        "definition": "diversion, distraction",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "avocation",
+      "avocations"
+    ]
+  },
+  "avow": {
+    "def": [
+      {
+        "definition": "to declare assuredly",
+        "type": "v."
+      },
+      {
+        "definition": "to declare openly, bluntly, and without shame",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "avow",
+      "avowed",
+      "avower",
+      "avowers",
+      "avowing",
+      "avows"
+    ]
+  },
+  "awaken": {
+    "def": [
+      {
+        "definition": "awake",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "awaken",
+      "awakened",
+      "awakener",
+      "awakeners",
+      "awakening",
+      "awakens"
+    ]
+  },
+  "awry": {
+    "def": [
+      {
+        "definition": "off the correct or expected course : amiss",
+        "type": "adv."
+      },
+      {
+        "definition": "in a turned or twisted position or direction : askew",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "awry"
+    ]
+  },
+  "aye": {
+    "def": [
+      {
+        "definition": "yes",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ay",
+      "aye"
+    ]
+  },
+  "azalea": {
+    "def": [
+      {
+        "definition": "any of a subgenus (Azalea) of rhododendrons with funnel-shaped corollas and usually deciduous leaves including many species and hybrid forms cultivated as ornamentals",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "azalea",
+      "azaleas"
+    ]
+  },
+  "azure": {
+    "def": [
+      {
+        "definition": "the blue color of the clear sky",
+        "type": "n."
+      },
+      {
+        "definition": "the heraldic color blue",
+        "type": "n."
+      },
+      {
+        "definition": "the unclouded sky",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "azure",
+      "azures"
+    ]
+  }
+}

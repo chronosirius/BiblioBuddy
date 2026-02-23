@@ -1,0 +1,1406 @@
+{
+  "laborious": {
+    "def": [
+      {
+        "definition": "Toilsome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "labyrinth": {
+    "def": [
+      {
+        "definition": "A maze.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lacerate": {
+    "def": [
+      {
+        "definition": "To tear rudely or raggedly.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "lackadaisical": {
+    "def": [
+      {
+        "definition": "Listless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lactation": {
+    "def": [
+      {
+        "definition": "The secretion of milk.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lacteal": {
+    "def": [
+      {
+        "definition": "Milky.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lactic": {
+    "def": [
+      {
+        "definition": "Pertaining to milk.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "laddie": {
+    "def": [
+      {
+        "definition": "A lad.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ladle": {
+    "def": [
+      {
+        "definition": "A cup-shaped vessel with a long handle, intended for dipping up and pouring",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "laggard": {
+    "def": [
+      {
+        "definition": "Falling behind.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "landholder": {
+    "def": [
+      {
+        "definition": "Landowner.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "landlord": {
+    "def": [
+      {
+        "definition": "A man who owns and lets a tenement or tenements.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "landmark": {
+    "def": [
+      {
+        "definition": "A familiar object in the landscape serving as a guide to an area otherwise",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "landscape": {
+    "def": [
+      {
+        "definition": "A rural view, especially one of picturesque effect, as seen from a distance",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "languid": {
+    "def": [
+      {
+        "definition": "Relaxed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "languor": {
+    "def": [
+      {
+        "definition": "Lassitude of body or depression.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lapse": {
+    "def": [
+      {
+        "definition": "A slight deviation from what is right, proper, or just.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lascivious": {
+    "def": [
+      {
+        "definition": "Lustful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lassie": {
+    "def": [
+      {
+        "definition": "A little lass.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "latent": {
+    "def": [
+      {
+        "definition": "Dormant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "latency": {
+    "def": [
+      {
+        "definition": "The state of being dormant.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "later": {
+    "def": [
+      {
+        "definition": "At a subsequent time.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "lateral": {
+    "def": [
+      {
+        "definition": "Directed toward the side.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "latish": {
+    "def": [
+      {
+        "definition": "Rather late.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lattice": {
+    "def": [
+      {
+        "definition": "Openwork of metal or wood, formed by crossing or interlacing strips or bars.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "laud": {
+    "def": [
+      {
+        "definition": "To praise in words or song.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "laudable": {
+    "def": [
+      {
+        "definition": "Praiseworthy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "laudation": {
+    "def": [
+      {
+        "definition": "High praise.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "laudatory": {
+    "def": [
+      {
+        "definition": "Pertaining to, expressing, or containing praise.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "laundress": {
+    "def": [
+      {
+        "definition": "Washerwoman.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "laureate": {
+    "def": [
+      {
+        "definition": "Crowned with laurel, as a mark of distinction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lave": {
+    "def": [
+      {
+        "definition": "To wash or bathe.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "lawgiver": {
+    "def": [
+      {
+        "definition": "A legislator.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lawmaker": {
+    "def": [
+      {
+        "definition": "A legislator.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lax": {
+    "def": [
+      {
+        "definition": "Not stringent or energetic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "laxative": {
+    "def": [
+      {
+        "definition": "Having power to open or loosen the bowels.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lea": {
+    "def": [
+      {
+        "definition": "A field.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "leaflet": {
+    "def": [
+      {
+        "definition": "A little leaf or a booklet.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "leaven": {
+    "def": [
+      {
+        "definition": "To make light by fermentation, as dough.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "leeward": {
+    "def": [
+      {
+        "definition": "That side or direction toward which the wind blows.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "left-handed": {
+    "def": [
+      {
+        "definition": "Using the left hand or arm more dexterously than the right.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "legacy": {
+    "def": [
+      {
+        "definition": "A bequest.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "legalize": {
+    "def": [
+      {
+        "definition": "To give the authority of law to.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "legging": {
+    "def": [
+      {
+        "definition": "A covering for the leg.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "legible": {
+    "def": [
+      {
+        "definition": "That may be read with ease.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "legionary": {
+    "def": [
+      {
+        "definition": "A member of an ancient Roman legion or of the modern French Legion of Honor.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "legislate": {
+    "def": [
+      {
+        "definition": "To make or enact a law or laws.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "legislative": {
+    "def": [
+      {
+        "definition": "That makes or enacts laws.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "legislator": {
+    "def": [
+      {
+        "definition": "A lawgiver.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "legitimacy": {
+    "def": [
+      {
+        "definition": "Accordance with law.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "legitimate": {
+    "def": [
+      {
+        "definition": "Having the sanction of law or established custom.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "leisure": {
+    "def": [
+      {
+        "definition": "Spare time.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "leniency": {
+    "def": [
+      {
+        "definition": "Forbearance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lenient": {
+    "def": [
+      {
+        "definition": "Not harsh.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "leonine": {
+    "def": [
+      {
+        "definition": "Like a lion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lethargy": {
+    "def": [
+      {
+        "definition": "Prolonged sluggishness of body or mind.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "levee": {
+    "def": [
+      {
+        "definition": "An embankment beside a river or stream or an arm of the sea, to prevent overflow.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lever": {
+    "def": [
+      {
+        "definition": "That which exerts, or through which one may exert great power.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "leviathan": {
+    "def": [
+      {
+        "definition": "Any large animal, as a whale.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "levity": {
+    "def": [
+      {
+        "definition": "Frivolity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "levy": {
+    "def": [
+      {
+        "definition": "To impose and collect by force or threat of force.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "lewd": {
+    "def": [
+      {
+        "definition": "Characterized by lust or lasciviousness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lexicographer": {
+    "def": [
+      {
+        "definition": "One who makes dictionaries.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lexicography": {
+    "def": [
+      {
+        "definition": "The making of dictionaries.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lexicon": {
+    "def": [
+      {
+        "definition": "A dictionary.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "liable": {
+    "def": [
+      {
+        "definition": "Justly or legally responsible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "libel": {
+    "def": [
+      {
+        "definition": "Defamation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "liberalism": {
+    "def": [
+      {
+        "definition": "Opposition to conservatism.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "liberate": {
+    "def": [
+      {
+        "definition": "To set free or release from bondage.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "licentious": {
+    "def": [
+      {
+        "definition": "Wanton.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "licit": {
+    "def": [
+      {
+        "definition": "Lawful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "liege": {
+    "def": [
+      {
+        "definition": "Sovereign.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lien": {
+    "def": [
+      {
+        "definition": "A legal claim or hold on property, as security for a debt or charge.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lieu": {
+    "def": [
+      {
+        "definition": "Stead.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lifelike": {
+    "def": [
+      {
+        "definition": "Realistic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lifelong": {
+    "def": [
+      {
+        "definition": "Lasting or continuous through life.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lifetime": {
+    "def": [
+      {
+        "definition": "The time that life continues.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ligament": {
+    "def": [
+      {
+        "definition": "That which binds objects together.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ligature": {
+    "def": [
+      {
+        "definition": "Anything that constricts, or serves for binding or tying.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "light-hearted": {
+    "def": [
+      {
+        "definition": "Free from care.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ligneous": {
+    "def": [
+      {
+        "definition": "Having the texture of appearance of wood.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "likelihood": {
+    "def": [
+      {
+        "definition": "A probability.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "likely": {
+    "def": [
+      {
+        "definition": "Plausible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "liking": {
+    "def": [
+      {
+        "definition": "Fondness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "limitation": {
+    "def": [
+      {
+        "definition": "A restriction.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "linear": {
+    "def": [
+      {
+        "definition": "Of the nature of a line.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "liner": {
+    "def": [
+      {
+        "definition": "A vessel belonging to a steamship-line.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lingo": {
+    "def": [
+      {
+        "definition": "Language.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lingua": {
+    "def": [
+      {
+        "definition": "The tongue.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lingual": {
+    "def": [
+      {
+        "definition": "Pertaining to the use of the tongue in utterance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "linguist": {
+    "def": [
+      {
+        "definition": "One who is acquainted with several languages.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "linguistics": {
+    "def": [
+      {
+        "definition": "The science of languages, or of the origin, history, and significance of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "liniment": {
+    "def": [
+      {
+        "definition": "A liquid preparation for rubbing on the skin in cases of bruises,",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "liquefacient": {
+    "def": [
+      {
+        "definition": "Possessing a liquefying nature or power.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "liquefy": {
+    "def": [
+      {
+        "definition": "To convert into a liquid or into liquid form.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "liqueur": {
+    "def": [
+      {
+        "definition": "An alcoholic cordial sweetened and flavored with aromatic substances.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "liquidate": {
+    "def": [
+      {
+        "definition": "To deliver the amount or value of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "liquor": {
+    "def": [
+      {
+        "definition": "Any alcoholic or intoxicating liquid.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "listless": {
+    "def": [
+      {
+        "definition": "Inattentive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "literacy": {
+    "def": [
+      {
+        "definition": "The state or condition of knowing how to read and write.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "literal": {
+    "def": [
+      {
+        "definition": "Following the exact words.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "literature": {
+    "def": [
+      {
+        "definition": "The written or printed productions of the human mind collectively.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lithe": {
+    "def": [
+      {
+        "definition": "Supple.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lithesome": {
+    "def": [
+      {
+        "definition": "Nimble.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lithograph": {
+    "def": [
+      {
+        "definition": "A print made by printing from stone.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lithotype": {
+    "def": [
+      {
+        "definition": "In engraving, an etched stone surface for printing.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "litigant": {
+    "def": [
+      {
+        "definition": "A party to a lawsuit.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "litigate": {
+    "def": [
+      {
+        "definition": "To cause to become the subject-matter of a suit at law.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "litigious": {
+    "def": [
+      {
+        "definition": "Quarrelsome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "littoral": {
+    "def": [
+      {
+        "definition": "Of, pertaining to, or living on a shore.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "liturgy": {
+    "def": [
+      {
+        "definition": "A ritual.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "livelihood": {
+    "def": [
+      {
+        "definition": "Means of subsistence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "livid": {
+    "def": [
+      {
+        "definition": "Black-and-blue, as contused flesh.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "loam": {
+    "def": [
+      {
+        "definition": "A non-coherent mixture of sand and clay.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "loath": {
+    "def": [
+      {
+        "definition": "Averse.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "loathe": {
+    "def": [
+      {
+        "definition": "To abominate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "locative": {
+    "def": [
+      {
+        "definition": "Indicating place, or the place where or wherein an action occurs.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "loch": {
+    "def": [
+      {
+        "definition": "A lake.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "locomotion": {
+    "def": [
+      {
+        "definition": "The act or power of moving from one place to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lode": {
+    "def": [
+      {
+        "definition": "A somewhat continuous unstratified metal- bearing vein.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lodgment": {
+    "def": [
+      {
+        "definition": "The act of furnishing with temporary quarters.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "logic": {
+    "def": [
+      {
+        "definition": "The science of correct thinking.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "logical": {
+    "def": [
+      {
+        "definition": "Capable of or characterized by clear reasoning.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "logician": {
+    "def": [
+      {
+        "definition": "An expert reasoner.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "loiterer": {
+    "def": [
+      {
+        "definition": "One who consumes time idly.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "loneliness": {
+    "def": [
+      {
+        "definition": "Solitude.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "longevity": {
+    "def": [
+      {
+        "definition": "Unusually prolonged life.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "loot": {
+    "def": [
+      {
+        "definition": "To plunder.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "loquacious": {
+    "def": [
+      {
+        "definition": "Talkative.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lordling": {
+    "def": [
+      {
+        "definition": "A little lord.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lough": {
+    "def": [
+      {
+        "definition": "A lake or loch.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "louse": {
+    "def": [
+      {
+        "definition": "A small insect parasitic on and sucking the blood of mammals.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lovable": {
+    "def": [
+      {
+        "definition": "Amiable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "low-spirited": {
+    "def": [
+      {
+        "definition": "Despondent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lowly": {
+    "def": [
+      {
+        "definition": "Rudely.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "lucid": {
+    "def": [
+      {
+        "definition": "Mentally sound.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lucrative": {
+    "def": [
+      {
+        "definition": "Highly profitable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ludicrous": {
+    "def": [
+      {
+        "definition": "Laughable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "luminary": {
+    "def": [
+      {
+        "definition": "One of the heavenly bodies as a source of light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "luminescent": {
+    "def": [
+      {
+        "definition": "Showing increase of light.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "luminescence": {
+    "def": [
+      {
+        "definition": "Showing increase.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "luminosity": {
+    "def": [
+      {
+        "definition": "The quality of giving or radiating light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "luminous": {
+    "def": [
+      {
+        "definition": "Giving or radiating light.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lunacy": {
+    "def": [
+      {
+        "definition": "Mental unsoundness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lunar": {
+    "def": [
+      {
+        "definition": "Pertaining to the moon.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lunatic": {
+    "def": [
+      {
+        "definition": "An insane person.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lune": {
+    "def": [
+      {
+        "definition": "The moon.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lurid": {
+    "def": [
+      {
+        "definition": "Ghastly and sensational.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "luscious": {
+    "def": [
+      {
+        "definition": "Rich, sweet, and delicious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "lustrous": {
+    "def": [
+      {
+        "definition": "Shining.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "luxuriance": {
+    "def": [
+      {
+        "definition": "Excessive or superfluous growth or quantity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "luxuriant": {
+    "def": [
+      {
+        "definition": "Abundant or superabundant in growth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "luxuriate": {
+    "def": [
+      {
+        "definition": "To live sumptuously.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "lying": {
+    "def": [
+      {
+        "definition": "Untruthfulness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lyre": {
+    "def": [
+      {
+        "definition": "One of the most ancient of stringed instruments of the harp class.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "lyric": {
+    "def": [
+      {
+        "definition": "Fitted for expression in song.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  }
+}

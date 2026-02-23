@@ -1,0 +1,8350 @@
+{
+  "cabal": {
+    "def": [
+      {
+        "definition": "the contrived schemes of a group of persons secretly united in a plot (as to overturn a government); also : a group engaged in such schemes",
+        "type": "n."
+      },
+      {
+        "definition": "club, group",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cabal",
+      "cabals"
+    ]
+  },
+  "cabalism": {
+    "def": [
+      {
+        "definition": "Superstitious devotion to one's religion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "cabinet": {
+    "def": [
+      {
+        "definition": "a case or cupboard usually having doors and shelves",
+        "type": "adj."
+      },
+      {
+        "definition": "a collection of specimens especially of biological or numismatic interest",
+        "type": "n."
+      },
+      {
+        "definition": "console",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Cabinet",
+      "Cabinets",
+      "cabinet",
+      "cabinets"
+    ]
+  },
+  "cacophony": {
+    "def": [
+      {
+        "definition": "harsh or jarring sound : dissonance; specifically : harshness in the sound of words or phrases",
+        "type": "n."
+      },
+      {
+        "definition": "an incongruous or chaotic mixture : a striking combination",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cacophonies",
+      "cacophony"
+    ]
+  },
+  "cadaverous": {
+    "def": [
+      {
+        "definition": "of or relating to a corpse",
+        "type": "adv."
+      },
+      {
+        "definition": "suggestive of corpses or tombs",
+        "type": "adv."
+      },
+      {
+        "definition": "pallid, livid",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "cadaverous",
+      "cadaverously"
+    ]
+  },
+  "cadence": {
+    "def": [
+      {
+        "definition": "the beat, time, or measure of rhythmical motion or activity",
+        "type": "n."
+      },
+      {
+        "definition": "a rhythmic sequence or flow of sounds in language",
+        "type": "n."
+      },
+      {
+        "definition": "a regular and repeated pattern of activity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cadence",
+      "cadenced",
+      "cadences",
+      "cadential"
+    ]
+  },
+  "cadenza": {
+    "def": [
+      {
+        "definition": "a parenthetical flourish in an aria or other solo piece commonly just before a final or other important cadence",
+        "type": "n."
+      },
+      {
+        "definition": "a technically brilliant sometimes improvised solo passage toward the close of a concerto",
+        "type": "n."
+      },
+      {
+        "definition": "an exceptionally brilliant part of an artistic and especially a literary work",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cadenza",
+      "cadenzas"
+    ]
+  },
+  "caitiff": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "caitiff",
+      "caitiffs"
+    ]
+  },
+  "cajole": {
+    "def": [
+      {
+        "definition": "to persuade with flattery or gentle urging especially in the face of reluctance : coax",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain from someone by gentle persuasion",
+        "type": "v."
+      },
+      {
+        "definition": "to deceive with soothing words or false promises",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cajole",
+      "cajoled",
+      "cajolement",
+      "cajolements",
+      "cajoler",
+      "cajoleries",
+      "cajolers",
+      "cajolery",
+      "cajoles",
+      "cajoling"
+    ]
+  },
+  "cajolery": {
+    "def": [
+      {
+        "definition": "to persuade with flattery or gentle urging especially in the face of reluctance : coax",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain from someone by gentle persuasion",
+        "type": "v."
+      },
+      {
+        "definition": "to deceive with soothing words or false promises",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cajole",
+      "cajoled",
+      "cajolement",
+      "cajolements",
+      "cajoler",
+      "cajoleries",
+      "cajolers",
+      "cajolery",
+      "cajoles",
+      "cajoling"
+    ]
+  },
+  "calculable": {
+    "def": [
+      {
+        "definition": "subject to or ascertainable by calculation",
+        "type": "adj."
+      },
+      {
+        "definition": "that may be counted on : dependable",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "calculable"
+    ]
+  },
+  "calculus": {
+    "def": [
+      {
+        "definition": "a method of computation or calculation in a special notation (as of logic or symbolic logic)",
+        "type": "n."
+      },
+      {
+        "definition": "the mathematical methods comprising differential and integral calculus —often used with the",
+        "type": "n."
+      },
+      {
+        "definition": "calculation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "calculi",
+      "calculus",
+      "calculuses"
+    ]
+  },
+  "callosity": {
+    "def": [
+      {
+        "definition": "the quality or state of being callous: such as",
+        "type": "adj."
+      },
+      {
+        "definition": "marked or abnormal hardness and thickness",
+        "type": "n."
+      },
+      {
+        "definition": "lack of feeling or capacity for emotion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "callosities",
+      "callosity"
+    ]
+  },
+  "callow": {
+    "def": [
+      {
+        "definition": "lacking adult sophistication",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "callow",
+      "callower",
+      "callowest",
+      "callowness",
+      "callownesses"
+    ]
+  },
+  "calorie": {
+    "def": [
+      {
+        "definition": "the amount of heat required at a pressure of one atmosphere to raise the temperature of one gram of water one degree Celsius that is equal to about 4.19 joules —abbreviation cal—called also gram calorie, small calorie",
+        "type": "n."
+      },
+      {
+        "definition": "the amount of heat required to raise the temperature of one kilogram of water one degree Celsius : 1000 gram calories or 3.968 Btu —abbreviation Cal—called also large calorie",
+        "type": "n."
+      },
+      {
+        "definition": "a unit equivalent to the large calorie expressing heat-producing or energy-producing value in food when oxidized in the body",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "calorie",
+      "calories",
+      "calory",
+      "gram calorie",
+      "large calorie",
+      "small calorie"
+    ]
+  },
+  "calumny": {
+    "def": [
+      {
+        "definition": "a misrepresentation intended to harm another's reputation",
+        "type": "adv."
+      },
+      {
+        "definition": "the act of uttering false charges or misrepresentations maliciously calculated to harm another's reputation",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "calumnies",
+      "calumnious",
+      "calumniously",
+      "calumny"
+    ]
+  },
+  "calvary": {
+    "def": [
+      {
+        "definition": "an open-air representation of the crucifixion of Jesus",
+        "type": "n."
+      },
+      {
+        "definition": "an experience of usually intense mental suffering",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "calvaries",
+      "calvary"
+    ]
+  },
+  "calvinism": {
+    "def": [
+      {
+        "definition": "the theological system of {a_link|Calvin} and his followers marked by strong emphasis on the sovereignty of God, the depravity of humankind, and the doctrine of predestination",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Calvinism",
+      "Calvinisms",
+      "Calvinist",
+      "Calvinistic",
+      "Calvinistically",
+      "Calvinists"
+    ]
+  },
+  "calvinize": {
+    "def": [
+      {
+        "definition": "To teach or imbue with the doctrines of Calvinism.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "came": {
+    "def": [
+      {
+        "definition": "A leaden sash-bar or grooved strip for fastening panes in stained-glass windows.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "cameo": {
+    "def": [
+      {
+        "definition": "a gem carved in relief; especially : a small piece of sculpture on a stone or shell cut in relief in one layer with another contrasting layer serving as background",
+        "type": "n."
+      },
+      {
+        "definition": "a small medallion with a profiled head in relief",
+        "type": "n."
+      },
+      {
+        "definition": "a carving or sculpture made in the manner of a cameo",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cameo",
+      "cameoed",
+      "cameoing",
+      "cameos"
+    ]
+  },
+  "campaign": {
+    "def": [
+      {
+        "definition": "a connected series of military operations forming a distinct phase of a war",
+        "type": "n."
+      },
+      {
+        "definition": "a connected series of operations designed to bring about a particular result",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "campaign",
+      "campaigns"
+    ]
+  },
+  "canaanite": {
+    "def": [
+      {
+        "definition": "a member of a Semitic people inhabiting ancient Palestine and Phoenicia from about 3000 {sc}b.c.",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Canaanite",
+      "Canaanites"
+    ]
+  },
+  "canary": {
+    "def": [
+      {
+        "definition": "a Canary Islands usually sweet wine similar to Madeira",
+        "type": "adj."
+      },
+      {
+        "definition": "a lively 16th century court dance",
+        "type": "adj."
+      },
+      {
+        "definition": "a small finch (Serinus canaria synonym S. canarius) of the Canary Islands that is usually greenish to yellow and is kept as a cage bird and singer",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "canaries",
+      "canary"
+    ]
+  },
+  "candid": {
+    "def": [
+      {
+        "definition": "expressing opinions, feelings, etc. in an open, honest, and sincere way; also : being or involving such expression",
+        "type": "adv."
+      },
+      {
+        "definition": "disposed to criticize severely : blunt",
+        "type": "adv."
+      },
+      {
+        "definition": "indicating or suggesting sincere honesty and absence of deception",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "candid",
+      "candider",
+      "candidest",
+      "candidly",
+      "candidness",
+      "candidnesses"
+    ]
+  },
+  "candor": {
+    "def": [
+      {
+        "definition": "the quality of being open, honest, and sincere : forthrightness",
+        "type": "adj."
+      },
+      {
+        "definition": "freedom from prejudice or malice : fairness",
+        "type": "n."
+      },
+      {
+        "definition": "brightness, brilliance",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "candor",
+      "candors"
+    ]
+  },
+  "canine": {
+    "def": [
+      {
+        "definition": "a conical pointed tooth; especially : one situated between the lateral incisor and the first premolar",
+        "type": "adj."
+      },
+      {
+        "definition": "dog; broadly : canid",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "canine",
+      "canines"
+    ]
+  },
+  "canon": {
+    "def": [
+      {
+        "definition": "a regulation or dogma decreed by a church council",
+        "type": "n."
+      },
+      {
+        "definition": "a provision of canon law",
+        "type": "n."
+      },
+      {
+        "definition": "the most solemn and unvarying part of the Mass including the consecration of the bread and wine",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cannon",
+      "canon",
+      "canons",
+      "canun",
+      "canyon"
+    ]
+  },
+  "cant": {
+    "def": [
+      {
+        "definition": "the expression or repetition of conventional or trite opinions or sentiments; especially : the insincere use of pious words",
+        "type": "v."
+      },
+      {
+        "definition": "a set or stock phrase",
+        "type": "v."
+      },
+      {
+        "definition": "the private language of the underworld",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cant",
+      "cants"
+    ]
+  },
+  "cantata": {
+    "def": [
+      {
+        "definition": "a composition for one or more voices usually comprising solos, duets, , and choruses and sung to an instrumental accompaniment",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cantata",
+      "cantatas"
+    ]
+  },
+  "canto": {
+    "def": [
+      {
+        "definition": "one of the major divisions of a long poem",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "canto",
+      "cantos"
+    ]
+  },
+  "cantonment": {
+    "def": [
+      {
+        "definition": "usually temporary quarters for troops",
+        "type": "n."
+      },
+      {
+        "definition": "a permanent military station in India",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cantonment",
+      "cantonments"
+    ]
+  },
+  "capacious": {
+    "def": [
+      {
+        "definition": "containing or {a_link|capable} of containing a great deal",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "capacious",
+      "capaciously",
+      "capaciousness",
+      "capaciousnesses"
+    ]
+  },
+  "capillary": {
+    "def": [
+      {
+        "definition": "resembling a hair especially in slender elongated form",
+        "type": "n."
+      },
+      {
+        "definition": "having a very small bore",
+        "type": "adj."
+      },
+      {
+        "definition": "involving, held by, or resulting from surface tension",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "capillary"
+    ]
+  },
+  "capitulate": {
+    "def": [
+      {
+        "definition": "to surrender often after negotiation of terms",
+        "type": "v."
+      },
+      {
+        "definition": "to cease resisting : acquiesce",
+        "type": "v."
+      },
+      {
+        "definition": "parley, negotiate",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "capitulate",
+      "capitulated",
+      "capitulates",
+      "capitulating"
+    ]
+  },
+  "caprice": {
+    "def": [
+      {
+        "definition": "a sudden, impulsive, and seemingly unmotivated notion or action",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden usually unpredictable condition, change, or series of changes",
+        "type": "n."
+      },
+      {
+        "definition": "a disposition to do things impulsively",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "caprice",
+      "caprices"
+    ]
+  },
+  "caption": {
+    "def": [
+      {
+        "definition": "the part of a legal document that shows where, when, and by what authority it was taken, found, or executed",
+        "type": "n."
+      },
+      {
+        "definition": "the heading especially of an article or document : title",
+        "type": "n."
+      },
+      {
+        "definition": "the explanatory comment or designation accompanying a pictorial illustration",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "caption",
+      "captionless",
+      "captions"
+    ]
+  },
+  "captious": {
+    "def": [
+      {
+        "definition": "marked by an often ill-natured inclination to stress faults and raise objections",
+        "type": "adv."
+      },
+      {
+        "definition": "calculated to confuse, entrap, or entangle in argument",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "captious",
+      "captiously",
+      "captiousness",
+      "captiousnesses"
+    ]
+  },
+  "captivate": {
+    "def": [
+      {
+        "definition": "to influence and dominate by some special charm, art, or trait and with an irresistible appeal",
+        "type": "v."
+      },
+      {
+        "definition": "seize, capture",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "captivate",
+      "captivated",
+      "captivates",
+      "captivating",
+      "captivation",
+      "captivations",
+      "captivator",
+      "captivators"
+    ]
+  },
+  "carcass": {
+    "def": [
+      {
+        "definition": "a dead body : corpse; especially : the dressed body of a meat animal",
+        "type": "n."
+      },
+      {
+        "definition": "the living, material, or physical body",
+        "type": "n."
+      },
+      {
+        "definition": "the decaying or worthless remains of a structure",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "carcass",
+      "carcasses"
+    ]
+  },
+  "cardiac": {
+    "def": [
+      {
+        "definition": "of, relating to, situated near, or acting on the heart",
+        "type": "v."
+      },
+      {
+        "definition": "of or relating to the cardia of the stomach",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or affected with heart disease",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cardiac"
+    ]
+  },
+  "cardinal": {
+    "def": [
+      {
+        "definition": "a high ecclesiastical official of the Roman Catholic Church who ranks next below the pope and is appointed by him to assist him as a member of the college of cardinals",
+        "type": "n."
+      },
+      {
+        "definition": "cardinal number —usually used in plural",
+        "type": "adj."
+      },
+      {
+        "definition": "a crested finch (Cardinalis cardinalis of the family Cardinalidae) of the eastern U.S. and adjacent Canada, the southwestern U.S., and Mexico to Belize which has a black face and heavy red bill in both sexes and is nearly completely red in the male",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cardinal",
+      "cardinals",
+      "cardinalship",
+      "cardinalships"
+    ]
+  },
+  "caret": {
+    "def": [
+      {
+        "definition": "a wedge-shaped mark made on written or printed matter to indicate the place where something is to be inserted",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "caret",
+      "carets"
+    ]
+  },
+  "caricature": {
+    "def": [
+      {
+        "definition": "exaggeration by means of often ludicrous distortion of parts or characteristics",
+        "type": "n."
+      },
+      {
+        "definition": "a representation especially in literature or art that has the qualities of caricature",
+        "type": "n."
+      },
+      {
+        "definition": "a distortion so gross as to seem like caricature",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "caricatural",
+      "caricature",
+      "caricatures",
+      "caricaturist",
+      "caricaturists"
+    ]
+  },
+  "carnage": {
+    "def": [
+      {
+        "definition": "the flesh of slain animals or humans",
+        "type": "n."
+      },
+      {
+        "definition": "great and usually bloody slaughter or injury (as in battle)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "carnage",
+      "carnages"
+    ]
+  },
+  "carnal": {
+    "def": [
+      {
+        "definition": "relating to or given to crude bodily pleasures and appetites",
+        "type": "adv."
+      },
+      {
+        "definition": "marked by sexuality",
+        "type": "adv."
+      },
+      {
+        "definition": "bodily, corporeal",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "carnal",
+      "carnalities",
+      "carnality",
+      "carnally"
+    ]
+  },
+  "carnivorous": {
+    "def": [
+      {
+        "definition": "subsisting or feeding on animal tissues",
+        "type": "adv."
+      },
+      {
+        "definition": "subsisting on nutrients obtained from the breakdown of animal protoplasm (as of insects)",
+        "type": "adv."
+      },
+      {
+        "definition": "of or relating to the carnivores",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "carnivories",
+      "carnivorous",
+      "carnivorously",
+      "carnivorousness",
+      "carnivorousnesses",
+      "carnivory"
+    ]
+  },
+  "carouse": {
+    "def": [
+      {
+        "definition": "to drink liquor freely or excessively",
+        "type": "v."
+      },
+      {
+        "definition": "to take part in a carouse : engage in dissolute behavior",
+        "type": "v."
+      },
+      {
+        "definition": "to drink up : quaff",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "carouse",
+      "caroused",
+      "carouser",
+      "carousers",
+      "carouses",
+      "carousing"
+    ]
+  },
+  "carrion": {
+    "def": [
+      {
+        "definition": "dead and putrefying flesh",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "carrion",
+      "carrions"
+    ]
+  },
+  "cartilage": {
+    "def": [
+      {
+        "definition": "a usually translucent somewhat elastic tissue that composes most of the skeleton of vertebrate embryos and except for a small number of structures (such as some joints, respiratory passages, and the external ear) is replaced by bone during ossification in the higher vertebrates",
+        "type": "n."
+      },
+      {
+        "definition": "a part or structure composed of cartilage",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cartilage",
+      "cartilages"
+    ]
+  },
+  "cartridge": {
+    "def": [
+      {
+        "definition": "a case or container that holds a substance, device, or material which is difficult, troublesome, or awkward to handle and that usually can be easily changed: such as",
+        "type": "n."
+      },
+      {
+        "definition": "a tube (as of metal) containing a complete charge for a firearm and usually an initiating device (such as a primer)",
+        "type": "n."
+      },
+      {
+        "definition": "a case containing an explosive charge for blasting",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cartridge",
+      "cartridges"
+    ]
+  },
+  "caste": {
+    "def": [
+      {
+        "definition": "one of the hereditary social classes in Hinduism that restrict the occupation of their members and their association with the members of other castes",
+        "type": "n."
+      },
+      {
+        "definition": "a division of society based on differences of wealth, inherited rank or privilege, profession, occupation, or race",
+        "type": "n."
+      },
+      {
+        "definition": "the position conferred by caste standing : prestige",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "caste",
+      "casteism",
+      "casteisms",
+      "castes"
+    ]
+  },
+  "castigate": {
+    "def": [
+      {
+        "definition": "to subject to severe punishment, reproof, or criticism",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "castigate",
+      "castigated",
+      "castigates",
+      "castigating",
+      "castigation",
+      "castigations",
+      "castigator",
+      "castigators"
+    ]
+  },
+  "casual": {
+    "def": [
+      {
+        "definition": "subject to, resulting from, or occurring by chance",
+        "type": "adv."
+      },
+      {
+        "definition": "occurring without regularity : occasional",
+        "type": "adv."
+      },
+      {
+        "definition": "employed for irregular periods",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "casual",
+      "casual Friday",
+      "casual Fridays",
+      "casually",
+      "casualness",
+      "casualnesses"
+    ]
+  },
+  "casualty": {
+    "def": [
+      {
+        "definition": "a military person lost through death, wounds, injury, sickness, internment, or capture or through being missing in action",
+        "type": "adj."
+      },
+      {
+        "definition": "a person or thing injured, lost, or destroyed : victim",
+        "type": "n."
+      },
+      {
+        "definition": "serious or fatal accident : disaster",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "casualties",
+      "casualty"
+    ]
+  },
+  "cataclysm": {
+    "def": [
+      {
+        "definition": "flood, deluge",
+        "type": "adv."
+      },
+      {
+        "definition": "catastrophe",
+        "type": "adv."
+      },
+      {
+        "definition": "a momentous and violent event marked by overwhelming upheaval and demolition; broadly : an event that brings great changes",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "cataclysm",
+      "cataclysmal",
+      "cataclysmic",
+      "cataclysmically",
+      "cataclysms"
+    ]
+  },
+  "cataract": {
+    "def": [
+      {
+        "definition": "a clouding of the lens of the eye or of its surrounding transparent membrane that obstructs the passage of light",
+        "type": "n."
+      },
+      {
+        "definition": "waterspout",
+        "type": "n."
+      },
+      {
+        "definition": "waterfall; especially : a large one over a precipice",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cataract",
+      "cataractous",
+      "cataracts"
+    ]
+  },
+  "catastrophe": {
+    "def": [
+      {
+        "definition": "a momentous tragic event ranging from extreme misfortune to utter overthrow or ruin",
+        "type": "adv."
+      },
+      {
+        "definition": "utter failure : fiasco",
+        "type": "adv."
+      },
+      {
+        "definition": "a violent and sudden change in a feature of the earth",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "catastrophe",
+      "catastrophes",
+      "catastrophic",
+      "catastrophically"
+    ]
+  },
+  "cathode": {
+    "def": [
+      {
+        "definition": "the electrode of an electrochemical cell at which reduction occurs:",
+        "type": "adv."
+      },
+      {
+        "definition": "the negative terminal of an electrolytic cell",
+        "type": "adv."
+      },
+      {
+        "definition": "the positive terminal of a galvanic cell",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "cathodal",
+      "cathodally",
+      "cathode",
+      "cathodes",
+      "cathodic",
+      "cathodically"
+    ]
+  },
+  "catholicism": {
+    "def": [
+      {
+        "definition": "roman catholicism",
+        "type": "n."
+      },
+      {
+        "definition": "the faith, practice, or system of Catholic Christianity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Catholicism",
+      "Catholicisms"
+    ]
+  },
+  "catholicity": {
+    "def": [
+      {
+        "definition": "the character of being in conformity with a Catholic church",
+        "type": "adj."
+      },
+      {
+        "definition": "liberality of sentiments or views",
+        "type": "n."
+      },
+      {
+        "definition": "universality",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Catholicities",
+      "Catholicity",
+      "catholicities",
+      "catholicity"
+    ]
+  },
+  "cat-o-nine-tails": {
+    "def": [
+      {
+        "definition": "a whip made of usually nine knotted lines or cords fastened to a handle",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cat-o'-nine-tails"
+    ]
+  },
+  "caucus": {
+    "def": [
+      {
+        "definition": "a closed meeting of a group of persons belonging to the same political party or faction usually to select candidates or to decide on policy",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "caucus",
+      "caucuses"
+    ]
+  },
+  "causal": {
+    "def": [
+      {
+        "definition": "expressing or indicating cause : causative",
+        "type": "adv."
+      },
+      {
+        "definition": "of, relating to, or constituting a cause",
+        "type": "adv."
+      },
+      {
+        "definition": "involving causation or a cause : marked by cause and effect",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "causal",
+      "causally"
+    ]
+  },
+  "caustic": {
+    "def": [
+      {
+        "definition": "capable of destroying or eating away by chemical action : corrosive",
+        "type": "adv."
+      },
+      {
+        "definition": "marked by incisive sarcasm",
+        "type": "adv."
+      },
+      {
+        "definition": "relating to or being the surface or curve of a caustic",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "caustic",
+      "caustically",
+      "causticities",
+      "causticity"
+    ]
+  },
+  "cauterize": {
+    "def": [
+      {
+        "definition": "to sear with a cautery or caustic",
+        "type": "v."
+      },
+      {
+        "definition": "to make insensible : deaden",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cauterization",
+      "cauterizations",
+      "cauterize",
+      "cauterized",
+      "cauterizes",
+      "cauterizing"
+    ]
+  },
+  "cede": {
+    "def": [
+      {
+        "definition": "to yield or grant typically by treaty",
+        "type": "v."
+      },
+      {
+        "definition": "assign, transfer",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cede",
+      "ceded",
+      "ceder",
+      "ceders",
+      "cedes",
+      "ceding"
+    ]
+  },
+  "censor": {
+    "def": [
+      {
+        "definition": "a person who supervises conduct and morals: such as",
+        "type": "n."
+      },
+      {
+        "definition": "an official who examines materials (such as publications or films) for objectionable matter",
+        "type": "n."
+      },
+      {
+        "definition": "an official (as in time of war) who reads communications (such as letters) and deletes material considered sensitive or harmful",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "censor",
+      "censorial",
+      "censors"
+    ]
+  },
+  "censorious": {
+    "def": [
+      {
+        "definition": "marked by or given to censure {dx_def}see {/dx_def}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "censorious",
+      "censoriously",
+      "censoriousness",
+      "censoriousnesses"
+    ]
+  },
+  "census": {
+    "def": [
+      {
+        "definition": "a count of the population and a property evaluation in early Rome",
+        "type": "n."
+      },
+      {
+        "definition": "a usually complete enumeration of a population; specifically : a periodic governmental enumeration of population",
+        "type": "n."
+      },
+      {
+        "definition": "count, tally",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "census",
+      "censused",
+      "censuses",
+      "censusing"
+    ]
+  },
+  "centenary": {
+    "def": [
+      {
+        "definition": "centennial",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "centenaries",
+      "centenary"
+    ]
+  },
+  "centiliter": {
+    "def": [
+      {
+        "definition": "a unit of capacity equal to 1/100 liter {dx}see",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "centiliter",
+      "centiliters"
+    ]
+  },
+  "centimeter": {
+    "def": [
+      {
+        "definition": "a unit of length equal to 1/100 meter {dx}see",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "centimeter",
+      "centimeters"
+    ]
+  },
+  "centurion": {
+    "def": [
+      {
+        "definition": "an officer commanding a Roman {a_link|century}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "centurion",
+      "centurions"
+    ]
+  },
+  "cereal": {
+    "def": [
+      {
+        "definition": "relating to grain or to the plants that produce it",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cereal"
+    ]
+  },
+  "ceremonial": {
+    "def": [
+      {
+        "definition": "marked by, involved in, or belonging to ceremony : stressing careful attention to form and detail",
+        "type": "adv."
+      },
+      {
+        "definition": "having no real power or influence",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ceremonial",
+      "ceremonialism",
+      "ceremonialisms",
+      "ceremonialist",
+      "ceremonialists",
+      "ceremonially"
+    ]
+  },
+  "ceremonious": {
+    "def": [
+      {
+        "definition": "devoted to forms and ceremony",
+        "type": "adv."
+      },
+      {
+        "definition": "of, relating to, or constituting a ceremony",
+        "type": "adv."
+      },
+      {
+        "definition": "according to formal usage or prescribed procedures",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "ceremonious",
+      "ceremoniously",
+      "ceremoniousness",
+      "ceremoniousnesses"
+    ]
+  },
+  "cessation": {
+    "def": [
+      {
+        "definition": "a temporary or final ceasing (as of action)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cessation",
+      "cessations"
+    ]
+  },
+  "cession": {
+    "def": [
+      {
+        "definition": "a yielding to another",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cession",
+      "cessions"
+    ]
+  },
+  "chagrin": {
+    "def": [
+      {
+        "definition": "or distress of mind caused by humiliation, disappointment, or failure",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chagrin",
+      "chagrins"
+    ]
+  },
+  "chameleon": {
+    "def": [
+      {
+        "definition": "any of a family (Chamaeleonidae) of chiefly arboreal Old World lizards with prehensile tail, independently movable eyeballs, and unusual ability to change the color of the skin",
+        "type": "adj."
+      },
+      {
+        "definition": "a person who often changes their beliefs or behavior in order to please others or to succeed",
+        "type": "n."
+      },
+      {
+        "definition": "one that is subject to quick or frequent change especially in appearance",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "chameleon",
+      "chameleonic",
+      "chameleonlike",
+      "chameleons"
+    ]
+  },
+  "chancery": {
+    "def": [
+      {
+        "definition": "a record office for public archives or those of ecclesiastical, legal, or diplomatic proceedings",
+        "type": "n."
+      },
+      {
+        "definition": "a high court of equity in England and Wales with common-law functions and jurisdiction over causes in equity",
+        "type": "n."
+      },
+      {
+        "definition": "a court of equity in the American judicial system",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Chanceries",
+      "Chancery",
+      "chanceries",
+      "chancery"
+    ]
+  },
+  "chaos": {
+    "def": [
+      {
+        "definition": "a state of utter confusion",
+        "type": "n."
+      },
+      {
+        "definition": "a confused mass or mixture",
+        "type": "n."
+      },
+      {
+        "definition": "a state of things in which chance is supreme; especially : the confused unorganized state of primordial matter before the creation of distinct forms",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Chaos",
+      "chaos",
+      "chaoses"
+    ]
+  },
+  "characteristic": {
+    "def": [
+      {
+        "definition": "a distinguishing trait, quality, or property",
+        "type": "n."
+      },
+      {
+        "definition": "the integral part of a common logarithm",
+        "type": "n."
+      },
+      {
+        "definition": "the smallest positive integer n which for an operation in a ring or field yields 0 when any element is used n times with the operation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "characteristic",
+      "characteristics"
+    ]
+  },
+  "characterize": {
+    "def": [
+      {
+        "definition": "to describe the character or quality of",
+        "type": "v."
+      },
+      {
+        "definition": "to be a characteristic of : distinguish",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "characterize",
+      "characterized",
+      "characterizes",
+      "characterizing"
+    ]
+  },
+  "charlatan": {
+    "def": [
+      {
+        "definition": "quack",
+        "type": "n."
+      },
+      {
+        "definition": "one making usually showy pretenses to knowledge or ability : fraud, faker",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "charlatan",
+      "charlatanism",
+      "charlatanisms",
+      "charlatanries",
+      "charlatanry",
+      "charlatans"
+    ]
+  },
+  "chasm": {
+    "def": [
+      {
+        "definition": "a deep cleft in the surface of a planet (such as the earth) : gorge",
+        "type": "n."
+      },
+      {
+        "definition": "a marked division, separation, or difference",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chasm",
+      "chasms"
+    ]
+  },
+  "chasten": {
+    "def": [
+      {
+        "definition": "to correct by punishment or suffering : discipline; also : purify",
+        "type": "v."
+      },
+      {
+        "definition": "to prune (something, such as a work or style of art) of excess, pretense, or falsity : refine",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to be more humble or restrained : subdue",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "chasten",
+      "chastened",
+      "chastener",
+      "chasteners",
+      "chastening",
+      "chastens"
+    ]
+  },
+  "chastise": {
+    "def": [
+      {
+        "definition": "to censure severely : castigate",
+        "type": "v."
+      },
+      {
+        "definition": "to inflict punishment on (as by whipping)",
+        "type": "v."
+      },
+      {
+        "definition": "chasten",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "chastise",
+      "chastised",
+      "chastisement",
+      "chastisements",
+      "chastiser",
+      "chastisers",
+      "chastises",
+      "chastising"
+    ]
+  },
+  "chastity": {
+    "def": [
+      {
+        "definition": "the quality or state of being chaste: such as",
+        "type": "adj."
+      },
+      {
+        "definition": "abstention from unlawful sexual intercourse",
+        "type": "n."
+      },
+      {
+        "definition": "abstention from all sexual intercourse",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chastities",
+      "chastity"
+    ]
+  },
+  "chateau": {
+    "def": [
+      {
+        "definition": "a feudal castle or fortress in France",
+        "type": "n."
+      },
+      {
+        "definition": "a large country house : mansion",
+        "type": "n."
+      },
+      {
+        "definition": "a French vineyard estate",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chateau",
+      "chateaus",
+      "chateaux"
+    ]
+  },
+  "chattel": {
+    "def": [
+      {
+        "definition": "an item of tangible movable or immovable property except real estate and things (such as buildings) connected with real property —sometimes used as a mass noun",
+        "type": "adj."
+      },
+      {
+        "definition": "an enslaved person held as the legal property of another : bondman —often used as a mass noun",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "chattel",
+      "chattels",
+      "human chattel",
+      "human chattels"
+    ]
+  },
+  "check": {
+    "def": [
+      {
+        "definition": "to inspect, examine, or look at appraisingly or appreciatively —usually used with out or over",
+        "type": "v."
+      },
+      {
+        "definition": "to compare with a source, original, or authority : verify",
+        "type": "v."
+      },
+      {
+        "definition": "to look at (something) to obtain information",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "check",
+      "checked",
+      "checking",
+      "checks"
+    ]
+  },
+  "chiffon": {
+    "def": [
+      {
+        "definition": "an ornamental addition (such as a knot of ribbons) to a woman's dress",
+        "type": "n."
+      },
+      {
+        "definition": "a sheer fabric especially of silk",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chiffon",
+      "chiffons"
+    ]
+  },
+  "chivalry": {
+    "def": [
+      {
+        "definition": "mounted men-at-arms",
+        "type": "n."
+      },
+      {
+        "definition": "martial valor",
+        "type": "n."
+      },
+      {
+        "definition": "knightly skill",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chivalries",
+      "chivalry"
+    ]
+  },
+  "cholera": {
+    "def": [
+      {
+        "definition": "any of several diseases of humans and domestic animals usually marked by severe  symptoms",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cholera",
+      "choleras"
+    ]
+  },
+  "choleric": {
+    "def": [
+      {
+        "definition": "easily moved to often unreasonable or excessive anger : hot-tempered",
+        "type": "adv."
+      },
+      {
+        "definition": "angry, irate",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "choleraic",
+      "choleric",
+      "cholerically"
+    ]
+  },
+  "choral": {
+    "def": [
+      {
+        "definition": "of or relating to a chorus or choir",
+        "type": "adv."
+      },
+      {
+        "definition": "sung or designed for singing by a choir",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "choral",
+      "chorally"
+    ]
+  },
+  "christ": {
+    "def": [
+      {
+        "definition": "messiah",
+        "type": "adv."
+      },
+      {
+        "definition": "jesus",
+        "type": "adv."
+      },
+      {
+        "definition": "an ideal type of humanity",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "Christ",
+      "Christ Jesus",
+      "Christlike",
+      "Christly",
+      "Christs"
+    ]
+  },
+  "christen": {
+    "def": [
+      {
+        "definition": "baptize",
+        "type": "v."
+      },
+      {
+        "definition": "to name at baptism",
+        "type": "v."
+      },
+      {
+        "definition": "to name or dedicate (something, such as a ship) by a ceremony that often involves breaking a bottle of champagne",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "christen",
+      "christened",
+      "christening",
+      "christens"
+    ]
+  },
+  "christendom": {
+    "def": [
+      {
+        "definition": "christianity",
+        "type": "n."
+      },
+      {
+        "definition": "the part of the world in which Christianity prevails",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Christendom",
+      "Christendoms"
+    ]
+  },
+  "chromatic": {
+    "def": [
+      {
+        "definition": "of, relating to, or giving all the tones of the chromatic scale",
+        "type": "adv."
+      },
+      {
+        "definition": "characterized by frequent use of accidentals",
+        "type": "adv."
+      },
+      {
+        "definition": "of or relating to color or color phenomena or sensations",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "chromatic",
+      "chromatically",
+      "chromaticism",
+      "chromaticisms"
+    ]
+  },
+  "chronology": {
+    "def": [
+      {
+        "definition": "the science that deals with measuring time by regular divisions and that assigns to events their proper dates",
+        "type": "n."
+      },
+      {
+        "definition": "a chronological table, list, or account",
+        "type": "n."
+      },
+      {
+        "definition": "an arrangement (as of events) in order of occurrence",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chronologies",
+      "chronology"
+    ]
+  },
+  "chronometer": {
+    "def": [
+      {
+        "definition": "timepiece; especially : one designed to keep time with great accuracy despite external forces",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "chronometer",
+      "chronometers"
+    ]
+  },
+  "cipher": {
+    "def": [
+      {
+        "definition": "zero",
+        "type": "v."
+      },
+      {
+        "definition": "one that has no weight, worth, or influence : nonentity",
+        "type": "v."
+      },
+      {
+        "definition": "a method of transforming a text in order to conceal its meaning",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cipher",
+      "ciphers",
+      "cypher",
+      "cyphers"
+    ]
+  },
+  "circulate": {
+    "def": [
+      {
+        "definition": "to move in a circle, circuit, or orbit; especially : to follow a course that returns to the starting point",
+        "type": "v."
+      },
+      {
+        "definition": "to pass from person to person or place to place: such as",
+        "type": "v."
+      },
+      {
+        "definition": "to flow without obstruction",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "circulatable",
+      "circulate",
+      "circulated",
+      "circulates",
+      "circulating",
+      "circulative",
+      "circulator",
+      "circulators"
+    ]
+  },
+  "circumference": {
+    "def": [
+      {
+        "definition": "the perimeter of a circle",
+        "type": "n."
+      },
+      {
+        "definition": "the external boundary or surface of a figure or object : periphery",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "circumference",
+      "circumferences",
+      "circumferential"
+    ]
+  },
+  "circumlocution": {
+    "def": [
+      {
+        "definition": "the use of an unnecessarily large number of words to express an idea",
+        "type": "n."
+      },
+      {
+        "definition": "evasion in speech",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "circumlocution",
+      "circumlocutions",
+      "circumlocutory"
+    ]
+  },
+  "circumnavigate": {
+    "def": [
+      {
+        "definition": "to go completely around especially by water",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "circumnavigate",
+      "circumnavigated",
+      "circumnavigates",
+      "circumnavigating",
+      "circumnavigation",
+      "circumnavigations",
+      "circumnavigator",
+      "circumnavigators"
+    ]
+  },
+  "circumscribe": {
+    "def": [
+      {
+        "definition": "to constrict the range or activity of definitely and clearly",
+        "type": "v."
+      },
+      {
+        "definition": "to define or mark off carefully",
+        "type": "v."
+      },
+      {
+        "definition": "to draw a line around",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "circumscribe",
+      "circumscribed",
+      "circumscribes",
+      "circumscribing"
+    ]
+  },
+  "circumspect": {
+    "def": [
+      {
+        "definition": "careful to consider all {a_link|circumstances} and possible consequences",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "circumspect",
+      "circumspection",
+      "circumspections",
+      "circumspectly"
+    ]
+  },
+  "citadel": {
+    "def": [
+      {
+        "definition": "a fortress that commands a city",
+        "type": "n."
+      },
+      {
+        "definition": "stronghold",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "citadel",
+      "citadels"
+    ]
+  },
+  "cite": {
+    "def": [
+      {
+        "definition": "to call upon officially or authoritatively to appear (as before a court)",
+        "type": "v."
+      },
+      {
+        "definition": "to quote by way of example, authority, or proof",
+        "type": "v."
+      },
+      {
+        "definition": "to refer to; especially : to mention formally in commendation or praise",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "citable",
+      "cite",
+      "cited",
+      "cites",
+      "citing"
+    ]
+  },
+  "claimant": {
+    "def": [
+      {
+        "definition": "one that asserts a right or title",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "claimant",
+      "claimants"
+    ]
+  },
+  "clairvoyance": {
+    "def": [
+      {
+        "definition": "the power or faculty of discerning objects not present to the senses",
+        "type": "n."
+      },
+      {
+        "definition": "ability to perceive matters beyond the range of ordinary perception : penetration",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "clairvoyance",
+      "clairvoyances"
+    ]
+  },
+  "clamorous": {
+    "def": [
+      {
+        "definition": "marked by confused din or outcry : tumultuous",
+        "type": "adv."
+      },
+      {
+        "definition": "noisily insistent",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "clamorous",
+      "clamorously",
+      "clamorousness",
+      "clamorousnesses"
+    ]
+  },
+  "clan": {
+    "def": [
+      {
+        "definition": "a Celtic group especially in the Scottish Highlands comprising a number of households whose heads claim descent from a common ancestor",
+        "type": "n."
+      },
+      {
+        "definition": "a group of people tracing descent from a common ancestor : family",
+        "type": "n."
+      },
+      {
+        "definition": "a group united by a common interest or common characteristics",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "clan",
+      "clans"
+    ]
+  },
+  "clandestine": {
+    "def": [
+      {
+        "definition": "marked by, held in, or conducted with",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "clandestine",
+      "clandestinely",
+      "clandestineness",
+      "clandestinenesses",
+      "clandestinities",
+      "clandestinity"
+    ]
+  },
+  "clangor": {
+    "def": [
+      {
+        "definition": "a resounding {a_link|clang} or medley of {a_link|clangs}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "clangor",
+      "clangorous",
+      "clangorously",
+      "clangors"
+    ]
+  },
+  "clarify": {
+    "def": [
+      {
+        "definition": "to make understandable",
+        "type": "v."
+      },
+      {
+        "definition": "to free of confusion",
+        "type": "v."
+      },
+      {
+        "definition": "to make (a liquid or something liquefied) clear or pure usually by freeing from suspended matter",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "clarification",
+      "clarifications",
+      "clarified",
+      "clarifier",
+      "clarifiers",
+      "clarifies",
+      "clarify",
+      "clarifying"
+    ]
+  },
+  "clarion": {
+    "def": [
+      {
+        "definition": "a medieval trumpet with clear shrill tones",
+        "type": "n."
+      },
+      {
+        "definition": "the sound of or as if of a clarion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "clarion",
+      "clarions"
+    ]
+  },
+  "classify": {
+    "def": [
+      {
+        "definition": "to arrange in classes",
+        "type": "v."
+      },
+      {
+        "definition": "to consider (someone or something) as belonging to a particular group",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "classifiable",
+      "classified",
+      "classifies",
+      "classify",
+      "classifying"
+    ]
+  },
+  "clearance": {
+    "def": [
+      {
+        "definition": "an act or process of clearing: such as",
+        "type": "n."
+      },
+      {
+        "definition": "the removal of buildings from an area (such as a city slum)",
+        "type": "n."
+      },
+      {
+        "definition": "the act of clearing a ship at the customhouse; also : the papers showing that a ship has cleared",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "clearance",
+      "clearances",
+      "renal clearance"
+    ]
+  },
+  "clemency": {
+    "def": [
+      {
+        "definition": "disposition to be merciful and especially to moderate the severity of punishment due",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of leniency",
+        "type": "n."
+      },
+      {
+        "definition": "pleasant mildness of weather",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "clemencies",
+      "clemency"
+    ]
+  },
+  "clement": {
+    "def": [
+      {
+        "definition": "inclined to be merciful : lenient",
+        "type": "adv."
+      },
+      {
+        "definition": "mild",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "clement",
+      "clemently"
+    ]
+  },
+  "close-hauled": {
+    "def": [
+      {
+        "definition": "having the sails set for sailing as nearly against the wind as the vessel will go",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "close-hauled"
+    ]
+  },
+  "clothier": {
+    "def": [
+      {
+        "definition": "one who makes or sells {a_link|clothing}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "clothier",
+      "clothiers"
+    ]
+  },
+  "clumsy": {
+    "def": [
+      {
+        "definition": "lacking dexterity, nimbleness, or grace",
+        "type": "adv."
+      },
+      {
+        "definition": "lacking tact or subtlety",
+        "type": "adv."
+      },
+      {
+        "definition": "awkward or inefficient in use or construction : unwieldy",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "clumsier",
+      "clumsiest",
+      "clumsily",
+      "clumsiness",
+      "clumsinesses",
+      "clumsy"
+    ]
+  },
+  "coagulate": {
+    "def": [
+      {
+        "definition": "to cause to become viscous or thickened into a coherent mass : curdle, clot",
+        "type": "v."
+      },
+      {
+        "definition": "to gather together or form into a mass or group",
+        "type": "v."
+      },
+      {
+        "definition": "to become coagulated",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "coagulabilities",
+      "coagulability",
+      "coagulable",
+      "coagulate",
+      "coagulated",
+      "coagulates",
+      "coagulating"
+    ]
+  },
+  "coagulant": {
+    "def": [
+      {
+        "definition": "something that produces {a_link|coagulation}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coagulant",
+      "coagulants"
+    ]
+  },
+  "coalescence": {
+    "def": [
+      {
+        "definition": "to grow together",
+        "type": "v."
+      },
+      {
+        "definition": "to unite into a whole : fuse",
+        "type": "v."
+      },
+      {
+        "definition": "to unite for a common end : join forces",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "coalesce",
+      "coalesced",
+      "coalescence",
+      "coalescences",
+      "coalescent",
+      "coalesces",
+      "coalescing"
+    ]
+  },
+  "coalition": {
+    "def": [
+      {
+        "definition": "the act of coalescing : union",
+        "type": "n."
+      },
+      {
+        "definition": "a body formed by the coalescing of originally distinct elements : combination",
+        "type": "adj."
+      },
+      {
+        "definition": "a temporary alliance of distinct parties, persons, or states for joint action",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coalition",
+      "coalitionist",
+      "coalitionists",
+      "coalitions"
+    ]
+  },
+  "coddle": {
+    "def": [
+      {
+        "definition": "to cook (something, such as eggs) in liquid slowly and gently just below the boiling point",
+        "type": "v."
+      },
+      {
+        "definition": "to treat with extreme or excessive care or kindness : pamper",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "coddle",
+      "coddled",
+      "coddler",
+      "coddlers",
+      "coddles",
+      "coddling"
+    ]
+  },
+  "codicil": {
+    "def": [
+      {
+        "definition": "a legal instrument made to modify an earlier will",
+        "type": "n."
+      },
+      {
+        "definition": "appendix, supplement",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "codicil",
+      "codicillary",
+      "codicils"
+    ]
+  },
+  "coerce": {
+    "def": [
+      {
+        "definition": "to compel to an act or choice",
+        "type": "v."
+      },
+      {
+        "definition": "to achieve by force or threat",
+        "type": "v."
+      },
+      {
+        "definition": "to restrain or dominate by force",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "coerce",
+      "coerced",
+      "coerces",
+      "coercible",
+      "coercing"
+    ]
+  },
+  "coercion": {
+    "def": [
+      {
+        "definition": "the act, process, or power of {a_link|coercing}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coercion",
+      "coercions"
+    ]
+  },
+  "coercive": {
+    "def": [
+      {
+        "definition": "serving or intended to",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "coercive",
+      "coercively",
+      "coerciveness",
+      "coercivenesses"
+    ]
+  },
+  "cogent": {
+    "def": [
+      {
+        "definition": "appealing forcibly to the mind or reason : convincing",
+        "type": "adv."
+      },
+      {
+        "definition": "pertinent, relevant",
+        "type": "adv."
+      },
+      {
+        "definition": "having power to compel or constrain",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "cogent",
+      "cogently"
+    ]
+  },
+  "cognate": {
+    "def": [
+      {
+        "definition": "of the same or similar nature : generically alike",
+        "type": "adv."
+      },
+      {
+        "definition": "related by blood; also : related on the mother's side",
+        "type": "adv."
+      },
+      {
+        "definition": "related by descent from the same ancestral language",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "cognate",
+      "cognately"
+    ]
+  },
+  "cognizant": {
+    "def": [
+      {
+        "definition": "knowledgeable of something especially through personal experience; also : mindful",
+        "type": "n."
+      },
+      {
+        "definition": "having responsibility or jurisdiction",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cognizant"
+    ]
+  },
+  "cohere": {
+    "def": [
+      {
+        "definition": "to hold together firmly as parts of the same mass; broadly : stick, adhere",
+        "type": "v."
+      },
+      {
+        "definition": "to display cohesion of plant parts",
+        "type": "v."
+      },
+      {
+        "definition": "to hold together as a mass of parts that cohere",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cohere",
+      "cohered",
+      "coheres",
+      "cohering"
+    ]
+  },
+  "cohesion": {
+    "def": [
+      {
+        "definition": "the act or state of sticking together tightly; especially : unity",
+        "type": "n."
+      },
+      {
+        "definition": "union between similar plant parts or organs",
+        "type": "n."
+      },
+      {
+        "definition": "molecular attraction by which the particles of a body are united throughout the mass",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cohesion",
+      "cohesionless",
+      "cohesions"
+    ]
+  },
+  "cohesive": {
+    "def": [
+      {
+        "definition": "exhibiting or producing  or",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cohesive",
+      "cohesively",
+      "cohesiveness",
+      "cohesivenesses"
+    ]
+  },
+  "coincide": {
+    "def": [
+      {
+        "definition": "to occupy the same place in space or time",
+        "type": "v."
+      },
+      {
+        "definition": "to occupy exactly corresponding or equivalent positions on a scale or in a series",
+        "type": "v."
+      },
+      {
+        "definition": "to correspond in nature, character, or function",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "coincide",
+      "coincided",
+      "coincides",
+      "coinciding"
+    ]
+  },
+  "coincidence": {
+    "def": [
+      {
+        "definition": "the act or condition of coinciding : correspondence",
+        "type": "n."
+      },
+      {
+        "definition": "the occurrence of events that happen at the same time by accident but seem to have some connection; also : any of these occurrences",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coincidence",
+      "coincidences"
+    ]
+  },
+  "coincident": {
+    "def": [
+      {
+        "definition": "of similar nature : harmonious",
+        "type": "adv."
+      },
+      {
+        "definition": "occupying the same space or time",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "coincident",
+      "coincidently"
+    ]
+  },
+  "collaborate": {
+    "def": [
+      {
+        "definition": "to work jointly with others or together especially in an intellectual endeavor",
+        "type": "v."
+      },
+      {
+        "definition": "to cooperate with or willingly assist an enemy of one's country and especially an occupying force",
+        "type": "v."
+      },
+      {
+        "definition": "to cooperate with an agency or instrumentality with which one is not immediately connected",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "collaborate",
+      "collaborated",
+      "collaborates",
+      "collaborating",
+      "collaboration",
+      "collaborations",
+      "collaborative",
+      "collaboratively",
+      "collaboratives"
+    ]
+  },
+  "collapse": {
+    "def": [
+      {
+        "definition": "to fall or shrink together abruptly and completely : fall into a jumbled or flattened mass through the force of external pressure",
+        "type": "v."
+      },
+      {
+        "definition": "to break down completely : disintegrate",
+        "type": "v."
+      },
+      {
+        "definition": "to cave or fall in or give way",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "collapse",
+      "collapsed",
+      "collapses",
+      "collapsing"
+    ]
+  },
+  "collapsible": {
+    "def": [
+      {
+        "definition": "able to be folded into a more compact shape",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "collapsibilities",
+      "collapsibility",
+      "collapsible"
+    ]
+  },
+  "colleague": {
+    "def": [
+      {
+        "definition": "an associate or coworker in a workplace or profession and often of similar rank or status a fellow worker or professional",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "colleague",
+      "colleagues",
+      "colleagueship",
+      "colleagueships"
+    ]
+  },
+  "collective": {
+    "def": [
+      {
+        "definition": "denoting a number of persons or things considered as one group or whole",
+        "type": "adv."
+      },
+      {
+        "definition": "formed by collecting : aggregated",
+        "type": "adv."
+      },
+      {
+        "definition": "multiple",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "collective",
+      "collectively"
+    ]
+  },
+  "collector": {
+    "def": [
+      {
+        "definition": "one that collects: such as",
+        "type": "n."
+      },
+      {
+        "definition": "an official who collects funds or moneys",
+        "type": "n."
+      },
+      {
+        "definition": "a person who makes a collection",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "collector",
+      "collectors",
+      "collectorship",
+      "collectorships"
+    ]
+  },
+  "collegian": {
+    "def": [
+      {
+        "definition": "a student or recent graduate of a {a_link|college}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "collegian",
+      "collegians"
+    ]
+  },
+  "collide": {
+    "def": [
+      {
+        "definition": "to come together with solid or direct impact",
+        "type": "v."
+      },
+      {
+        "definition": "clash",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "collide",
+      "collided",
+      "collides",
+      "colliding"
+    ]
+  },
+  "collier": {
+    "def": [
+      {
+        "definition": "one that produces charcoal",
+        "type": "n."
+      },
+      {
+        "definition": "a coal miner",
+        "type": "n."
+      },
+      {
+        "definition": "a ship for transporting coal",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "collier",
+      "colliers"
+    ]
+  },
+  "collision": {
+    "def": [
+      {
+        "definition": "an act or instance of colliding : clash",
+        "type": "adv."
+      },
+      {
+        "definition": "an encounter between particles (such as atoms or molecules) resulting in exchange or transformation of energy",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "collision",
+      "collisional",
+      "collisionally",
+      "collisions"
+    ]
+  },
+  "colloquial": {
+    "def": [
+      {
+        "definition": "used in or characteristic of familiar and informal conversation; also : unacceptably informal",
+        "type": "adv."
+      },
+      {
+        "definition": "using or characterized by conversational style",
+        "type": "adv."
+      },
+      {
+        "definition": "of or relating to conversation : conversational",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "colloquial",
+      "colloquialities",
+      "colloquiality",
+      "colloquially",
+      "colloquials"
+    ]
+  },
+  "colloquialism": {
+    "def": [
+      {
+        "definition": "a colloquial expression",
+        "type": "n."
+      },
+      {
+        "definition": "a local or regional dialect expression",
+        "type": "n."
+      },
+      {
+        "definition": "colloquial style",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "colloquialism",
+      "colloquialisms"
+    ]
+  },
+  "colloquy": {
+    "def": [
+      {
+        "definition": "conversation, dialogue",
+        "type": "n."
+      },
+      {
+        "definition": "a high-level serious discussion : conference",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "colloquies",
+      "colloquy"
+    ]
+  },
+  "collusion": {
+    "def": [
+      {
+        "definition": "secret agreement or cooperation especially for an illegal or deceitful purpose",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "collusion",
+      "collusions",
+      "collusive",
+      "collusively"
+    ]
+  },
+  "colossus": {
+    "def": [
+      {
+        "definition": "a statue of gigantic size and proportions",
+        "type": "n."
+      },
+      {
+        "definition": "a person or thing of immense size or power",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "colossi",
+      "colossus",
+      "colossuses"
+    ]
+  },
+  "comely": {
+    "def": [
+      {
+        "definition": "pleasurably conforming to notions of good appearance, suitability, or proportion",
+        "type": "adv."
+      },
+      {
+        "definition": "having a pleasing appearance : not homely or plain",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "comelier",
+      "comeliest",
+      "comeliness",
+      "comelinesses",
+      "comely"
+    ]
+  },
+  "comestible": {
+    "def": [
+      {
+        "definition": "edible",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "comestible"
+    ]
+  },
+  "comical": {
+    "def": [
+      {
+        "definition": "of or relating to comedy",
+        "type": "adv."
+      },
+      {
+        "definition": "causing laughter especially because of a startlingly or unexpectedly humorous impact",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "comical",
+      "comicalities",
+      "comicality",
+      "comically"
+    ]
+  },
+  "commemorate": {
+    "def": [
+      {
+        "definition": "to call to remembrance",
+        "type": "v."
+      },
+      {
+        "definition": "to mark by some ceremony or observation : observe",
+        "type": "v."
+      },
+      {
+        "definition": "to serve as a memorial of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "commemorate",
+      "commemorated",
+      "commemorates",
+      "commemorating",
+      "commemorator",
+      "commemorators"
+    ]
+  },
+  "commentary": {
+    "def": [
+      {
+        "definition": "an explanatory treatise —usually used in plural",
+        "type": "n."
+      },
+      {
+        "definition": "a record of events usually written by a participant —usually used in plural",
+        "type": "n."
+      },
+      {
+        "definition": "a systematic series of explanations or interpretations (as of a writing)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "commentaries",
+      "commentary"
+    ]
+  },
+  "commingle": {
+    "def": [
+      {
+        "definition": "to blend thoroughly into a harmonious whole",
+        "type": "v."
+      },
+      {
+        "definition": "to combine (funds or properties) into a common fund or stock",
+        "type": "v."
+      },
+      {
+        "definition": "to become commingled",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "commingle",
+      "commingled",
+      "commingles",
+      "commingling"
+    ]
+  },
+  "commissariat": {
+    "def": [
+      {
+        "definition": "a system for supplying an army with food",
+        "type": "n."
+      },
+      {
+        "definition": "food supplies",
+        "type": "n."
+      },
+      {
+        "definition": "a government department in the Soviet Union until 1946",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "commissariat",
+      "commissariats"
+    ]
+  },
+  "commission": {
+    "def": [
+      {
+        "definition": "a formal written warrant granting the power to perform various acts or duties",
+        "type": "v."
+      },
+      {
+        "definition": "a certificate conferring military rank and authority; also : the rank and authority so conferred",
+        "type": "v."
+      },
+      {
+        "definition": "an authorization or command to act in a prescribed manner or to perform prescribed acts : charge",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "commission",
+      "commissions"
+    ]
+  },
+  "commitment": {
+    "def": [
+      {
+        "definition": "an agreement or pledge to do something in the future; especially : an engagement to assume a financial obligation at a future date",
+        "type": "n."
+      },
+      {
+        "definition": "something pledged",
+        "type": "n."
+      },
+      {
+        "definition": "a promise to be loyal to someone or something; specifically : the state of being in a serious usually long-term and monogamous emotional relationship",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "commitment",
+      "commitments"
+    ]
+  },
+  "committal": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "committal",
+      "committals"
+    ]
+  },
+  "commodity": {
+    "def": [
+      {
+        "definition": "an economic good: such as",
+        "type": "n."
+      },
+      {
+        "definition": "a product of agriculture or mining",
+        "type": "n."
+      },
+      {
+        "definition": "an article of commerce especially when delivered for shipment",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "commodities",
+      "commodity"
+    ]
+  },
+  "commotion": {
+    "def": [
+      {
+        "definition": "a condition of civil unrest or insurrection",
+        "type": "n."
+      },
+      {
+        "definition": "steady or recurrent motion",
+        "type": "n."
+      },
+      {
+        "definition": "mental excitement or confusion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "commotion",
+      "commotions"
+    ]
+  },
+  "commute": {
+    "def": [
+      {
+        "definition": "change, alter",
+        "type": "v."
+      },
+      {
+        "definition": "to give in exchange for another : exchange",
+        "type": "v."
+      },
+      {
+        "definition": "to convert (something, such as a payment) into another form",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "commutable",
+      "commute",
+      "commuted",
+      "commutes",
+      "commuting"
+    ]
+  },
+  "comparable": {
+    "def": [
+      {
+        "definition": "capable of or suitable for comparison",
+        "type": "adj."
+      },
+      {
+        "definition": "similar, like",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "comparable",
+      "comparableness",
+      "comparablenesses"
+    ]
+  },
+  "comparative": {
+    "def": [
+      {
+        "definition": "of, relating to, or constituting the degree of comparison in a language that denotes increase in the quality, quantity, or relation expressed by an adjective or adverb",
+        "type": "adv."
+      },
+      {
+        "definition": "considered as if in comparison to something else as a standard not quite attained : relative",
+        "type": "adv."
+      },
+      {
+        "definition": "characterized by systematic comparison especially of likenesses and dissimilarities",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "comparative",
+      "comparatively",
+      "comparativeness",
+      "comparativenesses"
+    ]
+  },
+  "comparison": {
+    "def": [
+      {
+        "definition": "the act or process of comparing: such as",
+        "type": "n."
+      },
+      {
+        "definition": "the representing of one thing or person as similar to or like another",
+        "type": "n."
+      },
+      {
+        "definition": "an examination of two or more items to establish similarities and dissimilarities",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "comparison",
+      "comparisons"
+    ]
+  },
+  "compensate": {
+    "def": [
+      {
+        "definition": "to be equivalent to : counterbalance",
+        "type": "v."
+      },
+      {
+        "definition": "to make an appropriate and usually counterbalancing payment to",
+        "type": "v."
+      },
+      {
+        "definition": "to provide with means of counteracting variation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "compensate",
+      "compensated",
+      "compensates",
+      "compensating",
+      "compensative",
+      "compensator",
+      "compensators",
+      "compensatory"
+    ]
+  },
+  "competence": {
+    "def": [
+      {
+        "definition": "the quality or state of being competent: such as",
+        "type": "adj."
+      },
+      {
+        "definition": "the quality or state of having sufficient knowledge, judgment, skill, or strength (as for a particular duty or in a particular respect)",
+        "type": "adj."
+      },
+      {
+        "definition": "legal authority, ability, or admissibility",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "competence",
+      "competences"
+    ]
+  },
+  "competent": {
+    "def": [
+      {
+        "definition": "proper or rightly pertinent",
+        "type": "adv."
+      },
+      {
+        "definition": "having requisite or adequate ability or qualities : fit",
+        "type": "adv."
+      },
+      {
+        "definition": "legally qualified or adequate",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "competent",
+      "competently"
+    ]
+  },
+  "competitive": {
+    "def": [
+      {
+        "definition": "relating to, characterized by, or based on competition",
+        "type": "adv."
+      },
+      {
+        "definition": "inclined, desiring, or suited to compete",
+        "type": "adv."
+      },
+      {
+        "definition": "depending for effectiveness on the relative concentration of two or more substances",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "competitive",
+      "competitively",
+      "competitiveness",
+      "competitivenesses"
+    ]
+  },
+  "competitor": {
+    "def": [
+      {
+        "definition": "one that competes: such as",
+        "type": "n."
+      },
+      {
+        "definition": "rival",
+        "type": "n."
+      },
+      {
+        "definition": "one selling or buying goods or services in the same market as another",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "competitor",
+      "competitors"
+    ]
+  },
+  "complacence": {
+    "def": [
+      {
+        "definition": "calm or secure satisfaction with oneself or one's lot : self-satisfaction",
+        "type": "n."
+      },
+      {
+        "definition": "complaisance",
+        "type": "n."
+      },
+      {
+        "definition": "unconcern",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "complacence",
+      "complacences"
+    ]
+  },
+  "complacent": {
+    "def": [
+      {
+        "definition": "marked by satisfaction with the status quo especially when accompanied by unawareness of actual dangers or deficiencies : marked by complacency",
+        "type": "adv."
+      },
+      {
+        "definition": "self-satisfied",
+        "type": "adv."
+      },
+      {
+        "definition": "unconcerned",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "complacent",
+      "complacently"
+    ]
+  },
+  "complaisance": {
+    "def": [
+      {
+        "definition": "disposition to please or {a_link|comply}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "complaisance",
+      "complaisances"
+    ]
+  },
+  "complaisant": {
+    "def": [
+      {
+        "definition": "marked by an inclination to please or oblige",
+        "type": "adv."
+      },
+      {
+        "definition": "tending to consent to others' wishes",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "complaisant",
+      "complaisantly"
+    ]
+  },
+  "complement": {
+    "def": [
+      {
+        "definition": "something that fills up, completes, or makes better or perfect",
+        "type": "v."
+      },
+      {
+        "definition": "the full quantity, number, or assortment needed or included",
+        "type": "v."
+      },
+      {
+        "definition": "the whole force or personnel of a ship",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "complement",
+      "complements"
+    ]
+  },
+  "complex": {
+    "def": [
+      {
+        "definition": "a whole made up of complicated or interrelated parts",
+        "type": "adj."
+      },
+      {
+        "definition": "a group of culture traits relating to a single activity (such as hunting), process (such as use of flint), or culture unit",
+        "type": "adj."
+      },
+      {
+        "definition": "a group of repressed desires and memories that exerts a dominating influence upon the personality",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "complex",
+      "complexes"
+    ]
+  },
+  "compliant": {
+    "def": [
+      {
+        "definition": "ready or disposed to comply : submissive",
+        "type": "adv."
+      },
+      {
+        "definition": "conforming to requirements",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "compliant",
+      "compliantly"
+    ]
+  },
+  "complicate": {
+    "def": [
+      {
+        "definition": "to make complex or difficult",
+        "type": "v."
+      },
+      {
+        "definition": "involve; especially : to cause to be more complex or severe",
+        "type": "v."
+      },
+      {
+        "definition": "to combine especially in an involved or inextricable manner",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "complicate",
+      "complicated",
+      "complicates",
+      "complicating"
+    ]
+  },
+  "complication": {
+    "def": [
+      {
+        "definition": "complexity, intricacy; especially : a situation or a detail of character complicating the main thread of a plot",
+        "type": "n."
+      },
+      {
+        "definition": "a making difficult, involved, or intricate",
+        "type": "n."
+      },
+      {
+        "definition": "a complex or intricate feature or element",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "complication",
+      "complications"
+    ]
+  },
+  "complicity": {
+    "def": [
+      {
+        "definition": "association or participation in or as if in a wrongful act",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of complicity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "complicities",
+      "complicity"
+    ]
+  },
+  "compliment": {
+    "def": [
+      {
+        "definition": "an expression of esteem, respect, affection, or admiration; especially : an admiring remark",
+        "type": "v."
+      },
+      {
+        "definition": "formal and respectful recognition : honor",
+        "type": "v."
+      },
+      {
+        "definition": "best wishes : regards",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "compliment",
+      "compliments",
+      "compliments of"
+    ]
+  },
+  "component": {
+    "def": [
+      {
+        "definition": "a constituent part : ingredient",
+        "type": "n."
+      },
+      {
+        "definition": "any one of the vector terms added to form a vector sum or resultant",
+        "type": "n."
+      },
+      {
+        "definition": "a coordinate of a vector; also : either member of an ordered pair of numbers",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "component",
+      "componential",
+      "components"
+    ]
+  },
+  "comport": {
+    "def": [
+      {
+        "definition": "to be fitting : accord",
+        "type": "v."
+      },
+      {
+        "definition": "behave; especially : to behave in a manner conformable to what is right, proper, or expected",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "comport",
+      "comported",
+      "comporting",
+      "comportment",
+      "comportments",
+      "comports"
+    ]
+  },
+  "composure": {
+    "def": [
+      {
+        "definition": "a calmness or repose especially of mind, bearing, or appearance",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "composure",
+      "composures"
+    ]
+  },
+  "comprehensible": {
+    "def": [
+      {
+        "definition": "capable of being",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "comprehensibilities",
+      "comprehensibility",
+      "comprehensible",
+      "comprehensibleness",
+      "comprehensiblenesses",
+      "comprehensibly"
+    ]
+  },
+  "comprehension": {
+    "def": [
+      {
+        "definition": "the act or action of grasping with the intellect : understanding",
+        "type": "n."
+      },
+      {
+        "definition": "knowledge gained by comprehending",
+        "type": "n."
+      },
+      {
+        "definition": "the capacity for understanding fully",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "comprehension",
+      "comprehensions"
+    ]
+  },
+  "comprehensive": {
+    "def": [
+      {
+        "definition": "covering completely or broadly : inclusive",
+        "type": "adv."
+      },
+      {
+        "definition": "having or exhibiting wide mental grasp",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "comprehensive",
+      "comprehensively",
+      "comprehensiveness",
+      "comprehensivenesses"
+    ]
+  },
+  "compress": {
+    "def": [
+      {
+        "definition": "to press or squeeze together",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce in size, quantity, or volume as if by squeezing",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo compression",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "compress",
+      "compressed",
+      "compresses",
+      "compressing"
+    ]
+  },
+  "compressible": {
+    "def": [
+      {
+        "definition": "capable of being {a_link|compressed}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "compressible"
+    ]
+  },
+  "compression": {
+    "def": [
+      {
+        "definition": "the act, process, or result of compressing",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being compressed",
+        "type": "adj."
+      },
+      {
+        "definition": "the process of compressing the fuel mixture in a cylinder of an internal combustion engine (as in an automobile)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "compression",
+      "compressional",
+      "compressions"
+    ]
+  },
+  "comprise": {
+    "def": [
+      {
+        "definition": "to be made up of",
+        "type": "v."
+      },
+      {
+        "definition": "to make up or form : compose, constitute",
+        "type": "v."
+      },
+      {
+        "definition": "to include especially within a particular scope",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "comprise",
+      "comprised",
+      "comprises",
+      "comprising"
+    ]
+  },
+  "compulsion": {
+    "def": [
+      {
+        "definition": "an act of compelling : the state of being compelled",
+        "type": "adj."
+      },
+      {
+        "definition": "a force that compels",
+        "type": "n."
+      },
+      {
+        "definition": "an irresistible persistent impulse to perform an act (such as excessive hand washing); also : the act itself",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "compulsion",
+      "compulsions"
+    ]
+  },
+  "compulsory": {
+    "def": [
+      {
+        "definition": "mandatory, enforced",
+        "type": "adv."
+      },
+      {
+        "definition": "coercive, compelling",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "compulsorily",
+      "compulsory"
+    ]
+  },
+  "compunction": {
+    "def": [
+      {
+        "definition": "anxiety arising from awareness of guilt",
+        "type": "n."
+      },
+      {
+        "definition": "distress of mind over an anticipated action or result",
+        "type": "n."
+      },
+      {
+        "definition": "a twinge of misgiving : scruple",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "compunction",
+      "compunctions",
+      "compunctious"
+    ]
+  },
+  "compute": {
+    "def": [
+      {
+        "definition": "to determine especially by mathematical means; also : to determine or calculate by means of a computer",
+        "type": "v."
+      },
+      {
+        "definition": "to make calculation : reckon",
+        "type": "v."
+      },
+      {
+        "definition": "to use a computer",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "compute",
+      "computed",
+      "computes",
+      "computing"
+    ]
+  },
+  "concede": {
+    "def": [
+      {
+        "definition": "to acknowledge grudgingly or hesitantly",
+        "type": "v."
+      },
+      {
+        "definition": "to relinquish grudgingly or hesitantly",
+        "type": "v."
+      },
+      {
+        "definition": "to accept as true, valid, or accurate",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "concede",
+      "conceded",
+      "concededly",
+      "conceder",
+      "conceders",
+      "concedes",
+      "conceding"
+    ]
+  },
+  "conceit": {
+    "def": [
+      {
+        "definition": "favorable opinion; especially : excessive appreciation of one's own worth or virtue",
+        "type": "n."
+      },
+      {
+        "definition": "a result of mental activity : thought",
+        "type": "n."
+      },
+      {
+        "definition": "individual opinion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conceit",
+      "conceits"
+    ]
+  },
+  "conceive": {
+    "def": [
+      {
+        "definition": "to become pregnant with (young)",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to begin : originate",
+        "type": "v."
+      },
+      {
+        "definition": "to take into one's mind",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conceive",
+      "conceived",
+      "conceiver",
+      "conceivers",
+      "conceives",
+      "conceiving"
+    ]
+  },
+  "concerto": {
+    "def": [
+      {
+        "definition": "a piece for one or more soloists and orchestra with three contrasting movements",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "concerti",
+      "concerto",
+      "concertos"
+    ]
+  },
+  "concession": {
+    "def": [
+      {
+        "definition": "the act or an instance of conceding (as by granting something as a right, accepting something as true, or acknowledging defeat)",
+        "type": "n."
+      },
+      {
+        "definition": "the admitting of a point claimed in argument",
+        "type": "n."
+      },
+      {
+        "definition": "something conceded or granted:",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "concession",
+      "concession stand",
+      "concession stands",
+      "concessional",
+      "concessionary",
+      "concessions"
+    ]
+  },
+  "conciliate": {
+    "def": [
+      {
+        "definition": "appease",
+        "type": "v."
+      },
+      {
+        "definition": "to gain (something, such as goodwill) by pleasing acts",
+        "type": "v."
+      },
+      {
+        "definition": "to make compatible : reconcile",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conciliate",
+      "conciliated",
+      "conciliates",
+      "conciliating",
+      "conciliation",
+      "conciliations",
+      "conciliative",
+      "conciliator",
+      "conciliators"
+    ]
+  },
+  "conciliatory": {
+    "def": [
+      {
+        "definition": "intended to gain goodwill or favor or to reduce hostility tending or intended to",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "conciliatory"
+    ]
+  },
+  "conclusive": {
+    "def": [
+      {
+        "definition": "of, relating to, or being a conclusion",
+        "type": "adv."
+      },
+      {
+        "definition": "putting an end to debate or question especially by reason of irrefutability",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conclusive",
+      "conclusively",
+      "conclusiveness",
+      "conclusivenesses"
+    ]
+  },
+  "concord": {
+    "def": [
+      {
+        "definition": "a state of agreement : harmony",
+        "type": "n."
+      },
+      {
+        "definition": "a simultaneous occurrence of two or more musical tones that produces an impression of agreeableness or resolution on a listener",
+        "type": "n."
+      },
+      {
+        "definition": "agreement by stipulation, compact, or covenant",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "concord",
+      "concords"
+    ]
+  },
+  "concordance": {
+    "def": [
+      {
+        "definition": "an alphabetical index of the principal words in a book or the works of an author with their immediate contexts",
+        "type": "n."
+      },
+      {
+        "definition": "concord, agreement",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "concordance",
+      "concordances"
+    ]
+  },
+  "concur": {
+    "def": [
+      {
+        "definition": "to agree with someone or something",
+        "type": "v."
+      },
+      {
+        "definition": "to join in the decision of an appellate court",
+        "type": "v."
+      },
+      {
+        "definition": "to agree with the action of another house of a legislature",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "concur",
+      "concurred",
+      "concurring",
+      "concurs"
+    ]
+  },
+  "concurrence": {
+    "def": [
+      {
+        "definition": "agreement or union in action : cooperation",
+        "type": "n."
+      },
+      {
+        "definition": "agreement in opinion or design",
+        "type": "n."
+      },
+      {
+        "definition": "a judge's or justice's agreement with the judgment of a court; especially : a separate opinion by a judge or justice that differs in reasoning but agrees in the decision of the court —called also concurring opinion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "concurrence",
+      "concurrences"
+    ]
+  },
+  "concurrent": {
+    "def": [
+      {
+        "definition": "operating or occurring at the same time",
+        "type": "adv."
+      },
+      {
+        "definition": "running parallel",
+        "type": "adv."
+      },
+      {
+        "definition": "convergent; specifically : meeting or intersecting in a point",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "concurrent",
+      "concurrently",
+      "concurrents"
+    ]
+  },
+  "concussion": {
+    "def": [
+      {
+        "definition": "a stunning, damaging, or shattering effect from a hard blow; especially : a jarring injury of the brain resulting in disturbance of cerebral function",
+        "type": "n."
+      },
+      {
+        "definition": "a hard blow or collision",
+        "type": "n."
+      },
+      {
+        "definition": "agitation, shaking",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "concussion",
+      "concussions",
+      "concussive"
+    ]
+  },
+  "condensation": {
+    "def": [
+      {
+        "definition": "the act or process of condensing: such as",
+        "type": "n."
+      },
+      {
+        "definition": "a chemical reaction involving union between molecules often with elimination of a simple molecule (such as water) to form a new more complex compound of often greater molecular weight",
+        "type": "n."
+      },
+      {
+        "definition": "the conversion of a substance (such as water) from the vapor state to a denser liquid or solid state usually initiated by a reduction in temperature of the vapor",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "condensation",
+      "condensational",
+      "condensations"
+    ]
+  },
+  "condense": {
+    "def": [
+      {
+        "definition": "to make denser or more compact; especially : to subject to condensation",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo condensation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "condensable",
+      "condense",
+      "condensed",
+      "condenses",
+      "condensible",
+      "condensing"
+    ]
+  },
+  "condescend": {
+    "def": [
+      {
+        "definition": "to assume an air of superiority",
+        "type": "v."
+      },
+      {
+        "definition": "to descend to a less formal or dignified level : unbend",
+        "type": "v."
+      },
+      {
+        "definition": "to waive the privileges of rank",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "condescend",
+      "condescended",
+      "condescending",
+      "condescends"
+    ]
+  },
+  "condolence": {
+    "def": [
+      {
+        "definition": "sympathy with another in sorrow",
+        "type": "n."
+      },
+      {
+        "definition": "an expression of sympathy —usually plural",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "condolence",
+      "condolences"
+    ]
+  },
+  "conduce": {
+    "def": [
+      {
+        "definition": "to lead or tend to a particular and often desirable result",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conduce",
+      "conduced",
+      "conduces",
+      "conducing"
+    ]
+  },
+  "conducive": {
+    "def": [
+      {
+        "definition": "tending to  or assist",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "conducive",
+      "conduciveness",
+      "conducivenesses"
+    ]
+  },
+  "conductible": {
+    "def": [
+      {
+        "definition": "to direct or take part in the operation or management of",
+        "type": "v."
+      },
+      {
+        "definition": "to direct the performance of",
+        "type": "v."
+      },
+      {
+        "definition": "to lead from a position of command",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conduct",
+      "conducted",
+      "conductibilities",
+      "conductibility",
+      "conductible",
+      "conducting",
+      "conducts"
+    ]
+  },
+  "conduit": {
+    "def": [
+      {
+        "definition": "a natural or artificial channel through which something (such as a fluid) is conveyed",
+        "type": "n."
+      },
+      {
+        "definition": "a pipe, tube, or tile for protecting electric wires or cables",
+        "type": "n."
+      },
+      {
+        "definition": "a means of transmitting or distributing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conduit",
+      "conduits"
+    ]
+  },
+  "confectionery": {
+    "def": [
+      {
+        "definition": "the confectioner's art or business",
+        "type": "n."
+      },
+      {
+        "definition": "sweet foods (such as candy or pastry)",
+        "type": "n."
+      },
+      {
+        "definition": "a confectioner's shop",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "confectioneries",
+      "confectionery"
+    ]
+  },
+  "confederacy": {
+    "def": [
+      {
+        "definition": "a group of people, countries, organizations, etc. joined together for a common purpose or by a common interest : league, alliance; also : a group of people working together for unlawful purposes : conspiracy",
+        "type": "n."
+      },
+      {
+        "definition": "an entity formed by a confederacy of nations, states, etc.",
+        "type": "adj."
+      },
+      {
+        "definition": "the 11 southern states of the United States (Alabama, Florida, Georgia, Louisiana, Mississippi, South Carolina, Texas, and later also the states of Arkansas, North Carolina, Tennessee, and Virginia) during their secession from the United States between 1860 and 1865",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "confederacies",
+      "confederacy",
+      "the Confederacy"
+    ]
+  },
+  "confederate": {
+    "def": [
+      {
+        "definition": "united in a league : allied",
+        "type": "n."
+      },
+      {
+        "definition": "of or relating to the Confederate States of America",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Confederate",
+      "Confederates",
+      "confederate"
+    ]
+  },
+  "confer": {
+    "def": [
+      {
+        "definition": "to compare views or take counsel : consult",
+        "type": "v."
+      },
+      {
+        "definition": "to bestow from or as if from a position of superiority",
+        "type": "v."
+      },
+      {
+        "definition": "to give (something, such as a property or characteristic) to someone or something",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "confer",
+      "conferment",
+      "conferments",
+      "conferrable",
+      "conferral",
+      "conferrals",
+      "conferred",
+      "conferrer",
+      "conferrers",
+      "conferring",
+      "confers"
+    ]
+  },
+  "conferee": {
+    "def": [
+      {
+        "definition": "one taking part in a {a_link|conference}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conferee",
+      "conferees"
+    ]
+  },
+  "confessor": {
+    "def": [
+      {
+        "definition": "one who gives heroic evidence of faith but does not suffer martyrdom",
+        "type": "n."
+      },
+      {
+        "definition": "one that confesses",
+        "type": "n."
+      },
+      {
+        "definition": "a priest who hears confessions",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "confessor",
+      "confessors"
+    ]
+  },
+  "confidant": {
+    "def": [
+      {
+        "definition": "one to whom secrets are entrusted",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "confidant",
+      "confidants"
+    ]
+  },
+  "confide": {
+    "def": [
+      {
+        "definition": "to have confidence : trust",
+        "type": "v."
+      },
+      {
+        "definition": "to show confidence by imparting secrets",
+        "type": "v."
+      },
+      {
+        "definition": "to tell confidentially",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "confide",
+      "confided",
+      "confider",
+      "confiders",
+      "confides",
+      "confiding"
+    ]
+  },
+  "confidence": {
+    "def": [
+      {
+        "definition": "a feeling or consciousness of one's powers or of reliance on one's circumstances",
+        "type": "n."
+      },
+      {
+        "definition": "faith or belief that one will act in a right, proper, or effective way",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being certain : certitude",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "confidence",
+      "confidences",
+      "took into my confidence"
+    ]
+  },
+  "confident": {
+    "def": [
+      {
+        "definition": "full of conviction : certain",
+        "type": "adv."
+      },
+      {
+        "definition": "having or showing assurance and self-reliance",
+        "type": "adv."
+      },
+      {
+        "definition": "trustful, confiding",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "confident",
+      "confidently"
+    ]
+  },
+  "confinement": {
+    "def": [
+      {
+        "definition": "an act of confining : the state of being confined",
+        "type": "adj."
+      },
+      {
+        "definition": "lying-in",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "confinement",
+      "confinements"
+    ]
+  },
+  "confiscate": {
+    "def": [
+      {
+        "definition": "appropriated by the government : forfeited",
+        "type": "v."
+      },
+      {
+        "definition": "deprived of property by confiscation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "confiscate"
+    ]
+  },
+  "conflagration": {
+    "def": [
+      {
+        "definition": "fire; especially : a large disastrous fire",
+        "type": "n."
+      },
+      {
+        "definition": "conflict, war",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conflagration",
+      "conflagrations"
+    ]
+  },
+  "confluence": {
+    "def": [
+      {
+        "definition": "a coming or flowing together, meeting, or gathering at one point",
+        "type": "n."
+      },
+      {
+        "definition": "the flowing together of two or more streams",
+        "type": "n."
+      },
+      {
+        "definition": "the place of meeting of two streams",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "confluence",
+      "confluences",
+      "confluencies",
+      "confluency"
+    ]
+  },
+  "confluent": {
+    "def": [
+      {
+        "definition": "marked by or exhibiting confluence: such as",
+        "type": "adj."
+      },
+      {
+        "definition": "flowing or coming together",
+        "type": "n."
+      },
+      {
+        "definition": "having run or grown together and so no longer discrete",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "confluent"
+    ]
+  },
+  "conformance": {
+    "def": [
+      {
+        "definition": "conformity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conformance",
+      "conformances"
+    ]
+  },
+  "conformable": {
+    "def": [
+      {
+        "definition": "corresponding or consistent in form or character",
+        "type": "adv."
+      },
+      {
+        "definition": "submissive, compliant",
+        "type": "adv."
+      },
+      {
+        "definition": "following in unbroken sequence —used of geologic strata formed under uniform conditions",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conformable",
+      "conformably"
+    ]
+  },
+  "conformation": {
+    "def": [
+      {
+        "definition": "the act of conforming or producing conformity : adaptation",
+        "type": "n."
+      },
+      {
+        "definition": "formation of something by appropriate arrangement of parts or elements : an assembling into a whole",
+        "type": "n."
+      },
+      {
+        "definition": "correspondence especially to a model or plan",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conformation",
+      "conformational",
+      "conformations"
+    ]
+  },
+  "conformity": {
+    "def": [
+      {
+        "definition": "correspondence in form, manner, or character : agreement",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of conforming",
+        "type": "n."
+      },
+      {
+        "definition": "action in accordance with some specified standard or authority",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conformities",
+      "conformity"
+    ]
+  },
+  "confront": {
+    "def": [
+      {
+        "definition": "to face especially in challenge : oppose",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to meet : bring face-to-face",
+        "type": "v."
+      },
+      {
+        "definition": "to meet face-to-face : encounter",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "confront",
+      "confrontal",
+      "confrontals",
+      "confronted",
+      "confronter",
+      "confronters",
+      "confronting",
+      "confronts"
+    ]
+  },
+  "congeal": {
+    "def": [
+      {
+        "definition": "to change from a fluid to a solid state by or as if by cold",
+        "type": "v."
+      },
+      {
+        "definition": "to make viscid or curdled : coagulate",
+        "type": "v."
+      },
+      {
+        "definition": "to make rigid, fixed, or immobile",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "congeal",
+      "congealed",
+      "congealing",
+      "congealment",
+      "congealments",
+      "congeals"
+    ]
+  },
+  "congenial": {
+    "def": [
+      {
+        "definition": "pleasant; especially : agreeably suited to one's nature, tastes, or outlook",
+        "type": "adv."
+      },
+      {
+        "definition": "sociable, genial",
+        "type": "adv."
+      },
+      {
+        "definition": "existing or associated together harmoniously",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "congenial",
+      "congenially"
+    ]
+  },
+  "congest": {
+    "def": [
+      {
+        "definition": "to concentrate in a small or narrow space",
+        "type": "v."
+      },
+      {
+        "definition": "to cause an excessive accumulation especially of blood or mucus in (such as an organ or part)",
+        "type": "v."
+      },
+      {
+        "definition": "clog",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "congest",
+      "congested",
+      "congesting",
+      "congestion",
+      "congestions",
+      "congestive",
+      "congests"
+    ]
+  },
+  "congregate": {
+    "def": [
+      {
+        "definition": "to collect into a group or crowd : assemble",
+        "type": "v."
+      },
+      {
+        "definition": "to come together into a group, crowd, or assembly",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "congregate",
+      "congregated",
+      "congregates",
+      "congregating",
+      "congregator",
+      "congregators"
+    ]
+  },
+  "coniferous": {
+    "def": [
+      {
+        "definition": "any of an order (Coniferales) of mostly evergreen trees and shrubs having usually needle-shaped or scalelike leaves and including forms (such as pines) with true cones and others (such as yews) with an arillate fruit",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conifer",
+      "coniferous",
+      "conifers"
+    ]
+  },
+  "conjecture": {
+    "def": [
+      {
+        "definition": "inference formed without proof or sufficient evidence",
+        "type": "n."
+      },
+      {
+        "definition": "a conclusion deduced by surmise or guesswork",
+        "type": "n."
+      },
+      {
+        "definition": "a proposition (as in mathematics) before it has been proved or disproved",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conjecture",
+      "conjectures"
+    ]
+  },
+  "conjoin": {
+    "def": [
+      {
+        "definition": "to join together (things, such as separate entities) for a common purpose",
+        "type": "v."
+      },
+      {
+        "definition": "to join together for a common purpose",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conjoin",
+      "conjoined",
+      "conjoining",
+      "conjoins"
+    ]
+  },
+  "conjugal": {
+    "def": [
+      {
+        "definition": "of or relating to the married state or to married persons and their relations",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "conjugal",
+      "conjugalities",
+      "conjugality",
+      "conjugally"
+    ]
+  },
+  "conjugate": {
+    "def": [
+      {
+        "definition": "joined together especially in pairs : coupled",
+        "type": "adv."
+      },
+      {
+        "definition": "acting or operating as if joined",
+        "type": "adv."
+      },
+      {
+        "definition": "having features in common but opposite or inverse in some particular",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conjugate",
+      "conjugately",
+      "conjugateness",
+      "conjugatenesses"
+    ]
+  },
+  "conjugation": {
+    "def": [
+      {
+        "definition": "a schematic arrangement of the inflectional forms of a verb",
+        "type": "adv."
+      },
+      {
+        "definition": "verb inflection",
+        "type": "adv."
+      },
+      {
+        "definition": "a class of verbs having the same type of inflectional forms",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conjugation",
+      "conjugational",
+      "conjugationally",
+      "conjugations"
+    ]
+  },
+  "conjunction": {
+    "def": [
+      {
+        "definition": "an uninflected linguistic form that joins together sentences, clauses, phrases, or words",
+        "type": "adv."
+      },
+      {
+        "definition": "the act or an instance of conjoining : the state of being conjoined : combination",
+        "type": "adv."
+      },
+      {
+        "definition": "occurrence together in time or space : concurrence",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conjunction",
+      "conjunctional",
+      "conjunctionally",
+      "conjunctions"
+    ]
+  },
+  "connive": {
+    "def": [
+      {
+        "definition": "to pretend ignorance of or fail to take action against something one ought to oppose",
+        "type": "v."
+      },
+      {
+        "definition": "to be indulgent or in secret sympathy : wink",
+        "type": "v."
+      },
+      {
+        "definition": "to cooperate secretly or have a secret understanding",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "connive",
+      "connived",
+      "conniver",
+      "connivers",
+      "connives",
+      "conniving"
+    ]
+  },
+  "connoisseur": {
+    "def": [
+      {
+        "definition": "expert; especially : one who understands the details, technique, or principles of an art and is competent to act as a critical judge",
+        "type": "n."
+      },
+      {
+        "definition": "one who enjoys with discrimination and appreciation of subtleties",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "connoisseur",
+      "connoisseurs",
+      "connoisseurship",
+      "connoisseurships"
+    ]
+  },
+  "connote": {
+    "def": [
+      {
+        "definition": "to convey in addition to exact explicit meaning",
+        "type": "v."
+      },
+      {
+        "definition": "to imply as a logical connotation",
+        "type": "v."
+      },
+      {
+        "definition": "to be associated with or inseparable from as a consequence or concomitant",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "connote",
+      "connoted",
+      "connotes",
+      "connoting"
+    ]
+  },
+  "connubial": {
+    "def": [
+      {
+        "definition": "of or relating to the married state",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "connubial",
+      "connubialism",
+      "connubialisms",
+      "connubialities",
+      "connubiality",
+      "connubially"
+    ]
+  },
+  "conquer": {
+    "def": [
+      {
+        "definition": "to gain or acquire by force of arms : subjugate",
+        "type": "v."
+      },
+      {
+        "definition": "to overcome by force of arms : vanquish",
+        "type": "v."
+      },
+      {
+        "definition": "to gain mastery over or win by overcoming obstacles or opposition",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conquer",
+      "conquered",
+      "conquering",
+      "conquers"
+    ]
+  },
+  "consanguineous": {
+    "def": [
+      {
+        "definition": "of the same blood or origin",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "consanguineous",
+      "consanguineously"
+    ]
+  },
+  "conscience": {
+    "def": [
+      {
+        "definition": "the sense or consciousness of the moral goodness or blameworthiness of one's own conduct, intentions, or character together with a feeling of obligation to do right or be good",
+        "type": "n."
+      },
+      {
+        "definition": "a faculty, power, or principle (as in an individual or group) that steers toward what is right and away from what is wrong",
+        "type": "n."
+      },
+      {
+        "definition": "the part of the superego that transmits commands and admonitions to the ego",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conscience",
+      "conscienceless",
+      "consciences",
+      "on my conscience"
+    ]
+  },
+  "conscientious": {
+    "def": [
+      {
+        "definition": "exercising attentive care to avoid errors or omissions : concerned with doing something correctly : meticulous, careful",
+        "type": "adv."
+      },
+      {
+        "definition": "governed by or conforming to the dictates of conscience : scrupulous",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conscientious",
+      "conscientiously"
+    ]
+  },
+  "conscious": {
+    "def": [
+      {
+        "definition": "having mental faculties not dulled by sleep, faintness, or stupor : awake",
+        "type": "adv."
+      },
+      {
+        "definition": "perceiving, apprehending, or noticing with a degree of controlled thought or observation",
+        "type": "adv."
+      },
+      {
+        "definition": "personally felt",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conscious",
+      "consciously"
+    ]
+  },
+  "conscript": {
+    "def": [
+      {
+        "definition": "a {a_link|conscripted} person (such as a military recruit)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conscript",
+      "conscripts"
+    ]
+  },
+  "consecrate": {
+    "def": [
+      {
+        "definition": "dedicated to a sacred purpose",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "consecrate"
+    ]
+  },
+  "consecutive": {
+    "def": [
+      {
+        "definition": "following one after the other in order",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "consecutive",
+      "consecutiveness",
+      "consecutivenesses"
+    ]
+  },
+  "consensus": {
+    "def": [
+      {
+        "definition": "general agreement (as of opinion or fact) among a group of people or things",
+        "type": "n."
+      },
+      {
+        "definition": "the judgment arrived at by most of those concerned",
+        "type": "n."
+      },
+      {
+        "definition": "group solidarity in sentiment and belief",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "build consensus",
+      "building consensus",
+      "builds consensus",
+      "built consensus",
+      "by consensus",
+      "consensus",
+      "consensus of opinion",
+      "consensuses",
+      "general consensus",
+      "growing consensus",
+      "lack of consensus"
+    ]
+  },
+  "conservatism": {
+    "def": [
+      {
+        "definition": "inclination to preserve what is established : belief in the value of established and traditional practices in politics and society",
+        "type": "n."
+      },
+      {
+        "definition": "a political philosophy based on tradition and social stability, stressing the importance of established hierarchies and institutions (such as religion, the family, and class structure), and preferring gradual development to abrupt change; specifically : such a philosophy calling for reduced taxation, for limited government regulation of business, industry and finance, for restriction of immigration, for a strong national defense, and for individual financial responsibility for personal needs (such as retirement income and health care coverage) and often including the aims of social conservatism",
+        "type": "n."
+      },
+      {
+        "definition": "the principles and policies of a Conservative party; also : a Conservative party or its members",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Conservatism",
+      "Conservatisms",
+      "conservatism",
+      "conservatisms"
+    ]
+  },
+  "conservative": {
+    "def": [
+      {
+        "definition": "of, relating to, or favoring a philosophy of conservatism, especially political conservatism and often also social conservatism",
+        "type": "adv."
+      },
+      {
+        "definition": "of or constituting a political party professing the principles of conservatism: such as",
+        "type": "adv."
+      },
+      {
+        "definition": "of or constituting a country's Conservative party",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "Conservative",
+      "Conservatives",
+      "conservative",
+      "conservative estimate",
+      "conservative estimates",
+      "conservatively",
+      "conservativeness",
+      "conservativenesses"
+    ]
+  },
+  "conservatory": {
+    "def": [
+      {
+        "definition": "a greenhouse for growing or displaying plants",
+        "type": "adj."
+      },
+      {
+        "definition": "a school specializing in one of the fine arts",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conservatories",
+      "conservatory"
+    ]
+  },
+  "consign": {
+    "def": [
+      {
+        "definition": "to give over to another's care",
+        "type": "v."
+      },
+      {
+        "definition": "to give, transfer, or deliver into the hands or control of another; also : to commit especially to a final destination or fate",
+        "type": "v."
+      },
+      {
+        "definition": "to send or address to an agent to be cared for or sold",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "consign",
+      "consignable",
+      "consignation",
+      "consignations",
+      "consigned",
+      "consigning",
+      "consignor",
+      "consignors",
+      "consigns"
+    ]
+  },
+  "consignee": {
+    "def": [
+      {
+        "definition": "one to whom something is {a_link|consigned} or shipped",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consignee",
+      "consignees"
+    ]
+  },
+  "consignor": {
+    "def": [
+      {
+        "definition": "to give over to another's care",
+        "type": "v."
+      },
+      {
+        "definition": "to give, transfer, or deliver into the hands or control of another; also : to commit especially to a final destination or fate",
+        "type": "v."
+      },
+      {
+        "definition": "to send or address to an agent to be cared for or sold",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "consign",
+      "consignable",
+      "consignation",
+      "consignations",
+      "consigned",
+      "consigning",
+      "consignor",
+      "consignors",
+      "consigns"
+    ]
+  },
+  "consistency": {
+    "def": [
+      {
+        "definition": "agreement or harmony of parts or features to one another or a whole : correspondence; specifically : ability to be asserted together without contradiction",
+        "type": "n."
+      },
+      {
+        "definition": "harmony of conduct or practice with profession",
+        "type": "n."
+      },
+      {
+        "definition": "degree of firmness, density, viscosity, or resistance to movement or separation of constituent particles",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consistencies",
+      "consistency",
+      "consistent"
+    ]
+  },
+  "console": {
+    "def": [
+      {
+        "definition": "an architectural member projecting from a wall to form a bracket or from a keystone for ornament",
+        "type": "v."
+      },
+      {
+        "definition": "console table",
+        "type": "v."
+      },
+      {
+        "definition": "an upright case that houses the keyboards and controlling mechanisms of an organ and from which the organ is played",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "console",
+      "consoles"
+    ]
+  },
+  "consolidate": {
+    "def": [
+      {
+        "definition": "to join together into one whole : unite",
+        "type": "v."
+      },
+      {
+        "definition": "to make firm or secure : strengthen",
+        "type": "v."
+      },
+      {
+        "definition": "to form into a compact mass",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "consolidate",
+      "consolidated",
+      "consolidates",
+      "consolidating",
+      "consolidator",
+      "consolidators"
+    ]
+  },
+  "consonance": {
+    "def": [
+      {
+        "definition": "harmony or agreement among components",
+        "type": "n."
+      },
+      {
+        "definition": "correspondence or recurrence of sounds especially in words; specifically : recurrence or repetition of consonants especially at the end of stressed syllables without the similar correspondence of vowels (as in the final sounds of \"stroke\" and \"luck\")",
+        "type": "n."
+      },
+      {
+        "definition": "concord",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consonance",
+      "consonances"
+    ]
+  },
+  "consonant": {
+    "def": [
+      {
+        "definition": "being in agreement or harmony : free from elements making for discord",
+        "type": "adv."
+      },
+      {
+        "definition": "marked by musical consonances",
+        "type": "adv."
+      },
+      {
+        "definition": "having similar sounds",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "consonant",
+      "consonantly"
+    ]
+  },
+  "consort": {
+    "def": [
+      {
+        "definition": "associate",
+        "type": "n."
+      },
+      {
+        "definition": "a ship accompanying another",
+        "type": "n."
+      },
+      {
+        "definition": "spouse",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consort",
+      "consorts"
+    ]
+  },
+  "conspicuous": {
+    "def": [
+      {
+        "definition": "obvious to the eye or mind",
+        "type": "adv."
+      },
+      {
+        "definition": "attracting attention : striking",
+        "type": "adv."
+      },
+      {
+        "definition": "marked by a noticeable violation of good taste",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "conspicuous",
+      "conspicuously",
+      "conspicuousness",
+      "conspicuousnesses"
+    ]
+  },
+  "conspirator": {
+    "def": [
+      {
+        "definition": "one who {a_link|conspires}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conspirator",
+      "conspirators"
+    ]
+  },
+  "conspire": {
+    "def": [
+      {
+        "definition": "plot, contrive",
+        "type": "v."
+      },
+      {
+        "definition": "to join in a secret agreement to do an unlawful or wrongful act or an act which becomes unlawful as a result of the secret agreement",
+        "type": "v."
+      },
+      {
+        "definition": "scheme",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "conspire",
+      "conspired",
+      "conspires",
+      "conspiring"
+    ]
+  },
+  "constable": {
+    "def": [
+      {
+        "definition": "a high officer of a royal court or noble household especially in the Middle Ages",
+        "type": "n."
+      },
+      {
+        "definition": "the warden or governor of a royal castle or a fortified town",
+        "type": "n."
+      },
+      {
+        "definition": "a public officer usually of a town or township responsible for keeping the peace and for minor judicial duties",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "constable",
+      "constables"
+    ]
+  },
+  "constellation": {
+    "def": [
+      {
+        "definition": "the configuration of stars especially at one's birth",
+        "type": "n."
+      },
+      {
+        "definition": "any of 88 arbitrary configurations of stars or an area of the celestial sphere covering one of these configurations",
+        "type": "n."
+      },
+      {
+        "definition": "an assemblage, collection, or group of usually related persons, qualities, or things",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "constellation",
+      "constellations",
+      "constellatory"
+    ]
+  },
+  "consternation": {
+    "def": [
+      {
+        "definition": "amazement or dismay that  or throws into confusion",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consternation",
+      "consternations"
+    ]
+  },
+  "constituency": {
+    "def": [
+      {
+        "definition": "a body of citizens entitled to elect a representative (as to a legislative or executive position)",
+        "type": "n."
+      },
+      {
+        "definition": "the residents in an electoral district",
+        "type": "n."
+      },
+      {
+        "definition": "an electoral district",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "constituencies",
+      "constituency"
+    ]
+  },
+  "constituent": {
+    "def": [
+      {
+        "definition": "a member of a constituency",
+        "type": "n."
+      },
+      {
+        "definition": "an essential part : component, element",
+        "type": "n."
+      },
+      {
+        "definition": "a structural unit of a definable syntactic, semantic, or phonological category that consists of one or more linguistic elements (such as words, morphemes, or features) and that can occur as a component of a larger construction",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "constituent",
+      "constituents"
+    ]
+  },
+  "constrict": {
+    "def": [
+      {
+        "definition": "to make narrow or draw together",
+        "type": "v."
+      },
+      {
+        "definition": "compress, squeeze",
+        "type": "v."
+      },
+      {
+        "definition": "to stultify, stop, or cause to falter : inhibit",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "constrict",
+      "constricted",
+      "constricting",
+      "constrictive",
+      "constricts"
+    ]
+  },
+  "consul": {
+    "def": [
+      {
+        "definition": "either of two annually elected chief magistrates of the Roman republic",
+        "type": "n."
+      },
+      {
+        "definition": "one of three chief magistrates of the French republic from 1799 to 1804",
+        "type": "n."
+      },
+      {
+        "definition": "an official appointed by a government to reside in a foreign country to represent the commercial interests of citizens of the appointing country",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consul",
+      "consuls",
+      "consulship",
+      "consulships"
+    ]
+  },
+  "consulate": {
+    "def": [
+      {
+        "definition": "a government by consuls",
+        "type": "n."
+      },
+      {
+        "definition": "the office, term of office, or jurisdiction of a consul",
+        "type": "n."
+      },
+      {
+        "definition": "the residence or official premises of a consul",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consulate",
+      "consulates"
+    ]
+  },
+  "consummate": {
+    "def": [
+      {
+        "definition": "extremely skilled and accomplished",
+        "type": "adv."
+      },
+      {
+        "definition": "of the highest degree",
+        "type": "adv."
+      },
+      {
+        "definition": "complete in every detail : perfect",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "consummate",
+      "consummately"
+    ]
+  },
+  "consumption": {
+    "def": [
+      {
+        "definition": "the act or process of consuming",
+        "type": "n."
+      },
+      {
+        "definition": "use by or exposure to a particular group or audience",
+        "type": "n."
+      },
+      {
+        "definition": "use of something",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "consumption",
+      "consumptions"
+    ]
+  },
+  "consumptive": {
+    "def": [
+      {
+        "definition": "tending to consume",
+        "type": "adv."
+      },
+      {
+        "definition": "of, relating to, or affected with consumption",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "consumptive",
+      "consumptively"
+    ]
+  },
+  "contagion": {
+    "def": [
+      {
+        "definition": "a contagious disease",
+        "type": "n."
+      },
+      {
+        "definition": "the transmission of a disease by direct or indirect contact",
+        "type": "n."
+      },
+      {
+        "definition": "a disease-producing agent (such as a virus)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contagion",
+      "contagions"
+    ]
+  },
+  "contagious": {
+    "def": [
+      {
+        "definition": "transmissible by direct or indirect contact with an infected person",
+        "type": "adv."
+      },
+      {
+        "definition": "bearing contagion",
+        "type": "adv."
+      },
+      {
+        "definition": "used for contagious diseases",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "contagious",
+      "contagiously",
+      "contagiousness",
+      "contagiousnesses"
+    ]
+  },
+  "contaminate": {
+    "def": [
+      {
+        "definition": "to soil, stain, corrupt, or infect by contact or association",
+        "type": "v."
+      },
+      {
+        "definition": "to make inferior or impure by admixture",
+        "type": "v."
+      },
+      {
+        "definition": "to make unfit for use by the introduction of unwholesome or undesirable elements",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "contaminate",
+      "contaminated",
+      "contaminates",
+      "contaminating",
+      "contaminative",
+      "contaminator",
+      "contaminators"
+    ]
+  },
+  "contemplate": {
+    "def": [
+      {
+        "definition": "to view or consider with continued attention : meditate on",
+        "type": "v."
+      },
+      {
+        "definition": "to view as likely or probable or as an end or intention",
+        "type": "v."
+      },
+      {
+        "definition": "ponder, meditate",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "contemplate",
+      "contemplated",
+      "contemplates",
+      "contemplating",
+      "contemplator",
+      "contemplators"
+    ]
+  },
+  "contemporaneous": {
+    "def": [
+      {
+        "definition": "existing, occurring, or originating during the same time",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "contemporaneous",
+      "contemporaneously",
+      "contemporaneousness",
+      "contemporaneousnesses"
+    ]
+  },
+  "contemporary": {
+    "def": [
+      {
+        "definition": "marked by characteristics of the present period : modern, current",
+        "type": "adv."
+      },
+      {
+        "definition": "occurring at the same moment : simultaneous",
+        "type": "adv."
+      },
+      {
+        "definition": "happening, existing, living, or coming into being during the same period of time",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "contemporarily",
+      "contemporary"
+    ]
+  },
+  "contemptible": {
+    "def": [
+      {
+        "definition": "worthy of contempt",
+        "type": "adv."
+      },
+      {
+        "definition": "scornful, contemptuous",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "contemptibilities",
+      "contemptibility",
+      "contemptible",
+      "contemptibleness",
+      "contemptiblenesses",
+      "contemptibly"
+    ]
+  },
+  "contemptuous": {
+    "def": [
+      {
+        "definition": "manifesting, feeling, or expressing deep hatred or disapproval feeling or showing {a_link|contempt}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "contemptuous",
+      "contemptuously",
+      "contemptuousness",
+      "contemptuousnesses"
+    ]
+  },
+  "contender": {
+    "def": [
+      {
+        "definition": "one that",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contender",
+      "contenders"
+    ]
+  },
+  "contiguity": {
+    "def": [
+      {
+        "definition": "the quality or state of being {a_link|contiguous}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contiguities",
+      "contiguity"
+    ]
+  },
+  "contiguous": {
+    "def": [
+      {
+        "definition": "being in actual contact : touching along a boundary or at a point",
+        "type": "adv."
+      },
+      {
+        "definition": "adjacent",
+        "type": "adv."
+      },
+      {
+        "definition": "next or near in time or sequence",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "contiguous",
+      "contiguously",
+      "contiguousness",
+      "contiguousnesses"
+    ]
+  },
+  "continence": {
+    "def": [
+      {
+        "definition": "the ability to retain a bodily discharge voluntarily",
+        "type": "n."
+      },
+      {
+        "definition": "self-restraint; especially : a refraining from sexual intercourse",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "continence",
+      "continences"
+    ]
+  },
+  "contingency": {
+    "def": [
+      {
+        "definition": "a contingent event or condition: such as",
+        "type": "n."
+      },
+      {
+        "definition": "an event (such as an emergency) that may but is not certain to occur",
+        "type": "n."
+      },
+      {
+        "definition": "something liable to happen as an adjunct to or result of something else",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contingencies",
+      "contingency"
+    ]
+  },
+  "contingent": {
+    "def": [
+      {
+        "definition": "dependent on or conditioned by something else",
+        "type": "adv."
+      },
+      {
+        "definition": "likely but not certain to happen : possible",
+        "type": "adv."
+      },
+      {
+        "definition": "not necessary : not true a priori; especially : capable of being proved true or false only by experience : empirical",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "contingent",
+      "contingently"
+    ]
+  },
+  "continuance": {
+    "def": [
+      {
+        "definition": "continuation",
+        "type": "n."
+      },
+      {
+        "definition": "the extent of continuing : duration",
+        "type": "n."
+      },
+      {
+        "definition": "the quality of enduring : permanence",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "continuance",
+      "continuances"
+    ]
+  },
+  "continuation": {
+    "def": [
+      {
+        "definition": "the act or fact of continuing in or the prolongation of a state or activity",
+        "type": "n."
+      },
+      {
+        "definition": "resumption after an interruption",
+        "type": "n."
+      },
+      {
+        "definition": "something that continues, increases, or adds",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "continuation",
+      "continuations"
+    ]
+  },
+  "continuity": {
+    "def": [
+      {
+        "definition": "uninterrupted connection, succession, or union",
+        "type": "n."
+      },
+      {
+        "definition": "uninterrupted duration or continuation especially without essential change",
+        "type": "n."
+      },
+      {
+        "definition": "something that has, exhibits, or provides continuity: such as",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "continuities",
+      "continuity"
+    ]
+  },
+  "continuous": {
+    "def": [
+      {
+        "definition": "marked by uninterrupted extension in space, time, or sequence",
+        "type": "v."
+      },
+      {
+        "definition": "having the property that the absolute value of the numerical difference between the value at a given point and the value at any point in a neighborhood of the given point can be made as close to zero as desired by choosing the neighborhood small enough",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "continuous",
+      "continuousness",
+      "continuousnesses"
+    ]
+  },
+  "contort": {
+    "def": [
+      {
+        "definition": "to twist in a violent manner",
+        "type": "v."
+      },
+      {
+        "definition": "to twist into or as if into a strained shape or expression",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "contort",
+      "contorted",
+      "contorting",
+      "contortion",
+      "contortions",
+      "contortive",
+      "contorts"
+    ]
+  },
+  "contraband": {
+    "def": [
+      {
+        "definition": "illegal or prohibited traffic in goods : smuggling",
+        "type": "n."
+      },
+      {
+        "definition": "goods or merchandise whose importation, exportation, or possession is forbidden; also : smuggled goods",
+        "type": "n."
+      },
+      {
+        "definition": "an enslaved person who during the American Civil War escaped to or was brought within the Union lines",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contraband",
+      "contrabands"
+    ]
+  },
+  "contradiction": {
+    "def": [
+      {
+        "definition": "act or an instance of contradicting",
+        "type": "n."
+      },
+      {
+        "definition": "a proposition, statement, or phrase that asserts or implies both the truth and falsity of something",
+        "type": "n."
+      },
+      {
+        "definition": "a statement or phrase whose parts contradict each other",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contradiction",
+      "contradictions"
+    ]
+  },
+  "contradictory": {
+    "def": [
+      {
+        "definition": "involving, causing, or constituting a {a_link|contradiction}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "contradictorily",
+      "contradictoriness",
+      "contradictorinesses",
+      "contradictory"
+    ]
+  },
+  "contraposition": {
+    "def": [
+      {
+        "definition": "the relationship between two propositions when the subject and predicate of one are respectively the negation of the predicate and the negation of the subject of the other",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contraposition",
+      "contrapositions"
+    ]
+  },
+  "contravene": {
+    "def": [
+      {
+        "definition": "to go or act contrary to : violate",
+        "type": "v."
+      },
+      {
+        "definition": "to oppose in argument : contradict",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "contravene",
+      "contravened",
+      "contravener",
+      "contraveners",
+      "contravenes",
+      "contravening"
+    ]
+  },
+  "contribution": {
+    "def": [
+      {
+        "definition": "the act of contributing: such as",
+        "type": "adv."
+      },
+      {
+        "definition": "the giving or supplying of something (such as money or time) as a part or share",
+        "type": "adv."
+      },
+      {
+        "definition": "the giving or supplying of something that plays a significant part in making something happen",
+        "type": "adv."
+      }
+    ],
+    "forms": [
+      "contribution",
+      "contributions",
+      "contributive",
+      "contributively"
+    ]
+  },
+  "contributor": {
+    "def": [
+      {
+        "definition": "someone or something that  something or that contributes to something",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contributor",
+      "contributors"
+    ]
+  },
+  "contrite": {
+    "def": [
+      {
+        "definition": "feeling or showing sorrow and  for improper or objectionable behavior, actions, etc.",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "contrite",
+      "contritely",
+      "contriteness",
+      "contritenesses"
+    ]
+  },
+  "contrivance": {
+    "def": [
+      {
+        "definition": "a thing contrived; especially : a mechanical device",
+        "type": "n."
+      },
+      {
+        "definition": "an artificial arrangement or development",
+        "type": "n."
+      },
+      {
+        "definition": "the act or faculty of contriving : the state of being contrived",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "contrivance",
+      "contrivances"
+    ]
+  },
+  "contrive": {
+    "def": [
+      {
+        "definition": "devise, plan",
+        "type": "v."
+      },
+      {
+        "definition": "to form or create in an artistic or ingenious manner",
+        "type": "v."
+      },
+      {
+        "definition": "to bring about by stratagem or with difficulty : manage",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "contrive",
+      "contrived",
+      "contriver",
+      "contrivers",
+      "contrives",
+      "contriving"
+    ]
+  },
+  "control": {
+    "def": [
+      {
+        "definition": "to exercise restraining or directing influence over : regulate",
+        "type": "v."
+      },
+      {
+        "definition": "to have power over : rule",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce the incidence or severity of especially to innocuous levels",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "control",
+      "controllabilities",
+      "controllability",
+      "controllable",
+      "controlled",
+      "controlling",
+      "controlment",
+      "controlments",
+      "controls"
+    ]
+  },
+  "controller": {
+    "def": [
+      {
+        "definition": "comptroller",
+        "type": "n."
+      },
+      {
+        "definition": "comptroller",
+        "type": "n."
+      },
+      {
+        "definition": "the chief accounting officer of a business enterprise or an institution (such as a college)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "controller",
+      "controllers",
+      "controllership",
+      "controllerships"
+    ]
+  },
+  "contumacious": {
+    "def": [
+      {
+        "definition": "stubbornly disobedient",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "contumacious",
+      "contumaciously"
+    ]
+  },
+  "contumacy": {
+    "def": [
+      {
+        "definition": "stubborn resistance to authority",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contumacies",
+      "contumacy"
+    ]
+  },
+  "contuse": {
+    "def": [
+      {
+        "definition": "injury to tissue usually without laceration",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contuse",
+      "contused",
+      "contuses",
+      "contusing",
+      "contusion",
+      "contusions"
+    ]
+  },
+  "contusion": {
+    "def": [
+      {
+        "definition": "injury to tissue usually without laceration",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "contuse",
+      "contused",
+      "contuses",
+      "contusing",
+      "contusion",
+      "contusions"
+    ]
+  },
+  "convalesce": {
+    "def": [
+      {
+        "definition": "to recover health and strength gradually after sickness or weakness",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "convalesce",
+      "convalesced",
+      "convalescence",
+      "convalescences",
+      "convalescent",
+      "convalescents",
+      "convalesces",
+      "convalescing"
+    ]
+  },
+  "convalescence": {
+    "def": [
+      {
+        "definition": "to recover health and strength gradually after sickness or weakness",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "convalesce",
+      "convalesced",
+      "convalescence",
+      "convalescences",
+      "convalescent",
+      "convalescents",
+      "convalesces",
+      "convalescing"
+    ]
+  },
+  "convalescent": {
+    "def": [
+      {
+        "definition": "to recover health and strength gradually after sickness or weakness",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "convalesce",
+      "convalesced",
+      "convalescence",
+      "convalescences",
+      "convalescent",
+      "convalescents",
+      "convalesces",
+      "convalescing"
+    ]
+  },
+  "convene": {
+    "def": [
+      {
+        "definition": "to come together in a body",
+        "type": "v."
+      },
+      {
+        "definition": "to summon before a tribunal",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to assemble",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "convene",
+      "convened",
+      "convener",
+      "conveners",
+      "convenes",
+      "convening",
+      "convenor",
+      "convenors"
+    ]
+  },
+  "convenience": {
+    "def": [
+      {
+        "definition": "fitness or suitability for performing an action or fulfilling a requirement",
+        "type": "n."
+      },
+      {
+        "definition": "something (such as an appliance, device, or service) conducive to comfort or ease",
+        "type": "v."
+      },
+      {
+        "definition": "toilet",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "convenience",
+      "conveniences"
+    ]
+  },
+  "converge": {
+    "def": [
+      {
+        "definition": "to tend or move toward one point or one another : come together : meet",
+        "type": "v."
+      },
+      {
+        "definition": "to come together and unite in a common interest or focus",
+        "type": "v."
+      },
+      {
+        "definition": "to approach a limit as the number of terms increases without limit",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "converge",
+      "converged",
+      "converges",
+      "converging"
+    ]
+  },
+  "convergent": {
+    "def": [
+      {
+        "definition": "tending to move toward one point or to approach each other : converging",
+        "type": "adj."
+      },
+      {
+        "definition": "exhibiting convergence in form, function, or development",
+        "type": "adj."
+      },
+      {
+        "definition": "having a value that is a real number",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "convergent"
+    ]
+  },
+  "conversant": {
+    "def": [
+      {
+        "definition": "having knowledge or experience",
+        "type": "adj."
+      },
+      {
+        "definition": "having frequent or familiar association",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "conversant"
+    ]
+  },
+  "conversion": {
+    "def": [
+      {
+        "definition": "the act of {a_link|converting} the process of being {a_link|converted}",
+        "type": "n."
+      },
+      {
+        "definition": "an experience associated with the definite and decisive adoption of a religion",
+        "type": "n."
+      },
+      {
+        "definition": "the operation of finding a {a_link|converse} in logic or mathematics",
+        "type": "n."
+      },
+      {
+        "definition": "reduction of a mathematical expression by clearing of fractions",
+        "type": "n."
+      },
+      {
+        "definition": "a successful attempt for a point or points especially after a touchdown or for a first down",
+        "type": "n."
+      },
+      {
+        "definition": "something converted from one use to another",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conversion",
+      "conversional",
+      "conversions"
+    ]
+  },
+  "convertible": {
+    "def": [
+      {
+        "definition": "capable of being",
+        "type": "adj."
+      },
+      {
+        "definition": "having a top that may be lowered or removed",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "convertibilities",
+      "convertibility",
+      "convertible",
+      "convertibleness",
+      "convertiblenesses",
+      "convertibly"
+    ]
+  },
+  "convex": {
+    "def": [
+      {
+        "definition": "curved or rounded outward like the exterior of a sphere or circle",
+        "type": "adj."
+      },
+      {
+        "definition": "being a continuous function or part of a continuous function with the property that a line joining any two points on its graph lies on or above the graph",
+        "type": "adj."
+      },
+      {
+        "definition": "containing all points in a line joining any two constituent points",
+        "type": "adj."
+      },
+      {
+        "definition": "comprising a convex set when combined with its interior",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "convex"
+    ]
+  },
+  "conveyance": {
+    "def": [
+      {
+        "definition": "the action of",
+        "type": "n."
+      },
+      {
+        "definition": "an instrument {dx_def}see {/dx_def} by which title to property is conveyed {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a means of transport",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "conveyance",
+      "conveyances"
+    ]
+  },
+  "convivial": {
+    "def": [
+      {
+        "definition": "relating to, occupied with, or fond of feasting, drinking, and good company",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "convivial",
+      "convivialities",
+      "conviviality",
+      "convivially"
+    ]
+  },
+  "convolution": {
+    "def": [
+      {
+        "definition": "a form or shape that is folded in curved or  windings",
+        "type": "n."
+      },
+      {
+        "definition": "one of the irregular ridges on the surface of the brain and especially of the cerebrum of higher mammals",
+        "type": "n."
+      },
+      {
+        "definition": "a complication or intricacy of form, design, or structure",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "convolution",
+      "convolutions"
+    ]
+  },
+  "convolve": {
+    "def": [
+      {
+        "definition": "to roll together",
+        "type": "v."
+      },
+      {
+        "definition": "to roll together or circulate involvedly",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "convolve",
+      "convolved",
+      "convolves",
+      "convolving"
+    ]
+  },
+  "convoy": {
+    "def": [
+      {
+        "definition": "A protecting force accompanying property in course of transportation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "convulse": {
+    "def": [
+      {
+        "definition": "to shake or agitate violently",
+        "type": "v."
+      },
+      {
+        "definition": "to become affected with {a_link|convulsions}",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "convulse",
+      "convulsed",
+      "convulses",
+      "convulsing"
+    ]
+  },
+  "convulsion": {
+    "def": [
+      {
+        "definition": "an abnormal violent and involuntary contraction or series of contractions of the muscles",
+        "type": "n."
+      },
+      {
+        "definition": "a violent disturbance",
+        "type": "n."
+      },
+      {
+        "definition": "an uncontrolled fit",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "convulsion",
+      "convulsionary",
+      "convulsions"
+    ]
+  },
+  "copious": {
+    "def": [
+      {
+        "definition": "yielding something abundantly",
+        "type": "adj."
+      },
+      {
+        "definition": "plentiful in number",
+        "type": "adj."
+      },
+      {
+        "definition": "full of thought, information, or matter",
+        "type": "adj."
+      },
+      {
+        "definition": "profuse or  in words, expression, or style",
+        "type": "adj."
+      },
+      {
+        "definition": "present in large quantity taking place on a large scale",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "copious",
+      "copiously",
+      "copiousness",
+      "copiousnesses"
+    ]
+  },
+  "coquette": {
+    "def": [
+      {
+        "definition": "a woman who endeavors without sincere affection to gain the attention and admiration of men",
+        "type": "n."
+      },
+      {
+        "definition": "any of several small, tropical American hummingbirds (genus Lophornis) with the males typically having a colorful or ornate tuft of feathers on the head",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coquette",
+      "coquettes",
+      "coquettish",
+      "coquettishly",
+      "coquettishness",
+      "coquettishnesses"
+    ]
+  },
+  "cornice": {
+    "def": [
+      {
+        "definition": "the molded and projecting horizontal member that crowns an architectural composition {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "a top course that crowns a wall",
+        "type": "n."
+      },
+      {
+        "definition": "a decorative band of metal or wood used to conceal curtain fixtures",
+        "type": "n."
+      },
+      {
+        "definition": "an overhanging mass of windblown snow or ice usually on a ridge",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cornice",
+      "cornices"
+    ]
+  },
+  "cornucopia": {
+    "def": [
+      {
+        "definition": "a curved, hollow goat's horn or similarly shaped receptacle (such as a horn-shaped basket) that is overflowing especially with fruit and vegetables (such as gourds, ears of corn, apples, and grapes) and that is used as a decorative  emblematic of abundance",
+        "type": "n."
+      },
+      {
+        "definition": "an inexhaustible store",
+        "type": "n."
+      },
+      {
+        "definition": "a receptacle shaped like a horn or cone",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cornucopia",
+      "cornucopian",
+      "cornucopias"
+    ]
+  },
+  "corollary": {
+    "def": [
+      {
+        "definition": "a proposition {dx_def}see {/dx_def} inferred immediately from a proved proposition with little or no additional proof",
+        "type": "n."
+      },
+      {
+        "definition": "something that naturally follows",
+        "type": "n."
+      },
+      {
+        "definition": "something that incidentally or naturally accompanies or parallels",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corollaries",
+      "corollary"
+    ]
+  },
+  "coronation": {
+    "def": [
+      {
+        "definition": "the act or occasion of crowning",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coronation",
+      "coronations"
+    ]
+  },
+  "coronet": {
+    "def": [
+      {
+        "definition": "a small or lesser crown usually signifying a rank below that of a sovereign",
+        "type": "n."
+      },
+      {
+        "definition": "a wreath or band for the head usually for wear by women on formal occasions",
+        "type": "n."
+      },
+      {
+        "definition": "the lower part of a horse's pastern where the horn terminates in skin {dx}see",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coronet",
+      "coronets"
+    ]
+  },
+  "corporal": {
+    "def": [
+      {
+        "definition": "a noncommissioned officer ranking in the army above a private first class and below a sergeant and in the marine {a_link|corps} above a lance corporal and below a sergeant",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corporal",
+      "corporals"
+    ]
+  },
+  "corporate": {
+    "def": [
+      {
+        "definition": "formed into an association and endowed by law with the rights and liabilities of an individual",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a {a_link|corporation}",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being the large {a_link|corporations} of a country or region considered as a unit",
+        "type": "adj."
+      },
+      {
+        "definition": "having qualities (such as commercialism or lack of originality) associated with large corporations or attributed to their influence or control",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or formed into a unified body of individuals",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "corporate",
+      "corporately"
+    ]
+  },
+  "corporeal": {
+    "def": [
+      {
+        "definition": "not spiritual",
+        "type": "adj."
+      },
+      {
+        "definition": "not immaterial or intangible",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "corporeal",
+      "corporeally",
+      "corporealness",
+      "corporealnesses"
+    ]
+  },
+  "corps": {
+    "def": [
+      {
+        "definition": "an organized subdivision of the military establishment",
+        "type": "n."
+      },
+      {
+        "definition": "a  unit usually consisting of two or more divisions and auxiliary arms and services",
+        "type": "n."
+      },
+      {
+        "definition": "a group of persons associated together or acting under common direction",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corps"
+    ]
+  },
+  "corpse": {
+    "def": [
+      {
+        "definition": "a human or animal body whether living or dead",
+        "type": "n."
+      },
+      {
+        "definition": "a dead body especially of a human being",
+        "type": "n."
+      },
+      {
+        "definition": "the remains of something discarded or defunct",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corpse",
+      "corpses"
+    ]
+  },
+  "corpulent": {
+    "def": [
+      {
+        "definition": "having a large bulky body",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "corpulent",
+      "corpulently"
+    ]
+  },
+  "corpuscle": {
+    "def": [
+      {
+        "definition": "a minute particle",
+        "type": "n."
+      },
+      {
+        "definition": "a living cell",
+        "type": "n."
+      },
+      {
+        "definition": "any of various small circumscribed multicellular bodies",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corpuscle",
+      "corpuscles",
+      "corpuscular"
+    ]
+  },
+  "correlate": {
+    "def": [
+      {
+        "definition": "either of two things so related that one directly implies or is  to the other (such as husband and wife)",
+        "type": "n."
+      },
+      {
+        "definition": "a phenomenon that accompanies another phenomenon, is usually parallel to it, and is related in some way to it",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "correlate",
+      "correlates"
+    ]
+  },
+  "correlative": {
+    "def": [
+      {
+        "definition": "naturally related",
+        "type": "adj."
+      },
+      {
+        "definition": "reciprocally related",
+        "type": "adj."
+      },
+      {
+        "definition": "regularly used together but typically not adjacent",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "correlative",
+      "correlatively",
+      "correlatives"
+    ]
+  },
+  "corrigible": {
+    "def": [
+      {
+        "definition": "capable of being set right",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "corrigibilities",
+      "corrigibility",
+      "corrigible"
+    ]
+  },
+  "corroborate": {
+    "def": [
+      {
+        "definition": "to support or help prove with evidence or  make more certain",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "corroborate",
+      "corroborated",
+      "corroborates",
+      "corroborating",
+      "corroboration",
+      "corroborations",
+      "corroborative",
+      "corroborator",
+      "corroborators",
+      "corroboratory"
+    ]
+  },
+  "corroboration": {
+    "def": [
+      {
+        "definition": "to support or help prove with evidence or  make more certain",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "corroborate",
+      "corroborated",
+      "corroborates",
+      "corroborating",
+      "corroboration",
+      "corroborations",
+      "corroborative",
+      "corroborator",
+      "corroborators",
+      "corroboratory"
+    ]
+  },
+  "corrode": {
+    "def": [
+      {
+        "definition": "to eat away by degrees as if by gnawing",
+        "type": "v."
+      },
+      {
+        "definition": "to weaken or destroy gradually",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo {a_link|corrosion}",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "corrode",
+      "corroded",
+      "corrodes",
+      "corrodible",
+      "corroding"
+    ]
+  },
+  "corrosion": {
+    "def": [
+      {
+        "definition": "the action, process, or effect of {a_link|corroding}",
+        "type": "n."
+      },
+      {
+        "definition": "a product of corroding",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corrosion",
+      "corrosions"
+    ]
+  },
+  "corrosive": {
+    "def": [
+      {
+        "definition": "tending or having the power to {a_link|corrode}",
+        "type": "adj."
+      },
+      {
+        "definition": "bitingly sarcastic",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "corrosive",
+      "corrosively",
+      "corrosiveness",
+      "corrosivenesses",
+      "corrosives"
+    ]
+  },
+  "corruptible": {
+    "def": [
+      {
+        "definition": "to change from good to bad in morals, manners, or actions",
+        "type": "v."
+      },
+      {
+        "definition": "to degrade with unsound principles or moral values",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to subject (a person) to {a_link|corruption} of blood",
+        "type": "v."
+      },
+      {
+        "definition": "to alter from the original or {a_link|correct} form or version",
+        "type": "v."
+      },
+      {
+        "definition": "to become tainted or rotten",
+        "type": "v."
+      },
+      {
+        "definition": "to become morally debased",
+        "type": "v."
+      },
+      {
+        "definition": "to cause disintegration or ruin",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "corrupt",
+      "corrupted",
+      "corrupter",
+      "corrupters",
+      "corruptibilities",
+      "corruptibility",
+      "corruptible",
+      "corruptibly",
+      "corrupting",
+      "corruptor",
+      "corruptors",
+      "corrupts"
+    ]
+  },
+  "corruption": {
+    "def": [
+      {
+        "definition": "dishonest or illegal behavior especially by powerful people (such as government officials or police officers)",
+        "type": "n."
+      },
+      {
+        "definition": "inducement to wrong by improper or unlawful means (such as bribery)",
+        "type": "n."
+      },
+      {
+        "definition": "a departure from the original or from what is pure or {a_link|correct}",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      },
+      {
+        "definition": "an agency or influence that {a_link|corrupts}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "corruption",
+      "corruptions"
+    ]
+  },
+  "cosmetic": {
+    "def": [
+      {
+        "definition": "of, relating to, or making for beauty especially of the complexion",
+        "type": "adj."
+      },
+      {
+        "definition": "correcting defects especially of the face",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      },
+      {
+        "definition": "not substantive",
+        "type": "adj."
+      },
+      {
+        "definition": "visually appealing",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cosmetic",
+      "cosmetical",
+      "cosmetically"
+    ]
+  },
+  "cosmic": {
+    "def": [
+      {
+        "definition": "of or relating to the , the  vastness, or the universe in contrast to the earth alone",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or concerned with abstract spiritual or metaphysical {dx_def}see {/dx_def} ideas",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by greatness especially in extent, intensity, or comprehensiveness",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cosmic",
+      "cosmical",
+      "cosmically"
+    ]
+  },
+  "cosmogony": {
+    "def": [
+      {
+        "definition": "a theory of the origin of the universe",
+        "type": "n."
+      },
+      {
+        "definition": "the creation or origin of the world or universe",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cosmogonic",
+      "cosmogonical",
+      "cosmogonies",
+      "cosmogonist",
+      "cosmogonists",
+      "cosmogony"
+    ]
+  },
+  "cosmography": {
+    "def": [
+      {
+        "definition": "a general description of the world or of the universe",
+        "type": "n."
+      },
+      {
+        "definition": "the science that deals with the constitution of the whole order of nature",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cosmographer",
+      "cosmographers",
+      "cosmographic",
+      "cosmographical",
+      "cosmographies",
+      "cosmography"
+    ]
+  },
+  "cosmology": {
+    "def": [
+      {
+        "definition": "a branch of  that deals with the nature of the universe",
+        "type": "n."
+      },
+      {
+        "definition": "a theory or doctrine describing the natural order of the universe",
+        "type": "n."
+      },
+      {
+        "definition": "a branch of  that deals with the origin, structure, and space-time relationships of the universe",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cosmologic",
+      "cosmological",
+      "cosmologically",
+      "cosmologies",
+      "cosmologist",
+      "cosmologists",
+      "cosmology"
+    ]
+  },
+  "cosmopolitan": {
+    "def": [
+      {
+        "definition": "having wide international sophistication",
+        "type": "adj."
+      },
+      {
+        "definition": "composed of persons, constituents, or elements from all or many parts of the world",
+        "type": "adj."
+      },
+      {
+        "definition": "having worldwide rather than limited or provincial scope or bearing",
+        "type": "adj."
+      },
+      {
+        "definition": "found in most parts of the world and under varied ecological conditions",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cosmopolitan",
+      "cosmopolitanism",
+      "cosmopolitanisms",
+      "cosmopolitans"
+    ]
+  },
+  "cosmopolitanism": {
+    "def": [
+      {
+        "definition": "having wide international sophistication",
+        "type": "adj."
+      },
+      {
+        "definition": "composed of persons, constituents, or elements from all or many parts of the world",
+        "type": "adj."
+      },
+      {
+        "definition": "having worldwide rather than limited or provincial scope or bearing",
+        "type": "adj."
+      },
+      {
+        "definition": "found in most parts of the world and under varied ecological conditions",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cosmopolitan",
+      "cosmopolitanism",
+      "cosmopolitanisms",
+      "cosmopolitans"
+    ]
+  },
+  "cosmos": {
+    "def": [
+      {
+        "definition": "a complex orderly self-inclusive system",
+        "type": "n."
+      },
+      {
+        "definition": "any of a genus (Cosmos) of tropical American composite herbs",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cosmos",
+      "cosmoses"
+    ]
+  },
+  "counter-claim": {
+    "def": [
+      {
+        "definition": "an opposing claim",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "counterclaim",
+      "counterclaims"
+    ]
+  },
+  "counteract": {
+    "def": [
+      {
+        "definition": "to make ineffective or restrain or neutralize the usually ill effects of by means of an opposite force, action, or influence",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "counteract",
+      "counteracted",
+      "counteracting",
+      "counteraction",
+      "counteractions",
+      "counteractive",
+      "counteracts"
+    ]
+  },
+  "counterbalance": {
+    "def": [
+      {
+        "definition": "a weight that balances another",
+        "type": "n."
+      },
+      {
+        "definition": "a force or influence that offsets or checks an opposing force",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "counterbalance",
+      "counterbalances"
+    ]
+  },
+  "countercharge": {
+    "def": [
+      {
+        "definition": "a  made in response to or retaliation for another charge",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "counter-charge",
+      "counter-charges",
+      "countercharge",
+      "countercharges"
+    ]
+  },
+  "counterfeit": {
+    "def": [
+      {
+        "definition": "made in imitation of something else with intent to deceive",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "counterfeit"
+    ]
+  },
+  "counterpart": {
+    "def": [
+      {
+        "definition": "one of two corresponding copies of a legal instrument",
+        "type": "n."
+      },
+      {
+        "definition": "a thing that fits another perfectly",
+        "type": "n."
+      },
+      {
+        "definition": "something that completes",
+        "type": "n."
+      },
+      {
+        "definition": "one remarkably similar to another",
+        "type": "n."
+      },
+      {
+        "definition": "one having the same function or characteristics as another",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "counterpart",
+      "counterparts"
+    ]
+  },
+  "countervail": {
+    "def": [
+      {
+        "definition": "to compensate for",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to exert force against",
+        "type": "v."
+      },
+      {
+        "definition": "to exert force against an opposing and often bad or harmful force or influence",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "countervail",
+      "countervailed",
+      "countervailing",
+      "countervails"
+    ]
+  },
+  "counting-house": {
+    "def": [
+      {
+        "definition": "a building, room, or office used for keeping books and transacting business",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "countinghouse",
+      "countinghouses"
+    ]
+  },
+  "countryman": {
+    "def": [
+      {
+        "definition": "an inhabitant or native of a specified {a_link|country}",
+        "type": "n."
+      },
+      {
+        "definition": "one living in the country or marked by country ways",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "countryman",
+      "countrymen"
+    ]
+  },
+  "courageous": {
+    "def": [
+      {
+        "definition": "having or characterized by {a_link|courage}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "courageous",
+      "courageously",
+      "courageousness",
+      "courageousnesses"
+    ]
+  },
+  "course": {
+    "def": [
+      {
+        "definition": "the act or action of moving in a path from point to point",
+        "type": "n."
+      },
+      {
+        "definition": "accustomed procedure or normal action",
+        "type": "n."
+      },
+      {
+        "definition": "a chosen manner of conducting oneself way of acting",
+        "type": "n."
+      },
+      {
+        "definition": "a number of lectures or other matter dealing with a subject",
+        "type": "n."
+      },
+      {
+        "definition": "a series of doses or medications administered over a designated period",
+        "type": "n."
+      },
+      {
+        "definition": "a part of a meal served at one time",
+        "type": "n."
+      },
+      {
+        "definition": "the lowest sail on a square-rigged mast",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "course",
+      "courses"
+    ]
+  },
+  "courser": {
+    "def": [
+      {
+        "definition": "a swift or spirited horse",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "courser",
+      "coursers"
+    ]
+  },
+  "courtesy": {
+    "def": [
+      {
+        "definition": "behavior marked by  manners or respect for others {a_link|courteous} behavior",
+        "type": "n."
+      },
+      {
+        "definition": "a courteous and respectful act or expression",
+        "type": "n."
+      },
+      {
+        "definition": "general  despite facts",
+        "type": "n."
+      },
+      {
+        "definition": "consideration, cooperation, and generosity in providing something (such as a gift or privilege)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "courtesies",
+      "courtesy"
+    ]
+  },
+  "covenant": {
+    "def": [
+      {
+        "definition": "a usually formal, solemn, and binding agreement",
+        "type": "n."
+      },
+      {
+        "definition": "a written agreement or promise usually under seal between two or more parties especially for the performance of some action",
+        "type": "n."
+      },
+      {
+        "definition": "the common-law action to recover damages for breach of such a contract",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "covenant",
+      "covenantal",
+      "covenants"
+    ]
+  },
+  "covert": {
+    "def": [
+      {
+        "definition": "not openly shown, engaged in, or avowed",
+        "type": "adj."
+      },
+      {
+        "definition": "{a_link|covered} over",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "covert",
+      "covertly",
+      "covertness",
+      "covertnesses"
+    ]
+  },
+  "covey": {
+    "def": [
+      {
+        "definition": "a mature bird or pair of birds with a brood of young",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "covey",
+      "coveys"
+    ]
+  },
+  "cower": {
+    "def": [
+      {
+        "definition": "to shrink away or crouch especially for shelter from something that menaces, domineers, or dismays",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cower",
+      "cowered",
+      "cowering",
+      "cowers"
+    ]
+  },
+  "coxswain": {
+    "def": [
+      {
+        "definition": "a sailor who has charge of a ship's boat and its crew and who usually steers",
+        "type": "n."
+      },
+      {
+        "definition": "a steersman of a racing shell who usually directs the rowers",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "coxswain",
+      "coxswains"
+    ]
+  },
+  "crag": {
+    "def": [
+      {
+        "definition": "a steep rugged rock or cliff",
+        "type": "n."
+      },
+      {
+        "definition": "a sharp detached fragment of rock",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "crag",
+      "cragged",
+      "crags"
+    ]
+  },
+  "cranium": {
+    "def": [
+      {
+        "definition": "The skull of an animal, especially that part enclosing the brain.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "crass": {
+    "def": [
+      {
+        "definition": "being beneath one's dignity",
+        "type": "adj."
+      },
+      {
+        "definition": "guided by or indicative of  or materialistic values",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "crass",
+      "crasser",
+      "crassest",
+      "crassly",
+      "crassness",
+      "crassnesses"
+    ]
+  },
+  "craving": {
+    "def": [
+      {
+        "definition": "an intense, urgent, or abnormal desire or longing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "craving",
+      "cravings"
+    ]
+  },
+  "creak": {
+    "def": [
+      {
+        "definition": "to make a prolonged grating or squeaking sound often as a result of being worn-out",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "creak",
+      "creaked",
+      "creaking",
+      "creaks"
+    ]
+  },
+  "creamery": {
+    "def": [
+      {
+        "definition": "an establishment where butter and cheese are made or where milk and {a_link|cream} are prepared or sold",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "creameries",
+      "creamery"
+    ]
+  },
+  "creamy": {
+    "def": [
+      {
+        "definition": "containing {a_link|cream}",
+        "type": "adj."
+      },
+      {
+        "definition": "resembling cream (as in color, texture, or taste)",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "creamier",
+      "creamiest",
+      "creamily",
+      "creaminess",
+      "creaminesses",
+      "creamy"
+    ]
+  },
+  "credence": {
+    "def": [
+      {
+        "definition": "mental acceptance as true or real",
+        "type": "n."
+      },
+      {
+        "definition": "a Renaissance sideboard used chiefly for valuable plate",
+        "type": "n."
+      },
+      {
+        "definition": "a small table where the bread and wine rest before consecration",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "credence",
+      "credences"
+    ]
+  },
+  "credible": {
+    "def": [
+      {
+        "definition": "offering reasonable grounds for being believed or trusted",
+        "type": "adj."
+      },
+      {
+        "definition": "good enough to be effective",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "credible",
+      "credibly"
+    ]
+  },
+  "credulous": {
+    "def": [
+      {
+        "definition": "ready to believe especially on slight or uncertain evidence",
+        "type": "adj."
+      },
+      {
+        "definition": "proceeding from",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "credulous",
+      "credulously",
+      "credulousness",
+      "credulousnesses"
+    ]
+  },
+  "creed": {
+    "def": [
+      {
+        "definition": "a brief authoritative formula of religious belief",
+        "type": "n."
+      },
+      {
+        "definition": "a set of fundamental beliefs",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "credal",
+      "creed",
+      "creedal",
+      "creeds"
+    ]
+  },
+  "crematory": {
+    "def": [
+      {
+        "definition": "a furnace for {a_link|cremating}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "crematories",
+      "crematory"
+    ]
+  },
+  "crevasse": {
+    "def": [
+      {
+        "definition": "a breach in a levee",
+        "type": "n."
+      },
+      {
+        "definition": "a deep {a_link|crevice} or fissure (as in a glacier or the earth)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "crevasse",
+      "crevasses"
+    ]
+  },
+  "crevice": {
+    "def": [
+      {
+        "definition": "a narrow opening resulting from a split or crack (as in a cliff)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "crevice",
+      "crevices"
+    ]
+  },
+  "criterion": {
+    "def": [
+      {
+        "definition": "a standard on which a judgment or decision may be based",
+        "type": "n."
+      },
+      {
+        "definition": "a  mark or trait",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "criteria",
+      "criterion",
+      "criterions"
+    ]
+  },
+  "critique": {
+    "def": [
+      {
+        "definition": "an act of criticizing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "critique",
+      "critiques"
+    ]
+  },
+  "crockery": {
+    "def": [
+      {
+        "definition": "Earthenware made from baked clay.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "crucible": {
+    "def": [
+      {
+        "definition": "a vessel of a very refractory {dx_def}see {/dx_def} material (such as porcelain) used for melting and  a substance that requires a high degree of heat",
+        "type": "n."
+      },
+      {
+        "definition": "a severe test",
+        "type": "n."
+      },
+      {
+        "definition": "a place or situation in which concentrated forces interact to cause or influence change or development",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "crucible",
+      "crucibles"
+    ]
+  },
+  "crusade": {
+    "def": [
+      {
+        "definition": "any of the military expeditions undertaken by Christian powers in the 11th, 12th, and 13th centuries to win the Holy Land from the Muslims",
+        "type": "n."
+      },
+      {
+        "definition": "a remedial enterprise undertaken with zeal and enthusiasm",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Crusade",
+      "Crusades",
+      "crusade",
+      "crusades"
+    ]
+  },
+  "crustacean": {
+    "def": [
+      {
+        "definition": "any of a large class (Crustacea) of mostly aquatic mandibulate arthropods that have a chitinous or calcareous and chitinous exoskeleton, a pair of often much modified appendages on each segment, and two pairs of antennae and that include the lobsters, shrimp, crabs, wood lice, water fleas, and barnacles",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "crustacean",
+      "crustaceans"
+    ]
+  },
+  "crustaceous": {
+    "def": [
+      {
+        "definition": "of, relating to, having, or forming a {a_link|crust} or shell",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "crustaceous"
+    ]
+  },
+  "cryptogram": {
+    "def": [
+      {
+        "definition": "a communication in cipher or code",
+        "type": "n."
+      },
+      {
+        "definition": "a figure or representation having a hidden significance",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cryptogram",
+      "cryptograms"
+    ]
+  },
+  "crystallize": {
+    "def": [
+      {
+        "definition": "to cause to form {a_link|crystals} or assume {a_link|crystalline} form",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to take a definite form",
+        "type": "v."
+      },
+      {
+        "definition": "to coat with crystals especially of sugar",
+        "type": "v."
+      },
+      {
+        "definition": "to become {a_link|crystallized}",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "crystalize",
+      "crystalized",
+      "crystalizes",
+      "crystalizing",
+      "crystallizable",
+      "crystallization",
+      "crystallizations",
+      "crystallize",
+      "crystallized",
+      "crystallizer",
+      "crystallizers",
+      "crystallizes",
+      "crystallizing"
+    ]
+  },
+  "cudgel": {
+    "def": [
+      {
+        "definition": "a short heavy club",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cudgel",
+      "cudgels"
+    ]
+  },
+  "culinary": {
+    "def": [
+      {
+        "definition": "of or relating to the kitchen or cookery",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "culinarily",
+      "culinary"
+    ]
+  },
+  "cull": {
+    "def": [
+      {
+        "definition": "to select from a group",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce or control the size of (something, such as a herd) by removal (as by hunting or slaughter) of especially weak or sick individuals",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "cull",
+      "culled",
+      "culler",
+      "cullers",
+      "culling",
+      "culls"
+    ]
+  },
+  "culpable": {
+    "def": [
+      {
+        "definition": "meriting condemnation or blame especially as wrong or harmful",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "culpable",
+      "culpableness",
+      "culpablenesses",
+      "culpably"
+    ]
+  },
+  "culprit": {
+    "def": [
+      {
+        "definition": "one accused of or charged with a crime",
+        "type": "n."
+      },
+      {
+        "definition": "one guilty of a crime or a fault",
+        "type": "n."
+      },
+      {
+        "definition": "the source or cause of a problem",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "culprit",
+      "culprits"
+    ]
+  },
+  "culvert": {
+    "def": [
+      {
+        "definition": "a transverse drain",
+        "type": "n."
+      },
+      {
+        "definition": "a conduit for a culvert",
+        "type": "n."
+      },
+      {
+        "definition": "a bridge over a culvert",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "culvert",
+      "culverts"
+    ]
+  },
+  "cupidity": {
+    "def": [
+      {
+        "definition": "inordinate desire for wealth ,",
+        "type": "n."
+      },
+      {
+        "definition": "strong desire",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cupidities",
+      "cupidity"
+    ]
+  },
+  "curable": {
+    "def": [
+      {
+        "definition": "capable of being cured",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "curabilities",
+      "curability",
+      "curable",
+      "curableness",
+      "curablenesses",
+      "curably"
+    ]
+  },
+  "curator": {
+    "def": [
+      {
+        "definition": "a person who oversees or manages a place (such as a museum or zoo) that offers exhibits",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "curator",
+      "curatorial",
+      "curators",
+      "curatorship",
+      "curatorships"
+    ]
+  },
+  "curio": {
+    "def": [
+      {
+        "definition": "something (such as a decorative object) considered novel, rare, or bizarre",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "curio",
+      "curios"
+    ]
+  },
+  "cursive": {
+    "def": [
+      {
+        "definition": "flowing often with the strokes of successive characters joined and the angles rounded",
+        "type": "adj."
+      },
+      {
+        "definition": "having a flowing, easy, impromptu character",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cursive",
+      "cursively",
+      "cursiveness",
+      "cursivenesses"
+    ]
+  },
+  "cursory": {
+    "def": [
+      {
+        "definition": "rapidly and often superficially performed or produced",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cursorily",
+      "cursoriness",
+      "cursorinesses",
+      "cursory"
+    ]
+  },
+  "curt": {
+    "def": [
+      {
+        "definition": "sparing of words",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by rude or peremptory {dx_def}see {/dx_def} shortness",
+        "type": "adj."
+      },
+      {
+        "definition": "shortened in linear dimension",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "curt",
+      "curter",
+      "curtest",
+      "curtly",
+      "curtness",
+      "curtnesses"
+    ]
+  },
+  "curtail": {
+    "def": [
+      {
+        "definition": "to make less by or as if by cutting off or away some part",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "curtail",
+      "curtailed",
+      "curtailer",
+      "curtailers",
+      "curtailing",
+      "curtails"
+    ]
+  },
+  "curtsy": {
+    "def": [
+      {
+        "definition": "an act of civility, respect, or reverence made mainly by women and consisting of a slight lowering of the body with bending of the knees",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "curtsey",
+      "curtseys",
+      "curtsies",
+      "curtsy"
+    ]
+  },
+  "cycloid": {
+    "def": [
+      {
+        "definition": "a curve that is generated by a point on the circumference of a circle as it rolls along a straight line",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cycloid",
+      "cycloidal",
+      "cycloids"
+    ]
+  },
+  "cygnet": {
+    "def": [
+      {
+        "definition": "a young swan",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "cygnet",
+      "cygnets"
+    ]
+  },
+  "cynical": {
+    "def": [
+      {
+        "definition": "contemptuously distrustful of human nature and motives",
+        "type": "adj."
+      },
+      {
+        "definition": "based on or reflecting a belief that human conduct is motivated primarily by",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "cynical",
+      "cynically"
+    ]
+  },
+  "cynicism": {
+    "def": [
+      {
+        "definition": "the doctrine of the Cynics {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "attitude or quality",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Cynicism",
+      "Cynicisms",
+      "cynicism",
+      "cynicisms"
+    ]
+  },
+  "cynosure": {
+    "def": [
+      {
+        "definition": "the northern constellation Ursa Minor",
+        "type": "n."
+      },
+      {
+        "definition": "one that serves to direct or guide",
+        "type": "n."
+      },
+      {
+        "definition": "a center of attraction or attention",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Cynosure",
+      "Cynosures",
+      "cynosure",
+      "cynosures"
+    ]
+  }
+}

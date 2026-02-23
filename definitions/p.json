@@ -1,0 +1,4925 @@
+{
+  "pacify": {
+    "def": [
+      {
+        "definition": "To bring into a peaceful state.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "packet": {
+    "def": [
+      {
+        "definition": "A bundle, as of letters.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pact": {
+    "def": [
+      {
+        "definition": "A covenant.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pagan": {
+    "def": [
+      {
+        "definition": "A worshiper of false gods.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pageant": {
+    "def": [
+      {
+        "definition": "A dramatic representation, especially a spectacular one.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "palate": {
+    "def": [
+      {
+        "definition": "The roof of the mouth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "palatial": {
+    "def": [
+      {
+        "definition": "Magnificent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "paleontology": {
+    "def": [
+      {
+        "definition": "The branch of biology that treats of ancient life and fossil organisms.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "palette": {
+    "def": [
+      {
+        "definition": "A thin tablet, with a hole for the thumb, upon which artists lay their colors",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "palinode": {
+    "def": [
+      {
+        "definition": "A retraction.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pall": {
+    "def": [
+      {
+        "definition": "To make dull by satiety.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "palliate": {
+    "def": [
+      {
+        "definition": "To cause to appear less guilty.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "pallid": {
+    "def": [
+      {
+        "definition": "Of a pale or wan appearance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "palpable": {
+    "def": [
+      {
+        "definition": "perceptible by feeling or touch.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "palsy": {
+    "def": [
+      {
+        "definition": "Paralysis.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paly": {
+    "def": [
+      {
+        "definition": "Lacking color or brilliancy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pamphlet": {
+    "def": [
+      {
+        "definition": "A brief treatise or essay, usually on a subject of current interest.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pamphleteer": {
+    "def": [
+      {
+        "definition": "To compose or issue pamphlets, especially controversial ones.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "panacea": {
+    "def": [
+      {
+        "definition": "A remedy or medicine proposed for or professing to cure all diseases.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pan-american": {
+    "def": [
+      {
+        "definition": "Including or pertaining to the whole of America, both North and South.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pandemic": {
+    "def": [
+      {
+        "definition": "Affecting a whole people or all classes, as a disease.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pandemonium": {
+    "def": [
+      {
+        "definition": "A fiendish or riotous uproar.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "panegyric": {
+    "def": [
+      {
+        "definition": "A formal and elaborate eulogy, written or spoken, of a person or of an act.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "panel": {
+    "def": [
+      {
+        "definition": "A rectangular piece set in or as in a frame.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "panic": {
+    "def": [
+      {
+        "definition": "A sudden, unreasonable, overpowering fear.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "panoply": {
+    "def": [
+      {
+        "definition": "A full set of armor.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "panorama": {
+    "def": [
+      {
+        "definition": "A series of large pictures representing a continuous scene.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pantheism": {
+    "def": [
+      {
+        "definition": "The worship of nature for itself or its beauty.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pantheon": {
+    "def": [
+      {
+        "definition": "A circular temple at Rome with a fine Corinthian portico and a great domed",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pantomime": {
+    "def": [
+      {
+        "definition": "Sign-language.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pantoscope": {
+    "def": [
+      {
+        "definition": "A very wide-angled photographic lens.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "papacy": {
+    "def": [
+      {
+        "definition": "The official head of the Roman Catholic Church.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "papyrus": {
+    "def": [
+      {
+        "definition": "The writing-paper of the ancient Egyptians, and later of the Romans.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parable": {
+    "def": [
+      {
+        "definition": "A brief narrative founded on real scenes or events usually with a moral.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paradox": {
+    "def": [
+      {
+        "definition": "A statement or doctrine seemingly in contradiction to the received belief.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paragon": {
+    "def": [
+      {
+        "definition": "A model of excellence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parallel": {
+    "def": [
+      {
+        "definition": "To cause to correspond or lie in the same direction and equidistant in all",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "parallelism": {
+    "def": [
+      {
+        "definition": "Essential likeness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paralysis": {
+    "def": [
+      {
+        "definition": "Loss of the power of contractility in the voluntary or involuntary muscles.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paralyze": {
+    "def": [
+      {
+        "definition": "To deprive of the power to act.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "paramount": {
+    "def": [
+      {
+        "definition": "Supreme in authority.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "paramour": {
+    "def": [
+      {
+        "definition": "One who is unlawfully and immorally a lover or a mistress.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paraphernalia": {
+    "def": [
+      {
+        "definition": "Miscellaneous articles of equipment or adornment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "paraphrase": {
+    "def": [
+      {
+        "definition": "Translate freely.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "pare": {
+    "def": [
+      {
+        "definition": "To cut, shave, or remove (the outside) from anything.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "parentage": {
+    "def": [
+      {
+        "definition": "The relation of parent to child, of the producer to the produced, or of cause",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pariah": {
+    "def": [
+      {
+        "definition": "A member of a degraded class; a social outcast.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parish": {
+    "def": [
+      {
+        "definition": "The ecclesiastical district in charge of a pastor.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parisian": {
+    "def": [
+      {
+        "definition": "Of or pertaining to the city of Paris.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "parity": {
+    "def": [
+      {
+        "definition": "Equality, as of condition or rank.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parlance": {
+    "def": [
+      {
+        "definition": "Mode of speech.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parley": {
+    "def": [
+      {
+        "definition": "To converse in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "parliament": {
+    "def": [
+      {
+        "definition": "A legislative body.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parlor": {
+    "def": [
+      {
+        "definition": "A room for reception of callers or entertainment of guests.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parody": {
+    "def": [
+      {
+        "definition": "To render ludicrous by imitating the language of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "paronymous": {
+    "def": [
+      {
+        "definition": "Derived from the same root or primitive word.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "paroxysm": {
+    "def": [
+      {
+        "definition": "A sudden outburst of any kind of activity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parricide": {
+    "def": [
+      {
+        "definition": "The murder of a parent.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "parse": {
+    "def": [
+      {
+        "definition": "To describe, as a sentence, by separating it into its elements and describing",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "parsimonious": {
+    "def": [
+      {
+        "definition": "Unduly sparing in the use or expenditure of money.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "partible": {
+    "def": [
+      {
+        "definition": "Separable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "participant": {
+    "def": [
+      {
+        "definition": "One having a share or part.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "participate": {
+    "def": [
+      {
+        "definition": "To receive or have a part or share of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "partition": {
+    "def": [
+      {
+        "definition": "That which separates anything into distinct parts.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "partisan": {
+    "def": [
+      {
+        "definition": "Characterized by or exhibiting undue or unreasoning devotion to a party.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "passible": {
+    "def": [
+      {
+        "definition": "Capable of feeling of suffering.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "passive": {
+    "def": [
+      {
+        "definition": "Unresponsive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pastoral": {
+    "def": [
+      {
+        "definition": "Having the spirit or sentiment of rural life.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "paternal": {
+    "def": [
+      {
+        "definition": "Fatherly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "paternity": {
+    "def": [
+      {
+        "definition": "Fatherhood.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pathos": {
+    "def": [
+      {
+        "definition": "The quality in any form of representation that rouses emotion or sympathy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "patriarch": {
+    "def": [
+      {
+        "definition": "The chief of a tribe or race who rules by paternal right.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "patrician": {
+    "def": [
+      {
+        "definition": "Of senatorial or noble rank.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "patrimony": {
+    "def": [
+      {
+        "definition": "An inheritance from an ancestor, especially from one's father.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "patriotism": {
+    "def": [
+      {
+        "definition": "Love and devotion to one's country.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "patronize": {
+    "def": [
+      {
+        "definition": "To exercise an arrogant condescension toward.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "patronymic": {
+    "def": [
+      {
+        "definition": "Formed after one's father's name.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "patter": {
+    "def": [
+      {
+        "definition": "To mumble something over and over.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "paucity": {
+    "def": [
+      {
+        "definition": "Fewness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pauper": {
+    "def": [
+      {
+        "definition": "One without means of support.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pauperism": {
+    "def": [
+      {
+        "definition": "Dependence on charity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pavilion": {
+    "def": [
+      {
+        "definition": "An open structure for temporary shelter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "payee": {
+    "def": [
+      {
+        "definition": "A person to whom money has been or is to be paid.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peaceable": {
+    "def": [
+      {
+        "definition": "Tranquil.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "peaceful": {
+    "def": [
+      {
+        "definition": "Tranquil.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "peccable": {
+    "def": [
+      {
+        "definition": "Capable of sinning.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "peccadillo": {
+    "def": [
+      {
+        "definition": "A small breach of propriety or principle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peccant": {
+    "def": [
+      {
+        "definition": "Guilty.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pectoral": {
+    "def": [
+      {
+        "definition": "Pertaining to the breast or thorax.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pecuniary": {
+    "def": [
+      {
+        "definition": "Consisting of money.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pedagogics": {
+    "def": [
+      {
+        "definition": "The science and art of teaching.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pedagogue": {
+    "def": [
+      {
+        "definition": "A schoolmaster.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pedagogy": {
+    "def": [
+      {
+        "definition": "The science and art of teaching",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pedal": {
+    "def": [
+      {
+        "definition": "A lever for the foot usually applied only to musical instruments, cycles, and",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pedant": {
+    "def": [
+      {
+        "definition": "A scholar who makes needless and inopportune display of his learning.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peddle": {
+    "def": [
+      {
+        "definition": "To go about with a small stock of goods to sell.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "pedestal": {
+    "def": [
+      {
+        "definition": "A base or support as for a column, statue, or vase.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pedestrian": {
+    "def": [
+      {
+        "definition": "One who journeys on foot.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pediatrics": {
+    "def": [
+      {
+        "definition": "The department of medical science that relates to the treatment of diseases",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pedigree": {
+    "def": [
+      {
+        "definition": "One's line of ancestors.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peddler": {
+    "def": [
+      {
+        "definition": "One who travels from house to house with an assortment of goods for retail.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peerage": {
+    "def": [
+      {
+        "definition": "The nobility.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peerless": {
+    "def": [
+      {
+        "definition": "Of unequaled excellence or worth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "peevish": {
+    "def": [
+      {
+        "definition": "Petulant. (irritable)",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pellucid": {
+    "def": [
+      {
+        "definition": "Translucent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "penalty": {
+    "def": [
+      {
+        "definition": "The consequences that follow the transgression of natural or divine law.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "penance": {
+    "def": [
+      {
+        "definition": "Punishment to which one voluntarily submits or subjects himself as an",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "penchant": {
+    "def": [
+      {
+        "definition": "A bias in favor of something.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pendant": {
+    "def": [
+      {
+        "definition": "Anything that hangs from something else, either for ornament or for use.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pendulous": {
+    "def": [
+      {
+        "definition": "Hanging, especially so as to swing by an attached end or part.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pendulum": {
+    "def": [
+      {
+        "definition": "A weight hung on a rod, serving by its oscillation to regulate the rate of a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "penetrable": {
+    "def": [
+      {
+        "definition": "That may be pierced by physical, moral, or intellectual force.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "penetrate": {
+    "def": [
+      {
+        "definition": "To enter or force a way into the interior parts of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "penetration": {
+    "def": [
+      {
+        "definition": "Discernment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peninsular": {
+    "def": [
+      {
+        "definition": "Pertaining to a piece of land almost surrounded by water.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "penitence": {
+    "def": [
+      {
+        "definition": "Sorrow for sin with desire to amend and to atone.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "penitential": {
+    "def": [
+      {
+        "definition": "Pertaining to sorrow for sin with desire to amend and to atone.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pennant": {
+    "def": [
+      {
+        "definition": "A small flag.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pension": {
+    "def": [
+      {
+        "definition": "A periodical allowance to an individual on account of past service done by",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pentagram": {
+    "def": [
+      {
+        "definition": "A figure having five points or lobes.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pentavalent": {
+    "def": [
+      {
+        "definition": "Quinqeuvalent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pentad": {
+    "def": [
+      {
+        "definition": "The number five.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pentagon": {
+    "def": [
+      {
+        "definition": "A figure, especially, with five angles and five sides.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pentahedron": {
+    "def": [
+      {
+        "definition": "A solid bounded by five plane faces.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pentameter": {
+    "def": [
+      {
+        "definition": "In prosody, a line of verse containing five units or feet.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pentathlon": {
+    "def": [
+      {
+        "definition": "The contest of five associated exercises in the great games and the same",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "penultimate": {
+    "def": [
+      {
+        "definition": "A syllable or member of a series that is last but one.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "penurious": {
+    "def": [
+      {
+        "definition": "Excessively sparing in the use of money.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "penury": {
+    "def": [
+      {
+        "definition": "Indigence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perambulate": {
+    "def": [
+      {
+        "definition": "To walk about.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perceive": {
+    "def": [
+      {
+        "definition": "To have knowledge of, or receive impressions concerning, through the medium of",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perceptible": {
+    "def": [
+      {
+        "definition": "Cognizable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perception": {
+    "def": [
+      {
+        "definition": "Knowledge through the senses of the existence and properties of matter or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "percipience": {
+    "def": [
+      {
+        "definition": "The act of perceiving.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "percipient": {
+    "def": [
+      {
+        "definition": "One who or that which perceives.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "percolate": {
+    "def": [
+      {
+        "definition": "To filter.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "percolator": {
+    "def": [
+      {
+        "definition": "A filter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "percussion": {
+    "def": [
+      {
+        "definition": "The sharp striking of one body against another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peremptory": {
+    "def": [
+      {
+        "definition": "Precluding question or appeal.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perennial": {
+    "def": [
+      {
+        "definition": "Continuing though the year or through many years.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perfectible": {
+    "def": [
+      {
+        "definition": "Capable of being made perfect.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perfidy": {
+    "def": [
+      {
+        "definition": "Treachery.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perforate": {
+    "def": [
+      {
+        "definition": "To make a hole or holes through.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perform": {
+    "def": [
+      {
+        "definition": "To accomplish.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perfumery": {
+    "def": [
+      {
+        "definition": "The preparation of perfumes.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perfunctory": {
+    "def": [
+      {
+        "definition": "Half-hearted.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perhaps": {
+    "def": [
+      {
+        "definition": "Possibly.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "perigee": {
+    "def": [
+      {
+        "definition": "The point in the orbit of the moon when it is nearest the earth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "periodicity": {
+    "def": [
+      {
+        "definition": "The habit or characteristic of recurrence at regular intervals.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "peripatetic": {
+    "def": [
+      {
+        "definition": "Walking about.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perjure": {
+    "def": [
+      {
+        "definition": "To swear falsely to.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perjury": {
+    "def": [
+      {
+        "definition": "A solemn assertion of a falsity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "permanence": {
+    "def": [
+      {
+        "definition": "A continuance in the same state, or without any change that destroys the",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "permanent": {
+    "def": [
+      {
+        "definition": "Durable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "permeate": {
+    "def": [
+      {
+        "definition": "To pervade.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "permissible": {
+    "def": [
+      {
+        "definition": "That may be allowed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "permutation": {
+    "def": [
+      {
+        "definition": "Reciprocal change, different ordering of same items.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pernicious": {
+    "def": [
+      {
+        "definition": "Tending to kill or hurt.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perpendicular": {
+    "def": [
+      {
+        "definition": "Straight up and down.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perpetrator": {
+    "def": [
+      {
+        "definition": "The doer of a wrong or a criminal act.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perpetuate": {
+    "def": [
+      {
+        "definition": "To preserve from extinction or oblivion.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perquisite": {
+    "def": [
+      {
+        "definition": "Any profit from service beyond the amount fixed as salary or wages.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "persecution": {
+    "def": [
+      {
+        "definition": "Harsh or malignant oppression.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perseverance": {
+    "def": [
+      {
+        "definition": "A persistence in purpose and effort.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "persevere": {
+    "def": [
+      {
+        "definition": "To continue striving in spite of discouragements.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "persiflage": {
+    "def": [
+      {
+        "definition": "Banter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "persist": {
+    "def": [
+      {
+        "definition": "To continue steadfast against opposition.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "persistence": {
+    "def": [
+      {
+        "definition": "A fixed adherence to a resolve, course of conduct, or the like.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "personage": {
+    "def": [
+      {
+        "definition": "A man or woman as an individual, especially one of rank or high station.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "personal": {
+    "def": [
+      {
+        "definition": "Not general or public.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "personality": {
+    "def": [
+      {
+        "definition": "The attributes, taken collectively, that make up the character and nature",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "personnel": {
+    "def": [
+      {
+        "definition": "The force of persons collectively employed in some service.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perspective": {
+    "def": [
+      {
+        "definition": "The relative importance of facts or matters from any special point of view.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perspicacious": {
+    "def": [
+      {
+        "definition": "Astute.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perspicacity": {
+    "def": [
+      {
+        "definition": "Acuteness or discernment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perspicuous": {
+    "def": [
+      {
+        "definition": "Lucid.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perspiration": {
+    "def": [
+      {
+        "definition": "Sweat.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perspire": {
+    "def": [
+      {
+        "definition": "To excrete through the pores of the skin.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "persuade": {
+    "def": [
+      {
+        "definition": "To win the mind of by argument, eloquence, evidence, or reflection.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "persuadable": {
+    "def": [
+      {
+        "definition": "capable of influencing to action by entreaty, statement, or anything that",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pertinacious": {
+    "def": [
+      {
+        "definition": "Persistent or unyielding.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pertinacity": {
+    "def": [
+      {
+        "definition": "Unyielding adherence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pertinent": {
+    "def": [
+      {
+        "definition": "Relevant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perturb": {
+    "def": [
+      {
+        "definition": "To disturb greatly.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "perturbation": {
+    "def": [
+      {
+        "definition": "Mental excitement or confusion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perusal": {
+    "def": [
+      {
+        "definition": "The act of reading carefully or thoughtfully.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pervade": {
+    "def": [
+      {
+        "definition": "To pass or spread through every part.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "pervasion": {
+    "def": [
+      {
+        "definition": "The state of spreading through every part.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pervasive": {
+    "def": [
+      {
+        "definition": "Thoroughly penetrating or permeating.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perverse": {
+    "def": [
+      {
+        "definition": "Unreasonable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "perversion": {
+    "def": [
+      {
+        "definition": "Diversion from the true meaning or proper purpose.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "perversity": {
+    "def": [
+      {
+        "definition": "Wickedness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pervert": {
+    "def": [
+      {
+        "definition": "One who has forsaken a doctrine regarded as true for one esteemed false.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pervious": {
+    "def": [
+      {
+        "definition": "Admitting the entrance or passage of another substance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pestilence": {
+    "def": [
+      {
+        "definition": "A raging epidemic.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pestilent": {
+    "def": [
+      {
+        "definition": "Having a malign influence or effect.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pestilential": {
+    "def": [
+      {
+        "definition": "having the nature of or breeding pestilence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "peter": {
+    "def": [
+      {
+        "definition": "To fail or lose power, efficiency, or value.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "petrify": {
+    "def": [
+      {
+        "definition": "To convert into a substance of stony hardness and character.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "petulance": {
+    "def": [
+      {
+        "definition": "The character or condition of being impatient, capricious or petulant.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "petulant": {
+    "def": [
+      {
+        "definition": "Displaying impatience.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pharmacopoeia": {
+    "def": [
+      {
+        "definition": "A book containing the formulas and methods of preparation of medicines",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pharmacy": {
+    "def": [
+      {
+        "definition": "The art or business of compounding and dispensing medicines.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "phenomenal": {
+    "def": [
+      {
+        "definition": "Extraordinary or marvelous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "phenomenon": {
+    "def": [
+      {
+        "definition": "Any unusual occurrence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philander": {
+    "def": [
+      {
+        "definition": "To play at courtship with a woman.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "philanthropic": {
+    "def": [
+      {
+        "definition": "Benevolent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "philanthropist": {
+    "def": [
+      {
+        "definition": "One who endeavors to help his fellow men.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philanthropy": {
+    "def": [
+      {
+        "definition": "Active humanitarianism.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philately": {
+    "def": [
+      {
+        "definition": "The study and collection of stamps.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philharmonic": {
+    "def": [
+      {
+        "definition": "Fond of music.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "philogynist": {
+    "def": [
+      {
+        "definition": "One who is fond of women.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philologist": {
+    "def": [
+      {
+        "definition": "An expert in linguistics.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philology": {
+    "def": [
+      {
+        "definition": "The study of language in connection with history and literature.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "philosophize": {
+    "def": [
+      {
+        "definition": "To seek ultimate causes and principles.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "philosophy": {
+    "def": [
+      {
+        "definition": "The general principles, laws, or causes that furnish the rational",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "phlegmatic": {
+    "def": [
+      {
+        "definition": "Not easily roused to feeling or action.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "phonetic": {
+    "def": [
+      {
+        "definition": "Representing articulate sounds or speech.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "phonic": {
+    "def": [
+      {
+        "definition": "Pertaining to the nature of sound.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "phonogram": {
+    "def": [
+      {
+        "definition": "A graphic character symbolizing an articulate sound.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "phonology": {
+    "def": [
+      {
+        "definition": "The science of human vocal sounds.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "phosphorescence": {
+    "def": [
+      {
+        "definition": "The property of emitting light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "photoelectric": {
+    "def": [
+      {
+        "definition": "Pertaining to the combined action of light and electricity.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "photometer": {
+    "def": [
+      {
+        "definition": "Any instrument for measuring the intensity of light or comparing the",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "photometry": {
+    "def": [
+      {
+        "definition": "The art of measuring the intensity of light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physicist": {
+    "def": [
+      {
+        "definition": "A specialist in the science that treats of the phenomena associated with",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physics": {
+    "def": [
+      {
+        "definition": "The science that treats of the phenomena associated with matter and energy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physiocracy": {
+    "def": [
+      {
+        "definition": "The doctrine that land and its products are the only true wealth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physiognomy": {
+    "def": [
+      {
+        "definition": "The external appearance merely.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physiography": {
+    "def": [
+      {
+        "definition": "Description of nature.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physiology": {
+    "def": [
+      {
+        "definition": "The science of organic functions.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "physique": {
+    "def": [
+      {
+        "definition": "The physical structure or organization of a person.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "picayune": {
+    "def": [
+      {
+        "definition": "Of small value.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "piccolo": {
+    "def": [
+      {
+        "definition": "A small flute.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "piece": {
+    "def": [
+      {
+        "definition": "A loose or separated part, as distinguished from the whole or the mass.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "piecemeal": {
+    "def": [
+      {
+        "definition": "Gradually.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "pillage": {
+    "def": [
+      {
+        "definition": "Open robbery, as in war.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pillory": {
+    "def": [
+      {
+        "definition": "A wooden framework in which an offender is fastened to boards and is exposed to",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pincers": {
+    "def": [
+      {
+        "definition": "An instrument having two lever-handles and two jaws working on a pivot.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pinchers": {
+    "def": [
+      {
+        "definition": "An instrument having two jaws working on a pivot.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pinnacle": {
+    "def": [
+      {
+        "definition": "A high or topmost point, as a mountain-peak.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pioneer": {
+    "def": [
+      {
+        "definition": "One among the first to explore a country.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pious": {
+    "def": [
+      {
+        "definition": "Religious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pique": {
+    "def": [
+      {
+        "definition": "To excite a slight degree of anger in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "piteous": {
+    "def": [
+      {
+        "definition": "Compassionate.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pitiable": {
+    "def": [
+      {
+        "definition": "Contemptible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pitiful": {
+    "def": [
+      {
+        "definition": "Wretched.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pitiless": {
+    "def": [
+      {
+        "definition": "Hard-hearted.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pittance": {
+    "def": [
+      {
+        "definition": "Any small portion or meager allowance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "placate": {
+    "def": [
+      {
+        "definition": "To bring from a state of angry or hostile feeling to one of patience or",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "placid": {
+    "def": [
+      {
+        "definition": "Serene.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "plagiarism": {
+    "def": [
+      {
+        "definition": "The stealing of passages from the writings of another and publishing them as",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "planisphere": {
+    "def": [
+      {
+        "definition": "A polar projection of the heavens on a chart.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plasticity": {
+    "def": [
+      {
+        "definition": "The property of some substances through which the form of the mass can",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "platitude": {
+    "def": [
+      {
+        "definition": "A written or spoken statement that is flat, dull, or commonplace.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plaudit": {
+    "def": [
+      {
+        "definition": "An expression of applause.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plausible": {
+    "def": [
+      {
+        "definition": "Seeming likely to be true, though open to doubt.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "playful": {
+    "def": [
+      {
+        "definition": "Frolicsome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "playwright": {
+    "def": [
+      {
+        "definition": "A maker of plays for the stage.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plea": {
+    "def": [
+      {
+        "definition": "An argument to obtain some desired action.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pleasant": {
+    "def": [
+      {
+        "definition": "Agreeable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pleasurable": {
+    "def": [
+      {
+        "definition": "Affording gratification.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "plebeian": {
+    "def": [
+      {
+        "definition": "Common.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pledgee": {
+    "def": [
+      {
+        "definition": "The person to whom anything is pledged.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pledgeor": {
+    "def": [
+      {
+        "definition": "One who gives a pledge.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plenary": {
+    "def": [
+      {
+        "definition": "Entire.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "plenipotentiary": {
+    "def": [
+      {
+        "definition": "A person fully empowered to transact any business.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plenitude": {
+    "def": [
+      {
+        "definition": "Abundance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plenteous": {
+    "def": [
+      {
+        "definition": "Abundant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "plumb": {
+    "def": [
+      {
+        "definition": "A weight suspended by a line to test the verticality of something.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plummet": {
+    "def": [
+      {
+        "definition": "A piece of lead for making soundings, adjusting walls to the vertical.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pluperfect": {
+    "def": [
+      {
+        "definition": "Expressing past time or action prior to some other past time or action.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "plural": {
+    "def": [
+      {
+        "definition": "Containing or consisting of more than one.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "plurality": {
+    "def": [
+      {
+        "definition": "A majority.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "plutocracy": {
+    "def": [
+      {
+        "definition": "A wealthy class in a political community who control the government by means",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pneumatic": {
+    "def": [
+      {
+        "definition": "Pertaining to or consisting of air or gas.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "poesy": {
+    "def": [
+      {
+        "definition": "Poetry.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "poetaster": {
+    "def": [
+      {
+        "definition": "An inferior poet.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "poetic": {
+    "def": [
+      {
+        "definition": "Pertaining to poetry.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "poetics": {
+    "def": [
+      {
+        "definition": "The rules and principles of poetry.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "poignancy": {
+    "def": [
+      {
+        "definition": "Severity or acuteness, especially of pain or grief.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "poignant": {
+    "def": [
+      {
+        "definition": "Severely painful or acute to the spirit.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "poise": {
+    "def": [
+      {
+        "definition": "Equilibrium.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "polar": {
+    "def": [
+      {
+        "definition": "Pertaining to the poles of a sphere, especially of the earth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "polemics": {
+    "def": [
+      {
+        "definition": "The art of controversy or disputation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pollen": {
+    "def": [
+      {
+        "definition": "The fine dust-like grains or powder formed within the anther of a flowering",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pollute": {
+    "def": [
+      {
+        "definition": "To contaminate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "polyarchy": {
+    "def": [
+      {
+        "definition": "Government by several or many persons of what- ever class.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "polycracy": {
+    "def": [
+      {
+        "definition": "The rule of many.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "polygamy": {
+    "def": [
+      {
+        "definition": "the fact or condition of having more than one wife or husband at once.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "polyglot": {
+    "def": [
+      {
+        "definition": "Speaking several tongues.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "polygon": {
+    "def": [
+      {
+        "definition": "A figure having many angles.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "polyhedron": {
+    "def": [
+      {
+        "definition": "A solid bounded by plane faces, especially by more than four.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "polysyllable": {
+    "def": [
+      {
+        "definition": "Having several syllables, especially more than three syllables.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "polytechnic": {
+    "def": [
+      {
+        "definition": "Pertaining to, embracing, or practicing many arts.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "polytheism": {
+    "def": [
+      {
+        "definition": "The doctrine or belief that there are more gods than one.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pommel": {
+    "def": [
+      {
+        "definition": "To beat with something thick or bulky.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "pomposity": {
+    "def": [
+      {
+        "definition": "The quality of being marked by an assumed stateliness and impressiveness of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pompous": {
+    "def": [
+      {
+        "definition": "Marked by an assumed stateliness and impressiveness of manner.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "ponder": {
+    "def": [
+      {
+        "definition": "To meditate or reflect upon.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "ponderous": {
+    "def": [
+      {
+        "definition": "Unusually weighty or forcible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pontiff": {
+    "def": [
+      {
+        "definition": "The Pope.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "populace": {
+    "def": [
+      {
+        "definition": "The common people.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "populous": {
+    "def": [
+      {
+        "definition": "Containing many inhabitants, especially in proportion to the territory.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "portend": {
+    "def": [
+      {
+        "definition": "To indicate as being about to happen, especially by previous signs.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "portent": {
+    "def": [
+      {
+        "definition": "Anything that indicates what is to happen.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "portfolio": {
+    "def": [
+      {
+        "definition": "A portable case for holding writing-materials, drawings, etc.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "posit": {
+    "def": [
+      {
+        "definition": "To present in an orderly manner.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "position": {
+    "def": [
+      {
+        "definition": "The manner in which a thing is placed.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "positive": {
+    "def": [
+      {
+        "definition": "Free from doubt or hesitation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "posse": {
+    "def": [
+      {
+        "definition": "A force of men.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "possess": {
+    "def": [
+      {
+        "definition": "To own.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "possession": {
+    "def": [
+      {
+        "definition": "The having, holding, or detention of property in one's power or command.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "possessive": {
+    "def": [
+      {
+        "definition": "Pertaining to the having, holding, or detention of property in one's power",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "possessor": {
+    "def": [
+      {
+        "definition": "One who owns, enjoys, or controls anything, as property.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "possible": {
+    "def": [
+      {
+        "definition": "Being not beyond the reach of power natural, moral, or supernatural.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "postdate": {
+    "def": [
+      {
+        "definition": "To make the date of any writing later than the real date.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "posterior": {
+    "def": [
+      {
+        "definition": "The hinder part.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "postgraduate": {
+    "def": [
+      {
+        "definition": "Pertaining to studies that are pursued after receiving a degree.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "postscript": {
+    "def": [
+      {
+        "definition": "Something added to a letter after the writer's signature.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "potency": {
+    "def": [
+      {
+        "definition": "Power.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "potent": {
+    "def": [
+      {
+        "definition": "Physically powerful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "potentate": {
+    "def": [
+      {
+        "definition": "One possessed of great power or sway.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "potential": {
+    "def": [
+      {
+        "definition": "Anything that may be possible.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "potion": {
+    "def": [
+      {
+        "definition": "A dose of liquid medicine.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "powerless": {
+    "def": [
+      {
+        "definition": "Impotent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "practicable": {
+    "def": [
+      {
+        "definition": "Feasible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prate": {
+    "def": [
+      {
+        "definition": "To talk about vainly or foolishly.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prattle": {
+    "def": [
+      {
+        "definition": "To utter in simple or childish talk.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preamble": {
+    "def": [
+      {
+        "definition": "A statement introductory to and explanatory of what follows.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "precarious": {
+    "def": [
+      {
+        "definition": "Perilous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "precaution": {
+    "def": [
+      {
+        "definition": "A provision made in advance for some possible emergency or danger.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "precede": {
+    "def": [
+      {
+        "definition": "To happen first.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "precedence": {
+    "def": [
+      {
+        "definition": "Priority in place, time, or rank.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "precedent": {
+    "def": [
+      {
+        "definition": "An instance that may serve as a guide or basis for a rule.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "precedential": {
+    "def": [
+      {
+        "definition": "Of the nature of an instance that may serve as a guide or basis for a",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "precession": {
+    "def": [
+      {
+        "definition": "The act of going forward.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "precipice": {
+    "def": [
+      {
+        "definition": "A high and very steep or approximately vertical cliff.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "precipitant": {
+    "def": [
+      {
+        "definition": "Moving onward quickly and heedlessly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "precipitate": {
+    "def": [
+      {
+        "definition": "To force forward prematurely.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "precise": {
+    "def": [
+      {
+        "definition": "Exact.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "precision": {
+    "def": [
+      {
+        "definition": "Accuracy of limitation, definition, or adjustment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preclude": {
+    "def": [
+      {
+        "definition": "To prevent.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "precocious": {
+    "def": [
+      {
+        "definition": "Having the mental faculties prematurely developed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "precursor": {
+    "def": [
+      {
+        "definition": "A forerunner or herald.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "predatory": {
+    "def": [
+      {
+        "definition": "Prone to pillaging.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "predecessor": {
+    "def": [
+      {
+        "definition": "An incumbent of a given office previous to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "predicament": {
+    "def": [
+      {
+        "definition": "A difficult, trying situation or plight.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "predicate": {
+    "def": [
+      {
+        "definition": "To state as belonging to something.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "predict": {
+    "def": [
+      {
+        "definition": "To foretell.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prediction": {
+    "def": [
+      {
+        "definition": "A prophecy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "predominance": {
+    "def": [
+      {
+        "definition": "Ascendancy or preponderance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "predominant": {
+    "def": [
+      {
+        "definition": "Superior in power, influence, effectiveness, number, or degree.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "predominate": {
+    "def": [
+      {
+        "definition": "To be chief in importance, quantity, or degree.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preeminence": {
+    "def": [
+      {
+        "definition": "Special eminence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preempt": {
+    "def": [
+      {
+        "definition": "To secure the right of preference in the purchase of public land.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preemption": {
+    "def": [
+      {
+        "definition": "The right or act of purchasing before others.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preengage": {
+    "def": [
+      {
+        "definition": "To preoccupy.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preestablish": {
+    "def": [
+      {
+        "definition": "To settle or arrange beforehand.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preexist": {
+    "def": [
+      {
+        "definition": "To exist at a period or in a state earlier than something else.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preexistence": {
+    "def": [
+      {
+        "definition": "Existence antecedent to something.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preface": {
+    "def": [
+      {
+        "definition": "A brief explanation or address to the reader, at the beginning of a book.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prefatory": {
+    "def": [
+      {
+        "definition": "Pertaining to a brief explanation to the reader at the beginning of a book.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prefer": {
+    "def": [
+      {
+        "definition": "To hold in higher estimation.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preferable": {
+    "def": [
+      {
+        "definition": "More desirable than others.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "preference": {
+    "def": [
+      {
+        "definition": "An object of favor or choice.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preferential": {
+    "def": [
+      {
+        "definition": "Possessing, giving, or constituting preference or priority.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "preferment": {
+    "def": [
+      {
+        "definition": "Preference.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prefix": {
+    "def": [
+      {
+        "definition": "To attach at the beginning.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prehensible": {
+    "def": [
+      {
+        "definition": "Capable of being grasped.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prehensile": {
+    "def": [
+      {
+        "definition": "Adapted for grasping or holding.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prehension": {
+    "def": [
+      {
+        "definition": "The act of laying hold of or grasping.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prejudice": {
+    "def": [
+      {
+        "definition": "A judgment or opinion formed without due examination of the facts.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prelacy": {
+    "def": [
+      {
+        "definition": "A system of church government.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prelate": {
+    "def": [
+      {
+        "definition": "One of a higher order of clergy having direct authority over other clergy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prelude": {
+    "def": [
+      {
+        "definition": "An introductory or opening performance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "premature": {
+    "def": [
+      {
+        "definition": "Coming too soon.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "premier": {
+    "def": [
+      {
+        "definition": "First in rank or position.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "premise": {
+    "def": [
+      {
+        "definition": "A judgment as a conclusion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "premonition": {
+    "def": [
+      {
+        "definition": "Foreboding.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preoccupation": {
+    "def": [
+      {
+        "definition": "The state of having the mind, attention, or inclination preoccupied.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preoccupy": {
+    "def": [
+      {
+        "definition": "To fill the mind of a person to the exclusion of other subjects.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preordain": {
+    "def": [
+      {
+        "definition": "To foreordain.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "preparation": {
+    "def": [
+      {
+        "definition": "An act or proceeding designed to bring about some event.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preparatory": {
+    "def": [
+      {
+        "definition": "Having to do with what is preliminary.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "preponderant": {
+    "def": [
+      {
+        "definition": "Prevalent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "preponderate": {
+    "def": [
+      {
+        "definition": "To exceed in influence or power.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prepossession": {
+    "def": [
+      {
+        "definition": "A preconceived liking.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preposterous": {
+    "def": [
+      {
+        "definition": "Utterly ridiculous or absurd.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prerogative": {
+    "def": [
+      {
+        "definition": "Having superior rank or precedence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "presage": {
+    "def": [
+      {
+        "definition": "To foretell.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prescience": {
+    "def": [
+      {
+        "definition": "Knowledge of events before they take place.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prescient": {
+    "def": [
+      {
+        "definition": "Foreknowing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prescript": {
+    "def": [
+      {
+        "definition": "Prescribed as a rule or model.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prescriptible": {
+    "def": [
+      {
+        "definition": "Derived from authoritative direction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prescription": {
+    "def": [
+      {
+        "definition": "An authoritative direction.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "presentient": {
+    "def": [
+      {
+        "definition": "Perceiving or feeling beforehand.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "presentiment": {
+    "def": [
+      {
+        "definition": "Foreboding.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "presentment": {
+    "def": [
+      {
+        "definition": "Semblance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "preservation": {
+    "def": [
+      {
+        "definition": "Conservation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "presumption": {
+    "def": [
+      {
+        "definition": "That which may be logically assumed to be true until disproved.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "presumptuous": {
+    "def": [
+      {
+        "definition": "Assuming too much.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pretension": {
+    "def": [
+      {
+        "definition": "A bold or presumptuous assertion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pretentious": {
+    "def": [
+      {
+        "definition": "Marked by pretense, conceit, or display.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "preternatural": {
+    "def": [
+      {
+        "definition": "Extraordinary.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pretext": {
+    "def": [
+      {
+        "definition": "A fictitious reason or motive.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prevalence": {
+    "def": [
+      {
+        "definition": "Frequency.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prevalent": {
+    "def": [
+      {
+        "definition": "Of wide extent or frequent occurrence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prevaricate": {
+    "def": [
+      {
+        "definition": "To use ambiguous or evasive language for the purpose of deceiving or",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prevention": {
+    "def": [
+      {
+        "definition": "Thwarting.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prickle": {
+    "def": [
+      {
+        "definition": "To puncture slightly with fine, sharp points.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "priggish": {
+    "def": [
+      {
+        "definition": "Conceited.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prim": {
+    "def": [
+      {
+        "definition": "Stiffly proper.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prima": {
+    "def": [
+      {
+        "definition": "First.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "primer": {
+    "def": [
+      {
+        "definition": "An elementary reading-book for children.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "primeval": {
+    "def": [
+      {
+        "definition": "Belonging to the first ages.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "primitive": {
+    "def": [
+      {
+        "definition": "Pertaining to the beginning or early times.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "principal": {
+    "def": [
+      {
+        "definition": "Most important.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "principality": {
+    "def": [
+      {
+        "definition": "The territory of a reigning prince.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "principle": {
+    "def": [
+      {
+        "definition": "A general truth or proposition.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "priory": {
+    "def": [
+      {
+        "definition": "A monastic house.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pristine": {
+    "def": [
+      {
+        "definition": "Primitive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "privateer": {
+    "def": [
+      {
+        "definition": "A vessel owned and officered by private persons, but carrying on maritime",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "privilege": {
+    "def": [
+      {
+        "definition": "A right or immunity not enjoyed by all, or that may be enjoyed only under",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "privity": {
+    "def": [
+      {
+        "definition": "Knowledge shared with another or others regarding a private matter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "privy": {
+    "def": [
+      {
+        "definition": "Participating with another or others in the knowledge of a secret transaction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "probate": {
+    "def": [
+      {
+        "definition": "Relating to making proof, as of a will.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "probation": {
+    "def": [
+      {
+        "definition": "Any proceeding designed to ascertain or test character, qualification, or the",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "probe": {
+    "def": [
+      {
+        "definition": "To search through and through.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "probity": {
+    "def": [
+      {
+        "definition": "Virtue or integrity tested and confirmed.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "procedure": {
+    "def": [
+      {
+        "definition": "A manner or method of acting.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proceed": {
+    "def": [
+      {
+        "definition": "To renew motion or action, as after rest or interruption.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "proclamation": {
+    "def": [
+      {
+        "definition": "Any announcement made in a public manner.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "procrastinate": {
+    "def": [
+      {
+        "definition": "To put off till tomorrow or till a future time.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "procrastination": {
+    "def": [
+      {
+        "definition": "Delay.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proctor": {
+    "def": [
+      {
+        "definition": "An agent acting for another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prodigal": {
+    "def": [
+      {
+        "definition": "One wasteful or extravagant, especially in the use of money or property.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prodigious": {
+    "def": [
+      {
+        "definition": "Immense.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prodigy": {
+    "def": [
+      {
+        "definition": "A person or thing of very remarkable gifts or qualities.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "productive": {
+    "def": [
+      {
+        "definition": "Yielding in abundance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "profession": {
+    "def": [
+      {
+        "definition": "Any calling or occupation involving special mental or other special",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "professor": {
+    "def": [
+      {
+        "definition": "A public teacher of the highest grade in a university or college.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proffer": {
+    "def": [
+      {
+        "definition": "To offer to another for acceptance.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "proficiency": {
+    "def": [
+      {
+        "definition": "An advanced state of acquirement, as in some knowledge, art, or science.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proficient": {
+    "def": [
+      {
+        "definition": "Possessing ample and ready knowledge or of skill in any art, science, or",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "profile": {
+    "def": [
+      {
+        "definition": "An outline or contour.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "profiteer": {
+    "def": [
+      {
+        "definition": "One who profits.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "profligacy": {
+    "def": [
+      {
+        "definition": "Shameless viciousness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "profligate": {
+    "def": [
+      {
+        "definition": "Abandoned to vice.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "profuse": {
+    "def": [
+      {
+        "definition": "Produced or displayed in overabundance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "progeny": {
+    "def": [
+      {
+        "definition": "Offspring.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "progression": {
+    "def": [
+      {
+        "definition": "A moving forward or proceeding in course.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prohibition": {
+    "def": [
+      {
+        "definition": "A decree or an order forbidding something.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prohibitionist": {
+    "def": [
+      {
+        "definition": "One who favors the prohibition by law of the manufacture and sale of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prohibitory": {
+    "def": [
+      {
+        "definition": "Involving or equivalent to prohibition, especially of the sale of",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "projection": {
+    "def": [
+      {
+        "definition": "A prominence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proletarian": {
+    "def": [
+      {
+        "definition": "A person of the lowest or poorest class.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prolific": {
+    "def": [
+      {
+        "definition": "Producing offspring or fruit.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prolix": {
+    "def": [
+      {
+        "definition": "Verbose.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prologue": {
+    "def": [
+      {
+        "definition": "A prefatory statement or explanation to a poem, discourse, or performance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prolong": {
+    "def": [
+      {
+        "definition": "To extend in time or duration.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "promenade": {
+    "def": [
+      {
+        "definition": "To walk for amusement or exercise.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "prominence": {
+    "def": [
+      {
+        "definition": "The quality of being noticeable or distinguished.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prominent": {
+    "def": [
+      {
+        "definition": "Conspicuous in position, character, or importance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "promiscuous": {
+    "def": [
+      {
+        "definition": "Brought together without order, distinction, or design (for sex).",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "promissory": {
+    "def": [
+      {
+        "definition": "Expressing an engagement to pay.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "promontory": {
+    "def": [
+      {
+        "definition": "A high point of land extending outward from the coastline into the sea.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "promoter": {
+    "def": [
+      {
+        "definition": "A furtherer, forwarder, or encourager.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "promulgate": {
+    "def": [
+      {
+        "definition": "To proclaim.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "propaganda": {
+    "def": [
+      {
+        "definition": "Any institution or systematic scheme for propagating a doctrine or system.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "propagate": {
+    "def": [
+      {
+        "definition": "To spread abroad or from person to person.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "propel": {
+    "def": [
+      {
+        "definition": "To drive or urge forward.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "propellant": {
+    "def": [
+      {
+        "definition": "Propelling.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "propeller": {
+    "def": [
+      {
+        "definition": "One who or that which propels.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prophecy": {
+    "def": [
+      {
+        "definition": "Any prediction or foretelling.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prophesy": {
+    "def": [
+      {
+        "definition": "To predict or foretell, especially under divine inspiration and guidance.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "propitious": {
+    "def": [
+      {
+        "definition": "Kindly disposed.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "proportionate": {
+    "def": [
+      {
+        "definition": "Being in proportion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "propriety": {
+    "def": [
+      {
+        "definition": "Accordance with recognized usage, custom, or principles.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "propulsion": {
+    "def": [
+      {
+        "definition": "A driving onward or forward.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prosaic": {
+    "def": [
+      {
+        "definition": "Unimaginative.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "proscenium": {
+    "def": [
+      {
+        "definition": "That part of the stage between the curtain and the orchestra.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proscribe": {
+    "def": [
+      {
+        "definition": "To reject, as a teaching or a practice, with condemnation or denunciation.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "proscription": {
+    "def": [
+      {
+        "definition": "Any act of condemnation and rejection from favor and privilege.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proselyte": {
+    "def": [
+      {
+        "definition": "One who has been won over from one religious belief to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prosody": {
+    "def": [
+      {
+        "definition": "The science of poetical forms.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prospector": {
+    "def": [
+      {
+        "definition": "One who makes exploration, search, or examination, especially for minerals.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prospectus": {
+    "def": [
+      {
+        "definition": "A paper or pamphlet containing information of a proposed undertaking.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prostrate": {
+    "def": [
+      {
+        "definition": "Lying prone, or with the head to the ground.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "protagonist": {
+    "def": [
+      {
+        "definition": "A leader in any enterprise or contest.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protection": {
+    "def": [
+      {
+        "definition": "Preservation from harm, danger, annoyance, or any other evil.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protective": {
+    "def": [
+      {
+        "definition": "Sheltering.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "protector": {
+    "def": [
+      {
+        "definition": "A defender.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protege": {
+    "def": [
+      {
+        "definition": "One specially cared for and favored by another usually older person.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protestant": {
+    "def": [
+      {
+        "definition": "A Christian who denies the authority of the Pope and holds the right of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protomartyr": {
+    "def": [
+      {
+        "definition": "The earliest victim in any cause.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protocol": {
+    "def": [
+      {
+        "definition": "A declaration or memorandum of agreement less solemn and formal than a treaty.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protoplasm": {
+    "def": [
+      {
+        "definition": "The substance that forms the principal portion of an animal or vegetable",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prototype": {
+    "def": [
+      {
+        "definition": "A work, original in character, afterward imitated in form or spirit.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protract": {
+    "def": [
+      {
+        "definition": "To prolong.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "protrude": {
+    "def": [
+      {
+        "definition": "To push out or thrust forth.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "protrusion": {
+    "def": [
+      {
+        "definition": "The act of protruding.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protuberance": {
+    "def": [
+      {
+        "definition": "Something that swells out from a surrounding surface.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "protuberant": {
+    "def": [
+      {
+        "definition": "Bulging.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "protuberate": {
+    "def": [
+      {
+        "definition": "To swell or bulge beyond the surrounding surface.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "proverb": {
+    "def": [
+      {
+        "definition": "A brief, pithy saying, condensing in witty or striking form the wisdom of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "provident": {
+    "def": [
+      {
+        "definition": "Anticipating and making ready for future wants or emergencies.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "providential": {
+    "def": [
+      {
+        "definition": "Effected by divine guidance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "provincial": {
+    "def": [
+      {
+        "definition": "Uncultured in thought and manner.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "proviso": {
+    "def": [
+      {
+        "definition": "A clause in a contract, will, etc., by which its operation is rendered",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "provocation": {
+    "def": [
+      {
+        "definition": "An action or mode of conduct that excites resentment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prowess": {
+    "def": [
+      {
+        "definition": "Strength, skill, and intrepidity in battle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "proximately": {
+    "def": [
+      {
+        "definition": "Immediately.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "proxy": {
+    "def": [
+      {
+        "definition": "A person who is empowered by another to represent him or her in a given matter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prudence": {
+    "def": [
+      {
+        "definition": "Caution.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prudential": {
+    "def": [
+      {
+        "definition": "Proceeding or marked by caution.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "prudery": {
+    "def": [
+      {
+        "definition": "An undue display of modesty or delicacy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "prurient": {
+    "def": [
+      {
+        "definition": "Inclined to lascivious thoughts and desires.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pseudapostle": {
+    "def": [
+      {
+        "definition": "A pretended or false apostle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pseudonym": {
+    "def": [
+      {
+        "definition": "A fictitious name, especially when assumed by a writer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pseudonymity": {
+    "def": [
+      {
+        "definition": "The state or character of using a fictitious name.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "psychiatry": {
+    "def": [
+      {
+        "definition": "The branch of medicine that relates to mental disease.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "psychic": {
+    "def": [
+      {
+        "definition": "Pertaining to the mind or soul.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "psychopathic": {
+    "def": [
+      {
+        "definition": "Morally irresponsible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "psychotherapy": {
+    "def": [
+      {
+        "definition": "The treatment of mental disease.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pudgy": {
+    "def": [
+      {
+        "definition": "Small and fat.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "puerile": {
+    "def": [
+      {
+        "definition": "Childish.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pugnacious": {
+    "def": [
+      {
+        "definition": "Quarrelsome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "puissant": {
+    "def": [
+      {
+        "definition": "Possessing strength.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pulmonary": {
+    "def": [
+      {
+        "definition": "Pertaining to the lungs.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "punctilious": {
+    "def": [
+      {
+        "definition": "Strictly observant of the rules or forms prescribed by law or custom.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "punctual": {
+    "def": [
+      {
+        "definition": "Observant and exact in points of time.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pungent": {
+    "def": [
+      {
+        "definition": "Affecting the sense of smell.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pungency": {
+    "def": [
+      {
+        "definition": "The quality of affecting the sense of smell.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "punitive": {
+    "def": [
+      {
+        "definition": "Pertaining to punishment.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pupilage": {
+    "def": [
+      {
+        "definition": "The state or period of being a student.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "purgatory": {
+    "def": [
+      {
+        "definition": "An intermediate state where souls are made fit for paradise or heaven by",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "purl": {
+    "def": [
+      {
+        "definition": "To cause to whirl, as in an eddy.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "purloin": {
+    "def": [
+      {
+        "definition": "To steal.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "purport": {
+    "def": [
+      {
+        "definition": "Intent.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "purveyor": {
+    "def": [
+      {
+        "definition": "one who supplies",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pusillanimous": {
+    "def": [
+      {
+        "definition": "Without spirit or bravery.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "putrescent": {
+    "def": [
+      {
+        "definition": "Undergoing decomposition of animal or vegetable matter accompanied by",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pyre": {
+    "def": [
+      {
+        "definition": "A heap of combustibles arranged for burning a dead body.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pyromania": {
+    "def": [
+      {
+        "definition": "An insane propensity to set things on fire.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "pyrotechnic": {
+    "def": [
+      {
+        "definition": "Pertaining to fireworks or their manufacture.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "pyx": {
+    "def": [
+      {
+        "definition": "A vessel or casket, usually of precious metal, in which the host is preserved.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  }
+}

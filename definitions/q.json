@@ -1,0 +1,245 @@
+{
+  "quackery": {
+    "def": [
+      {
+        "definition": "Charlatanry",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quadrate": {
+    "def": [
+      {
+        "definition": "To divide into quarters.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "quadruple": {
+    "def": [
+      {
+        "definition": "To multiply by four.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "qualification": {
+    "def": [
+      {
+        "definition": "A requisite for an employment, position, right, or privilege.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "qualify": {
+    "def": [
+      {
+        "definition": "To endow or furnish with requisite ability, character, knowledge, skill, or",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "qualm": {
+    "def": [
+      {
+        "definition": "A fit of nausea.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quandary": {
+    "def": [
+      {
+        "definition": "A puzzling predicament.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quantity": {
+    "def": [
+      {
+        "definition": "Magnitude.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quarantine": {
+    "def": [
+      {
+        "definition": "The enforced isolation of any person or place infected with contagious",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quarrelsome": {
+    "def": [
+      {
+        "definition": "Irascible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "quarter": {
+    "def": [
+      {
+        "definition": "One of four equal parts into which anything is or may be divided.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quarterly": {
+    "def": [
+      {
+        "definition": "Occurring or made at intervals of three months.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "quartet": {
+    "def": [
+      {
+        "definition": "A composition for four voices or four instruments.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quarto": {
+    "def": [
+      {
+        "definition": "An eight-page newspaper of any size.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quay": {
+    "def": [
+      {
+        "definition": "A wharf or artificial landing-place on the shore of a harbor or projecting into",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "querulous": {
+    "def": [
+      {
+        "definition": "Habitually complaining.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "query": {
+    "def": [
+      {
+        "definition": "To make inquiry.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "queue": {
+    "def": [
+      {
+        "definition": "A file of persons waiting in order of their arrival, as for admittance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quibble": {
+    "def": [
+      {
+        "definition": "An utterly trivial distinction or objection.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quiescence": {
+    "def": [
+      {
+        "definition": "Quiet.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quiescent": {
+    "def": [
+      {
+        "definition": "Being in a state of repose or inaction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "quiet": {
+    "def": [
+      {
+        "definition": "Making no noise.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "quietus": {
+    "def": [
+      {
+        "definition": "A silencing, suppressing, or ending.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quintessence": {
+    "def": [
+      {
+        "definition": "The most essential part of anything.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quintet": {
+    "def": [
+      {
+        "definition": "Musical composition arranged for five voices or instruments.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "quite": {
+    "def": [
+      {
+        "definition": "Fully.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "quixotic": {
+    "def": [
+      {
+        "definition": "Chivalrous or romantic to a ridiculous or extravagant degree.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  }
+}

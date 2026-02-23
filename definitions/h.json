@@ -1,0 +1,956 @@
+{
+  "habitable": {
+    "def": [
+      {
+        "definition": "Fit to be dwelt in.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "habitant": {
+    "def": [
+      {
+        "definition": "Dweller.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "habitual": {
+    "def": [
+      {
+        "definition": "According to usual practice.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "habitude": {
+    "def": [
+      {
+        "definition": "Customary relation or association.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hackney": {
+    "def": [
+      {
+        "definition": "To make stale or trite by repetition.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "haggard": {
+    "def": [
+      {
+        "definition": "Worn and gaunt in appearance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "halcyon": {
+    "def": [
+      {
+        "definition": "Calm.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hale": {
+    "def": [
+      {
+        "definition": "Of sound and vigorous health.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "handwriting": {
+    "def": [
+      {
+        "definition": "Penmanship.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hanger-on": {
+    "def": [
+      {
+        "definition": "A parasite.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "happy-go-lucky": {
+    "def": [
+      {
+        "definition": "Improvident.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "harangue": {
+    "def": [
+      {
+        "definition": "A tirade.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "harass": {
+    "def": [
+      {
+        "definition": "To trouble with importunities, cares, or annoyances.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "harbinger": {
+    "def": [
+      {
+        "definition": "One who or that which foreruns and announces the coming of any person or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hard-hearted": {
+    "def": [
+      {
+        "definition": "Lacking pity or sympathy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hardihood": {
+    "def": [
+      {
+        "definition": "Foolish daring.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "harmonious": {
+    "def": [
+      {
+        "definition": "Concordant in sound.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "havoc": {
+    "def": [
+      {
+        "definition": "Devastation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hawthorn": {
+    "def": [
+      {
+        "definition": "A thorny shrub much used in England for hedges.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hazard": {
+    "def": [
+      {
+        "definition": "Risk.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "head first": {
+    "def": [
+      {
+        "definition": "Precipitately, as in diving.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "head foremost": {
+    "def": [
+      {
+        "definition": "Precipitately, as in diving.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "heartrending": {
+    "def": [
+      {
+        "definition": "Very depressing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "heathenish": {
+    "def": [
+      {
+        "definition": "Irreligious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "heedless": {
+    "def": [
+      {
+        "definition": "Thoughtless.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "heifer": {
+    "def": [
+      {
+        "definition": "A young cow.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heinous": {
+    "def": [
+      {
+        "definition": "Odiously sinful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hemorrhage": {
+    "def": [
+      {
+        "definition": "Discharge of blood from a ruptured or wounded blood-vessel.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hemorrhoids": {
+    "def": [
+      {
+        "definition": "pl. Tumors composed of enlarged and thickened blood-vessels, at the lower",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "henchman": {
+    "def": [
+      {
+        "definition": "A servile assistant and subordinate.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "henpeck": {
+    "def": [
+      {
+        "definition": "To worry or harass by ill temper and petty annoyances.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "heptagon": {
+    "def": [
+      {
+        "definition": "A figure having seven sides and seven angles.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heptarchy": {
+    "def": [
+      {
+        "definition": "A group of seven governments.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "herbaceous": {
+    "def": [
+      {
+        "definition": "Having the character of a herb.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "herbarium": {
+    "def": [
+      {
+        "definition": "A collection of dried plants scientifically arranged for study.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "herbivorous": {
+    "def": [
+      {
+        "definition": "Feeding on herbs or other vegetable matter, as animals.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hereditary": {
+    "def": [
+      {
+        "definition": "Passing naturally from parent to child.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "heredity": {
+    "def": [
+      {
+        "definition": "Transmission of physical or mental qualities, diseases, etc., from parent to",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heresy": {
+    "def": [
+      {
+        "definition": "An opinion or doctrine subversive of settled beliefs or accepted principles.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heretic": {
+    "def": [
+      {
+        "definition": "One who holds opinions contrary to the recognized standards or tenets of any",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heritage": {
+    "def": [
+      {
+        "definition": "Birthright.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hernia": {
+    "def": [
+      {
+        "definition": "Protrusion of any internal organ in whole or in part from its normal position.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hesitancy": {
+    "def": [
+      {
+        "definition": "A pausing to consider.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hesitant": {
+    "def": [
+      {
+        "definition": "Vacillating.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hesitation": {
+    "def": [
+      {
+        "definition": "Vacillation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heterodox": {
+    "def": [
+      {
+        "definition": "At variance with any commonly accepted doctrine or opinion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "heterogeneity": {
+    "def": [
+      {
+        "definition": "Unlikeness of constituent parts.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "heterogeneous": {
+    "def": [
+      {
+        "definition": "Consisting of dissimilar elements or ingredients of different kinds.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "heteromorphic": {
+    "def": [
+      {
+        "definition": "Deviating from the normal form or standard type.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hexangular": {
+    "def": [
+      {
+        "definition": "Having six angles.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hexapod": {
+    "def": [
+      {
+        "definition": "Having six feet.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hexagon": {
+    "def": [
+      {
+        "definition": "A figure with six angles.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hiatus": {
+    "def": [
+      {
+        "definition": "A break or vacancy where something necessary to supply the connection is",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hibernal": {
+    "def": [
+      {
+        "definition": "Pertaining to winter.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hibernian": {
+    "def": [
+      {
+        "definition": "Pertaining to Ireland, or its people.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hideous": {
+    "def": [
+      {
+        "definition": "Appalling.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hilarious": {
+    "def": [
+      {
+        "definition": "Boisterously merry.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hillock": {
+    "def": [
+      {
+        "definition": "A small hill or mound.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hinder": {
+    "def": [
+      {
+        "definition": "To obstruct.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "hindmost": {
+    "def": [
+      {
+        "definition": "Farthest from the front.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hindrance": {
+    "def": [
+      {
+        "definition": "An obstacle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hirsute": {
+    "def": [
+      {
+        "definition": "Having a hairy covering.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hoard": {
+    "def": [
+      {
+        "definition": "To gather and store away for the sake of accumulation.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "hoarse": {
+    "def": [
+      {
+        "definition": "Having the voice harsh or rough, as from a cold or fatigue.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "homage": {
+    "def": [
+      {
+        "definition": "Reverential regard or worship.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "homogeneity": {
+    "def": [
+      {
+        "definition": "Congruity of the members or elements or parts.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "homogeneous": {
+    "def": [
+      {
+        "definition": "Made up of similar parts or elements.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "homologous": {
+    "def": [
+      {
+        "definition": "Identical in nature, make-up, or relation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "homonym": {
+    "def": [
+      {
+        "definition": "A word agreeing in sound with but different in meaning from another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "homophone": {
+    "def": [
+      {
+        "definition": "A word agreeing in sound with but different in meaning from another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "honorarium": {
+    "def": [
+      {
+        "definition": "A token fee or payment to a professional man for services.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hoodwink": {
+    "def": [
+      {
+        "definition": "To deceive.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "horde": {
+    "def": [
+      {
+        "definition": "A gathered multitude of human beings.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hosiery": {
+    "def": [
+      {
+        "definition": "A stocking.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hospitable": {
+    "def": [
+      {
+        "definition": "Disposed to treat strangers or guests with generous kindness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hospitality": {
+    "def": [
+      {
+        "definition": "The practice of receiving and entertaining strangers and guests with",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hostility": {
+    "def": [
+      {
+        "definition": "Enmity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "huckster": {
+    "def": [
+      {
+        "definition": "One who retails small wares.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "humane": {
+    "def": [
+      {
+        "definition": "Compassionate.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "humanitarian": {
+    "def": [
+      {
+        "definition": "A philanthropist.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "humanize": {
+    "def": [
+      {
+        "definition": "To make gentle or refined.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "humbug": {
+    "def": [
+      {
+        "definition": "Anything intended or calculated to deceive or mislead.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "humiliate": {
+    "def": [
+      {
+        "definition": "To put to shame.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "hussar": {
+    "def": [
+      {
+        "definition": "A light-horse trooper armed with saber and carbine.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hustle": {
+    "def": [
+      {
+        "definition": "To move with haste and promptness.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "hybrid": {
+    "def": [
+      {
+        "definition": "Cross-bred.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hydra": {
+    "def": [
+      {
+        "definition": "The seven- or nine-headed water-serpent slain by Hercules.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hydraulic": {
+    "def": [
+      {
+        "definition": "Involving the moving of water, of the force exerted by water in motion.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hydrodynamics": {
+    "def": [
+      {
+        "definition": "The branch of mechanics that treats of the dynamics of fluids.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hydroelectric": {
+    "def": [
+      {
+        "definition": "Pertaining to electricity developed water or steam.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hydromechanics": {
+    "def": [
+      {
+        "definition": "The mechanics of fluids.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hydrometer": {
+    "def": [
+      {
+        "definition": "An instrument for determining the density of solids and liquids by",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hydrostatics": {
+    "def": [
+      {
+        "definition": "The branch of science that treats of the pressure and equilibrium of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hydrous": {
+    "def": [
+      {
+        "definition": "Watery.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hygiene": {
+    "def": [
+      {
+        "definition": "The branch of medical science that relates to improving health.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hypercritical": {
+    "def": [
+      {
+        "definition": "Faultfinding.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hypnosis": {
+    "def": [
+      {
+        "definition": "An artificial trance-sleep.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hypnotic": {
+    "def": [
+      {
+        "definition": "Tending to produce sleep.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hypnotism": {
+    "def": [
+      {
+        "definition": "An artificially induced somnambulistic state in which the mind readily acts",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hypnotize": {
+    "def": [
+      {
+        "definition": "To produce a somnambulistic state in which the mind readily acts on",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "hypocrisy": {
+    "def": [
+      {
+        "definition": "Extreme insincerity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hypocrite": {
+    "def": [
+      {
+        "definition": "One who makes false professions of his views or beliefs.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hypodermic": {
+    "def": [
+      {
+        "definition": "Pertaining to the area under the skin.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "hypotenuse": {
+    "def": [
+      {
+        "definition": "The side of a right-angled triangle opposite the right angle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hypothesis": {
+    "def": [
+      {
+        "definition": "A proposition taken for granted as a premise from which to reach a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "hysteria": {
+    "def": [
+      {
+        "definition": "A nervous affection occurring typically in paroxysms of laughing and crying.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  }
+}

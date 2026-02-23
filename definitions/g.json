@@ -1,0 +1,965 @@
+{
+  "gauge": {
+    "def": [
+      {
+        "definition": "An instrument for measuring.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gaiety": {
+    "def": [
+      {
+        "definition": "Festivity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gaily": {
+    "def": [
+      {
+        "definition": "Merrily.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "gait": {
+    "def": [
+      {
+        "definition": "Carriage of the body in going.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gallant": {
+    "def": [
+      {
+        "definition": "Possessing a brave or chivalrous spirit.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "galore": {
+    "def": [
+      {
+        "definition": "Abundant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "galvanic": {
+    "def": [
+      {
+        "definition": "Pertaining or relating to electricity produced by chemical action.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "galvanism": {
+    "def": [
+      {
+        "definition": "Current electricity, especially that arising from chemical action.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "galvanize": {
+    "def": [
+      {
+        "definition": "To imbue with life or animation.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gamble": {
+    "def": [
+      {
+        "definition": "To risk money or other possession on an event, chance, or contingency.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gambol": {
+    "def": [
+      {
+        "definition": "Playful leaping or frisking.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gamester": {
+    "def": [
+      {
+        "definition": "A gambler.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gamut": {
+    "def": [
+      {
+        "definition": "The whole range or sequence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "garnish": {
+    "def": [
+      {
+        "definition": "In cookery, to surround with additions for embellishment.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "garrison": {
+    "def": [
+      {
+        "definition": "The military force stationed in a fort, town, or other place for its defense.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "garrote": {
+    "def": [
+      {
+        "definition": "To execute by strangling.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "garrulous": {
+    "def": [
+      {
+        "definition": "Given to constant trivial talking.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gaseous": {
+    "def": [
+      {
+        "definition": "Light and unsubstantial.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gastric": {
+    "def": [
+      {
+        "definition": "Of, pertaining to, or near the stomach.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gastritis": {
+    "def": [
+      {
+        "definition": "Inflammation of the stomach.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gastronomy": {
+    "def": [
+      {
+        "definition": "The art of preparing and serving appetizing food.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gendarme": {
+    "def": [
+      {
+        "definition": "In continental Europe, particularly in France, a uniformed and armed police",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "genealogy": {
+    "def": [
+      {
+        "definition": "A list, in the order of succession, of ancestors and their descendants.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "genealogist": {
+    "def": [
+      {
+        "definition": "A tracer of pedigrees.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "generality": {
+    "def": [
+      {
+        "definition": "The principal portion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "generalize": {
+    "def": [
+      {
+        "definition": "To draw general inferences.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "generally": {
+    "def": [
+      {
+        "definition": "Ordinarily.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "generate": {
+    "def": [
+      {
+        "definition": "To produce or cause to be.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "generic": {
+    "def": [
+      {
+        "definition": "Noting a genus or kind; opposed to specific.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "generosity": {
+    "def": [
+      {
+        "definition": "A disposition to give liberally or to bestow favors heartily.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "genesis": {
+    "def": [
+      {
+        "definition": "Creation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "geniality": {
+    "def": [
+      {
+        "definition": "Warmth and kindliness of disposition.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "genital": {
+    "def": [
+      {
+        "definition": "Of or pertaining to the animal reproductive organs.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "genitive": {
+    "def": [
+      {
+        "definition": "Indicating source, origin, possession, or the like.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "genteel": {
+    "def": [
+      {
+        "definition": "Well-bred or refined.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gentile": {
+    "def": [
+      {
+        "definition": "Belonging to a people not Jewish.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "geology": {
+    "def": [
+      {
+        "definition": "The department of natural science that treats of the constitution and structure",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "germane": {
+    "def": [
+      {
+        "definition": "Relevant.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "germinate": {
+    "def": [
+      {
+        "definition": "To begin to develop into an embryo or higher form.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gestation": {
+    "def": [
+      {
+        "definition": "Pregnancy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gesticulate": {
+    "def": [
+      {
+        "definition": "To make gestures or motions, as in speaking, or in place of speech.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gesture": {
+    "def": [
+      {
+        "definition": "A movement or action of the hands or face, expressive of some idea or emotion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ghastly": {
+    "def": [
+      {
+        "definition": "Hideous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gibe": {
+    "def": [
+      {
+        "definition": "To utter taunts or reproaches.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "giddy": {
+    "def": [
+      {
+        "definition": "Affected with a whirling or swimming sensation in the head.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gigantic": {
+    "def": [
+      {
+        "definition": "Tremendous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "giver": {
+    "def": [
+      {
+        "definition": "One who gives, in any sense.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "glacial": {
+    "def": [
+      {
+        "definition": "Icy, or icily cold.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "glacier": {
+    "def": [
+      {
+        "definition": "A field or stream of ice.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gladden": {
+    "def": [
+      {
+        "definition": "To make joyous.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "glazier": {
+    "def": [
+      {
+        "definition": "One who cuts and fits panes of glass, as for windows.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "glimmer": {
+    "def": [
+      {
+        "definition": "A faint, wavering, unsteady light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "glimpse": {
+    "def": [
+      {
+        "definition": "A momentary look.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "globose": {
+    "def": [
+      {
+        "definition": "Spherical.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "globular": {
+    "def": [
+      {
+        "definition": "Spherical.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "glorious": {
+    "def": [
+      {
+        "definition": "Of excellence and splendor.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "glutinous": {
+    "def": [
+      {
+        "definition": "Sticky.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gluttonous": {
+    "def": [
+      {
+        "definition": "Given to excess in eating.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gnash": {
+    "def": [
+      {
+        "definition": "To grind or strike the teeth together, as from rage.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gordian knot": {
+    "def": [
+      {
+        "definition": "Any difficulty the only issue out of which is by bold or unusual manners.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gourmand": {
+    "def": [
+      {
+        "definition": "A connoisseur in the delicacies of the table.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gosling": {
+    "def": [
+      {
+        "definition": "A young goose.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gossamer": {
+    "def": [
+      {
+        "definition": "Flimsy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gourd": {
+    "def": [
+      {
+        "definition": "A melon, pumpkin, squash, or some similar fruit having a hard rind.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "graceless": {
+    "def": [
+      {
+        "definition": "Ungracious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gradation": {
+    "def": [
+      {
+        "definition": "A step, degree, rank, or relative position in an order or series.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gradient": {
+    "def": [
+      {
+        "definition": "Moving or advancing by steps.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "granary": {
+    "def": [
+      {
+        "definition": "A storehouse for grain after it is thrashed or husked.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grandeur": {
+    "def": [
+      {
+        "definition": "The quality of being grand or admirably great.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grandiloquent": {
+    "def": [
+      {
+        "definition": "Speaking in or characterized by a pompous or bombastic style.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "grandiose": {
+    "def": [
+      {
+        "definition": "Having an imposing style or effect.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "grantee": {
+    "def": [
+      {
+        "definition": "The person to whom property is transferred by deed.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grantor": {
+    "def": [
+      {
+        "definition": "The maker of a deed.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "granular": {
+    "def": [
+      {
+        "definition": "Composed of small grains or particles.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "granulate": {
+    "def": [
+      {
+        "definition": "To form into grains or small particles.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "granule": {
+    "def": [
+      {
+        "definition": "A small grain or particle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grapple": {
+    "def": [
+      {
+        "definition": "To take hold of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gratification": {
+    "def": [
+      {
+        "definition": "Satisfaction.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gratify": {
+    "def": [
+      {
+        "definition": "To please, as by satisfying a physical or mental desire or need.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gratuitous": {
+    "def": [
+      {
+        "definition": "Voluntarily.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gratuity": {
+    "def": [
+      {
+        "definition": "That which is given without demand or claim. Tip.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gravity": {
+    "def": [
+      {
+        "definition": "Seriousness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gregarious": {
+    "def": [
+      {
+        "definition": "Not habitually solitary or living alone.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "grenadier": {
+    "def": [
+      {
+        "definition": "A member of a regiment composed of men of great stature.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grief": {
+    "def": [
+      {
+        "definition": "Sorrow.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grievance": {
+    "def": [
+      {
+        "definition": "That which oppresses, injures, or causes grief and at the same time a sense",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grievous": {
+    "def": [
+      {
+        "definition": "Creating affliction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "grimace": {
+    "def": [
+      {
+        "definition": "A distortion of the features, occasioned by some feeling of pain, disgust, etc.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grindstone": {
+    "def": [
+      {
+        "definition": "A flat circular stone, used for sharpening tools.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "grisly": {
+    "def": [
+      {
+        "definition": "Fear-inspiring.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "grotesque": {
+    "def": [
+      {
+        "definition": "Incongruously composed or ill-proportioned.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "grotto": {
+    "def": [
+      {
+        "definition": "A small cavern.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "ground": {
+    "def": [
+      {
+        "definition": "A pavement or floor or any supporting surface on which one may walk.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "guess": {
+    "def": [
+      {
+        "definition": "Surmise.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "guile": {
+    "def": [
+      {
+        "definition": "Duplicity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "guileless": {
+    "def": [
+      {
+        "definition": "Frank.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "guinea": {
+    "def": [
+      {
+        "definition": "An English monetary unit.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "guise": {
+    "def": [
+      {
+        "definition": "The external appearance as produced by garb or costume.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gullible": {
+    "def": [
+      {
+        "definition": "Credulous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "gumption": {
+    "def": [
+      {
+        "definition": "Common sense.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gusto": {
+    "def": [
+      {
+        "definition": "Keen enjoyment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "guy": {
+    "def": [
+      {
+        "definition": "Stay-rope.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "guzzle": {
+    "def": [
+      {
+        "definition": "To swallow greedily or hastily; gulp.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gynecocracy": {
+    "def": [
+      {
+        "definition": "Female supremacy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gynecology": {
+    "def": [
+      {
+        "definition": "The science that treats of the functions and diseases peculiar to women.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "gyrate": {
+    "def": [
+      {
+        "definition": "To revolve.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "gyroscope": {
+    "def": [
+      {
+        "definition": "An instrument for illustrating the laws of rotation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  }
+}

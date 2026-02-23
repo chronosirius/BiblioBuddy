@@ -1,0 +1,1064 @@
+{
+  "vacate": {
+    "def": [
+      {
+        "definition": "To leave.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vaccinate": {
+    "def": [
+      {
+        "definition": "To inoculate with vaccine virus or virus of cowpox.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vacillate": {
+    "def": [
+      {
+        "definition": "To waver.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vacuous": {
+    "def": [
+      {
+        "definition": "Empty.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vacuum": {
+    "def": [
+      {
+        "definition": "A space entirely devoid of matter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vagabond": {
+    "def": [
+      {
+        "definition": "A wanderer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vagrant": {
+    "def": [
+      {
+        "definition": "An idle wanderer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vainglory": {
+    "def": [
+      {
+        "definition": "Excessive, pretentious, and demonstrative vanity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vale": {
+    "def": [
+      {
+        "definition": "Level or low land between hills.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "valediction": {
+    "def": [
+      {
+        "definition": "A bidding farewell.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "valedictorian": {
+    "def": [
+      {
+        "definition": "Student who delivers an address at graduating exercises of an educational",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "valedictory": {
+    "def": [
+      {
+        "definition": "A parting address.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "valid": {
+    "def": [
+      {
+        "definition": "Founded on truth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "valorous": {
+    "def": [
+      {
+        "definition": "Courageous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vapid": {
+    "def": [
+      {
+        "definition": "Having lost sparkling quality and flavor.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vaporizer": {
+    "def": [
+      {
+        "definition": "An atomizer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "variable": {
+    "def": [
+      {
+        "definition": "Having a tendency to change.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "variance": {
+    "def": [
+      {
+        "definition": "Change.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "variant": {
+    "def": [
+      {
+        "definition": "A thing that differs from another in form only, being the same in essence or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "variation": {
+    "def": [
+      {
+        "definition": "Modification.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "variegate": {
+    "def": [
+      {
+        "definition": "To mark with different shades or colors.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vassal": {
+    "def": [
+      {
+        "definition": "A slave or bondman.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vaudeville": {
+    "def": [
+      {
+        "definition": "A variety show.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vegetal": {
+    "def": [
+      {
+        "definition": "Of or pertaining to plants.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vegetarian": {
+    "def": [
+      {
+        "definition": "One who believes in the theory that man's food should be exclusively",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vegetate": {
+    "def": [
+      {
+        "definition": "To live in a monotonous, passive way without exercise of the mental faculties.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vegetation": {
+    "def": [
+      {
+        "definition": "Plant-life in the aggregate.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vegetative": {
+    "def": [
+      {
+        "definition": "Pertaining to the process of plant-life.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vehement": {
+    "def": [
+      {
+        "definition": "Very eager or urgent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "velocity": {
+    "def": [
+      {
+        "definition": "Rapid motion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "velvety": {
+    "def": [
+      {
+        "definition": "Marked by lightness and softness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "venal": {
+    "def": [
+      {
+        "definition": "Mercenary, corrupt.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vendible": {
+    "def": [
+      {
+        "definition": "Marketable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vendition": {
+    "def": [
+      {
+        "definition": "The act of selling.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vendor": {
+    "def": [
+      {
+        "definition": "A seller.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "veneer": {
+    "def": [
+      {
+        "definition": "Outside show or elegance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "venerable": {
+    "def": [
+      {
+        "definition": "Meriting or commanding high esteem.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "venerate": {
+    "def": [
+      {
+        "definition": "To cherish reverentially.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "venereal": {
+    "def": [
+      {
+        "definition": "Pertaining to or proceeding from sexual intercourse.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "venial": {
+    "def": [
+      {
+        "definition": "That may be pardoned or forgiven, a forgivable sin.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "venison": {
+    "def": [
+      {
+        "definition": "The flesh of deer.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "venom": {
+    "def": [
+      {
+        "definition": "The poisonous fluid that certain animals secrete.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "venous": {
+    "def": [
+      {
+        "definition": "Of, pertaining to, or contained or carried in a vein or veins.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "veracious": {
+    "def": [
+      {
+        "definition": "Habitually disposed to speak the truth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "veracity": {
+    "def": [
+      {
+        "definition": "Truthfulness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "verbatim": {
+    "def": [
+      {
+        "definition": "Word for word.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "verbiage": {
+    "def": [
+      {
+        "definition": "Use of many words without necessity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "verbose": {
+    "def": [
+      {
+        "definition": "Wordy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "verdant": {
+    "def": [
+      {
+        "definition": "Green with vegetation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "verification": {
+    "def": [
+      {
+        "definition": "The act of proving to be true, exact, or accurate.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "verify": {
+    "def": [
+      {
+        "definition": "To prove to be true, exact, or accurate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "verily": {
+    "def": [
+      {
+        "definition": "In truth.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "verity": {
+    "def": [
+      {
+        "definition": "Truth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vermin": {
+    "def": [
+      {
+        "definition": "A noxious or troublesome animal.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vernacular": {
+    "def": [
+      {
+        "definition": "The language of one's country.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vernal": {
+    "def": [
+      {
+        "definition": "Belonging to or suggestive of the spring.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "versatile": {
+    "def": [
+      {
+        "definition": "Having an aptitude for applying oneself to new and varied tasks or to",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "version": {
+    "def": [
+      {
+        "definition": "A description or report of something as modified by one's character or opinion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vertex": {
+    "def": [
+      {
+        "definition": "Apex.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vertical": {
+    "def": [
+      {
+        "definition": "Lying or directed perpendicularly to the horizon.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vertigo": {
+    "def": [
+      {
+        "definition": "Dizziness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vestige": {
+    "def": [
+      {
+        "definition": "A visible trace, mark, or impression, of something absent, lost, or gone.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vestment": {
+    "def": [
+      {
+        "definition": "Clothing or covering.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "veto": {
+    "def": [
+      {
+        "definition": "The constitutional right in a chief executive of refusing to approve an enactment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vicarious": {
+    "def": [
+      {
+        "definition": "Suffered or done in place of or for the sake of another.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "viceroy": {
+    "def": [
+      {
+        "definition": "A ruler acting with royal authority in place of the sovereign in a colony or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vicissitude": {
+    "def": [
+      {
+        "definition": "A change, especially a complete change, of condition or circumstances, as",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vie": {
+    "def": [
+      {
+        "definition": "To contend.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vigilance": {
+    "def": [
+      {
+        "definition": "Alert and intent mental watchfulness in guarding against danger.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vigilant": {
+    "def": [
+      {
+        "definition": "Being on the alert to discover and ward off danger or insure safety.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vignette": {
+    "def": [
+      {
+        "definition": "A picture having a background or that is shaded off gradually.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vincible": {
+    "def": [
+      {
+        "definition": "Conquerable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vindicate": {
+    "def": [
+      {
+        "definition": "To prove true, right, or real.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vindicatory": {
+    "def": [
+      {
+        "definition": "Punitive.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vindicative": {
+    "def": [
+      {
+        "definition": "Revengeful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vinery": {
+    "def": [
+      {
+        "definition": "A greenhouse for grapes.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "viol": {
+    "def": [
+      {
+        "definition": "A stringed instrument of the violin class.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "viola": {
+    "def": [
+      {
+        "definition": "A musical instrument somewhat larger than a violin.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "violator": {
+    "def": [
+      {
+        "definition": "One who transgresses.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "violation": {
+    "def": [
+      {
+        "definition": "Infringement.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "violoncello": {
+    "def": [
+      {
+        "definition": "A stringed instrument held between the player's knees.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "virago": {
+    "def": [
+      {
+        "definition": "A bold, impudent, turbulent woman.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "virile": {
+    "def": [
+      {
+        "definition": "Masculine.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "virtu": {
+    "def": [
+      {
+        "definition": "Rare, curious, or beautiful quality.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "virtual": {
+    "def": [
+      {
+        "definition": "Being in essence or effect, but not in form or appearance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "virtuoso": {
+    "def": [
+      {
+        "definition": "A master in the technique of some particular fine art.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "virulence": {
+    "def": [
+      {
+        "definition": "Extreme poisonousness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "virulent": {
+    "def": [
+      {
+        "definition": "Exceedingly noxious or deleterious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "visage": {
+    "def": [
+      {
+        "definition": "The face, countenance, or look of a person.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "viscount": {
+    "def": [
+      {
+        "definition": "In England, a title of nobility, ranking fourth in the order of British",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vista": {
+    "def": [
+      {
+        "definition": "A view or prospect.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "visual": {
+    "def": [
+      {
+        "definition": "Perceptible by sight.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "visualize": {
+    "def": [
+      {
+        "definition": "To give pictorial vividness to a mental representation.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vitality": {
+    "def": [
+      {
+        "definition": "The state or quality of being necessary to existence or continuance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vitalize": {
+    "def": [
+      {
+        "definition": "To endow with life or energy.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vitiate": {
+    "def": [
+      {
+        "definition": "To contaminate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vituperable": {
+    "def": [
+      {
+        "definition": "Deserving of censure.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vivacity": {
+    "def": [
+      {
+        "definition": "Liveliness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vivify": {
+    "def": [
+      {
+        "definition": "To endue with life.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vivisection": {
+    "def": [
+      {
+        "definition": "The dissection of a living animal.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vocable": {
+    "def": [
+      {
+        "definition": "a word, especially one regarded in relation merely to its qualities of sound.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vocative": {
+    "def": [
+      {
+        "definition": "Of or pertaining to the act of calling.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vociferance": {
+    "def": [
+      {
+        "definition": "The quality of making a clamor.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vociferate": {
+    "def": [
+      {
+        "definition": "To utter with a loud and vehement voice.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "vociferous": {
+    "def": [
+      {
+        "definition": "Making a loud outcry.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vogue": {
+    "def": [
+      {
+        "definition": "The prevalent way or fashion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "volant": {
+    "def": [
+      {
+        "definition": "Flying or able to fly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "volatile": {
+    "def": [
+      {
+        "definition": "Changeable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "volition": {
+    "def": [
+      {
+        "definition": "An act or exercise of will.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "volitive": {
+    "def": [
+      {
+        "definition": "Exercising the will.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "voluble": {
+    "def": [
+      {
+        "definition": "Having great fluency in speaking.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "voluptuous": {
+    "def": [
+      {
+        "definition": "having fullness of beautiful form, as a woman, with or without sensuous or",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "voracious": {
+    "def": [
+      {
+        "definition": "Eating with greediness or in very large quantities.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vortex": {
+    "def": [
+      {
+        "definition": "A mass of rotating or whirling fluid, especially when sucked spirally toward the",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "votary": {
+    "def": [
+      {
+        "definition": "Consecrated by a vow or promise.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "votive": {
+    "def": [
+      {
+        "definition": "Dedicated by a vow.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "vulgarity": {
+    "def": [
+      {
+        "definition": "Lack of refinement in conduct or speech.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "vulnerable": {
+    "def": [
+      {
+        "definition": "Capable of receiving injuries.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  }
+}

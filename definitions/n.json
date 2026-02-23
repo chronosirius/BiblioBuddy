@@ -1,0 +1,938 @@
+{
+  "nameless": {
+    "def": [
+      {
+        "definition": "Having no fame or reputation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "naphtha": {
+    "def": [
+      {
+        "definition": "A light, colorless, volatile, inflammable oil used as a solvent, as in",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "narcissus": {
+    "def": [
+      {
+        "definition": "The son of the Athenian river-god Cephisus, fabled to have fallen in love",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "narrate": {
+    "def": [
+      {
+        "definition": "To tell a story.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "narration": {
+    "def": [
+      {
+        "definition": "The act of recounting the particulars of an event in the order of time or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "narrative": {
+    "def": [
+      {
+        "definition": "An orderly continuous account of the successive particulars of an event.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "narrator": {
+    "def": [
+      {
+        "definition": "One who narrates anything.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "narrow-minded": {
+    "def": [
+      {
+        "definition": "Characterized by illiberal views or sentiments.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nasal": {
+    "def": [
+      {
+        "definition": "Pertaining to the nose.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "natal": {
+    "def": [
+      {
+        "definition": "Pertaining to one's birth.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nationality": {
+    "def": [
+      {
+        "definition": "A connection with a particular nation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "naturally": {
+    "def": [
+      {
+        "definition": "According to the usual order of things.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "nausea": {
+    "def": [
+      {
+        "definition": "An affection of the stomach producing dizziness and usually an impulse to vomit",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nauseate": {
+    "def": [
+      {
+        "definition": "To cause to loathe.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "nauseous": {
+    "def": [
+      {
+        "definition": "Loathsome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nautical": {
+    "def": [
+      {
+        "definition": "Pertaining to ships, seamen, or navigation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "naval": {
+    "def": [
+      {
+        "definition": "Pertaining to ships.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "navel": {
+    "def": [
+      {
+        "definition": "The depression on the abdomen where the umbilical cord of the fetus was attached.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "navigable": {
+    "def": [
+      {
+        "definition": "Capable of commercial navigation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "navigate": {
+    "def": [
+      {
+        "definition": "To traverse by ship.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "nebula": {
+    "def": [
+      {
+        "definition": "A gaseous body of unorganized stellar substance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "necessary": {
+    "def": [
+      {
+        "definition": "Indispensably requisite or absolutely needed to accomplish a desired",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "necessitate": {
+    "def": [
+      {
+        "definition": "To render indispensable.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "necessity": {
+    "def": [
+      {
+        "definition": "That which is indispensably requisite to an end desired.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "necrology": {
+    "def": [
+      {
+        "definition": "A list of persons who have died in a certain place or time.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "necromancer": {
+    "def": [
+      {
+        "definition": "One who practices the art of foretelling the future by means of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "necropolis": {
+    "def": [
+      {
+        "definition": "A city of the dead.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "necrosis": {
+    "def": [
+      {
+        "definition": "the death of part of the body.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nectar": {
+    "def": [
+      {
+        "definition": "Any especially sweet and delicious drink.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nectarine": {
+    "def": [
+      {
+        "definition": "A variety of the peach.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "needlework": {
+    "def": [
+      {
+        "definition": "Embroidery.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "needy": {
+    "def": [
+      {
+        "definition": "Being in need, want, or poverty.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nefarious": {
+    "def": [
+      {
+        "definition": "Wicked in the extreme.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "negate": {
+    "def": [
+      {
+        "definition": "To deny.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "negation": {
+    "def": [
+      {
+        "definition": "The act of denying or of asserting the falsity of a proposition.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neglectful": {
+    "def": [
+      {
+        "definition": "Exhibiting or indicating omission.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "negligee": {
+    "def": [
+      {
+        "definition": "A loose gown worn by women.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "negligence": {
+    "def": [
+      {
+        "definition": "Omission of that which ought to be done.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "negligent": {
+    "def": [
+      {
+        "definition": "Apt to omit what ought to be done.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "negligible": {
+    "def": [
+      {
+        "definition": "Transferable by assignment, endorsement, or delivery.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "negotiable": {
+    "def": [
+      {
+        "definition": "To bargain with others for an agreement, as for a treaty or transfer of",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "nemesis": {
+    "def": [
+      {
+        "definition": "A goddess; divinity of chastisement and vengeance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neocracy": {
+    "def": [
+      {
+        "definition": "Government administered by new or untried persons.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neo-darwinsim": {
+    "def": [
+      {
+        "definition": "Darwinism as modified and extended by more recent students.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neo-latin": {
+    "def": [
+      {
+        "definition": "Modernized Latin.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neopaganism": {
+    "def": [
+      {
+        "definition": "A new or revived paganism.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neolithic": {
+    "def": [
+      {
+        "definition": "Pertaining to the later stone age.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "neology": {
+    "def": [
+      {
+        "definition": "The coining or using of new words or new meanings of words.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neophyte": {
+    "def": [
+      {
+        "definition": "Having the character of a beginner.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nestle": {
+    "def": [
+      {
+        "definition": "To adjust cozily in snug quarters.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "nestling": {
+    "def": [
+      {
+        "definition": "Recently hatched.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nettle": {
+    "def": [
+      {
+        "definition": "To excite sensations of uneasiness or displeasure in.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "network": {
+    "def": [
+      {
+        "definition": "Anything that presents a system of cross- lines.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neural": {
+    "def": [
+      {
+        "definition": "Pertaining to the nerves or nervous system.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "neurology": {
+    "def": [
+      {
+        "definition": "The science of the nervous system.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "neuter": {
+    "def": [
+      {
+        "definition": "Neither masculine nor feminine.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "neutral": {
+    "def": [
+      {
+        "definition": "Belonging to or under control of neither of two contestants.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nevertheless": {
+    "def": [
+      {
+        "definition": "Notwithstanding.",
+        "type": "conj."
+      }
+    ],
+    "forms": []
+  },
+  "newtonian": {
+    "def": [
+      {
+        "definition": "Of or pertaining to Sir Isaac Newton, the English philosopher.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "niggardly": {
+    "def": [
+      {
+        "definition": "Stingy. (no longer acceptable to use)",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nihilist": {
+    "def": [
+      {
+        "definition": "An advocate of the doctrine that nothing either exists or can be known.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nil": {
+    "def": [
+      {
+        "definition": "Nothing",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nimble": {
+    "def": [
+      {
+        "definition": "Light and quick in motion or action.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nit": {
+    "def": [
+      {
+        "definition": "The egg of a louse or some other insect.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nocturnal": {
+    "def": [
+      {
+        "definition": "Of or pertaining to the night.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "noiseless": {
+    "def": [
+      {
+        "definition": "Silent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "noisome": {
+    "def": [
+      {
+        "definition": "Very offensive, particularly to the sense of smell.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "noisy": {
+    "def": [
+      {
+        "definition": "Clamorous.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nomad": {
+    "def": [
+      {
+        "definition": "Having no fixed abode.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nomic": {
+    "def": [
+      {
+        "definition": "Usual or customary.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nominal": {
+    "def": [
+      {
+        "definition": "Trivial.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nominate": {
+    "def": [
+      {
+        "definition": "To designate as a candidate for any office.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "nomination": {
+    "def": [
+      {
+        "definition": "The act or ceremony of naming a man or woman for office.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nominee": {
+    "def": [
+      {
+        "definition": "One who receives a nomination.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "non-existent": {
+    "def": [
+      {
+        "definition": "That which does not exist.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "non-resident": {
+    "def": [
+      {
+        "definition": "Not residing within a given jurisdiction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nonchalance": {
+    "def": [
+      {
+        "definition": "A state of mind indicating lack of interest.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "non-combatant": {
+    "def": [
+      {
+        "definition": "One attached to the army or navy, but having duties other than that of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nondescript": {
+    "def": [
+      {
+        "definition": "Indescribable.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nonentity": {
+    "def": [
+      {
+        "definition": "A person or thing of little or no account.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nonpareil": {
+    "def": [
+      {
+        "definition": "One who or that which is of unequaled excellence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "norm": {
+    "def": [
+      {
+        "definition": "A model.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "normalcy": {
+    "def": [
+      {
+        "definition": "The state of being normal.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "norman": {
+    "def": [
+      {
+        "definition": "Of or peculiar to Normandy, in northern France.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nostrum": {
+    "def": [
+      {
+        "definition": "Any scheme or recipe of a charlatan character.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "noticeable": {
+    "def": [
+      {
+        "definition": "Perceptible.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "notorious": {
+    "def": [
+      {
+        "definition": "Unfavorably known to the general public.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "novellette": {
+    "def": [
+      {
+        "definition": "A short novel.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "novice": {
+    "def": [
+      {
+        "definition": "A beginner in any business or occupation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nowadays": {
+    "def": [
+      {
+        "definition": "In the present time or age.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "nowhere": {
+    "def": [
+      {
+        "definition": "In no place or state.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "noxious": {
+    "def": [
+      {
+        "definition": "Hurtful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nuance": {
+    "def": [
+      {
+        "definition": "A slight degree of difference in anything perceptible to the sense of the mind.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nucleus": {
+    "def": [
+      {
+        "definition": "A central point or part about which matter is aggregated.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nude": {
+    "def": [
+      {
+        "definition": "Naked.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nugatory": {
+    "def": [
+      {
+        "definition": "Having no power or force.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nuisance": {
+    "def": [
+      {
+        "definition": "That which annoys, vexes, or irritates.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "numeration": {
+    "def": [
+      {
+        "definition": "The act or art of reading or naming numbers.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "numerical": {
+    "def": [
+      {
+        "definition": "Of or pertaining to number.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nunnery": {
+    "def": [
+      {
+        "definition": "A convent for nuns.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nuptial": {
+    "def": [
+      {
+        "definition": "Of or pertaining to marriage, especially to the marriage ceremony.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "nurture": {
+    "def": [
+      {
+        "definition": "The process of fostering or promoting growth.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nutriment": {
+    "def": [
+      {
+        "definition": "That which nourishes.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "nutritive": {
+    "def": [
+      {
+        "definition": "Having nutritious properties.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  }
+}

@@ -1,4 +1,4 @@
-const WORDS_PATH = "definitions.json";
+const DEFINITIONS_DIR = "definitions";
 const SYNONYMS_DIR = "synonyms";
 const STORAGE_PREFIX = "biblioBuddy.v1";
 const MAX_ACTIVE_NON_MASTERED = 50;
@@ -124,26 +124,9 @@ function bindEvents() {
 }
 
 async function loadData() {
-  const wordsResponse = await fetch(WORDS_PATH);
-  const wordsData = await wordsResponse.json();
-  
-  // Handle both array (old format) and object (new format) structures
-  let words;
-  if (Array.isArray(wordsData)) {
-    // Old array format - convert to object internally
-    words = wordsData.reduce((obj, item) => {
-      if (item && item.word) {
-        obj[item.word.trim()] = {
-          def: [{ definition: item.definition || "", type: item.type || "" }],
-          forms: [],
-        };
-      }
-      return obj;
-    }, {});
-  } else {
-    // New object format
-    words = wordsData;
-  }
+  const lettersToTry = "abcdefghijklmnopqrstuvwxyz".split("");
+  const definitionsData = await loadDefinitionsByLetters(lettersToTry);
+  const words = definitionsData;
   
   const letters = getLettersFromWords(words);
   const synonymsData = await loadSynonymsByLetters(letters);
@@ -175,29 +158,29 @@ async function loadData() {
 
 function getLettersFromWords(words) {
   const letters = new Set();
-  // Handle both object and array formats
-  if (Array.isArray(words)) {
-    words.forEach((item) => {
-      const word = String(item?.word || "").trim();
-      const letter = getWordLetter(word);
-      if (letter) {
-        letters.add(letter);
-      }
-    });
-  } else {
-    Object.keys(words).forEach((word) => {
-      const letter = getWordLetter(word);
-      if (letter) {
-        letters.add(letter);
-      }
-    });
-  }
+  Object.keys(words).forEach((word) => {
+    const letter = getWordLetter(word);
+    if (letter) {
+      letters.add(letter);
+    }
+  });
   return Array.from(letters).sort();
 }
 
 function getWordLetter(word) {
   const match = String(word || "").match(/[a-z]/i);
   return match ? match[0].toLowerCase() : null;
+}
+
+async function loadDefinitionsByLetters(letters) {
+  const requests = letters.map((letter) =>
+    fetch(`${DEFINITIONS_DIR}/${letter}.json`)
+      .then((response) => (response.ok ? response.json() : {}))
+      .catch(() => ({}))
+  );
+
+  const results = await Promise.all(requests);
+  return Object.assign({}, ...results);
 }
 
 async function loadSynonymsByLetters(letters) {

@@ -1,0 +1,1685 @@
+{
+  "tableau": {
+    "def": [
+      {
+        "definition": "An arrangement of inanimate figures representing a scene from real life.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tacit": {
+    "def": [
+      {
+        "definition": "Understood.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "taciturn": {
+    "def": [
+      {
+        "definition": "Disinclined to conversation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tack": {
+    "def": [
+      {
+        "definition": "A small sharp-pointed nail.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tact": {
+    "def": [
+      {
+        "definition": "Fine or ready mental discernment shown in saying or doing the proper thing.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tactician": {
+    "def": [
+      {
+        "definition": "One who directs affairs with skill and shrewdness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tactics": {
+    "def": [
+      {
+        "definition": "Any maneuvering or adroit management for effecting an object.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tangency": {
+    "def": [
+      {
+        "definition": "The state of touching.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tangent": {
+    "def": [
+      {
+        "definition": "Touching.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tangible": {
+    "def": [
+      {
+        "definition": "Perceptible by touch.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tannery": {
+    "def": [
+      {
+        "definition": "A place where leather is tanned.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tantalize": {
+    "def": [
+      {
+        "definition": "To tease.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "tantamount": {
+    "def": [
+      {
+        "definition": "Having equal or equivalent value, effect, or import.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tapestry": {
+    "def": [
+      {
+        "definition": "A fabric to which a pattern is applied with a needle, designed for ornamental",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tarnish": {
+    "def": [
+      {
+        "definition": "To lessen or destroy the luster of in any way.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "taut": {
+    "def": [
+      {
+        "definition": "Stretched tight.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "taxation": {
+    "def": [
+      {
+        "definition": "A levy, by government, of a fixed contribution.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "taxidermy": {
+    "def": [
+      {
+        "definition": "The art or process of preserving dead animals or parts of them.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "technic": {
+    "def": [
+      {
+        "definition": "Technical.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "technicality": {
+    "def": [
+      {
+        "definition": "Something peculiar to a particular art, trade, or the like.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "technique": {
+    "def": [
+      {
+        "definition": "Manner of performance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "technography": {
+    "def": [
+      {
+        "definition": "The scientific description or study of human arts and industries in their",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "technology": {
+    "def": [
+      {
+        "definition": "The knowledge relating to industries and manufactures.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "teem": {
+    "def": [
+      {
+        "definition": "To be full to overflowing.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "telepathy": {
+    "def": [
+      {
+        "definition": "Thought-transference.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "telephony": {
+    "def": [
+      {
+        "definition": "The art or process of communicating by telephone.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "telescope": {
+    "def": [
+      {
+        "definition": "To drive together so that one slides into the another like the sections of a",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "telltale": {
+    "def": [
+      {
+        "definition": "That gives warning or information.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "temerity": {
+    "def": [
+      {
+        "definition": "Recklessness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "temporal": {
+    "def": [
+      {
+        "definition": "Pertaining to or concerned with the affairs of the present life.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "temporary": {
+    "def": [
+      {
+        "definition": "Lasting for a short time only.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "temporize": {
+    "def": [
+      {
+        "definition": "To pursue a policy of delay.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "tempt": {
+    "def": [
+      {
+        "definition": "To offer to (somebody) an inducement to do wrong.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "tempter": {
+    "def": [
+      {
+        "definition": "An allurer or enticer to evil.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tenacious": {
+    "def": [
+      {
+        "definition": "Unyielding.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tenant": {
+    "def": [
+      {
+        "definition": "An occupant.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tendency": {
+    "def": [
+      {
+        "definition": "Direction or inclination, as toward some objector end.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tenet": {
+    "def": [
+      {
+        "definition": "Any opinion, principle, dogma, or doctrine that a person believes or maintains as",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tenor": {
+    "def": [
+      {
+        "definition": "A settled course or manner of progress.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tense": {
+    "def": [
+      {
+        "definition": "Strained to stiffness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tentative": {
+    "def": [
+      {
+        "definition": "Done as an experiment.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tenure": {
+    "def": [
+      {
+        "definition": "The term during which a thing is held.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tercentenary": {
+    "def": [
+      {
+        "definition": "Pertaining to a period of 300 years.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "termagant": {
+    "def": [
+      {
+        "definition": "Violently abusive and quarrelsome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "terminal": {
+    "def": [
+      {
+        "definition": "Pertaining to or creative of a boundary, limit.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "terminate": {
+    "def": [
+      {
+        "definition": "To put an end or stop to.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "termination": {
+    "def": [
+      {
+        "definition": "The act of ending or concluding.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "terminus": {
+    "def": [
+      {
+        "definition": "The final point or goal.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "terrify": {
+    "def": [
+      {
+        "definition": "To fill with extreme fear.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "territorial": {
+    "def": [
+      {
+        "definition": "Pertaining to the domain over which a sovereign state exercises",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "terse": {
+    "def": [
+      {
+        "definition": "Pithy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "testament": {
+    "def": [
+      {
+        "definition": "A will.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "testator": {
+    "def": [
+      {
+        "definition": "The maker of a will.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "testimonial": {
+    "def": [
+      {
+        "definition": "A formal token of regard, often presented in public.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "thearchy": {
+    "def": [
+      {
+        "definition": "Government by a supreme deity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theism": {
+    "def": [
+      {
+        "definition": "Belief in God.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theocracy": {
+    "def": [
+      {
+        "definition": "A government administered by ecclesiastics.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theocrasy": {
+    "def": [
+      {
+        "definition": "The mixed worship of polytheism.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theologian": {
+    "def": [
+      {
+        "definition": "A professor of divinity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theological": {
+    "def": [
+      {
+        "definition": "Based on or growing out of divine revelation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "theology": {
+    "def": [
+      {
+        "definition": "The branch of theological science that treats of God.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theoretical": {
+    "def": [
+      {
+        "definition": "Directed toward knowledge for its own sake without respect to",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "theorist": {
+    "def": [
+      {
+        "definition": "One given to speculating.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "theorize": {
+    "def": [
+      {
+        "definition": "To speculate.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "thereabout": {
+    "def": [
+      {
+        "definition": "Near that number, quantity, degree, place, or time, approximately.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "therefor": {
+    "def": [
+      {
+        "definition": "For that or this.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "thermal": {
+    "def": [
+      {
+        "definition": "Of or pertaining to heat.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "thermoelectric": {
+    "def": [
+      {
+        "definition": "Denoting electricity produced by heat.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "thermoelectricity": {
+    "def": [
+      {
+        "definition": "Electricity generated by differences of temperature,",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "thesis": {
+    "def": [
+      {
+        "definition": "An essay or treatise on a particular subject.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "thoroughbred": {
+    "def": [
+      {
+        "definition": "Bred from the best or purest blood or stock.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "thoroughfare": {
+    "def": [
+      {
+        "definition": "A public street or road.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "thrall": {
+    "def": [
+      {
+        "definition": "One controlled by an appetite or a passion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tilth": {
+    "def": [
+      {
+        "definition": "Cultivation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "timbre": {
+    "def": [
+      {
+        "definition": "The quality of a tone, as distinguished from intensity and pitch.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "timorous": {
+    "def": [
+      {
+        "definition": "Lacking courage.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tincture": {
+    "def": [
+      {
+        "definition": "A solution, usually alcoholic, of some principle used in medicine.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tinge": {
+    "def": [
+      {
+        "definition": "A faint trace of color.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tipsy": {
+    "def": [
+      {
+        "definition": "Befuddled with drinks.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tirade": {
+    "def": [
+      {
+        "definition": "Harangue.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tireless": {
+    "def": [
+      {
+        "definition": "Untiring.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tiresome": {
+    "def": [
+      {
+        "definition": "Wearisome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "titanic": {
+    "def": [
+      {
+        "definition": "Of vast size or strength.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "toilsome": {
+    "def": [
+      {
+        "definition": "Laborious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tolerable": {
+    "def": [
+      {
+        "definition": "Moderately good.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tolerance": {
+    "def": [
+      {
+        "definition": "Forbearance in judging of the acts or opinions of others.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tolerant": {
+    "def": [
+      {
+        "definition": "Indulgent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tolerate": {
+    "def": [
+      {
+        "definition": "To passively permit or put up with.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "toleration": {
+    "def": [
+      {
+        "definition": "A spirit of charitable leniency.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "topography": {
+    "def": [
+      {
+        "definition": "The art of representing on a map the physical features of any locality or",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "torpor": {
+    "def": [
+      {
+        "definition": "Apathy.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "torrid": {
+    "def": [
+      {
+        "definition": "Excessively hot.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tortious": {
+    "def": [
+      {
+        "definition": "Wrongful.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tortuous": {
+    "def": [
+      {
+        "definition": "Abounding in irregular bends or turns.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "torturous": {
+    "def": [
+      {
+        "definition": "Marked by extreme suffering.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tractable": {
+    "def": [
+      {
+        "definition": "Easily led or controlled.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "trait": {
+    "def": [
+      {
+        "definition": "A distinguishing feature or quality.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trajectory": {
+    "def": [
+      {
+        "definition": "The path described by a projectile moving under given forces.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trammel": {
+    "def": [
+      {
+        "definition": "An impediment.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tranquil": {
+    "def": [
+      {
+        "definition": "Calm.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tranquilize": {
+    "def": [
+      {
+        "definition": "To soothe.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "tranquility": {
+    "def": [
+      {
+        "definition": "Calmness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transalpine": {
+    "def": [
+      {
+        "definition": "Situated on the other side of the Alps.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transact": {
+    "def": [
+      {
+        "definition": "To do business.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transatlantic": {
+    "def": [
+      {
+        "definition": "Situated beyond or on the other side of the Atlantic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transcend": {
+    "def": [
+      {
+        "definition": "To surpass.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transcendent": {
+    "def": [
+      {
+        "definition": "Surpassing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transcontinental": {
+    "def": [
+      {
+        "definition": "Extending or passing across a continent.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transcribe": {
+    "def": [
+      {
+        "definition": "To write over again (something already written)",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transcript": {
+    "def": [
+      {
+        "definition": "A copy made directly from an original.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transfer": {
+    "def": [
+      {
+        "definition": "To convey, remove, or cause to pass from one person or place to another.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transferable": {
+    "def": [
+      {
+        "definition": "Capable of being conveyed from one person or place to another.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transferee": {
+    "def": [
+      {
+        "definition": "The person to whom a transfer is made.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transference": {
+    "def": [
+      {
+        "definition": "The act of conveying from one person or place to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transferrer": {
+    "def": [
+      {
+        "definition": "One who or that which conveys from one person or place to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transfigure": {
+    "def": [
+      {
+        "definition": "To give an exalted meaning or glorified appearance to.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transfuse": {
+    "def": [
+      {
+        "definition": "To pour or cause to pass, as a fluid, from one vessel to another.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transfusible": {
+    "def": [
+      {
+        "definition": "Capable of being poured from one vessel to another.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transfusion": {
+    "def": [
+      {
+        "definition": "The act of pouring from one vessel to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transgress": {
+    "def": [
+      {
+        "definition": "To break a law.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transience": {
+    "def": [
+      {
+        "definition": "Something that is of short duration.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transient": {
+    "def": [
+      {
+        "definition": "One who or that which is only of temporary existence.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transition": {
+    "def": [
+      {
+        "definition": "Passage from one place, condition, or action to another.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transitory": {
+    "def": [
+      {
+        "definition": "Existing for a short time only.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "translate": {
+    "def": [
+      {
+        "definition": "To give the sense or equivalent of in another language or dialect.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "translator": {
+    "def": [
+      {
+        "definition": "An interpreter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "translucence": {
+    "def": [
+      {
+        "definition": "The property or state of allowing the passage of light.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "translucent": {
+    "def": [
+      {
+        "definition": "Allowing the passage of light.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transmissible": {
+    "def": [
+      {
+        "definition": "That may e sent through or across.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transmission": {
+    "def": [
+      {
+        "definition": "The act of sending through or across.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transmit": {
+    "def": [
+      {
+        "definition": "To send trough or across.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transmute": {
+    "def": [
+      {
+        "definition": "To change in nature, substance, or form.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transparent": {
+    "def": [
+      {
+        "definition": "Easy to see through or understand.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "transpire": {
+    "def": [
+      {
+        "definition": "To come to pass.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transplant": {
+    "def": [
+      {
+        "definition": "To remove and plant in another place.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "transposition": {
+    "def": [
+      {
+        "definition": "The act of reversing the order or changing the place of.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "transverse": {
+    "def": [
+      {
+        "definition": "Lying or being across or in a crosswise direction.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "travail": {
+    "def": [
+      {
+        "definition": "Hard or agonizing labor.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "travesty": {
+    "def": [
+      {
+        "definition": "A grotesque imitation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "treacherous": {
+    "def": [
+      {
+        "definition": "Perfidious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "treachery": {
+    "def": [
+      {
+        "definition": "Violation of allegiance, confidence, or plighted faith.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "treasonable": {
+    "def": [
+      {
+        "definition": "Of the nature of betrayal, treachery, or breech of allegiance.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "treatise": {
+    "def": [
+      {
+        "definition": "An elaborate literary composition presenting a subject in all its parts.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "treble": {
+    "def": [
+      {
+        "definition": "Multiplied by three.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "trebly": {
+    "def": [
+      {
+        "definition": "Triply.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "tremendous": {
+    "def": [
+      {
+        "definition": "Awe-inspiring.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tremor": {
+    "def": [
+      {
+        "definition": "An involuntary trembling or shivering.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tremulous": {
+    "def": [
+      {
+        "definition": "Characterized by quivering or unsteadiness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "trenchant": {
+    "def": [
+      {
+        "definition": "Cutting deeply and quickly.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "trepidation": {
+    "def": [
+      {
+        "definition": "Nervous uncertainty of feeling.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trestle": {
+    "def": [
+      {
+        "definition": "An open braced framework for supporting the horizontal stringers of a",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "triad": {
+    "def": [
+      {
+        "definition": "A group of three persons of things.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tribune": {
+    "def": [
+      {
+        "definition": "Any champion of the rights and liberties of the people: often used as the name",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trickery": {
+    "def": [
+      {
+        "definition": "Artifice.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tricolor": {
+    "def": [
+      {
+        "definition": "Of three colors.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tricycle": {
+    "def": [
+      {
+        "definition": "A three-wheeled vehicle.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trident": {
+    "def": [
+      {
+        "definition": "The three-pronged fork that was the emblem of Neptune.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "triennial": {
+    "def": [
+      {
+        "definition": "Taking place every third year.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "trimness": {
+    "def": [
+      {
+        "definition": "Neatness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trinity": {
+    "def": [
+      {
+        "definition": "A threefold personality existing in the one divine being or substance.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trio": {
+    "def": [
+      {
+        "definition": "Three things grouped or associated together.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "triple": {
+    "def": [
+      {
+        "definition": "Threefold.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "triplicate": {
+    "def": [
+      {
+        "definition": "Composed of or pertaining to three related things or parts.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "triplicity": {
+    "def": [
+      {
+        "definition": "The state of being triple or threefold.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tripod": {
+    "def": [
+      {
+        "definition": "A three-legged stand, usually hinged near the top, for supporting some",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trisect": {
+    "def": [
+      {
+        "definition": "To divide into three parts, especially into three equal parts.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "trite": {
+    "def": [
+      {
+        "definition": "Made commonplace by frequent repetition.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "triumvir": {
+    "def": [
+      {
+        "definition": "One of three men united coordinately in public office or authority.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "trivial": {
+    "def": [
+      {
+        "definition": "Of little importance or value.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "troublesome": {
+    "def": [
+      {
+        "definition": "Burdensome.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "truculence": {
+    "def": [
+      {
+        "definition": "Ferocity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "truculent": {
+    "def": [
+      {
+        "definition": "Having the character or the spirit of a savage.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "truism": {
+    "def": [
+      {
+        "definition": "A statement so plainly true as hardly to require statement or proof.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "truthful": {
+    "def": [
+      {
+        "definition": "Veracious.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "turgid": {
+    "def": [
+      {
+        "definition": "Swollen.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "turpitude": {
+    "def": [
+      {
+        "definition": "Depravity.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tutelage": {
+    "def": [
+      {
+        "definition": "The act of training or the state of being under instruction.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tutelar": {
+    "def": [
+      {
+        "definition": "Protective.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tutorship": {
+    "def": [
+      {
+        "definition": "The office of a guardian.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "twinge": {
+    "def": [
+      {
+        "definition": "A darting momentary local pain.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "typical": {
+    "def": [
+      {
+        "definition": "Characteristic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "typify": {
+    "def": [
+      {
+        "definition": "To serve as a characteristic example of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "typographical": {
+    "def": [
+      {
+        "definition": "Pertaining to typography or printing.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "typography": {
+    "def": [
+      {
+        "definition": "The arrangement of composed type, or the appearance of printed matter.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tyrannical": {
+    "def": [
+      {
+        "definition": "Despotic.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "tyranny": {
+    "def": [
+      {
+        "definition": "Absolute power arbitrarily or unjustly administrated.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "tyro": {
+    "def": [
+      {
+        "definition": "One slightly skilled in or acquainted with any trade or profession.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  }
+}

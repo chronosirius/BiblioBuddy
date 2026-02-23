@@ -1,0 +1,5646 @@
+{
+  "earnest": {
+    "def": [
+      {
+        "definition": "characterized by or  from an intense and serious state of mind",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "earnest",
+      "earnestness",
+      "earnestnesses"
+    ]
+  },
+  "earthenware": {
+    "def": [
+      {
+        "definition": "ceramic ware made of slightly porous opaque clay fired at low heat",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "earthenware",
+      "earthenwares"
+    ]
+  },
+  "eatable": {
+    "def": [
+      {
+        "definition": "fit or able to be eaten",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eatable"
+    ]
+  },
+  "ebullient": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by {a_link|ebullience} having or showing liveliness and enthusiasm",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "ebullient",
+      "ebulliently"
+    ]
+  },
+  "eccentric": {
+    "def": [
+      {
+        "definition": "having or showing an odd or  way of thinking",
+        "type": "adj."
+      },
+      {
+        "definition": "not following an established or usual pattern or style",
+        "type": "adj."
+      },
+      {
+        "definition": "not following a perfectly circular path",
+        "type": "adj."
+      },
+      {
+        "definition": "located internally somewhere other than at the  center",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eccentric",
+      "eccentrically"
+    ]
+  },
+  "eccentricity": {
+    "def": [
+      {
+        "definition": "the quality or state of being {a_link|eccentric}",
+        "type": "n."
+      },
+      {
+        "definition": "deviation from an established pattern or norm",
+        "type": "n."
+      },
+      {
+        "definition": "a mathematical constant that for a given conic section is the ratio of the distances from any point of the conic section to a focus and the corresponding directrix",
+        "type": "n."
+      },
+      {
+        "definition": "the eccentricity of an astronomical orbit used as a measure of its deviation from circularity",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "eccentricities",
+      "eccentricity"
+    ]
+  },
+  "eclipse": {
+    "def": [
+      {
+        "definition": "the total or partial obscuring of one celestial body by another",
+        "type": "n."
+      },
+      {
+        "definition": "the passing into the shadow of a celestial body {dx}compare ,",
+        "type": "n."
+      },
+      {
+        "definition": "a falling into obscurity or decline",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being in eclipse plumage",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "eclipse",
+      "eclipses"
+    ]
+  },
+  "economize": {
+    "def": [
+      {
+        "definition": "to practice {a_link|economy} be frugal",
+        "type": "v."
+      },
+      {
+        "definition": "to use frugally",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "economize",
+      "economized",
+      "economizer",
+      "economizers",
+      "economizes",
+      "economizing"
+    ]
+  },
+  "ecstasy": {
+    "def": [
+      {
+        "definition": "a state of overwhelming emotion",
+        "type": "n."
+      },
+      {
+        "definition": "a synthetic amphetamine analog C{inf}11H{inf}15NO{inf}2 used illicitly for its mood-enhancing and hallucinogenic properties",
+        "type": "n."
+      },
+      {
+        "definition": "a state of being beyond reason and self-control",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Ecstasies",
+      "Ecstasy",
+      "MDMA",
+      "MDMAs",
+      "ecstasies",
+      "ecstasy"
+    ]
+  },
+  "ecstatic": {
+    "def": [
+      {
+        "definition": "of, relating to, or marked by",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "ecstatic",
+      "ecstatically"
+    ]
+  },
+  "edible": {
+    "def": [
+      {
+        "definition": "fit to be eaten",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "edibilities",
+      "edibility",
+      "edible",
+      "edibleness",
+      "ediblenesses",
+      "edibles"
+    ]
+  },
+  "edict": {
+    "def": [
+      {
+        "definition": "a proclamation having the force of law",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "edict",
+      "edictal",
+      "edicts"
+    ]
+  },
+  "edify": {
+    "def": [
+      {
+        "definition": "to instruct and improve especially in moral and religious knowledge",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "edified",
+      "edifies",
+      "edify",
+      "edifying"
+    ]
+  },
+  "editorial": {
+    "def": [
+      {
+        "definition": "of or relating to an {a_link|editor} or {a_link|editing}",
+        "type": "adj."
+      },
+      {
+        "definition": "being or resembling an editorial",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "editorial",
+      "editorially"
+    ]
+  },
+  "educe": {
+    "def": [
+      {
+        "definition": "to bring out (something, such as something latent)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "educe",
+      "educed",
+      "educes",
+      "educible",
+      "educing",
+      "eduction",
+      "eductions"
+    ]
+  },
+  "efface": {
+    "def": [
+      {
+        "definition": "to eliminate or make indistinct by or as if by wearing away a surface",
+        "type": "v."
+      },
+      {
+        "definition": "to make (oneself) modestly or shyly inconspicuous",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "efface",
+      "effaceable",
+      "effaced",
+      "effacement",
+      "effacements",
+      "effacer",
+      "effacers",
+      "effaces",
+      "effacing"
+    ]
+  },
+  "effect": {
+    "def": [
+      {
+        "definition": "something that inevitably follows an  (such as a cause or agent) ,",
+        "type": "n."
+      },
+      {
+        "definition": "a distinctive impression",
+        "type": "n."
+      },
+      {
+        "definition": "the creation of a desired impression",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being operative   {dx}see also",
+        "type": "n."
+      },
+      {
+        "definition": "power to bring about a result   {dx}see also",
+        "type": "n."
+      },
+      {
+        "definition": "movable property   {dx}see also",
+        "type": "n."
+      },
+      {
+        "definition": "an outward sign",
+        "type": "n."
+      },
+      {
+        "definition": "a goal or purpose",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "adverse effect",
+      "adverse effects",
+      "cause and effect",
+      "effect",
+      "effects",
+      "for effect",
+      "gave effect",
+      "give effect",
+      "gives effect",
+      "giving effect",
+      "go into effect",
+      "goes into effect",
+      "going into effect",
+      "gone into effect",
+      "had the effect",
+      "had the effects",
+      "has the effect",
+      "has the effects",
+      "have the effect",
+      "have the effects",
+      "having the effect",
+      "having the effects",
+      "ill effect",
+      "ill effects",
+      "put into effect",
+      "puts into effect",
+      "putting into effect",
+      "to good effect",
+      "to good/great effect",
+      "to great effect",
+      "to little effect",
+      "to little/no effect",
+      "to no effect",
+      "to that effect",
+      "went into effect"
+    ]
+  },
+  "effective": {
+    "def": [
+      {
+        "definition": "producing a decided, decisive, or desired {a_link|effect}",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      },
+      {
+        "definition": "being in effect",
+        "type": "adj."
+      },
+      {
+        "definition": "ready for service or action",
+        "type": "adj."
+      },
+      {
+        "definition": "equal to the rate of  that yields the same amount when the interest is paid once at the end of the interest period as a quoted rate of interest does when calculated at  over the same period {dx}compare",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "effective",
+      "effectiveness",
+      "effectivenesses",
+      "effectivities",
+      "effectivity"
+    ]
+  },
+  "effectual": {
+    "def": [
+      {
+        "definition": "producing or able to produce a desired {a_link|effect}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "effectual",
+      "effectualities",
+      "effectuality",
+      "effectualness",
+      "effectualnesses"
+    ]
+  },
+  "effeminacy": {
+    "def": [
+      {
+        "definition": "the quality of being {a_link|effeminate}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "effeminacies",
+      "effeminacy"
+    ]
+  },
+  "effeminate": {
+    "def": [
+      {
+        "definition": "having feminine qualities untypical of a man not manly in appearance or manner",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by an unbecoming delicacy or overrefinement",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "effeminate"
+    ]
+  },
+  "effervesce": {
+    "def": [
+      {
+        "definition": "to bubble, hiss, and foam as gas escapes",
+        "type": "v."
+      },
+      {
+        "definition": "to show liveliness or exhilaration",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "effervesce",
+      "effervesced",
+      "effervesces",
+      "effervescing"
+    ]
+  },
+  "effervescent": {
+    "def": [
+      {
+        "definition": "having the property of forming bubbles marked by or producing",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by or expressing an appealingly lively quality",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "effervescent",
+      "effervescently"
+    ]
+  },
+  "effete": {
+    "def": [
+      {
+        "definition": "no longer fertile",
+        "type": "adj."
+      },
+      {
+        "definition": "having lost character, vitality, or strength",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by weakness or decadence",
+        "type": "adj."
+      },
+      {
+        "definition": "soft or delicate from or as if from a pampered existence",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "effete",
+      "effetely",
+      "effeteness",
+      "effetenesses"
+    ]
+  },
+  "efficacious": {
+    "def": [
+      {
+        "definition": "having the power to produce a desired effect",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "efficacious",
+      "efficaciously",
+      "efficaciousness",
+      "efficaciousnesses"
+    ]
+  },
+  "efficacy": {
+    "def": [
+      {
+        "definition": "the power to produce a result or",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "efficacies",
+      "efficacy"
+    ]
+  },
+  "efficiency": {
+    "def": [
+      {
+        "definition": "the quality or degree of being {a_link|efficient}",
+        "type": "n."
+      },
+      {
+        "definition": "efficient operation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "efficiencies",
+      "efficiency"
+    ]
+  },
+  "efficient": {
+    "def": [
+      {
+        "definition": "productive of desired effects",
+        "type": "adj."
+      },
+      {
+        "definition": "being or involving the immediate  in producing an effect  {dx}see also",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "efficient"
+    ]
+  },
+  "efflorescence": {
+    "def": [
+      {
+        "definition": "the action or process of developing and unfolding as if coming into flower",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of such development",
+        "type": "n."
+      },
+      {
+        "definition": "fullness of manifestation",
+        "type": "n."
+      },
+      {
+        "definition": "the period or state of flowering",
+        "type": "n."
+      },
+      {
+        "definition": "the process or product of {a_link|efflorescing} chemically",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "efflorescence",
+      "efflorescences",
+      "efflorescent"
+    ]
+  },
+  "efflorescent": {
+    "def": [
+      {
+        "definition": "the action or process of developing and unfolding as if coming into flower",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of such development",
+        "type": "n."
+      },
+      {
+        "definition": "fullness of manifestation",
+        "type": "n."
+      },
+      {
+        "definition": "the period or state of flowering",
+        "type": "n."
+      },
+      {
+        "definition": "the process or product of {a_link|efflorescing} chemically",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "efflorescence",
+      "efflorescences",
+      "efflorescent"
+    ]
+  },
+  "effluvium": {
+    "def": [
+      {
+        "definition": "an invisible emanation",
+        "type": "n."
+      },
+      {
+        "definition": "a by-product especially in the form of waste",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "effluvia",
+      "effluvias",
+      "effluvium",
+      "effluviums"
+    ]
+  },
+  "effrontery": {
+    "def": [
+      {
+        "definition": "shameless boldness",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "effronteries",
+      "effrontery"
+    ]
+  },
+  "effulgence": {
+    "def": [
+      {
+        "definition": "radiant splendor",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "effulgence",
+      "effulgences",
+      "effulgent"
+    ]
+  },
+  "effuse": {
+    "def": [
+      {
+        "definition": "to pour out (a liquid)",
+        "type": "v."
+      },
+      {
+        "definition": "to flow out",
+        "type": "v."
+      },
+      {
+        "definition": "to make a great or excessive display of enthusiasm",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "effuse",
+      "effused",
+      "effuses",
+      "effusing"
+    ]
+  },
+  "effusion": {
+    "def": [
+      {
+        "definition": "an act of {a_link|effusing}",
+        "type": "n."
+      },
+      {
+        "definition": "unrestrained expression of words or feelings",
+        "type": "n."
+      },
+      {
+        "definition": "the fluid that escapes",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "effusion",
+      "effusions"
+    ]
+  },
+  "egoism": {
+    "def": [
+      {
+        "definition": "a doctrine that individual self-interest is the actual motive of all conscious action",
+        "type": "n."
+      },
+      {
+        "definition": "a doctrine that individual self-interest is the valid end of all actions",
+        "type": "n."
+      },
+      {
+        "definition": "excessive concern for oneself with or without exaggerated feelings of self-importance {dx}compare",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "egoism",
+      "egoisms"
+    ]
+  },
+  "egoist": {
+    "def": [
+      {
+        "definition": "a believer in {a_link|egoism}",
+        "type": "n."
+      },
+      {
+        "definition": "an egocentric or egotistic person",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "egoist",
+      "egoistic",
+      "egoistical",
+      "egoistically",
+      "egoists"
+    ]
+  },
+  "egotism": {
+    "def": [
+      {
+        "definition": "excessive use of the first person singular personal pronoun",
+        "type": "n."
+      },
+      {
+        "definition": "the practice of talking about oneself too much",
+        "type": "n."
+      },
+      {
+        "definition": "an exaggerated sense of self-importance  {dx}compare",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "egotism",
+      "egotisms",
+      "egotist",
+      "egotists"
+    ]
+  },
+  "egotist": {
+    "def": [
+      {
+        "definition": "excessive use of the first person singular personal pronoun",
+        "type": "n."
+      },
+      {
+        "definition": "the practice of talking about oneself too much",
+        "type": "n."
+      },
+      {
+        "definition": "an exaggerated sense of self-importance  {dx}compare",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "egotism",
+      "egotisms",
+      "egotist",
+      "egotists"
+    ]
+  },
+  "egregious": {
+    "def": [
+      {
+        "definition": "very noticeable",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "egregious",
+      "egregiously",
+      "egregiousness",
+      "egregiousnesses"
+    ]
+  },
+  "egress": {
+    "def": [
+      {
+        "definition": "a place or means of going out",
+        "type": "n."
+      },
+      {
+        "definition": "the action or right of going or coming out",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "egress",
+      "egresses"
+    ]
+  },
+  "eject": {
+    "def": [
+      {
+        "definition": "to throw out especially by physical force, authority, or influence",
+        "type": "v."
+      },
+      {
+        "definition": "to evict from property",
+        "type": "v."
+      },
+      {
+        "definition": "to throw out or off from within",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "eject",
+      "ejectable",
+      "ejected",
+      "ejecting",
+      "ejection",
+      "ejections",
+      "ejective",
+      "ejects"
+    ]
+  },
+  "elapse": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "elapse",
+      "elapsed",
+      "elapses",
+      "elapsing"
+    ]
+  },
+  "elasticity": {
+    "def": [
+      {
+        "definition": "the capability of a strained body to recover its size and shape after deformation",
+        "type": "n."
+      },
+      {
+        "definition": "the quality of being adaptable",
+        "type": "n."
+      },
+      {
+        "definition": "the responsiveness of a dependent economic variable to changes in influencing factors",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "elasticities",
+      "elasticity"
+    ]
+  },
+  "electrolysis": {
+    "def": [
+      {
+        "definition": "the producing of chemical changes by passage of an {a_link|electric} current through an {a_link|electrolyte}",
+        "type": "n."
+      },
+      {
+        "definition": "subjection to this action",
+        "type": "n."
+      },
+      {
+        "definition": "the destruction of hair roots by an {a_link|electrologist} using direct current",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "electrolyses",
+      "electrolysis"
+    ]
+  },
+  "electrotype": {
+    "def": [
+      {
+        "definition": "a duplicate printing surface made by an {a_link|electroplating} process",
+        "type": "n."
+      },
+      {
+        "definition": "a copy (as of a coin) made by an electroplating process",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "electrotype",
+      "electrotyped",
+      "electrotyper",
+      "electrotypers",
+      "electrotypes",
+      "electrotyping"
+    ]
+  },
+  "elegy": {
+    "def": [
+      {
+        "definition": "a poem in {a_link|elegiac} couplets",
+        "type": "n."
+      },
+      {
+        "definition": "a song or poem expressing sorrow or lamentation especially for one who is dead",
+        "type": "n."
+      },
+      {
+        "definition": "something (such as a speech) resembling such a song or poem",
+        "type": "n."
+      },
+      {
+        "definition": "a pensive or reflective poem that is usually nostalgic or melancholy",
+        "type": "n."
+      },
+      {
+        "definition": "a short pensive musical composition",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "elegies",
+      "elegy"
+    ]
+  },
+  "element": {
+    "def": [
+      {
+        "definition": "any of the four substances air, water, fire, and earth formerly believed to compose the physical universe",
+        "type": "n."
+      },
+      {
+        "definition": "weather conditions",
+        "type": "n."
+      },
+      {
+        "definition": "the state or sphere natural or suited to a person or thing",
+        "type": "n."
+      },
+      {
+        "definition": "the simplest principles of a subject of study",
+        "type": "n."
+      },
+      {
+        "definition": "a distinct group within a larger group or community",
+        "type": "n."
+      },
+      {
+        "definition": "any of the fundamental substances that consist of atoms of only one kind and that singly or in combination constitute all matter",
+        "type": "n."
+      },
+      {
+        "definition": "a distinct part of a composite device",
+        "type": "n."
+      },
+      {
+        "definition": "a subdivision of a military unit",
+        "type": "n."
+      },
+      {
+        "definition": "the bread and wine used in the Eucharist",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "element",
+      "elements"
+    ]
+  },
+  "elicit": {
+    "def": [
+      {
+        "definition": "to get (information, a response, etc.) from someone",
+        "type": "v."
+      },
+      {
+        "definition": "to bring out (something  or )",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "elicit",
+      "elicitation",
+      "elicitations",
+      "elicited",
+      "eliciting",
+      "elicitor",
+      "elicitors",
+      "elicits"
+    ]
+  },
+  "eligible": {
+    "def": [
+      {
+        "definition": "qualified to participate or be chosen",
+        "type": "adj."
+      },
+      {
+        "definition": "permitted under football rules to catch a",
+        "type": "adj."
+      },
+      {
+        "definition": "worthy of being chosen",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eligible",
+      "eligibly"
+    ]
+  },
+  "eliminate": {
+    "def": [
+      {
+        "definition": "to put an end to or get rid of",
+        "type": "v."
+      },
+      {
+        "definition": "to remove from consideration",
+        "type": "v."
+      },
+      {
+        "definition": "to remove from further competition by defeating",
+        "type": "v."
+      },
+      {
+        "definition": "to expel (waste) from the living body",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to disappear by combining two or more equations",
+        "type": "v."
+      },
+      {
+        "definition": "to expel waste from the living body",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "eliminate",
+      "eliminated",
+      "eliminates",
+      "eliminating",
+      "eliminative",
+      "eliminator",
+      "eliminators"
+    ]
+  },
+  "elizabethan": {
+    "def": [
+      {
+        "definition": "of, relating to, or characteristic of {a_link|Elizabeth} I of England or her reign",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Elizabethan",
+      "Elizabethans"
+    ]
+  },
+  "elocution": {
+    "def": [
+      {
+        "definition": "a style of speaking especially in public",
+        "type": "n."
+      },
+      {
+        "definition": "the art of effective public speaking",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "elocution",
+      "elocutionary",
+      "elocutionist",
+      "elocutionists",
+      "elocutions"
+    ]
+  },
+  "eloquent": {
+    "def": [
+      {
+        "definition": "marked by forceful and  expression",
+        "type": "adj."
+      },
+      {
+        "definition": "vividly or movingly expressive or",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eloquent",
+      "eloquently"
+    ]
+  },
+  "elucidate": {
+    "def": [
+      {
+        "definition": "to make lucid especially by explanation or analysis",
+        "type": "v."
+      },
+      {
+        "definition": "to give a clarifying explanation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "elucidate",
+      "elucidated",
+      "elucidates",
+      "elucidating",
+      "elucidation",
+      "elucidations",
+      "elucidative"
+    ]
+  },
+  "elude": {
+    "def": [
+      {
+        "definition": "to avoid adroitly",
+        "type": "v."
+      },
+      {
+        "definition": "to escape the perception, understanding, or grasp of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "elude",
+      "eluded",
+      "eludes",
+      "eluding"
+    ]
+  },
+  "elusion": {
+    "def": [
+      {
+        "definition": "an act of eluding",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "elusion",
+      "elusions"
+    ]
+  },
+  "emaciate": {
+    "def": [
+      {
+        "definition": "to cause to lose flesh so as to become very thin",
+        "type": "v."
+      },
+      {
+        "definition": "to make feeble",
+        "type": "v."
+      },
+      {
+        "definition": "to waste away physically",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emaciate",
+      "emaciated",
+      "emaciates",
+      "emaciating",
+      "emaciation",
+      "emaciations"
+    ]
+  },
+  "emanate": {
+    "def": [
+      {
+        "definition": "to come out from a source",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emanate",
+      "emanated",
+      "emanates",
+      "emanating"
+    ]
+  },
+  "emancipate": {
+    "def": [
+      {
+        "definition": "to free from restraint, control, or the power of another",
+        "type": "v."
+      },
+      {
+        "definition": "to release from parental care and responsibility and make",
+        "type": "v."
+      },
+      {
+        "definition": "to free from any controlling influence (such as traditional mores or beliefs)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emancipate",
+      "emancipated",
+      "emancipates",
+      "emancipating",
+      "emancipator",
+      "emancipators",
+      "emancipatory"
+    ]
+  },
+  "embargo": {
+    "def": [
+      {
+        "definition": "an order of a government prohibiting the departure of commercial ships from its ports",
+        "type": "n."
+      },
+      {
+        "definition": "a legal prohibition on commerce",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      },
+      {
+        "definition": "an order by a common carrier or public regulatory agency prohibiting or restricting freight transportation",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "embargo",
+      "embargoes"
+    ]
+  },
+  "embark": {
+    "def": [
+      {
+        "definition": "to go on board a vehicle for transportation",
+        "type": "v."
+      },
+      {
+        "definition": "to make a start",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to go on board (a boat, an airplane, etc.)",
+        "type": "v."
+      },
+      {
+        "definition": "to engage, enlist, or invest in an enterprise",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embark",
+      "embarkation",
+      "embarkations",
+      "embarked",
+      "embarking",
+      "embarkment",
+      "embarkments",
+      "embarks"
+    ]
+  },
+  "embarrass": {
+    "def": [
+      {
+        "definition": "to cause to experience a state of  distress",
+        "type": "v."
+      },
+      {
+        "definition": "to place in doubt, , or difficulties",
+        "type": "v."
+      },
+      {
+        "definition": "to involve in financial difficulties",
+        "type": "v."
+      },
+      {
+        "definition": "to hamper the movement of",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to make intricate",
+        "type": "v."
+      },
+      {
+        "definition": "to impair the activity of (a bodily function) or the function of (a bodily part)",
+        "type": "v."
+      },
+      {
+        "definition": "to become anxiously",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embarrass",
+      "embarrassable",
+      "embarrassed",
+      "embarrasses",
+      "embarrassing"
+    ]
+  },
+  "embellish": {
+    "def": [
+      {
+        "definition": "to make beautiful with ornamentation",
+        "type": "v."
+      },
+      {
+        "definition": "to heighten the attractiveness of by adding decorative or fanciful details",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embellish",
+      "embellished",
+      "embellisher",
+      "embellishers",
+      "embellishes",
+      "embellishing"
+    ]
+  },
+  "embezzle": {
+    "def": [
+      {
+        "definition": "to appropriate (something, such as property entrusted to one's care) fraudulently to one's own use",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embezzle",
+      "embezzled",
+      "embezzlement",
+      "embezzlements",
+      "embezzler",
+      "embezzlers",
+      "embezzles",
+      "embezzling"
+    ]
+  },
+  "emblazon": {
+    "def": [
+      {
+        "definition": "to inscribe or adorn with or as if with heraldic bearings or devices",
+        "type": "v."
+      },
+      {
+        "definition": "to inscribe (something, such as heraldic bearings) on a surface",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emblazon",
+      "emblazoned",
+      "emblazoner",
+      "emblazoners",
+      "emblazoning",
+      "emblazonment",
+      "emblazonments",
+      "emblazons"
+    ]
+  },
+  "emblem": {
+    "def": [
+      {
+        "definition": "a picture with a motto or set of verses intended as a moral lesson",
+        "type": "n."
+      },
+      {
+        "definition": "an object or the figure of an object symbolizing and suggesting another object or an idea",
+        "type": "n."
+      },
+      {
+        "definition": "a symbolic object used as a heraldic device",
+        "type": "n."
+      },
+      {
+        "definition": "a device, symbol, or figure adopted and used as an identifying mark",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "emblem",
+      "emblems"
+    ]
+  },
+  "embody": {
+    "def": [
+      {
+        "definition": "to give a body to (a spirit)",
+        "type": "v."
+      },
+      {
+        "definition": "to deprive of spirituality",
+        "type": "v."
+      },
+      {
+        "definition": "to make concrete and perceptible",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to become a body or part of a body",
+        "type": "v."
+      },
+      {
+        "definition": "to represent in human or animal form",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embodied",
+      "embodier",
+      "embodiers",
+      "embodies",
+      "embody",
+      "embodying"
+    ]
+  },
+  "embolden": {
+    "def": [
+      {
+        "definition": "to impart boldness or courage to to instill with boldness, courage, or resolution enough to overcome timidity or misgiving",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embolden",
+      "emboldened",
+      "emboldening",
+      "emboldens"
+    ]
+  },
+  "embolism": {
+    "def": [
+      {
+        "definition": "the insertion of one or more days in a calendar",
+        "type": "n."
+      },
+      {
+        "definition": "the sudden obstruction of a blood vessel by an {a_link|embolus}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "embolism",
+      "embolismic",
+      "embolisms"
+    ]
+  },
+  "embroil": {
+    "def": [
+      {
+        "definition": "to throw into disorder or confusion",
+        "type": "v."
+      },
+      {
+        "definition": "to involve in conflict or difficulties",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "embroil",
+      "embroiled",
+      "embroiling",
+      "embroilment",
+      "embroilments",
+      "embroils"
+    ]
+  },
+  "emerge": {
+    "def": [
+      {
+        "definition": "to become manifest become known",
+        "type": "v."
+      },
+      {
+        "definition": "to rise from or as if from an enveloping fluid come out into view",
+        "type": "v."
+      },
+      {
+        "definition": "to rise from an obscure or inferior position or condition",
+        "type": "v."
+      },
+      {
+        "definition": "to come into being through evolution",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emerge",
+      "emerged",
+      "emerges",
+      "emerging"
+    ]
+  },
+  "emergence": {
+    "def": [
+      {
+        "definition": "the act or an instance of {a_link|emerging}",
+        "type": "n."
+      },
+      {
+        "definition": "any of various superficial outgrowths of plant tissue usually formed from both epidermis and immediately underlying tissues",
+        "type": "n."
+      },
+      {
+        "definition": "penetration of the soil surface by a newly germinated plant",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "emergence",
+      "emergences"
+    ]
+  },
+  "emergent": {
+    "def": [
+      {
+        "definition": "arising unexpectedly",
+        "type": "adj."
+      },
+      {
+        "definition": "calling for prompt action",
+        "type": "adj."
+      },
+      {
+        "definition": "rising out of or as if out of a fluid",
+        "type": "adj."
+      },
+      {
+        "definition": "rooted in shallow water and having most of its vegetative growth above water",
+        "type": "adj."
+      },
+      {
+        "definition": "arising as a natural or logical consequence",
+        "type": "adj."
+      },
+      {
+        "definition": "newly formed or prominent",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "emergent"
+    ]
+  },
+  "emeritus": {
+    "def": [
+      {
+        "definition": "a person retired from professional life but permitted to retain as an honorary title the rank of the last office held",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "emeriti",
+      "emeritus"
+    ]
+  },
+  "emigrant": {
+    "def": [
+      {
+        "definition": "one who {a_link|emigrates}",
+        "type": "n."
+      },
+      {
+        "definition": "a migrant plant or animal",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "emigrant",
+      "emigrants"
+    ]
+  },
+  "emigrate": {
+    "def": [
+      {
+        "definition": "to leave one's place of residence or country to live elsewhere",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emigrate",
+      "emigrated",
+      "emigrates",
+      "emigrating"
+    ]
+  },
+  "eminence": {
+    "def": [
+      {
+        "definition": "a position of prominence or superiority",
+        "type": "n."
+      },
+      {
+        "definition": "a person of high rank or attainments",
+        "type": "n."
+      },
+      {
+        "definition": "a natural elevation",
+        "type": "n."
+      },
+      {
+        "definition": "an anatomical protuberance (as on a bone)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "eminence",
+      "eminences"
+    ]
+  },
+  "eminent": {
+    "def": [
+      {
+        "definition": "exhibiting  especially in standing above others in some quality or position",
+        "type": "adj."
+      },
+      {
+        "definition": "standing out so as to be readily  or noted",
+        "type": "adj."
+      },
+      {
+        "definition": "jutting out",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eminent"
+    ]
+  },
+  "emit": {
+    "def": [
+      {
+        "definition": "to throw or give off or out",
+        "type": "v."
+      },
+      {
+        "definition": "to send out",
+        "type": "v."
+      },
+      {
+        "definition": "to issue with authority",
+        "type": "v."
+      },
+      {
+        "definition": "to give utterance or voice to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emit",
+      "emits",
+      "emitted",
+      "emitter",
+      "emitters",
+      "emitting"
+    ]
+  },
+  "emphasis": {
+    "def": [
+      {
+        "definition": "force or intensity of expression that gives impressiveness or importance to something",
+        "type": "n."
+      },
+      {
+        "definition": "a particular prominence given in reading or speaking to one or more words or syllables",
+        "type": "n."
+      },
+      {
+        "definition": "special consideration of or stress or insistence on something",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "emphases",
+      "emphasis"
+    ]
+  },
+  "emphasize": {
+    "def": [
+      {
+        "definition": "to place {a_link|emphasis} on",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emphasize",
+      "emphasized",
+      "emphasizes",
+      "emphasizing"
+    ]
+  },
+  "emphatic": {
+    "def": [
+      {
+        "definition": "uttered with or marked by {a_link|emphasis}",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to express oneself in forceful speech or to take decisive action",
+        "type": "adj."
+      },
+      {
+        "definition": "attracting special attention",
+        "type": "adj."
+      },
+      {
+        "definition": "constituting or belonging to a set of tense forms in English consisting of the auxiliary do followed by an infinitive without to that are used to facilitate rhetorical inversion or to {a_link|emphasize} something",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "emphatic",
+      "emphatically"
+    ]
+  },
+  "employee": {
+    "def": [
+      {
+        "definition": "one {a_link|employed} by another usually for wages or salary and in a position below the executive level",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "employe",
+      "employee",
+      "employees",
+      "employes"
+    ]
+  },
+  "employer": {
+    "def": [
+      {
+        "definition": "one that  or makes use of something or somebody",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "employer",
+      "employers"
+    ]
+  },
+  "emporium": {
+    "def": [
+      {
+        "definition": "a place of trade",
+        "type": "n."
+      },
+      {
+        "definition": "a retail outlet",
+        "type": "n."
+      },
+      {
+        "definition": "a store carrying many different kinds of merchandise",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "emporia",
+      "emporium",
+      "emporiums"
+    ]
+  },
+  "empower": {
+    "def": [
+      {
+        "definition": "to give official authority or legal power to",
+        "type": "v."
+      },
+      {
+        "definition": "to promote the self-actualization or influence of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "empower",
+      "empowered",
+      "empowering",
+      "empowers"
+    ]
+  },
+  "emulate": {
+    "def": [
+      {
+        "definition": "to strive to equal or",
+        "type": "v."
+      },
+      {
+        "definition": "to equal or approach equality with",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "emulate",
+      "emulated",
+      "emulates",
+      "emulating"
+    ]
+  },
+  "enact": {
+    "def": [
+      {
+        "definition": "to establish by legal and authoritative act",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enact",
+      "enacted",
+      "enacting",
+      "enactor",
+      "enactors",
+      "enacts"
+    ]
+  },
+  "enamor": {
+    "def": [
+      {
+        "definition": "to inflame with love",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to feel a strong or excessive interest or fascination",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enamor",
+      "enamored",
+      "enamoring",
+      "enamors"
+    ]
+  },
+  "encamp": {
+    "def": [
+      {
+        "definition": "to set up or occupy a camp",
+        "type": "v."
+      },
+      {
+        "definition": "to place or establish in a camp",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "encamp",
+      "encamped",
+      "encamping",
+      "encamps"
+    ]
+  },
+  "encomium": {
+    "def": [
+      {
+        "definition": "glowing and warmly enthusiastic praise",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "encomia",
+      "encomium",
+      "encomiums"
+    ]
+  },
+  "encompass": {
+    "def": [
+      {
+        "definition": "to include as a part of a whole or group",
+        "type": "v."
+      },
+      {
+        "definition": "to form a circle about",
+        "type": "v."
+      },
+      {
+        "definition": "to travel completely around",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "encompass",
+      "encompassed",
+      "encompasses",
+      "encompassing",
+      "encompassment",
+      "encompassments"
+    ]
+  },
+  "encore": {
+    "def": [
+      {
+        "definition": "a demand for repetition or reappearance made by an audience",
+        "type": "n."
+      },
+      {
+        "definition": "a reappearance or additional performance demanded by an audience",
+        "type": "n."
+      },
+      {
+        "definition": "a second achievement especially that surpasses the first",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "encore",
+      "encored",
+      "encores",
+      "encoring"
+    ]
+  },
+  "encourage": {
+    "def": [
+      {
+        "definition": "to inspire with courage, spirit, or hope",
+        "type": "v."
+      },
+      {
+        "definition": "to attempt to persuade",
+        "type": "v."
+      },
+      {
+        "definition": "to spur on",
+        "type": "v."
+      },
+      {
+        "definition": "to give help or patronage to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "encourage",
+      "encouraged",
+      "encourager",
+      "encouragers",
+      "encourages",
+      "encouraging"
+    ]
+  },
+  "encroach": {
+    "def": [
+      {
+        "definition": "to enter by gradual steps or by stealth into the possessions or rights of another",
+        "type": "v."
+      },
+      {
+        "definition": "to advance beyond the usual or proper limits",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "encroach",
+      "encroached",
+      "encroacher",
+      "encroachers",
+      "encroaches",
+      "encroaching",
+      "encroachment",
+      "encroachments"
+    ]
+  },
+  "encumber": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to impede or hamper the function or activity of",
+        "type": "v."
+      },
+      {
+        "definition": "to burden with a legal claim (such as a mortgage)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "encumber",
+      "encumbered",
+      "encumbering",
+      "encumbers"
+    ]
+  },
+  "encyclical": {
+    "def": [
+      {
+        "definition": "addressed to all the individuals of a group",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "encyclical"
+    ]
+  },
+  "encyclopedia": {
+    "def": [
+      {
+        "definition": "a work that contains information on all branches of knowledge or treats comprehensively a particular branch of knowledge usually in articles arranged alphabetically often by subject",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "encyclopedia",
+      "encyclopedias"
+    ]
+  },
+  "endanger": {
+    "def": [
+      {
+        "definition": "to bring into danger or peril",
+        "type": "v."
+      },
+      {
+        "definition": "to create a dangerous situation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "endanger",
+      "endangered",
+      "endangering",
+      "endangerment",
+      "endangerments",
+      "endangers"
+    ]
+  },
+  "endear": {
+    "def": [
+      {
+        "definition": "to cause to become beloved or admired",
+        "type": "v."
+      },
+      {
+        "definition": "to make higher in cost, value, or estimation",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "endear",
+      "endeared",
+      "endearing",
+      "endearingly",
+      "endears"
+    ]
+  },
+  "endemic": {
+    "def": [
+      {
+        "definition": "to a particular locality or region",
+        "type": "adj."
+      },
+      {
+        "definition": "persisting over time in a particular region or population",
+        "type": "adj."
+      },
+      {
+        "definition": "characteristic of or  in a particular field, place, group, or environment",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "endemic",
+      "endemically",
+      "endemicities",
+      "endemicity",
+      "endemism",
+      "endemisms"
+    ]
+  },
+  "endue": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "endue",
+      "endued",
+      "endues",
+      "enduing",
+      "indue",
+      "indued",
+      "indues",
+      "induing"
+    ]
+  },
+  "endurable": {
+    "def": [
+      {
+        "definition": "capable of being {a_link|endured}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "endurable",
+      "endurably"
+    ]
+  },
+  "endurance": {
+    "def": [
+      {
+        "definition": "the ability to withstand hardship or adversity",
+        "type": "n."
+      },
+      {
+        "definition": "the act or an instance of  or suffering",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "endurance",
+      "endurances"
+    ]
+  },
+  "energetic": {
+    "def": [
+      {
+        "definition": "operating with or marked by vigor or effect",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by {a_link|energy}",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to energy",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "energetic",
+      "energetical",
+      "energetically"
+    ]
+  },
+  "enervate": {
+    "def": [
+      {
+        "definition": "lacking physical, mental, or moral vigor",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "enervate"
+    ]
+  },
+  "enfeeble": {
+    "def": [
+      {
+        "definition": "to make feeble deprive of strength",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enfeeble",
+      "enfeebled",
+      "enfeeblement",
+      "enfeeblements",
+      "enfeebles",
+      "enfeebling"
+    ]
+  },
+  "enfranchise": {
+    "def": [
+      {
+        "definition": "to set free (as from slavery)",
+        "type": "v."
+      },
+      {
+        "definition": "to admit to the privileges of a citizen and especially to the right of suffrage",
+        "type": "v."
+      },
+      {
+        "definition": "to admit (a municipality) to political privileges or rights",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enfranchise",
+      "enfranchised",
+      "enfranchisement",
+      "enfranchisements",
+      "enfranchises",
+      "enfranchising"
+    ]
+  },
+  "engender": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to exist or to develop",
+        "type": "v."
+      },
+      {
+        "definition": "to assume form",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "engender",
+      "engendered",
+      "engendering",
+      "engenders"
+    ]
+  },
+  "engrave": {
+    "def": [
+      {
+        "definition": "to impress deeply as if with a graver",
+        "type": "v."
+      },
+      {
+        "definition": "to form by incision (as on wood or metal)",
+        "type": "v."
+      },
+      {
+        "definition": "to cut figures, letters, or designs on for printing",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "engrave",
+      "engraved",
+      "engraver",
+      "engravers",
+      "engraves",
+      "engraving"
+    ]
+  },
+  "engross": {
+    "def": [
+      {
+        "definition": "to copy or write in a large hand",
+        "type": "v."
+      },
+      {
+        "definition": "to prepare the usually final handwritten or printed text of (an official document)",
+        "type": "v."
+      },
+      {
+        "definition": "to purchase large quantities of (as for speculation)",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to take or engage the whole attention of occupy completely",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "engross",
+      "engrossed",
+      "engrosser",
+      "engrossers",
+      "engrosses",
+      "engrossing"
+    ]
+  },
+  "enhance": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enhance",
+      "enhanced",
+      "enhancement",
+      "enhancements",
+      "enhances",
+      "enhancing"
+    ]
+  },
+  "enigma": {
+    "def": [
+      {
+        "definition": "something hard to understand or explain",
+        "type": "n."
+      },
+      {
+        "definition": "an  or mysterious person",
+        "type": "n."
+      },
+      {
+        "definition": "an  speech or writing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "enigma",
+      "enigmas",
+      "enigmata"
+    ]
+  },
+  "enjoin": {
+    "def": [
+      {
+        "definition": "to direct or impose by authoritative order or with urgent admonition",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to prohibit by a judicial order put an injunction on",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enjoin",
+      "enjoined",
+      "enjoining",
+      "enjoins"
+    ]
+  },
+  "enkindle": {
+    "def": [
+      {
+        "definition": "to set (something, such as fuel) on fire to cause to ignite",
+        "type": "v."
+      },
+      {
+        "definition": "to make bright and glowing",
+        "type": "v."
+      },
+      {
+        "definition": "to take fire",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enkindle",
+      "enkindled",
+      "enkindles",
+      "enkindling"
+    ]
+  },
+  "enlighten": {
+    "def": [
+      {
+        "definition": "to furnish knowledge to",
+        "type": "v."
+      },
+      {
+        "definition": "to give spiritual insight to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enlighten",
+      "enlightened",
+      "enlightening",
+      "enlightens"
+    ]
+  },
+  "enlist": {
+    "def": [
+      {
+        "definition": "to secure the support and aid of employ in advancing an interest",
+        "type": "v."
+      },
+      {
+        "definition": "to win over",
+        "type": "v."
+      },
+      {
+        "definition": "to engage (a person) for duty in the armed forces",
+        "type": "v."
+      },
+      {
+        "definition": "to enroll oneself in the armed forces",
+        "type": "v."
+      },
+      {
+        "definition": "to participate heartily (as in a cause, drive, or crusade)",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enlist",
+      "enlisted",
+      "enlistee",
+      "enlistees",
+      "enlisting",
+      "enlistment",
+      "enlistments",
+      "enlists"
+    ]
+  },
+  "enmity": {
+    "def": [
+      {
+        "definition": "positive, active, and typically  hatred or ill will",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "enmities",
+      "enmity"
+    ]
+  },
+  "ennoble": {
+    "def": [
+      {
+        "definition": "to make noble",
+        "type": "v."
+      },
+      {
+        "definition": "to raise to the rank of nobility",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ennoble",
+      "ennobled",
+      "ennoblement",
+      "ennoblements",
+      "ennobles",
+      "ennobling"
+    ]
+  },
+  "enormity": {
+    "def": [
+      {
+        "definition": "an outrageous, improper, vicious, or immoral act",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being immoderate, monstrous, or outrageous",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being huge",
+        "type": "n."
+      },
+      {
+        "definition": "a quality of momentous importance or impact",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "enormities",
+      "enormity"
+    ]
+  },
+  "enormous": {
+    "def": [
+      {
+        "definition": "marked by extraordinarily great size, number, or degree",
+        "type": "adj."
+      },
+      {
+        "definition": "exceedingly wicked",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "enormous",
+      "enormousness",
+      "enormousnesses"
+    ]
+  },
+  "enrage": {
+    "def": [
+      {
+        "definition": "to fill with rage",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enrage",
+      "enraged",
+      "enrages",
+      "enraging"
+    ]
+  },
+  "enrapture": {
+    "def": [
+      {
+        "definition": "to fill with delight",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enrapture",
+      "enraptured",
+      "enraptures",
+      "enrapturing"
+    ]
+  },
+  "enshrine": {
+    "def": [
+      {
+        "definition": "to enclose in or as if in a shrine",
+        "type": "v."
+      },
+      {
+        "definition": "to preserve or cherish as sacred",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enshrine",
+      "enshrined",
+      "enshrinement",
+      "enshrinements",
+      "enshrines",
+      "enshrining"
+    ]
+  },
+  "ensnare": {
+    "def": [
+      {
+        "definition": "to take in or as if in a snare",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "ensnare",
+      "ensnared",
+      "ensnares",
+      "ensnaring"
+    ]
+  },
+  "entail": {
+    "def": [
+      {
+        "definition": "to have (something) as a necessary part, accompaniment, or result",
+        "type": "v."
+      },
+      {
+        "definition": "to restrict (property) by limiting the inheritance to the owner's  descendants or to a particular class thereof",
+        "type": "v."
+      },
+      {
+        "definition": "to confer, assign, or transmit (something) for an indefinitely long time to confer, assign, or transmit as if by entail",
+        "type": "v."
+      },
+      {
+        "definition": "to fix (a person) permanently in some condition or status",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "entail",
+      "entailed",
+      "entailer",
+      "entailers",
+      "entailing",
+      "entails"
+    ]
+  },
+  "entangle": {
+    "def": [
+      {
+        "definition": "to wrap or twist together",
+        "type": "v."
+      },
+      {
+        "definition": "to involve in a perplexing or troublesome situation",
+        "type": "v."
+      },
+      {
+        "definition": "to make complicated",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "entangle",
+      "entangled",
+      "entangler",
+      "entanglers",
+      "entangles",
+      "entangling"
+    ]
+  },
+  "enthrall": {
+    "def": [
+      {
+        "definition": "to hold spellbound",
+        "type": "v."
+      },
+      {
+        "definition": "to hold in or reduce to slavery",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enthral",
+      "enthrall",
+      "enthralled",
+      "enthralling",
+      "enthrallment",
+      "enthrallments",
+      "enthralls",
+      "enthrals"
+    ]
+  },
+  "enthrone": {
+    "def": [
+      {
+        "definition": "to seat in a place associated with a position of authority or influence",
+        "type": "v."
+      },
+      {
+        "definition": "to seat ceremonially on a throne",
+        "type": "v."
+      },
+      {
+        "definition": "to assign supreme virtue or value to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enthrone",
+      "enthroned",
+      "enthronement",
+      "enthronements",
+      "enthrones",
+      "enthroning"
+    ]
+  },
+  "enthuse": {
+    "def": [
+      {
+        "definition": "to make {a_link|enthusiastic}",
+        "type": "v."
+      },
+      {
+        "definition": "to express with {a_link|enthusiasm}",
+        "type": "v."
+      },
+      {
+        "definition": "to show enthusiasm",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enthuse",
+      "enthused",
+      "enthuses",
+      "enthusing"
+    ]
+  },
+  "enthusiastic": {
+    "def": [
+      {
+        "definition": "filled with or marked by {a_link|enthusiasm}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "enthusiastic",
+      "enthusiastically"
+    ]
+  },
+  "entirety": {
+    "def": [
+      {
+        "definition": "the state of being {a_link|entire} or complete",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "entireties",
+      "entirety"
+    ]
+  },
+  "entomology": {
+    "def": [
+      {
+        "definition": "a branch of zoology that deals with insects",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "entomological",
+      "entomologically",
+      "entomologies",
+      "entomologist",
+      "entomologists",
+      "entomology"
+    ]
+  },
+  "entrails": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "n. pl."
+      },
+      {
+        "definition": "the inner workings of something",
+        "type": "n. pl."
+      }
+    ],
+    "forms": [
+      "entrails"
+    ]
+  },
+  "entreaty": {
+    "def": [
+      {
+        "definition": "an act of {a_link|entreating}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "entreaties",
+      "entreaty"
+    ]
+  },
+  "entree": {
+    "def": [
+      {
+        "definition": "the act or manner of entering",
+        "type": "n."
+      },
+      {
+        "definition": "freedom of {a_link|entry} or access",
+        "type": "n."
+      },
+      {
+        "definition": "the main course of a meal in the U.S.",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "entree",
+      "entrees"
+    ]
+  },
+  "entrench": {
+    "def": [
+      {
+        "definition": "to place within or surround with a trench especially for defense",
+        "type": "v."
+      },
+      {
+        "definition": "to place (oneself) in a strong defensive position",
+        "type": "v."
+      },
+      {
+        "definition": "to establish solidly",
+        "type": "v."
+      },
+      {
+        "definition": "to cut into",
+        "type": "v."
+      },
+      {
+        "definition": "to dig or occupy a trench for defensive purposes",
+        "type": "v."
+      },
+      {
+        "definition": "to enter upon or take over something unfairly, improperly, or unlawfully",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "entrench",
+      "entrenched",
+      "entrenches",
+      "entrenching",
+      "entrenchment",
+      "entrenchments",
+      "intrench",
+      "intrenched",
+      "intrenches",
+      "intrenching"
+    ]
+  },
+  "entwine": {
+    "def": [
+      {
+        "definition": "to twine together or around",
+        "type": "v."
+      },
+      {
+        "definition": "to become twisted or twined",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "entwine",
+      "entwined",
+      "entwines",
+      "entwining"
+    ]
+  },
+  "enumerate": {
+    "def": [
+      {
+        "definition": "to ascertain the number of",
+        "type": "v."
+      },
+      {
+        "definition": "to specify one after another",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "enumerate",
+      "enumerated",
+      "enumerates",
+      "enumerating",
+      "enumerative"
+    ]
+  },
+  "epic": {
+    "def": [
+      {
+        "definition": "a long narrative poem in elevated style recounting the deeds of a legendary or historical hero",
+        "type": "n."
+      },
+      {
+        "definition": "a work of art (such as a novel or drama) that resembles or suggests an epic",
+        "type": "n."
+      },
+      {
+        "definition": "a series of events or body of legend or tradition thought to form the proper subject of an epic",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epic",
+      "epics"
+    ]
+  },
+  "epicure": {
+    "def": [
+      {
+        "definition": "one with sensitive and discriminating tastes especially in food or wine",
+        "type": "n."
+      },
+      {
+        "definition": "one devoted to sensual pleasure",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epicure",
+      "epicures"
+    ]
+  },
+  "epicurean": {
+    "def": [
+      {
+        "definition": "of or relating to Epicurus or Epicureanism",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or suited to an {a_link|epicure}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Epicurean",
+      "epicurean"
+    ]
+  },
+  "epicycle": {
+    "def": [
+      {
+        "definition": "a circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle",
+        "type": "n."
+      },
+      {
+        "definition": "a process going on within a larger one",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epicycle",
+      "epicycles",
+      "epicyclic"
+    ]
+  },
+  "epicycloid": {
+    "def": [
+      {
+        "definition": "a curve traced by a point on a circle that rolls on the outside of a fixed circle",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epicycloid",
+      "epicycloidal",
+      "epicycloids"
+    ]
+  },
+  "epidemic": {
+    "def": [
+      {
+        "definition": "affecting or tending to affect a disproportionately large number of individuals within a population, community, or region at the same time",
+        "type": "adj."
+      },
+      {
+        "definition": "excessively",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by very widespread growth or extent of, relating to, or constituting an epidemic",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "epidemic",
+      "epidemical",
+      "epidemically",
+      "epidemicities",
+      "epidemicity"
+    ]
+  },
+  "epidermis": {
+    "def": [
+      {
+        "definition": "the outer epithelial layer of the external integument of the animal body that is derived from the embryonic epiblast",
+        "type": "n."
+      },
+      {
+        "definition": "any of various animal integuments",
+        "type": "n."
+      },
+      {
+        "definition": "a thin surface layer of tissue in higher plants formed by growth of a primary meristem",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epidermis",
+      "epidermises"
+    ]
+  },
+  "epigram": {
+    "def": [
+      {
+        "definition": "a concise poem dealing pointedly and often satirically with a single thought or event and often ending with an ingenious turn of thought",
+        "type": "n."
+      },
+      {
+        "definition": "a terse, sage, or witty and often paradoxical saying",
+        "type": "n."
+      },
+      {
+        "definition": "{a_link|epigrammatic} expression",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epigram",
+      "epigrammatism",
+      "epigrammatisms",
+      "epigrammatist",
+      "epigrammatists",
+      "epigrams"
+    ]
+  },
+  "epilogue": {
+    "def": [
+      {
+        "definition": "a concluding section that rounds out the design of a literary work",
+        "type": "n."
+      },
+      {
+        "definition": "a speech often in verse addressed to the audience by an actor at the end of a play",
+        "type": "n."
+      },
+      {
+        "definition": "the final scene of a play that comments on or summarizes the main action",
+        "type": "n."
+      },
+      {
+        "definition": "the concluding section of a musical composition",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epilog",
+      "epilogs",
+      "epilogue",
+      "epilogues"
+    ]
+  },
+  "epiphany": {
+    "def": [
+      {
+        "definition": "a Christian festival held on January 6 in commemoration of the coming of the  as the first manifestation of Christ to the Gentiles or in the Eastern Church in commemoration of the baptism of Christ",
+        "type": "n."
+      },
+      {
+        "definition": "an appearance or manifestation especially of a divine being",
+        "type": "n."
+      },
+      {
+        "definition": "a revealing scene or moment",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Epiphanies",
+      "Epiphany",
+      "epiphanies",
+      "epiphany"
+    ]
+  },
+  "episode": {
+    "def": [
+      {
+        "definition": "the part of an ancient Greek tragedy between two choric songs",
+        "type": "n."
+      },
+      {
+        "definition": "a developed situation that is integral to but separable from a continuous narrative",
+        "type": "n."
+      },
+      {
+        "definition": "one of a series of loosely connected stories or scenes",
+        "type": "n."
+      },
+      {
+        "definition": "the part of a serial presented at one performance",
+        "type": "n."
+      },
+      {
+        "definition": "an event that is distinctive and separate although part of a larger series",
+        "type": "n."
+      },
+      {
+        "definition": "a digressive subdivision in a musical composition",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "episode",
+      "episodes"
+    ]
+  },
+  "epitaph": {
+    "def": [
+      {
+        "definition": "an inscription on or at a tomb or a grave in memory of the one buried there",
+        "type": "n."
+      },
+      {
+        "definition": "a brief statement commemorating or {a_link|epitomizing} a deceased person or something past",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epitaph",
+      "epitaphial",
+      "epitaphic",
+      "epitaphs"
+    ]
+  },
+  "epithet": {
+    "def": [
+      {
+        "definition": "a characterizing word or phrase accompanying or occurring in place of the name of a person or thing",
+        "type": "n."
+      },
+      {
+        "definition": "a disparaging or abusive word or phrase",
+        "type": "n."
+      },
+      {
+        "definition": "the part of a taxonomic name identifying a subordinate unit within a genus",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epithet",
+      "epithetic",
+      "epithetical",
+      "epithets"
+    ]
+  },
+  "epitome": {
+    "def": [
+      {
+        "definition": "a typical or  example an example that represents or expresses something very well",
+        "type": "n."
+      },
+      {
+        "definition": "a summary of a written work",
+        "type": "n."
+      },
+      {
+        "definition": "a brief presentation or statement of something",
+        "type": "n."
+      },
+      {
+        "definition": "brief or miniature form",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epitome",
+      "epitomes",
+      "epitomic",
+      "epitomical"
+    ]
+  },
+  "epizootic": {
+    "def": [
+      {
+        "definition": "an outbreak of disease affecting many animals of one kind at the same time",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epizootic",
+      "epizootics"
+    ]
+  },
+  "epoch": {
+    "def": [
+      {
+        "definition": "an event or a time marked by an event that begins a new period or development",
+        "type": "n."
+      },
+      {
+        "definition": "a memorable event or date",
+        "type": "n."
+      },
+      {
+        "definition": "an extended period of time usually characterized by a distinctive development or by a memorable series of events",
+        "type": "n."
+      },
+      {
+        "definition": "a division of geologic time less than a period and greater than an age",
+        "type": "n."
+      },
+      {
+        "definition": "an instant of time or a date selected as a point of reference (as in astronomy)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epoch",
+      "epochs"
+    ]
+  },
+  "epode": {
+    "def": [
+      {
+        "definition": "a lyric poem in which a long verse is followed by a shorter one",
+        "type": "n."
+      },
+      {
+        "definition": "the third part of a triadic Greek ode following the strophe and the antistrophe",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "epode",
+      "epodes"
+    ]
+  },
+  "equalize": {
+    "def": [
+      {
+        "definition": "to make {a_link|equal}",
+        "type": "v."
+      },
+      {
+        "definition": "to compensate for",
+        "type": "v."
+      },
+      {
+        "definition": "to make uniform",
+        "type": "v."
+      },
+      {
+        "definition": "to adjust or correct the frequency characteristics of (an electronic signal) by restoring to their original level high frequencies that have been attenuated",
+        "type": "v."
+      },
+      {
+        "definition": "to tie the score",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "equalization",
+      "equalizations",
+      "equalize",
+      "equalized",
+      "equalizes",
+      "equalizing"
+    ]
+  },
+  "equanimity": {
+    "def": [
+      {
+        "definition": "evenness of mind especially under stress",
+        "type": "n."
+      },
+      {
+        "definition": "right",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "equanimities",
+      "equanimity"
+    ]
+  },
+  "equestrian": {
+    "def": [
+      {
+        "definition": "of, relating to, or featuring horseback riding",
+        "type": "adj."
+      },
+      {
+        "definition": "riding on horseback",
+        "type": "adj."
+      },
+      {
+        "definition": "representing a person on horseback",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or composed of knights",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "equestrian"
+    ]
+  },
+  "equilibrium": {
+    "def": [
+      {
+        "definition": "a state of intellectual or emotional balance",
+        "type": "n."
+      },
+      {
+        "definition": "a state of adjustment between opposing or divergent influences or elements",
+        "type": "n."
+      },
+      {
+        "definition": "a state of balance between opposing forces or actions that is either static (as in a body acted on by forces whose resultant is zero) or dynamic (as in a reversible chemical reaction when the rates of reaction in both directions are equal)",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "equilibria",
+      "equilibrium",
+      "equilibriums"
+    ]
+  },
+  "equitable": {
+    "def": [
+      {
+        "definition": "having or exhibiting  dealing fairly and equally with all concerned",
+        "type": "adj."
+      },
+      {
+        "definition": "existing or valid in equity as distinguished from law",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "equitabilities",
+      "equitability",
+      "equitable",
+      "equitableness",
+      "equitablenesses",
+      "equitably"
+    ]
+  },
+  "equity": {
+    "def": [
+      {
+        "definition": "fairness or justice in the way people are treated",
+        "type": "n."
+      },
+      {
+        "definition": "something that is",
+        "type": "n."
+      },
+      {
+        "definition": "the value of a property or of an interest in a property after any debts that remain to be paid for it (as the amount of a mortgage) have been subtracted  {dx}see also",
+        "type": "n."
+      },
+      {
+        "definition": "the common stock of a corporation",
+        "type": "n."
+      },
+      {
+        "definition": "a risk interest or ownership right in property",
+        "type": "n."
+      },
+      {
+        "definition": "a right, claim, or interest existing or valid in equity",
+        "type": "n."
+      },
+      {
+        "definition": "a system of law originating in the English chancery and comprising a settled and formal body of legal and procedural rules and doctrines that supplement, aid, or override common and statute law and are designed to protect rights and enforce duties fixed by substantive law",
+        "type": "n."
+      },
+      {
+        "definition": "trial or remedial justice under or by the rules and doctrines of equity",
+        "type": "n."
+      },
+      {
+        "definition": "a body of legal doctrines and rules developed to enlarge, supplement, or override a narrow rigid system of law",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "equities",
+      "equity",
+      "home equity loan"
+    ]
+  },
+  "equivalent": {
+    "def": [
+      {
+        "definition": "equal in force, amount, or value",
+        "type": "adj."
+      },
+      {
+        "definition": "like in signification or import",
+        "type": "adj."
+      },
+      {
+        "definition": "having logical {a_link|equivalence}",
+        "type": "adj."
+      },
+      {
+        "definition": "corresponding or virtually identical especially in effect or function",
+        "type": "adj."
+      },
+      {
+        "definition": "equal in might or authority",
+        "type": "adj."
+      },
+      {
+        "definition": "having the same chemical combining capacity",
+        "type": "adj."
+      },
+      {
+        "definition": "having the same solution set",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being placed in one-to-one correspondence",
+        "type": "adj."
+      },
+      {
+        "definition": "related by an equivalence relation",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "equivalent",
+      "equivalently",
+      "equivalents"
+    ]
+  },
+  "equivocal": {
+    "def": [
+      {
+        "definition": "subject to two or more  and usually used to mislead or confuse",
+        "type": "adj."
+      },
+      {
+        "definition": "uncertain as an indication or sign",
+        "type": "adj."
+      },
+      {
+        "definition": "of uncertain nature or classification",
+        "type": "adj."
+      },
+      {
+        "definition": "of uncertain  toward a person or thing",
+        "type": "adj."
+      },
+      {
+        "definition": "of doubtful advantage, genuineness, or moral",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "equivocal",
+      "equivocalities",
+      "equivocality",
+      "equivocally",
+      "equivocalness",
+      "equivocalnesses"
+    ]
+  },
+  "equivocate": {
+    "def": [
+      {
+        "definition": "to use {a_link|equivocal} language especially with intent to deceive",
+        "type": "v."
+      },
+      {
+        "definition": "to avoid committing oneself in what one says",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "equivocate",
+      "equivocated",
+      "equivocates",
+      "equivocating",
+      "equivocator",
+      "equivocators"
+    ]
+  },
+  "eradicate": {
+    "def": [
+      {
+        "definition": "to do away with as completely as if by pulling up by the roots",
+        "type": "v."
+      },
+      {
+        "definition": "to pull up by the roots",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "eradicable",
+      "eradicate",
+      "eradicated",
+      "eradicates",
+      "eradicating",
+      "eradication",
+      "eradications",
+      "eradicator",
+      "eradicators"
+    ]
+  },
+  "errant": {
+    "def": [
+      {
+        "definition": "behaving wrongly",
+        "type": "adj."
+      },
+      {
+        "definition": "straying outside the proper path or bounds",
+        "type": "adj."
+      },
+      {
+        "definition": "moving about aimlessly or irregularly",
+        "type": "adj."
+      },
+      {
+        "definition": "traveling or given to traveling",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "errant",
+      "errantly",
+      "errants"
+    ]
+  },
+  "erratic": {
+    "def": [
+      {
+        "definition": "having no fixed course",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by lack of consistency, regularity, or uniformity",
+        "type": "adj."
+      },
+      {
+        "definition": "from what is ordinary or standard",
+        "type": "adj."
+      },
+      {
+        "definition": "transported from an original resting place especially by a",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "erratic",
+      "erratical",
+      "erratically",
+      "erraticism",
+      "erraticisms"
+    ]
+  },
+  "erroneous": {
+    "def": [
+      {
+        "definition": "containing or characterized by",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "erroneous",
+      "erroneously",
+      "erroneousness",
+      "erroneousnesses"
+    ]
+  },
+  "erudite": {
+    "def": [
+      {
+        "definition": "having or showing knowledge that is gained by studying possessing or displaying {a_link|erudition}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "erudite",
+      "eruditely"
+    ]
+  },
+  "erudition": {
+    "def": [
+      {
+        "definition": "extensive knowledge acquired chiefly from books profound, recondite, or bookish learning",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "erudition",
+      "eruditions"
+    ]
+  },
+  "eschew": {
+    "def": [
+      {
+        "definition": "to avoid habitually especially on  or  grounds",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "eschew",
+      "eschewal",
+      "eschewals",
+      "eschewed",
+      "eschewing",
+      "eschews"
+    ]
+  },
+  "espy": {
+    "def": [
+      {
+        "definition": "to catch sight of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "espied",
+      "espies",
+      "espy",
+      "espying"
+    ]
+  },
+  "esquire": {
+    "def": [
+      {
+        "definition": "a member of the English gentry ranking below a knight",
+        "type": "n."
+      },
+      {
+        "definition": "a candidate for knighthood serving as shield bearer and attendant to a knight",
+        "type": "n."
+      },
+      {
+        "definition": "a landed proprietor",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "esquire",
+      "esquires"
+    ]
+  },
+  "essence": {
+    "def": [
+      {
+        "definition": "the permanent as contrasted with the  element of being",
+        "type": "n."
+      },
+      {
+        "definition": "the individual, real, or ultimate nature of a thing especially as opposed to its",
+        "type": "n."
+      },
+      {
+        "definition": "the properties or  by means of which something can be placed in its proper class or identified as being what it is",
+        "type": "n."
+      },
+      {
+        "definition": "the most significant element, quality, or aspect of a thing or person",
+        "type": "n."
+      },
+      {
+        "definition": "one that possesses or exhibits a quality in abundance as if in concentrated form",
+        "type": "n."
+      },
+      {
+        "definition": ",",
+        "type": "n."
+      },
+      {
+        "definition": "something that exists",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "essence",
+      "essences"
+    ]
+  },
+  "esthetic": {
+    "def": [
+      {
+        "definition": "of, relating to, or dealing with  or the beautiful",
+        "type": "adj."
+      },
+      {
+        "definition": "pleasing in appearance",
+        "type": "adj."
+      },
+      {
+        "definition": "appreciative of, responsive to, or  about the beautiful",
+        "type": "adj."
+      },
+      {
+        "definition": "done or made to change and especially to enhance a person's appearance",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or involving enhancement or alteration of a person's appearance",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "aesthetic",
+      "aesthetical",
+      "aesthetically",
+      "esthetic",
+      "esthetical",
+      "esthetically"
+    ]
+  },
+  "estimable": {
+    "def": [
+      {
+        "definition": "capable of being {a_link|estimated}",
+        "type": "adj."
+      },
+      {
+        "definition": "worthy of esteem",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "estimable",
+      "estimableness",
+      "estimablenesses",
+      "estimably"
+    ]
+  },
+  "estrange": {
+    "def": [
+      {
+        "definition": "to arouse especially mutual enmity or indifference in (someone) where there had formerly been love, affection, or friendliness",
+        "type": "v."
+      },
+      {
+        "definition": "to remove from customary environment or associations",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "estrange",
+      "estranged",
+      "estrangement",
+      "estrangements",
+      "estranger",
+      "estrangers",
+      "estranges",
+      "estranging"
+    ]
+  },
+  "estuary": {
+    "def": [
+      {
+        "definition": "a water passage where the tide meets a river current",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "estuaries",
+      "estuary"
+    ]
+  },
+  "et cetera": {
+    "def": [
+      {
+        "definition": "a number of unspecified additional persons or things",
+        "type": "n."
+      },
+      {
+        "definition": "unspecified additional items",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "etcetera",
+      "etceteras"
+    ]
+  },
+  "eugenic": {
+    "def": [
+      {
+        "definition": "relating to or fitted for the production of good offspring",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to {a_link|eugenics}",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eugenic",
+      "eugenically"
+    ]
+  },
+  "eulogize": {
+    "def": [
+      {
+        "definition": "to speak or write in high praise of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "eulogize",
+      "eulogized",
+      "eulogizer",
+      "eulogizers",
+      "eulogizes",
+      "eulogizing"
+    ]
+  },
+  "eulogy": {
+    "def": [
+      {
+        "definition": "a commendatory oration or writing especially in honor of one deceased",
+        "type": "n."
+      },
+      {
+        "definition": "high praise",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "eulogies",
+      "eulogistic",
+      "eulogistically",
+      "eulogy"
+    ]
+  },
+  "euphemism": {
+    "def": [
+      {
+        "definition": "the substitution of an  or  word or expression for one that is harsh, indelicate, or otherwise unpleasant or taboo",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "euphemism",
+      "euphemisms",
+      "euphemist",
+      "euphemistic",
+      "euphemistically",
+      "euphemists"
+    ]
+  },
+  "euphonious": {
+    "def": [
+      {
+        "definition": "pleasing to the ear",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "euphonious",
+      "euphoniously",
+      "euphoniousness",
+      "euphoniousnesses"
+    ]
+  },
+  "euphony": {
+    "def": [
+      {
+        "definition": "pleasing or sweet sound",
+        "type": "n."
+      },
+      {
+        "definition": "a harmonious succession of words having a pleasing sound",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "euphonic",
+      "euphonically",
+      "euphonies",
+      "euphony"
+    ]
+  },
+  "eureka": {
+    "def": [
+      {
+        "definition": "I have found it.",
+        "type": "Greek."
+      }
+    ],
+    "forms": []
+  },
+  "evade": {
+    "def": [
+      {
+        "definition": "to slip away",
+        "type": "v."
+      },
+      {
+        "definition": "to take refuge in escape or avoidance",
+        "type": "v."
+      },
+      {
+        "definition": "to elude by dexterity or stratagem",
+        "type": "v."
+      },
+      {
+        "definition": "to avoid facing up to",
+        "type": "v."
+      },
+      {
+        "definition": "to avoid the performance of ,",
+        "type": "v."
+      },
+      {
+        "definition": "to avoid answering directly turn aside",
+        "type": "v."
+      },
+      {
+        "definition": "to be elusive to",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evadable",
+      "evade",
+      "evaded",
+      "evader",
+      "evaders",
+      "evades",
+      "evading"
+    ]
+  },
+  "evanesce": {
+    "def": [
+      {
+        "definition": "to dissipate like vapor",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evanesce",
+      "evanesced",
+      "evanesces",
+      "evanescing"
+    ]
+  },
+  "evanescent": {
+    "def": [
+      {
+        "definition": "tending to vanish like vapor",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "evanescent"
+    ]
+  },
+  "evangelical": {
+    "def": [
+      {
+        "definition": "of, relating to, or being in agreement with the Christian gospel especially as it is presented in the four Gospels",
+        "type": "adj."
+      },
+      {
+        "definition": "emphasizing salvation by faith in the atoning death of Jesus Christ through personal conversion, the authority of Scripture, and the importance of preaching as contrasted with ritual",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the Evangelical Church in Germany",
+        "type": "adj."
+      },
+      {
+        "definition": "of, adhering to, or marked by fundamentalism",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by militant or crusading zeal",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "Evangelical",
+      "Evangelicalism",
+      "Evangelicalisms",
+      "Evangelicals",
+      "evangelic",
+      "evangelical",
+      "evangelically"
+    ]
+  },
+  "evangelist": {
+    "def": [
+      {
+        "definition": "a writer of any of the four Gospels",
+        "type": "n."
+      },
+      {
+        "definition": "a person who {a_link|evangelizes}",
+        "type": "n."
+      },
+      {
+        "definition": "an enthusiastic advocate",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Evangelist",
+      "Evangelists",
+      "evangelist",
+      "evangelists"
+    ]
+  },
+  "evasion": {
+    "def": [
+      {
+        "definition": "a means of evading",
+        "type": "n."
+      },
+      {
+        "definition": "the act or an instance of evading",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "evasion",
+      "evasions"
+    ]
+  },
+  "eventual": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "adj."
+      },
+      {
+        "definition": "taking place at an unspecified later time ultimately resulting",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "eventual"
+    ]
+  },
+  "evert": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to {a_link|eversion}",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evert",
+      "everted",
+      "everting",
+      "everts"
+    ]
+  },
+  "evict": {
+    "def": [
+      {
+        "definition": "to recover (property) from a person by legal process",
+        "type": "v."
+      },
+      {
+        "definition": "to put (a tenant) out by legal process",
+        "type": "v."
+      },
+      {
+        "definition": "to force out",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evict",
+      "evicted",
+      "evicting",
+      "eviction",
+      "evictions",
+      "evictor",
+      "evictors",
+      "evicts"
+    ]
+  },
+  "evidential": {
+    "def": [
+      {
+        "definition": "Indicative.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "evince": {
+    "def": [
+      {
+        "definition": "to constitute outward evidence of",
+        "type": "v."
+      },
+      {
+        "definition": "to display clearly",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evince",
+      "evinced",
+      "evinces",
+      "evincible",
+      "evincing"
+    ]
+  },
+  "evoke": {
+    "def": [
+      {
+        "definition": "to bring to mind or recollection",
+        "type": "v."
+      },
+      {
+        "definition": "to cite especially with approval or for support",
+        "type": "v."
+      },
+      {
+        "definition": "to re-create imaginatively",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evoke",
+      "evoked",
+      "evokes",
+      "evoking"
+    ]
+  },
+  "evolution": {
+    "def": [
+      {
+        "definition": "descent with modification from preexisting species cumulative inherited change in a population of organisms through time leading to the appearance of new forms the process by which new species or populations of living things develop from preexisting forms through successive generations",
+        "type": "n."
+      },
+      {
+        "definition": "the historical development of a biological group (such as a species)",
+        "type": "n."
+      },
+      {
+        "definition": "a process of change in a certain direction",
+        "type": "n."
+      },
+      {
+        "definition": "the action or an instance of forming and giving something off",
+        "type": "n."
+      },
+      {
+        "definition": "something {a_link|evolved}",
+        "type": "n."
+      },
+      {
+        "definition": "the process of working out or developing",
+        "type": "n."
+      },
+      {
+        "definition": "the extraction of a mathematical root",
+        "type": "n."
+      },
+      {
+        "definition": "a process in which the whole universe is a progression of interrelated phenomena",
+        "type": "n."
+      },
+      {
+        "definition": "one of a set of prescribed movements",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "evolution",
+      "evolutionarily",
+      "evolutionary",
+      "evolutionism",
+      "evolutionisms",
+      "evolutionist",
+      "evolutionists",
+      "evolutions"
+    ]
+  },
+  "evolve": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to produce by natural {a_link|evolutionary} processes",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo evolutionary change",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "evolvable",
+      "evolve",
+      "evolved",
+      "evolvement",
+      "evolvements",
+      "evolves",
+      "evolving"
+    ]
+  },
+  "exacerbate": {
+    "def": [
+      {
+        "definition": "to make (something bad or unpleasant) worse",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exacerbate",
+      "exacerbated",
+      "exacerbates",
+      "exacerbating",
+      "exacerbation",
+      "exacerbations"
+    ]
+  },
+  "exaggerate": {
+    "def": [
+      {
+        "definition": "to enlarge beyond bounds or the truth",
+        "type": "v."
+      },
+      {
+        "definition": "to enlarge or increase especially beyond the normal",
+        "type": "v."
+      },
+      {
+        "definition": "to make an overstatement",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exaggerate",
+      "exaggerated",
+      "exaggerates",
+      "exaggerating",
+      "exaggerative",
+      "exaggerator",
+      "exaggerators",
+      "exaggeratory"
+    ]
+  },
+  "exasperate": {
+    "def": [
+      {
+        "definition": "to cause strong irritation or annoyance to",
+        "type": "v."
+      },
+      {
+        "definition": "to excite the anger of",
+        "type": "v."
+      },
+      {
+        "definition": "to make more grievous",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exasperate",
+      "exasperated",
+      "exasperates",
+      "exasperating"
+    ]
+  },
+  "excavate": {
+    "def": [
+      {
+        "definition": "to form a cavity or hole in",
+        "type": "v."
+      },
+      {
+        "definition": "to form by hollowing out",
+        "type": "v."
+      },
+      {
+        "definition": "to dig out and remove",
+        "type": "v."
+      },
+      {
+        "definition": "to expose to view by or as if by digging away a covering",
+        "type": "v."
+      },
+      {
+        "definition": "to make {a_link|excavations}",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "excavate",
+      "excavated",
+      "excavates",
+      "excavating"
+    ]
+  },
+  "exceed": {
+    "def": [
+      {
+        "definition": "to be greater than or superior to",
+        "type": "v."
+      },
+      {
+        "definition": "to go beyond a limit set by",
+        "type": "v."
+      },
+      {
+        "definition": "to extend outside of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exceed",
+      "exceeded",
+      "exceeding",
+      "exceeds"
+    ]
+  },
+  "excel": {
+    "def": [
+      {
+        "definition": "to be superior to surpass in accomplishment or achievement",
+        "type": "v."
+      },
+      {
+        "definition": "to be distinguishable by superiority surpass others",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "excel",
+      "excelled",
+      "excelling",
+      "excels"
+    ]
+  },
+  "excellence": {
+    "def": [
+      {
+        "definition": "the quality of being   {dx}see also",
+        "type": "n."
+      },
+      {
+        "definition": "an excellent or valuable quality",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Excellence",
+      "Excellences",
+      "excellence",
+      "excellences"
+    ]
+  },
+  "excellency": {
+    "def": [
+      {
+        "definition": "A title of honor bestowed upon various high officials.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "excellent": {
+    "def": [
+      {
+        "definition": "very good of its kind eminently good",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "excellent",
+      "excellenter",
+      "excellentest",
+      "excellently"
+    ]
+  },
+  "excerpt": {
+    "def": [
+      {
+        "definition": "a passage (as from a book or musical composition) selected, performed, or copied",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "excerpt",
+      "excerpts"
+    ]
+  },
+  "excess": {
+    "def": [
+      {
+        "definition": "the state or an instance of surpassing usual, proper, or specified limits",
+        "type": "n."
+      },
+      {
+        "definition": "the amount or degree by which one thing or quantity {a_link|exceeds} another",
+        "type": "n."
+      },
+      {
+        "definition": "undue or immoderate indulgence",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "excess",
+      "excesses"
+    ]
+  },
+  "excitable": {
+    "def": [
+      {
+        "definition": "capable of being readily roused into action or a state of {a_link|excitement} or irritability",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being activated by and reacting to stimuli",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "excitabilities",
+      "excitability",
+      "excitable",
+      "excitableness",
+      "excitablenesses"
+    ]
+  },
+  "excitation": {
+    "def": [
+      {
+        "definition": "Intensified emotion or action.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "exclamation": {
+    "def": [
+      {
+        "definition": "a sharp or sudden utterance",
+        "type": "n."
+      },
+      {
+        "definition": "vehement expression of protest or complaint",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exclamation",
+      "exclamations"
+    ]
+  },
+  "exclude": {
+    "def": [
+      {
+        "definition": "to prevent or restrict the entrance of",
+        "type": "v."
+      },
+      {
+        "definition": "to bar from participation, consideration, or inclusion",
+        "type": "v."
+      },
+      {
+        "definition": "to expel or bar especially from a place or position previously occupied",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exclude",
+      "excluded",
+      "excluder",
+      "excluders",
+      "excludes",
+      "excluding"
+    ]
+  },
+  "exclusion": {
+    "def": [
+      {
+        "definition": "the act or an instance of {a_link|excluding}",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being {a_link|excluded}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exclusion",
+      "exclusionary",
+      "exclusions"
+    ]
+  },
+  "excrescence": {
+    "def": [
+      {
+        "definition": "a projection or outgrowth especially when abnormal",
+        "type": "n."
+      },
+      {
+        "definition": "a disfiguring, extraneous, or unwanted mark or part",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "excrescence",
+      "excrescences"
+    ]
+  },
+  "excretion": {
+    "def": [
+      {
+        "definition": "the act or process of {a_link|excreting}",
+        "type": "n."
+      },
+      {
+        "definition": "something {a_link|excreted}",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "excretion",
+      "excretions"
+    ]
+  },
+  "excruciate": {
+    "def": [
+      {
+        "definition": "to inflict intense pain on",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to intense mental distress",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "excruciate",
+      "excruciated",
+      "excruciates",
+      "excruciating",
+      "excruciation",
+      "excruciations"
+    ]
+  },
+  "excursion": {
+    "def": [
+      {
+        "definition": "a going out or forth",
+        "type": "n."
+      },
+      {
+        "definition": "deviation from a direct, definite, or proper course",
+        "type": "n."
+      },
+      {
+        "definition": "a movement outward and back or from a mean position or axis",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "excursion",
+      "excursions"
+    ]
+  },
+  "excusable": {
+    "def": [
+      {
+        "definition": "to make apology for",
+        "type": "v."
+      },
+      {
+        "definition": "to try to remove blame from",
+        "type": "v."
+      },
+      {
+        "definition": "to forgive entirely or disregard as of trivial import regard as {a_link|excusable}",
+        "type": "v."
+      },
+      {
+        "definition": "to grant exemption or release to",
+        "type": "v."
+      },
+      {
+        "definition": "to allow to leave",
+        "type": "v."
+      },
+      {
+        "definition": "to serve as excuse for",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "excusable",
+      "excusableness",
+      "excusablenesses",
+      "excusably",
+      "excuse",
+      "excused",
+      "excuser",
+      "excusers",
+      "excuses",
+      "excusing"
+    ]
+  },
+  "execrable": {
+    "def": [
+      {
+        "definition": "deserving to be {a_link|execrated}",
+        "type": "adj."
+      },
+      {
+        "definition": "very bad",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "execrable",
+      "execrableness",
+      "execrablenesses",
+      "execrably"
+    ]
+  },
+  "execration": {
+    "def": [
+      {
+        "definition": "the act of cursing or denouncing",
+        "type": "n."
+      },
+      {
+        "definition": "an object of curses something detested",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "execration",
+      "execrations"
+    ]
+  },
+  "executor": {
+    "def": [
+      {
+        "definition": "one who {a_link|executes} something",
+        "type": "n."
+      },
+      {
+        "definition": "the person appointed by a testator to {a_link|execute} a will",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "executor",
+      "executorial",
+      "executors"
+    ]
+  },
+  "exegesis": {
+    "def": [
+      {
+        "definition": ",",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exegeses",
+      "exegesis"
+    ]
+  },
+  "exemplar": {
+    "def": [
+      {
+        "definition": "an ideal model",
+        "type": "n."
+      },
+      {
+        "definition": "a typical or standard specimen",
+        "type": "n."
+      },
+      {
+        "definition": "a copy of a book or writing",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exemplar",
+      "exemplars"
+    ]
+  },
+  "exemplary": {
+    "def": [
+      {
+        "definition": "deserving imitation",
+        "type": "adj."
+      },
+      {
+        "definition": "serving as a pattern",
+        "type": "adj."
+      },
+      {
+        "definition": "serving as an example, instance, or illustration",
+        "type": "adj."
+      },
+      {
+        "definition": "serving as a warning",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "exemplarily",
+      "exemplariness",
+      "exemplarinesses",
+      "exemplarities",
+      "exemplarity",
+      "exemplary"
+    ]
+  },
+  "exemplify": {
+    "def": [
+      {
+        "definition": "to show or illustrate by example",
+        "type": "v."
+      },
+      {
+        "definition": "to make an attested copy or transcript of (a document) under seal",
+        "type": "v."
+      },
+      {
+        "definition": "to be an instance of or serve as an example",
+        "type": "v."
+      },
+      {
+        "definition": "to be typical of",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exemplified",
+      "exemplifies",
+      "exemplify",
+      "exemplifying"
+    ]
+  },
+  "exempt": {
+    "def": [
+      {
+        "definition": "free or released from some liability or requirement to which others are subject",
+        "type": "adj."
+      },
+      {
+        "definition": "set apart",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "exempt"
+    ]
+  },
+  "exert": {
+    "def": [
+      {
+        "definition": "to put forth (strength, effort, etc.)",
+        "type": "v."
+      },
+      {
+        "definition": "to put (oneself) into action or to tiring effort",
+        "type": "v."
+      },
+      {
+        "definition": "to bring to bear especially with sustained effort or lasting effect",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exert",
+      "exerted",
+      "exerting",
+      "exerts"
+    ]
+  },
+  "exhale": {
+    "def": [
+      {
+        "definition": "to rise or be given off as vapor",
+        "type": "v."
+      },
+      {
+        "definition": "to emit breath or vapor",
+        "type": "v."
+      },
+      {
+        "definition": "to breathe out",
+        "type": "v."
+      },
+      {
+        "definition": "to give forth (gaseous matter)",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to be emitted in vapor",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exhale",
+      "exhaled",
+      "exhales",
+      "exhaling"
+    ]
+  },
+  "exhaust": {
+    "def": [
+      {
+        "definition": "to consume entirely",
+        "type": "v."
+      },
+      {
+        "definition": "to tire extremely or completely",
+        "type": "v."
+      },
+      {
+        "definition": "to deprive of a valuable quality or constituent",
+        "type": "v."
+      },
+      {
+        "definition": "to draw off or let out completely",
+        "type": "v."
+      },
+      {
+        "definition": "to empty by drawing off the contents",
+        "type": "v."
+      },
+      {
+        "definition": "to consider or discuss (a subject) thoroughly or completely",
+        "type": "v."
+      },
+      {
+        "definition": "to try out the whole number of",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exhaust",
+      "exhausted",
+      "exhauster",
+      "exhausters",
+      "exhaustibilities",
+      "exhaustibility",
+      "exhaustible",
+      "exhausting",
+      "exhausts"
+    ]
+  },
+  "exhaustible": {
+    "def": [
+      {
+        "definition": "to consume entirely",
+        "type": "v."
+      },
+      {
+        "definition": "to tire extremely or completely",
+        "type": "v."
+      },
+      {
+        "definition": "to deprive of a valuable quality or constituent",
+        "type": "v."
+      },
+      {
+        "definition": "to draw off or let out completely",
+        "type": "v."
+      },
+      {
+        "definition": "to empty by drawing off the contents",
+        "type": "v."
+      },
+      {
+        "definition": "to consider or discuss (a subject) thoroughly or completely",
+        "type": "v."
+      },
+      {
+        "definition": "to try out the whole number of",
+        "type": "v."
+      },
+      {
+        "definition": ",",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exhaust",
+      "exhausted",
+      "exhauster",
+      "exhausters",
+      "exhaustibilities",
+      "exhaustibility",
+      "exhaustible",
+      "exhausting",
+      "exhausts"
+    ]
+  },
+  "exhaustion": {
+    "def": [
+      {
+        "definition": "the act or process of {a_link|exhausting} the state of being exhausted",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exhaustion",
+      "exhaustions"
+    ]
+  },
+  "exhaustive": {
+    "def": [
+      {
+        "definition": "including all possibilities",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "exhaustive",
+      "exhaustively",
+      "exhaustiveness",
+      "exhaustivenesses",
+      "exhaustivities",
+      "exhaustivity"
+    ]
+  },
+  "exhilarate": {
+    "def": [
+      {
+        "definition": "to make (someone) very happy and excited or elated",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exhilarate",
+      "exhilarated",
+      "exhilarates",
+      "exhilarating",
+      "exhilaratingly",
+      "exhilarative"
+    ]
+  },
+  "exhume": {
+    "def": [
+      {
+        "definition": "to bring back from neglect or obscurity",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exhumation",
+      "exhumations",
+      "exhume",
+      "exhumed",
+      "exhumer",
+      "exhumers",
+      "exhumes",
+      "exhuming"
+    ]
+  },
+  "exigency": {
+    "def": [
+      {
+        "definition": "that which is required in a particular situation",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being {a_link|exigent}",
+        "type": "n."
+      },
+      {
+        "definition": "a state of affairs that makes urgent demands",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exigencies",
+      "exigency"
+    ]
+  },
+  "exigent": {
+    "def": [
+      {
+        "definition": "requiring immediate aid or action",
+        "type": "adj."
+      },
+      {
+        "definition": "requiring or calling for much",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "exigent",
+      "exigently"
+    ]
+  },
+  "existence": {
+    "def": [
+      {
+        "definition": "the state or fact of having being especially independently of human consciousness and as contrasted with nonexistence",
+        "type": "n."
+      },
+      {
+        "definition": "the manner of being that is common to every mode of being",
+        "type": "n."
+      },
+      {
+        "definition": "being with respect to a limiting condition or under a particular aspect",
+        "type": "n."
+      },
+      {
+        "definition": "actual or present occurrence",
+        "type": "n."
+      },
+      {
+        "definition": "sentient or living being",
+        "type": "n."
+      },
+      {
+        "definition": "reality as presented in experience",
+        "type": "n."
+      },
+      {
+        "definition": "reality as opposed to appearance",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "existence",
+      "existences"
+    ]
+  },
+  "exit": {
+    "def": [
+      {
+        "definition": "A way or passage out.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "exodus": {
+    "def": [
+      {
+        "definition": "the mainly narrative second book of canonical Jewish and Christian Scripture {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "a mass departure",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "Exodus",
+      "exodus",
+      "exoduses"
+    ]
+  },
+  "exonerate": {
+    "def": [
+      {
+        "definition": "to relieve of a responsibility, obligation, or hardship",
+        "type": "v."
+      },
+      {
+        "definition": "to clear from accusation or blame",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exonerate",
+      "exonerated",
+      "exonerates",
+      "exonerating",
+      "exoneration",
+      "exonerations",
+      "exonerative"
+    ]
+  },
+  "exorbitance": {
+    "def": [
+      {
+        "definition": "an {a_link|exorbitant} action or procedure",
+        "type": "n."
+      },
+      {
+        "definition": "the tendency or disposition to be exorbitant",
+        "type": "n."
+      }
+    ],
+    "forms": [
+      "exorbitance",
+      "exorbitances"
+    ]
+  },
+  "exorbitant": {
+    "def": [
+      {
+        "definition": "not coming within the  of the law",
+        "type": "adj."
+      },
+      {
+        "definition": "exceeding the customary or  limits in intensity, quality, amount, or size",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "exorbitant",
+      "exorbitantly"
+    ]
+  },
+  "exorcise": {
+    "def": [
+      {
+        "definition": "to expel (an evil spirit) by adjuration",
+        "type": "v."
+      },
+      {
+        "definition": "to get rid of (something troublesome, menacing, or oppressive)",
+        "type": "v."
+      },
+      {
+        "definition": "to free of an evil spirit",
+        "type": "v."
+      }
+    ],
+    "forms": [
+      "exorcise",
+      "exorcised",
+      "exorciser",
+      "exorcisers",
+      "exorcises",
+      "exorcising",
+      "exorcize",
+      "exorcized",
+      "exorcizes",
+      "exorcizing"
+    ]
+  },
+  "exotic": {
+    "def": [
+      {
+        "definition": "introduced from another country not native to the place where found",
+        "type": "adj."
+      },
+      {
+        "definition": "strikingly, excitingly, or mysteriously different or unusual",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to  involving or featuring",
+        "type": "adj."
+      },
+      {
+        "definition": ",",
+        "type": "adj."
+      }
+    ],
+    "forms": [
+      "exotic",
+      "exotically",
+      "exoticness",
+      "exoticnesses"
+    ]
+  },
+  "expand": {
+    "def": [
+      {
+        "definition": "To increase in range or scope.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "expanse": {
+    "def": [
+      {
+        "definition": "A continuous area or stretch.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expansion": {
+    "def": [
+      {
+        "definition": "Increase of amount, size, scope, or the like.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expatriate": {
+    "def": [
+      {
+        "definition": "To drive from one's own country.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "expect": {
+    "def": [
+      {
+        "definition": "To look forward to as certain or probable.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "expectancy": {
+    "def": [
+      {
+        "definition": "The act or state of looking forward to as certain or probable.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expectorate": {
+    "def": [
+      {
+        "definition": "To cough up and spit forth.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "expediency": {
+    "def": [
+      {
+        "definition": "Fitness to meet the requirements of a particular case.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expedient": {
+    "def": [
+      {
+        "definition": "Contributing to personal advantage.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "expedite": {
+    "def": [
+      {
+        "definition": "To hasten the movement or progress of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "expeditious": {
+    "def": [
+      {
+        "definition": "Speedy.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "expend": {
+    "def": [
+      {
+        "definition": "To spend.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "expense": {
+    "def": [
+      {
+        "definition": "The laying out or expending or money or other resources, as time or strength.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expiate": {
+    "def": [
+      {
+        "definition": "To make satisfaction or amends for.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "explicate": {
+    "def": [
+      {
+        "definition": "To clear from involvement.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "explicit": {
+    "def": [
+      {
+        "definition": "Definite.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "explode": {
+    "def": [
+      {
+        "definition": "To cause to burst in pieces by force from within.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "explosion": {
+    "def": [
+      {
+        "definition": "A sudden and violent outbreak.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "explosive": {
+    "def": [
+      {
+        "definition": "Pertaining to a sudden and violent outbreak.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "exposition": {
+    "def": [
+      {
+        "definition": "Formal presentation.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expository": {
+    "def": [
+      {
+        "definition": "Pertaining to a formal presentation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "expostulate": {
+    "def": [
+      {
+        "definition": "To discuss.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "exposure": {
+    "def": [
+      {
+        "definition": "An open situation or position in relation to the sun, elements, or points of",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "expressive": {
+    "def": [
+      {
+        "definition": "Full of meaning.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "expulsion": {
+    "def": [
+      {
+        "definition": "Forcible ejection.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extant": {
+    "def": [
+      {
+        "definition": "Still existing and known.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extemporaneous": {
+    "def": [
+      {
+        "definition": "Done or made without much or any preparation.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extempore": {
+    "def": [
+      {
+        "definition": "Without studied or special preparation.",
+        "type": "adv."
+      }
+    ],
+    "forms": []
+  },
+  "extensible": {
+    "def": [
+      {
+        "definition": "Capable of being thrust out.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extension": {
+    "def": [
+      {
+        "definition": "A reaching or stretching out, as in space, time or scope.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extensive": {
+    "def": [
+      {
+        "definition": "Extended widely in space, time, or scope.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extensor": {
+    "def": [
+      {
+        "definition": "A muscle that causes extension.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extenuate": {
+    "def": [
+      {
+        "definition": "To diminish the gravity or importance of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "exterior": {
+    "def": [
+      {
+        "definition": "That which is outside.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "external": {
+    "def": [
+      {
+        "definition": "Anything relating or belonging to the outside.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extinct": {
+    "def": [
+      {
+        "definition": "Being no longer in existence.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extinguish": {
+    "def": [
+      {
+        "definition": "To render extinct.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "extol": {
+    "def": [
+      {
+        "definition": "To praise in the highest terms.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "extort": {
+    "def": [
+      {
+        "definition": "To obtain by violence, threats, compulsion, or the subjection of another to some",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "extortion": {
+    "def": [
+      {
+        "definition": "The practice of obtaining by violence or compulsion.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extradite": {
+    "def": [
+      {
+        "definition": "To surrender the custody of.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "extradition": {
+    "def": [
+      {
+        "definition": "The surrender by a government of a person accused of crime to the justice",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extrajudicial": {
+    "def": [
+      {
+        "definition": "Happening out of court.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extraneous": {
+    "def": [
+      {
+        "definition": "Having no essential relation to a subject.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extraordinary": {
+    "def": [
+      {
+        "definition": "Unusual.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extravagance": {
+    "def": [
+      {
+        "definition": "Undue expenditure of money.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extravagant": {
+    "def": [
+      {
+        "definition": "Needlessly free or lavish in expenditure.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  },
+  "extremist": {
+    "def": [
+      {
+        "definition": "One who supports extreme measures or holds extreme views.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extremity": {
+    "def": [
+      {
+        "definition": "The utmost point, side, or border, or that farthest removed from a mean",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "extricate": {
+    "def": [
+      {
+        "definition": "Disentangle.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "extrude": {
+    "def": [
+      {
+        "definition": "To drive out or away.",
+        "type": "v."
+      }
+    ],
+    "forms": []
+  },
+  "exuberance": {
+    "def": [
+      {
+        "definition": "Rich supply.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "exuberant": {
+    "def": [
+      {
+        "definition": "Marked by great plentifulness.",
+        "type": "adj."
+      }
+    ],
+    "forms": []
+  }
+}

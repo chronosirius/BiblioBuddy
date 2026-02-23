@@ -1,0 +1,47 @@
+{
+  "zealot": {
+    "def": [
+      {
+        "definition": "One who espouses a cause or pursues an object in an immoderately partisan",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "zeitgeist": {
+    "def": [
+      {
+        "definition": "The intellectual and moral tendencies that characterize any age or epoch.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "zenith": {
+    "def": [
+      {
+        "definition": "The culminating-point of prosperity, influence, or greatness.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "zephyr": {
+    "def": [
+      {
+        "definition": "Any soft, gentle wind.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  },
+  "zodiac": {
+    "def": [
+      {
+        "definition": "An imaginary belt encircling the heavens within which are the larger planets.",
+        "type": "n."
+      }
+    ],
+    "forms": []
+  }
+}
