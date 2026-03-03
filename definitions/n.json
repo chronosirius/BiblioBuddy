@@ -776,7 +776,7 @@
   "negotiable": {
     "def": [
       {
-        "definition": "transferable from one person to another by being delivered with or without endorsement {dx_def}see {/dx_def} so that the title passes to the transferee {dx_def}see {/dx_def}",
+        "definition": "transferable from one person to another by being delivered with or without endorsement see  so that the title passes to the transferee see ",
         "type": "adj."
       },
       {
@@ -1219,7 +1219,7 @@
         "type": "adj."
       },
       {
-        "definition": "marked by quick, alert, clever conception {dx_def}see {/dx_def}, comprehension {dx_def}see {/dx_def}, or resourcefulness",
+        "definition": "marked by quick, alert, clever conception see , comprehension see , or resourcefulness",
         "type": "adj."
       }
     ],
@@ -1586,11 +1586,11 @@
         "type": "n."
       },
       {
-        "definition": "a real-valued nonnegative function defined on a  with value analogous to length and satisfying the conditions that the function is zero if and only if the vector {dx_def}see {/dx_def} is zero, the function of the product of a  and a vector is equal to the product of the  of the scalar and the function of the vector, and the function of the sum of two vectors is less than or equal to the sum of the functions of the two vectors",
+        "definition": "a real-valued nonnegative function defined on a  with value analogous to length and satisfying the conditions that the function is zero if and only if the vector see  is zero, the function of the product of a  and a vector is equal to the product of the  of the scalar and the function of the vector, and the function of the sum of two vectors is less than or equal to the sum of the functions of the two vectors",
         "type": "n."
       },
       {
-        "definition": "the greatest distance between two successive points of a set of points that partition an interval {dx_def}see {/dx_def} into smaller intervals",
+        "definition": "the greatest distance between two successive points of a set of points that partition an interval see  into smaller intervals",
         "type": "n."
       }
     ],
@@ -1782,11 +1782,11 @@
         "type": "n."
       },
       {
-        "definition": "the small brighter and denser portion of a galaxy {dx_def}see {/dx_def}",
+        "definition": "the small brighter and denser portion of a galaxy see ",
         "type": "n."
       },
       {
-        "definition": "a cellular  of  that is essential to cell functions (such as reproduction and protein synthesis), is composed of  and a -rich network from which  and  arise, and is enclosed in a definite membrane {dx}see",
+        "definition": "a cellular  of  that is essential to cell functions (such as reproduction and protein synthesis), is composed of  and a -rich network from which  and  arise, and is enclosed in a definite membrane see",
         "type": "n."
       },
       {
@@ -1794,7 +1794,7 @@
         "type": "n."
       },
       {
-        "definition": "a characteristic and stable complex of atoms or groups in a molecule {dx_def}see {/dx_def}",
+        "definition": "a characteristic and stable complex of atoms or groups in a molecule see ",
         "type": "n."
       },
       {

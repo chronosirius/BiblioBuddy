@@ -70,7 +70,7 @@
   "kiloliter": {
     "def": [
       {
-        "definition": "a unit of capacity equal to 1,000 liters {dx}see",
+        "definition": "a unit of capacity equal to 1,000 liters see",
         "type": "n."
       }
     ],
@@ -82,7 +82,7 @@
   "kilometer": {
     "def": [
       {
-        "definition": "a metric unit of length equal to 1000 meters {dx}see",
+        "definition": "a metric unit of length equal to 1000 meters see",
         "type": "n."
       }
     ],
