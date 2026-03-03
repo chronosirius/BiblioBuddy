@@ -2,74 +2,123 @@
   "keepsake": {
     "def": [
       {
-        "definition": "Anything kept or given to be kept for the sake of the giver.",
+        "definition": "something kept or given to be kept as a memento",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "keepsake",
+      "keepsakes"
+    ]
   },
   "kerchief": {
     "def": [
       {
-        "definition": "A square of linen, silk, or other material, used as a covering for the head or",
+        "definition": "a square of cloth used as a head covering or worn as a scarf around the neck",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kerchief",
+      "kerchiefed",
+      "kerchiefs",
+      "kerchieves"
+    ]
   },
   "kernel": {
     "def": [
       {
-        "definition": "A grain or seed.",
+        "definition": "the inner softer part of a seed, fruit stone, or nut",
+        "type": "n."
+      },
+      {
+        "definition": "a whole seed of a cereal",
+        "type": "n."
+      },
+      {
+        "definition": "a central or essential part",
+        "type": "n."
+      },
+      {
+        "definition": "a fruit seed",
+        "type": "n."
+      },
+      {
+        "definition": "a subset of the elements of one set (such as a group) that a function (such as a ) maps onto an  of another set",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kernel",
+      "kernels"
+    ]
   },
   "kiln": {
     "def": [
       {
-        "definition": "An oven or furnace for baking, burning, or drying industrial products.",
+        "definition": "an oven, furnace, or heated enclosure used for processing a substance by burning, firing, or drying",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kiln",
+      "kilned",
+      "kilning",
+      "kilns"
+    ]
   },
   "kiloliter": {
     "def": [
       {
-        "definition": "One thousand liters.",
+        "definition": "a unit of capacity equal to 1,000 liters {dx}see",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kiloliter",
+      "kiloliters"
+    ]
   },
   "kilometer": {
     "def": [
       {
-        "definition": "A length of 1,000 meters.",
+        "definition": "a metric unit of length equal to 1000 meters {dx}see",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kilometer",
+      "kilometers"
+    ]
   },
   "kilowatt": {
     "def": [
       {
-        "definition": "One thousand watts.",
+        "definition": "1000 watts",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kilowatt",
+      "kilowatts"
+    ]
   },
   "kimono": {
     "def": [
       {
-        "definition": "A loose robe, fastening with a sash, the principal outer garment in Japan.",
+        "definition": "a long robe with wide sleeves traditionally worn with a broad sash as an outer garment by the Japanese",
+        "type": "n."
+      },
+      {
+        "definition": "a loose dressing gown or jacket",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kimono",
+      "kimonoed",
+      "kimonos"
+    ]
   },
   "kind-hearted": {
     "def": [
@@ -78,7 +127,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "kind-hearted"
+    ]
   },
   "kingling": {
     "def": [
@@ -87,16 +138,29 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kingling"
+    ]
   },
   "kingship": {
     "def": [
       {
-        "definition": "Royal state.",
+        "definition": "the position, office, or dignity of a king",
+        "type": "n."
+      },
+      {
+        "definition": "the personality of a king",
+        "type": "n."
+      },
+      {
+        "definition": "government by a king",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kingship",
+      "kingships"
+    ]
   },
   "kinsfolk": {
     "def": [
@@ -105,34 +169,65 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "kinsfolk"
+    ]
   },
   "knavery": {
     "def": [
       {
-        "definition": "Deceitfulness in dealing.",
+        "definition": "a roguish or mischievous act",
+        "type": "n."
+      },
+      {
+        "definition": "roguish mischief",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "knaveries",
+      "knavery"
+    ]
   },
   "knead": {
     "def": [
       {
-        "definition": "To mix and work into a homogeneous mass, especially with the hands.",
+        "definition": "to work and press into a mass with or as if with the hands",
+        "type": "v."
+      },
+      {
+        "definition": "to manipulate or massage with a kneading motion",
+        "type": "v."
+      },
+      {
+        "definition": "to form or shape by or as if by kneading",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "knead",
+      "kneadable",
+      "kneaded",
+      "kneader",
+      "kneaders",
+      "kneading",
+      "kneads"
+    ]
   },
   "knickknack": {
     "def": [
       {
-        "definition": "A small article, more for ornament that use.",
+        "definition": "a small trivial article usually intended for ornament",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "knickknack",
+      "knickknacks",
+      "knicknacks",
+      "nicknack",
+      "nicknacks"
+    ]
   },
   "knight errant": {
     "def": [
@@ -141,15 +236,28 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "knight errant"
+    ]
   },
   "knighthood": {
     "def": [
       {
-        "definition": "Chivalry.",
+        "definition": "the rank, dignity, or profession of a knight",
+        "type": "n."
+      },
+      {
+        "definition": "the qualities befitting a knight",
+        "type": "n."
+      },
+      {
+        "definition": "knights as a class or body",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "knighthood",
+      "knighthoods"
+    ]
   }
 }

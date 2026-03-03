@@ -2,244 +2,809 @@
   "quackery": {
     "def": [
       {
-        "definition": "Charlatanry",
+        "definition": "the practices or pretensions of a quack",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quackeries",
+      "quackery"
+    ]
   },
   "quadrate": {
     "def": [
       {
-        "definition": "To divide into quarters.",
-        "type": "v."
+        "definition": "being square or approximately square",
+        "type": "adj."
+      },
+      {
+        "definition": "expanded into a square at the junction of the arms {dx}see",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or constituting a bony or cartilaginous element of each side of the skull to which the lower jaw is articulated in most vertebrates below mammals",
+        "type": "adj."
+      },
+      {
+        "definition": "an approximately square or cubical area, space, or body",
+        "type": "n."
+      },
+      {
+        "definition": "a quadrate bone",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quadrate",
+      "quadrates"
+    ]
   },
   "quadruple": {
     "def": [
       {
-        "definition": "To multiply by four.",
+        "definition": "to make four times as great or as many",
         "type": "v."
+      },
+      {
+        "definition": "to become four times as great or as numerous",
+        "type": "v."
+      },
+      {
+        "definition": "a sum four times as great as another",
+        "type": "n."
+      },
+      {
+        "definition": "having four units or members",
+        "type": "adj."
+      },
+      {
+        "definition": "being four times as great or as many",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by four beats per measure",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "quadruple",
+      "quadrupled",
+      "quadruples",
+      "quadrupling",
+      "quadruplicities",
+      "quadruplicity",
+      "quadruply"
+    ]
   },
   "qualification": {
     "def": [
       {
-        "definition": "A requisite for an employment, position, right, or privilege.",
+        "definition": "a restriction in meaning or application a limiting modification",
+        "type": "n."
+      },
+      {
+        "definition": "a quality or skill that fits a person (as for an office)",
+        "type": "n."
+      },
+      {
+        "definition": "a condition or standard that must be complied with (as for the attainment of a privilege)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "qualification",
+      "qualifications"
+    ]
   },
   "qualify": {
     "def": [
       {
-        "definition": "To endow or furnish with requisite ability, character, knowledge, skill, or",
+        "definition": "to reduce from a general to a particular or restricted form",
+        "type": "v."
+      },
+      {
+        "definition": "to make less harsh or strict",
+        "type": "v."
+      },
+      {
+        "definition": "to alter the strength or flavor of",
+        "type": "v."
+      },
+      {
+        "definition": "to limit or modify the meaning of",
+        "type": "v."
+      },
+      {
+        "definition": "to characterize by naming an attribute",
+        "type": "v."
+      },
+      {
+        "definition": "to fit by training, skill, or ability for a special purpose",
+        "type": "v."
+      },
+      {
+        "definition": "to be or become fit (as for an office) meet the required standard",
+        "type": "v."
+      },
+      {
+        "definition": "to acquire legal or competent power or capacity",
+        "type": "v."
+      },
+      {
+        "definition": "to exhibit a required degree of ability in a preliminary contest",
+        "type": "v."
+      },
+      {
+        "definition": "to shoot well enough to earn a marksmanship badge",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "qualified",
+      "qualifies",
+      "qualify",
+      "qualifying"
+    ]
   },
   "qualm": {
     "def": [
       {
-        "definition": "A fit of nausea.",
+        "definition": "a feeling of uneasiness about a point especially of conscience or propriety",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden feeling of usually disturbing emotion (such as doubt or fear)",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden attack of illness, faintness, or nausea",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "qualm",
+      "qualmier",
+      "qualmiest",
+      "qualms",
+      "qualmy"
+    ]
   },
   "quandary": {
     "def": [
       {
-        "definition": "A puzzling predicament.",
+        "definition": "a state of  or doubt",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quandaries",
+      "quandary"
+    ]
   },
   "quantity": {
     "def": [
       {
-        "definition": "Magnitude.",
+        "definition": "an indefinite amount or number",
+        "type": "n."
+      },
+      {
+        "definition": "a determinate or estimated amount",
+        "type": "n."
+      },
+      {
+        "definition": "total amount or number",
+        "type": "n."
+      },
+      {
+        "definition": "a considerable amount or number",
+        "type": "n."
+      },
+      {
+        "definition": "the aspect in which a thing is measurable in terms of greater, less, or equal or of increasing or decreasing magnitude",
+        "type": "n."
+      },
+      {
+        "definition": "the subject of a mathematical operation",
+        "type": "n."
+      },
+      {
+        "definition": "an individual considered with respect to a given situation",
+        "type": "n."
+      },
+      {
+        "definition": "duration and intensity of speech sounds as distinct from their individual quality or phonemic character",
+        "type": "n."
+      },
+      {
+        "definition": "the relative duration or time length of a speech sound or sound sequence",
+        "type": "n."
+      },
+      {
+        "definition": "the character of a logical proposition as being universal, particular, or singular",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quantities",
+      "quantity"
+    ]
   },
   "quarantine": {
     "def": [
       {
-        "definition": "The enforced isolation of any person or place infected with contagious",
+        "definition": "a period of 40 days",
         "type": "n."
+      },
+      {
+        "definition": "a term during which a ship arriving in port and suspected of carrying contagious disease is held in isolation from the shore",
+        "type": "n."
+      },
+      {
+        "definition": "a regulation placing a ship in quarantine",
+        "type": "n."
+      },
+      {
+        "definition": "a place where a ship is detained during quarantine",
+        "type": "n."
+      },
+      {
+        "definition": "a restraint upon the activities or communication of persons or the transport of goods designed to prevent the spread of disease or pests",
+        "type": "n."
+      },
+      {
+        "definition": "a place in which those under quarantine are kept",
+        "type": "n."
+      },
+      {
+        "definition": "a state of enforced isolation",
+        "type": "n."
+      },
+      {
+        "definition": "to detain in or exclude by quarantine",
+        "type": "v."
+      },
+      {
+        "definition": "to isolate from normal relations or communication",
+        "type": "v."
+      },
+      {
+        "definition": "to establish or declare a quarantine",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "quarantine",
+      "quarantines",
+      "quarantined",
+      "quarantining"
+    ]
   },
   "quarrelsome": {
     "def": [
       {
-        "definition": "Irascible.",
+        "definition": "apt or disposed to quarrel in an often petty manner",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "quarrelsome",
+      "quarrelsomely",
+      "quarrelsomeness",
+      "quarrelsomenesses"
+    ]
   },
   "quarter": {
     "def": [
       {
-        "definition": "One of four equal parts into which anything is or may be divided.",
+        "definition": "one of four equal parts into which something is divisible a fourth part",
         "type": "n."
+      },
+      {
+        "definition": "any of various units of capacity or weight equal to or derived from one fourth of some larger unit",
+        "type": "n."
+      },
+      {
+        "definition": "any of various units of length or area equal to one fourth of some larger unit",
+        "type": "n."
+      },
+      {
+        "definition": "one of a set of four 3-month divisions of a year",
+        "type": "n."
+      },
+      {
+        "definition": "a school term of about 12 weeks",
+        "type": "n."
+      },
+      {
+        "definition": "a coin worth a quarter of a dollar",
+        "type": "n."
+      },
+      {
+        "definition": "the sum of 25 cents",
+        "type": "n."
+      },
+      {
+        "definition": "one limb of a quadruped with the adjacent parts",
+        "type": "n."
+      },
+      {
+        "definition": "the region or direction lying under any of the four divisions of the horizon",
+        "type": "n."
+      },
+      {
+        "definition": "one of the four parts into which the horizon is divided or the cardinal point corresponding to it",
+        "type": "n."
+      },
+      {
+        "definition": "a compass point or direction other than the cardinal points",
+        "type": "n."
+      },
+      {
+        "definition": "a division or district of a town or city",
+        "type": "n."
+      },
+      {
+        "definition": "the inhabitants of such a quarter",
+        "type": "n."
+      },
+      {
+        "definition": "an assigned station or post",
+        "type": "n."
+      },
+      {
+        "definition": "an assembly of a ship's company for ceremony, drill, or emergency",
+        "type": "n."
+      },
+      {
+        "definition": "living accommodations",
+        "type": "n."
+      },
+      {
+        "definition": "merciful consideration of an opponent",
+        "type": "n."
+      },
+      {
+        "definition": "a fourth part of the moon's period",
+        "type": "n."
+      },
+      {
+        "definition": "a half-illuminated phase of the moon that occurs a quarter period after or before a new moon",
+        "type": "n."
+      },
+      {
+        "definition": "the side of a horse's hoof between the toe and the heel {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "any of the four parts into which a heraldic field is divided",
+        "type": "n."
+      },
+      {
+        "definition": "a bearing or charge occupying the first fourth part of a heraldic field",
+        "type": "n."
+      },
+      {
+        "definition": "the stern area of a ship's side",
+        "type": "n."
+      },
+      {
+        "definition": "one side of the upper of a shoe or boot from heel to vamp",
+        "type": "n."
+      },
+      {
+        "definition": "one of the four equal periods into which the playing time of some games is divided",
+        "type": "n."
+      },
+      {
+        "definition": "to cut or divide into four equal or nearly equal parts",
+        "type": "v."
+      },
+      {
+        "definition": "to provide with lodging or shelter",
+        "type": "v."
+      },
+      {
+        "definition": "to crisscross (an area) in many directions",
+        "type": "v."
+      },
+      {
+        "definition": "to arrange or bear (different coats of arms) quarterly on one escutcheon",
+        "type": "v."
+      },
+      {
+        "definition": "to add (a coat of arms) to others on one escutcheon",
+        "type": "v."
+      },
+      {
+        "definition": "to divide (a shield) into distinct sections (as by stripes)",
+        "type": "v."
+      },
+      {
+        "definition": "to crisscross a district",
+        "type": "v."
+      },
+      {
+        "definition": "to change from one quarter to another",
+        "type": "v."
+      },
+      {
+        "definition": "to strike on a ship's quarter",
+        "type": "v."
+      },
+      {
+        "definition": "consisting of or equal to a quarter",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "quarter",
+      "quarters",
+      "quartered",
+      "quartering"
+    ]
   },
   "quarterly": {
     "def": [
       {
-        "definition": "Occurring or made at intervals of three months.",
+        "definition": "in heraldic quarters or quarterings",
+        "type": "adv."
+      },
+      {
+        "definition": "at 3-month intervals",
+        "type": "adv."
+      },
+      {
+        "definition": "computed for or payable at 3-month intervals",
         "type": "adj."
+      },
+      {
+        "definition": "recurring, issued, or spaced at 3-month intervals",
+        "type": "adj."
+      },
+      {
+        "definition": "divided into heraldic quarters or compartments",
+        "type": "adj."
+      },
+      {
+        "definition": "a periodical published four times a year",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quarterly",
+      "quarterlies"
+    ]
   },
   "quartet": {
     "def": [
       {
-        "definition": "A composition for four voices or four instruments.",
+        "definition": "a musical composition for four instruments or voices",
+        "type": "n."
+      },
+      {
+        "definition": "a group or set of four",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quartet",
+      "quartets",
+      "quartette",
+      "quartettes"
+    ]
   },
   "quarto": {
     "def": [
       {
-        "definition": "An eight-page newspaper of any size.",
+        "definition": "the size of a piece of paper cut four from a sheet",
+        "type": "n."
+      },
+      {
+        "definition": "a book printed on quarto pages",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quarto",
+      "quartos"
+    ]
   },
   "quay": {
     "def": [
       {
-        "definition": "A wharf or artificial landing-place on the shore of a harbor or projecting into",
+        "definition": "a structure built parallel to the bank of a waterway for use as a landing place",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quay",
+      "quays"
+    ]
   },
   "querulous": {
     "def": [
       {
-        "definition": "Habitually complaining.",
+        "definition": "habitually complaining",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "querulous",
+      "querulously",
+      "querulousness",
+      "querulousnesses"
+    ]
   },
   "query": {
     "def": [
       {
-        "definition": "To make inquiry.",
+        "definition": "a question in the mind",
+        "type": "n."
+      },
+      {
+        "definition": "to ask questions of especially with a desire for authoritative information",
+        "type": "v."
+      },
+      {
+        "definition": "to ask questions about especially in order to resolve a doubt",
+        "type": "v."
+      },
+      {
+        "definition": "to put as a question",
+        "type": "v."
+      },
+      {
+        "definition": "to mark with a query",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "queries",
+      "query",
+      "queried",
+      "querier",
+      "queriers",
+      "querying"
+    ]
   },
   "queue": {
     "def": [
       {
-        "definition": "A file of persons waiting in order of their arrival, as for admittance.",
+        "definition": "a waiting line especially of people or vehicles",
         "type": "n."
+      },
+      {
+        "definition": "a sequence of messages or jobs held in temporary storage awaiting transmission or processing",
+        "type": "n."
+      },
+      {
+        "definition": "a  that consists of a list of records such that records are added at one end and removed from the other",
+        "type": "n."
+      },
+      {
+        "definition": "a braid of hair usually worn hanging at the back of the head",
+        "type": "n."
+      },
+      {
+        "definition": "to arrange or form in a queue {dx_def}see {/dx_def}",
+        "type": "v."
+      },
+      {
+        "definition": "to line up or wait in a queue",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "queue",
+      "queues",
+      "queued",
+      "queueing",
+      "queuer",
+      "queuers",
+      "queuing"
+    ]
   },
   "quibble": {
     "def": [
       {
-        "definition": "An utterly trivial distinction or objection.",
+        "definition": "to evade the point of an argument by caviling about words",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to quibbles",
+        "type": "v."
+      },
+      {
+        "definition": "an evasion of or shift from the point",
+        "type": "n."
+      },
+      {
+        "definition": "a minor objection or criticism",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quibble",
+      "quibbled",
+      "quibbler",
+      "quibblers",
+      "quibbles",
+      "quibbling"
+    ]
   },
   "quiescence": {
     "def": [
       {
-        "definition": "Quiet.",
+        "definition": "the quality or state of being quiescent",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quiescence",
+      "quiescences"
+    ]
   },
   "quiescent": {
     "def": [
       {
-        "definition": "Being in a state of repose or inaction.",
+        "definition": "marked by inactivity or repose tranquilly at rest",
+        "type": "adj."
+      },
+      {
+        "definition": "causing no trouble or symptoms",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "quiescent",
+      "quiescently"
+    ]
   },
   "quiet": {
     "def": [
       {
-        "definition": "Making no noise.",
+        "definition": "the quality or state of being quiet {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "free from noise or uproar",
         "type": "adj."
+      },
+      {
+        "definition": "making or involving no noise or very little noise",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to speak very little not",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by little or no motion or activity",
+        "type": "adj."
+      },
+      {
+        "definition": "not disturbed by noise or activity  enjoyed in peace and relaxation",
+        "type": "adj."
+      },
+      {
+        "definition": "carried out secretly or discreetly  not made known openly or publicly",
+        "type": "adj."
+      },
+      {
+        "definition": "in a quiet manner",
+        "type": "adv."
+      },
+      {
+        "definition": "to cause to be quiet",
+        "type": "v."
+      },
+      {
+        "definition": "to make secure by freeing from  or question",
+        "type": "v."
+      },
+      {
+        "definition": "to become quiet",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "quiet",
+      "quiets",
+      "quieter",
+      "quietest",
+      "quietly",
+      "quietness",
+      "quietnesses",
+      "quieted",
+      "quieting"
+    ]
   },
   "quietus": {
     "def": [
       {
-        "definition": "A silencing, suppressing, or ending.",
+        "definition": "final settlement (as of a debt)",
+        "type": "n."
+      },
+      {
+        "definition": "removal from activity",
+        "type": "n."
+      },
+      {
+        "definition": "something that quiets or represses",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quietus",
+      "quietuses"
+    ]
   },
   "quintessence": {
     "def": [
       {
-        "definition": "The most essential part of anything.",
+        "definition": "the fifth and highest element in ancient and medieval philosophy that permeates all nature and is the substance composing the celestial bodies",
+        "type": "n."
+      },
+      {
+        "definition": "the essence of a thing in its purest and most concentrated form",
+        "type": "n."
+      },
+      {
+        "definition": "the most typical example or representative",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quintessence",
+      "quintessences"
+    ]
   },
   "quintet": {
     "def": [
       {
-        "definition": "Musical composition arranged for five voices or instruments.",
+        "definition": "a musical composition or movement for five instruments or voices",
+        "type": "n."
+      },
+      {
+        "definition": "the performers of a quintet",
+        "type": "n."
+      },
+      {
+        "definition": "a basketball team",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "quintet",
+      "quintets"
+    ]
   },
   "quite": {
     "def": [
       {
-        "definition": "Fully.",
+        "definition": "to an extreme",
+        "type": "adv."
+      },
+      {
+        "definition": "to a considerable extent",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "quite"
+    ]
   },
   "quixotic": {
     "def": [
       {
-        "definition": "Chivalrous or romantic to a ridiculous or extravagant degree.",
+        "definition": "foolishly  especially in the pursuit of ideals",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "quixotic",
+      "quixotical",
+      "quixotically"
+    ]
   }
 }

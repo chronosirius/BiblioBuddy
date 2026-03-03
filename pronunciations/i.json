@@ -1,1 +1,3298 @@
-{}
+{
+  "ichthyology": {
+    "pronunciations": [
+      {
+        "syllables": "ˌik-thē-ˈä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ichthy03.mp3"
+      }
+    ]
+  },
+  "icon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī-ˌkän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/icon0001.mp3"
+      }
+    ]
+  },
+  "iconoclast": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈkä-nə-ˌklast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/iconoc02.mp3"
+      }
+    ]
+  },
+  "idealize": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈdē-(ə-)ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ideali06.mp3"
+      }
+    ]
+  },
+  "idiom": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-dē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/idiom001.mp3"
+      }
+    ]
+  },
+  "idiosyncrasy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-dē-ə-ˈsiŋ-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/idiosy01.mp3"
+      }
+    ]
+  },
+  "idolize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī-də-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/idoliz01.mp3"
+      }
+    ]
+  },
+  "ignoble": {
+    "pronunciations": [
+      {
+        "syllables": "ig-ˈnō-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ignobl01.mp3"
+      }
+    ]
+  },
+  "ignominious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌig-nə-ˈmi-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ignomi01.mp3"
+      }
+    ]
+  },
+  "iliad": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-lē-əd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/iliad001.mp3"
+      }
+    ]
+  },
+  "ill-natured": {
+    "pronunciations": [
+      {
+        "syllables": "ˈil-ˈnā-chərd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illnat01.mp3"
+      }
+    ]
+  },
+  "illegal": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈlē-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illega01.mp3"
+      }
+    ]
+  },
+  "illegible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈle-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illegi01.mp3"
+      }
+    ]
+  },
+  "illegitimate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-li-ˈji-tə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illegi05.mp3"
+      }
+    ]
+  },
+  "illiberal": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈli-b(ə-)rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illibe01.mp3"
+      }
+    ]
+  },
+  "illicit": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈli-sət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illici01.mp3"
+      }
+    ]
+  },
+  "illimitable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈli-mə-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illimi01.mp3"
+      }
+    ]
+  },
+  "illiterate": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈli-t(ə-)rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illite04.mp3"
+      }
+    ]
+  },
+  "illogical": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(l)-ˈlä-ji-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illogi02.mp3"
+      }
+    ]
+  },
+  "illuminant": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈlü-mə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illumi02.mp3"
+      }
+    ]
+  },
+  "illuminate": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈlü-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illumi04.mp3"
+      }
+    ]
+  },
+  "illumine": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈlü-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illumi11.mp3"
+      }
+    ]
+  },
+  "illusion": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈlü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illusi01.mp3"
+      }
+    ]
+  },
+  "illusive": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈlü-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illusi08.mp3"
+      }
+    ]
+  },
+  "illusory": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈlü-sə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/illuso01.mp3"
+      }
+    ]
+  },
+  "imaginable": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈma-jə-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imagin01.mp3"
+      }
+    ]
+  },
+  "imaginary": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈma-jə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imagin08.mp3"
+      }
+    ]
+  },
+  "imbibe": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈbīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imbibe01.mp3"
+      }
+    ]
+  },
+  "imbroglio": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈbrōl-(ˌ)yō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imbrog01.mp3"
+      }
+    ]
+  },
+  "imbrue": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈbrü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imbrue01.mp3"
+      }
+    ]
+  },
+  "imitation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-mə-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imitat03.mp3"
+      }
+    ]
+  },
+  "immaculate": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈma-kyə-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immacu02.mp3"
+      }
+    ]
+  },
+  "immaterial": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-mə-ˈtir-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immate01.mp3"
+      }
+    ]
+  },
+  "immature": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-mə-ˈchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immatu01.mp3"
+      }
+    ]
+  },
+  "immeasurable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(m)-ˈme-zhə-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immeas01.mp3"
+      }
+    ]
+  },
+  "immense": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈmen(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immens01.mp3"
+      }
+    ]
+  },
+  "immerse": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈmərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immers01.mp3"
+      }
+    ]
+  },
+  "immersion": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈmər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immers03.mp3"
+      }
+    ]
+  },
+  "immigrant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-mə-grənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immigr01.mp3"
+      }
+    ]
+  },
+  "immigrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-mə-ˌgrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immigr02.mp3"
+      }
+    ]
+  },
+  "imminence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-mə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immine01.mp3"
+      }
+    ]
+  },
+  "imminent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-mə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immine03.mp3"
+      }
+    ]
+  },
+  "immiscible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(m)-ˈmi-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immisc01.mp3"
+      }
+    ]
+  },
+  "immoral": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(m)-ˈmȯr-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immora01.mp3"
+      }
+    ]
+  },
+  "immortalize": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈmȯr-tə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immort04.mp3"
+      }
+    ]
+  },
+  "immovable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(m)-ˈmü-və-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immova01.mp3"
+      }
+    ]
+  },
+  "immune": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈmyün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immune01.mp3"
+      }
+    ]
+  },
+  "immutable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i(m)-ˈmyü-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/immuta01.mp3"
+      }
+    ]
+  },
+  "impair": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈper",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impair01.mp3"
+      }
+    ]
+  },
+  "impalpable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpal-pə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impalp01.mp3"
+      }
+    ]
+  },
+  "impartial": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpär-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impart04.mp3"
+      }
+    ]
+  },
+  "impassable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpa-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impass06.mp3"
+      }
+    ]
+  },
+  "impassible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpa-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impass06.mp3"
+      }
+    ]
+  },
+  "impassive": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpa-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impass11.mp3"
+      }
+    ]
+  },
+  "impatience": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpā-shən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impati01.mp3"
+      }
+    ]
+  },
+  "impeccable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpe-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impecc01.mp3"
+      }
+    ]
+  },
+  "impecunious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-pi-ˈkyü-nyəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impecu01.mp3"
+      }
+    ]
+  },
+  "impede": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impede01.mp3"
+      }
+    ]
+  },
+  "impel": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impel001.mp3"
+      }
+    ]
+  },
+  "impend": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impend01.mp3"
+      }
+    ]
+  },
+  "imperative": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈper-ə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impera01.mp3"
+      }
+    ]
+  },
+  "imperceptible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-pər-ˈsep-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imperc02.mp3"
+      }
+    ]
+  },
+  "imperil": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈper-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imperi07.mp3"
+      }
+    ]
+  },
+  "imperious": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpir-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imperi09.mp3"
+      }
+    ]
+  },
+  "impermissible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-pər-ˈmi-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imperm06.mp3"
+      }
+    ]
+  },
+  "impersonal": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpər-sə-nəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impers01.mp3"
+      }
+    ]
+  },
+  "impersonate": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpər-sə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impers06.mp3"
+      }
+    ]
+  },
+  "impertinence": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpər-tə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impert01.mp3"
+      }
+    ]
+  },
+  "imperturbable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-pər-ˈtər-bə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impert04.mp3"
+      }
+    ]
+  },
+  "impervious": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpər-vē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imperv01.mp3"
+      }
+    ]
+  },
+  "impetuosity": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˌpe-chə-ˈwä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impetu01.mp3"
+      }
+    ]
+  },
+  "impetuous": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpe-chᵊ-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impetu02.mp3"
+      }
+    ]
+  },
+  "impetus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈim-pə-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impetu03.mp3"
+      }
+    ]
+  },
+  "impiety": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpī-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impiet01.mp3"
+      }
+    ]
+  },
+  "impious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈim-pē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impiou02.mp3"
+      }
+    ]
+  },
+  "implausible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈplȯ-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/implau01.mp3"
+      }
+    ]
+  },
+  "implicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈim-plə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/implic01.mp3"
+      }
+    ]
+  },
+  "implicit": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpli-sət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/implic04.mp3"
+      }
+    ]
+  },
+  "imply": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈplī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imply001.mp3"
+      }
+    ]
+  },
+  "impolitic": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpä-lə-ˌtik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impoli02.mp3"
+      }
+    ]
+  },
+  "importation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-ˌpȯr-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/import08.mp3"
+      }
+    ]
+  },
+  "importunate": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpȯr-chə-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/import09.mp3"
+      }
+    ]
+  },
+  "importune": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-pər-ˈtün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/import10.mp3"
+      }
+    ]
+  },
+  "impotent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈim-pə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impote03.mp3"
+      }
+    ]
+  },
+  "impoverish": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpä-v(ə-)rish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impove01.mp3"
+      }
+    ]
+  },
+  "impracticable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈprak-ti-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imprac01.mp3"
+      }
+    ]
+  },
+  "impregnable": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpreg-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impreg01.mp3"
+      }
+    ]
+  },
+  "impregnate": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpreg-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impreg06.mp3"
+      }
+    ]
+  },
+  "impromptu": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpräm(p)-(ˌ)tü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/improm01.mp3"
+      }
+    ]
+  },
+  "improper": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈprä-pər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/improp01.mp3"
+      }
+    ]
+  },
+  "impropriety": {
+    "pronunciations": [
+      {
+        "syllables": "ˌim-p(r)ə-ˈprī-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/improp02.mp3"
+      }
+    ]
+  },
+  "improvident": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈprä-və-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/improv06.mp3"
+      }
+    ]
+  },
+  "improvise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈim-prə-ˌvīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/improv14.mp3"
+      }
+    ]
+  },
+  "imprudent": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈprü-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/imprud02.mp3"
+      }
+    ]
+  },
+  "impudence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈim-pyə-dən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impude01.mp3"
+      }
+    ]
+  },
+  "impugn": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpyün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impugn01.mp3"
+      }
+    ]
+  },
+  "impulsion": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpəl-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impuls03.mp3"
+      }
+    ]
+  },
+  "impulsive": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpəl-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impuls04.mp3"
+      }
+    ]
+  },
+  "impunity": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpyü-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impuni01.mp3"
+      }
+    ]
+  },
+  "impure": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)im-ˈpyu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impure01.mp3"
+      }
+    ]
+  },
+  "impute": {
+    "pronunciations": [
+      {
+        "syllables": "im-ˈpyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/impute01.mp3"
+      }
+    ]
+  },
+  "inaccessible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈse-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inacce01.mp3"
+      }
+    ]
+  },
+  "inaccurate": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈna-kyə-rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inaccu02.mp3"
+      }
+    ]
+  },
+  "inactive": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈnak-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inacti04.mp3"
+      }
+    ]
+  },
+  "inadequate": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈna-di-kwət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inadeq02.mp3"
+      }
+    ]
+  },
+  "inadmissible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nəd-ˈmi-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inadmi01.mp3"
+      }
+    ]
+  },
+  "inadvertent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nəd-ˈvər-tᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inadve03.mp3"
+      }
+    ]
+  },
+  "inadvisable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nəd-ˈvī-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inadvi01.mp3"
+      }
+    ]
+  },
+  "inane": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inane001.mp3"
+      }
+    ]
+  },
+  "inanimate": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈna-nə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inanim01.mp3"
+      }
+    ]
+  },
+  "inapt": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈnapt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inapt001.mp3"
+      }
+    ]
+  },
+  "inarticulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-(ˌ)när-ˈti-kyə-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inarti02.mp3"
+      }
+    ]
+  },
+  "inaudible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈnȯ-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inaudi01.mp3"
+      }
+    ]
+  },
+  "inborn": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˈbȯrn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inborn01.mp3"
+      }
+    ]
+  },
+  "inbred": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˈbred",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inbred01.mp3"
+      }
+    ]
+  },
+  "incandescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kən-ˈde-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incand02.mp3"
+      }
+    ]
+  },
+  "incandescent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kən-ˈde-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incand03.mp3"
+      }
+    ]
+  },
+  "incapacitate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kə-ˈpa-sə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incapa05.mp3"
+      }
+    ]
+  },
+  "incapacity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kə-ˈpa-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incapa07.mp3"
+      }
+    ]
+  },
+  "incarcerate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈkär-sə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incarc01.mp3"
+      }
+    ]
+  },
+  "incendiary": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsen-dē-ˌer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incend02.mp3"
+      }
+    ]
+  },
+  "incentive": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsen-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incent02.mp3"
+      }
+    ]
+  },
+  "inception": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsep-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incept01.mp3"
+      }
+    ]
+  },
+  "inceptive": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsep-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incept02.mp3"
+      }
+    ]
+  },
+  "incessant": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈse-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incess02.mp3"
+      }
+    ]
+  },
+  "inchmeal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈinch-ˌmēl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inchme01.mp3"
+      }
+    ]
+  },
+  "inchoate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈkō-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inchoa01.mp3"
+      }
+    ]
+  },
+  "inchoative": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈkō-ə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inchoa02.mp3"
+      }
+    ]
+  },
+  "incidence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-sə-dən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incide01.mp3"
+      }
+    ]
+  },
+  "incident": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-sə-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incide02.mp3"
+      }
+    ]
+  },
+  "incidentally": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sə-ˈden-tᵊl-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incide04.mp3"
+      }
+    ]
+  },
+  "incinerate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-nə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incine01.mp3"
+      }
+    ]
+  },
+  "incipience": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-pē-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incipi01.mp3"
+      }
+    ]
+  },
+  "incipient": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-pē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incipi03.mp3"
+      }
+    ]
+  },
+  "incisor": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsī-zər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inciso01.mp3"
+      }
+    ]
+  },
+  "incite": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incite01.mp3"
+      }
+    ]
+  },
+  "incoercible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kō-ˈər-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incoer01.mp3"
+      }
+    ]
+  },
+  "incoherence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kō-ˈhir-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incohe01.mp3"
+      }
+    ]
+  },
+  "incoherent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kō-ˈhir-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incohe02.mp3"
+      }
+    ]
+  },
+  "incombustible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kəm-ˈbə-stə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomb01.mp3"
+      }
+    ]
+  },
+  "incomparable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈkäm-p(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp01.mp3"
+      }
+    ]
+  },
+  "incompatible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kəm-ˈpa-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp05.mp3"
+      }
+    ]
+  },
+  "incompetence": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈkäm-pə-tən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp07.mp3"
+      }
+    ]
+  },
+  "incompetent": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈkäm-pə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp09.mp3"
+      }
+    ]
+  },
+  "incomplete": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kəm-ˈplēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp10.mp3"
+      }
+    ]
+  },
+  "incomprehensible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˌkäm-pri-ˈhen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp12.mp3"
+      }
+    ]
+  },
+  "incompressible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kəm-ˈpre-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incomp16.mp3"
+      }
+    ]
+  },
+  "inconceivable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kən-ˈsē-və-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inconc01.mp3"
+      }
+    ]
+  },
+  "incongruous": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈkäŋ-grə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incong05.mp3"
+      }
+    ]
+  },
+  "inconsequential": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˌkän(t)-sə-ˈkwen(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incons05.mp3"
+      }
+    ]
+  },
+  "inconsiderable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kən-ˈsi-dər-(ə-)bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incons08.mp3"
+      }
+    ]
+  },
+  "inconsistent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kən-ˈsi-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incons14.mp3"
+      }
+    ]
+  },
+  "inconstant": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈkän(t)-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incons21.mp3"
+      }
+    ]
+  },
+  "incontrovertible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˌkän-trə-ˈvər-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/incont08.mp3"
+      }
+    ]
+  },
+  "inconvenient": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kən-ˈvē-nyənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inconv03.mp3"
+      }
+    ]
+  },
+  "indefensible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈfen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indefe07.mp3"
+      }
+    ]
+  },
+  "indelible": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈde-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indeli01.mp3"
+      }
+    ]
+  },
+  "indescribable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈskrī-bə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indesc01.mp3"
+      }
+    ]
+  },
+  "indestructible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈstrək-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indest01.mp3"
+      }
+    ]
+  },
+  "indicant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-di-kənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indica02.mp3"
+      }
+    ]
+  },
+  "indicator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-də-ˌkā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indica07.mp3"
+      }
+    ]
+  },
+  "indict": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indict01.mp3"
+      }
+    ]
+  },
+  "indigence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-di-jən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indige01.mp3"
+      }
+    ]
+  },
+  "indigenous": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdi-jə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indige06.mp3"
+      }
+    ]
+  },
+  "indigent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-di-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indige07.mp3"
+      }
+    ]
+  },
+  "indigestible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-(ˌ)dī-ˈje-stə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indige09.mp3"
+      }
+    ]
+  },
+  "indigestion": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-(ˌ)dī-ˈjes-chən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indige11.mp3"
+      }
+    ]
+  },
+  "indignant": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdig-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indign02.mp3"
+      }
+    ]
+  },
+  "indignity": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdig-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indign04.mp3"
+      }
+    ]
+  },
+  "indiscernible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈsər-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indisc01.mp3"
+      }
+    ]
+  },
+  "indiscreet": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈskrēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indisc06.mp3"
+      }
+    ]
+  },
+  "indiscriminate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈskri-mə-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indisc08.mp3"
+      }
+    ]
+  },
+  "indispensable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈspen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indisp01.mp3"
+      }
+    ]
+  },
+  "indistinct": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-di-ˈstiŋ(k)t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indist01.mp3"
+      }
+    ]
+  },
+  "indivisible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-də-ˈvi-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indivi11.mp3"
+      }
+    ]
+  },
+  "indolence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-də-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indole04.mp3"
+      }
+    ]
+  },
+  "indolent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-də-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indole05.mp3"
+      }
+    ]
+  },
+  "indomitable": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdä-mə-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indomi01.mp3"
+      }
+    ]
+  },
+  "induct": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdəkt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/induct01.mp3"
+      }
+    ]
+  },
+  "indulgence": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdəl-jən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indulg02.mp3"
+      }
+    ]
+  },
+  "indulgent": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈdəl-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/indulg03.mp3"
+      }
+    ]
+  },
+  "inebriate": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnē-brē-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inebri04.mp3"
+      }
+    ]
+  },
+  "inedible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈne-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inedib01.mp3"
+      }
+    ]
+  },
+  "ineffable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈne-fə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ineffa01.mp3"
+      }
+    ]
+  },
+  "inefficiency": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nə-ˈfi-shən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ineffi03.mp3"
+      }
+    ]
+  },
+  "inefficient": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nə-ˈfi-shənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ineffi04.mp3"
+      }
+    ]
+  },
+  "ineligible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈne-lə-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inelig01.mp3"
+      }
+    ]
+  },
+  "inept": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnept",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inept001.mp3"
+      }
+    ]
+  },
+  "inert": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inert001.mp3"
+      }
+    ]
+  },
+  "inestimable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈne-stə-mə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inesti01.mp3"
+      }
+    ]
+  },
+  "inevitable": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈne-və-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inevit01.mp3"
+      }
+    ]
+  },
+  "inexcusable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈskyü-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexcu01.mp3"
+      }
+    ]
+  },
+  "inexhaustible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nig-ˈzȯ-stə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexha01.mp3"
+      }
+    ]
+  },
+  "inexorable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)i-ˈnek-sə-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexor02.mp3"
+      }
+    ]
+  },
+  "inexpedient": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈspē-dē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexpe03.mp3"
+      }
+    ]
+  },
+  "inexpensive": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈspen(t)-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexpe04.mp3"
+      }
+    ]
+  },
+  "inexperience": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈspir-ē-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexpe05.mp3"
+      }
+    ]
+  },
+  "inexplicable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈspli-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexpl03.mp3"
+      }
+    ]
+  },
+  "inexpressible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌi-nik-ˈspre-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inexpr01.mp3"
+      }
+    ]
+  },
+  "infallible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈfa-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infall01.mp3"
+      }
+    ]
+  },
+  "infamous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-fə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infamo01.mp3"
+      }
+    ]
+  },
+  "infamy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-fə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infamy01.mp3"
+      }
+    ]
+  },
+  "inference": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-f(ə-)rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infere01.mp3"
+      }
+    ]
+  },
+  "infernal": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infern01.mp3"
+      }
+    ]
+  },
+  "infest": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfest",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infest01.mp3"
+      }
+    ]
+  },
+  "infidel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-fə-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infide01.mp3"
+      }
+    ]
+  },
+  "infidelity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-fə-ˈde-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infide02.mp3"
+      }
+    ]
+  },
+  "infinite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-fə-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infini01.mp3"
+      }
+    ]
+  },
+  "infinity": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfi-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infini07.mp3"
+      }
+    ]
+  },
+  "infirm": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfərm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infirm01.mp3"
+      }
+    ]
+  },
+  "infirmary": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfər-mə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infirm02.mp3"
+      }
+    ]
+  },
+  "infirmity": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfər-mə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infirm03.mp3"
+      }
+    ]
+  },
+  "inflammable": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfla-mə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inflam02.mp3"
+      }
+    ]
+  },
+  "inflammation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-flə-ˈmā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inflam06.mp3"
+      }
+    ]
+  },
+  "inflexible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈflek-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inflex02.mp3"
+      }
+    ]
+  },
+  "influence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌflü-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/influe02.mp3"
+      }
+    ]
+  },
+  "influential": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-(ˌ)flü-ˈen(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/influe05.mp3"
+      }
+    ]
+  },
+  "influx": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌfləks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/influx01.mp3"
+      }
+    ]
+  },
+  "infrequence": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈfrē-kwən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infreq01.mp3"
+      }
+    ]
+  },
+  "infrequent": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈfrē-kwənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infreq03.mp3"
+      }
+    ]
+  },
+  "infringe": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfrinj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infrin01.mp3"
+      }
+    ]
+  },
+  "infuse": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfyüz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infuse01.mp3"
+      }
+    ]
+  },
+  "infusion": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈfyü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/infusi04.mp3"
+      }
+    ]
+  },
+  "ingenious": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈjēn-yəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ingeni01.mp3"
+      }
+    ]
+  },
+  "ingenuity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-jə-ˈnü-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ingenu02.mp3"
+      }
+    ]
+  },
+  "ingenuous": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈjen-yə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ingenu03.mp3"
+      }
+    ]
+  },
+  "inglorious": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈglȯr-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inglor01.mp3"
+      }
+    ]
+  },
+  "ingratiate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈgrā-shē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ingrat02.mp3"
+      }
+    ]
+  },
+  "ingratitude": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈgra-tə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ingrat06.mp3"
+      }
+    ]
+  },
+  "ingredient": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈgrē-dē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ingred01.mp3"
+      }
+    ]
+  },
+  "inherence": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈher-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inherence_1.mp3"
+      }
+    ]
+  },
+  "inherent": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈher-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inher01m.mp3"
+      }
+    ]
+  },
+  "inhibit": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈhi-bət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inhibi02.mp3"
+      }
+    ]
+  },
+  "inhospitable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-(ˌ)hä-ˈspi-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inhosp02.mp3"
+      }
+    ]
+  },
+  "inhuman": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈhyü-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inhuma01.mp3"
+      }
+    ]
+  },
+  "inhume": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈhyüm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inhume01.mp3"
+      }
+    ]
+  },
+  "inimical": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈni-mi-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inimic01.mp3"
+      }
+    ]
+  },
+  "iniquity": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈni-kwə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/iniqui02.mp3"
+      }
+    ]
+  },
+  "initiate": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈni-shē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/initia08.mp3"
+      }
+    ]
+  },
+  "inject": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈjekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inject01.mp3"
+      }
+    ]
+  },
+  "injunction": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈjəŋ(k)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/injunc01.mp3"
+      }
+    ]
+  },
+  "inkling": {
+    "pronunciations": [
+      {
+        "syllables": "ˈiŋ-kliŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inklin01.mp3"
+      }
+    ]
+  },
+  "inland": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌland",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inland01.mp3"
+      }
+    ]
+  },
+  "inlet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌlet",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inlet001.mp3"
+      }
+    ]
+  },
+  "inmost": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌmōst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inmost01.mp3"
+      }
+    ]
+  },
+  "innocuous": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnä-kyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/innocu01.mp3"
+      }
+    ]
+  },
+  "innovate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-nə-ˌvāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/innova01.mp3"
+      }
+    ]
+  },
+  "innuendo": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-yə-ˈwen-(ˌ)dō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/innuen01.mp3"
+      }
+    ]
+  },
+  "innumerable": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnü-mə-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/innume01.mp3"
+      }
+    ]
+  },
+  "inoffensive": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-ə-ˈfen(t)-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inoffe01.mp3"
+      }
+    ]
+  },
+  "inopportune": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˌä-pər-ˈtün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inoppo01.mp3"
+      }
+    ]
+  },
+  "inquire": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈkwī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inquir01.mp3"
+      }
+    ]
+  },
+  "inquisition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-kwə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inquis01.mp3"
+      }
+    ]
+  },
+  "inquisitive": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈkwi-zə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inquis03.mp3"
+      }
+    ]
+  },
+  "inquisitor": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈkwi-zə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inquis04.mp3"
+      }
+    ]
+  },
+  "inroad": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌrōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inroad01.mp3"
+      }
+    ]
+  },
+  "insatiable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈsā-shə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insati01.mp3"
+      }
+    ]
+  },
+  "inscribe": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈskrīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inscri01.mp3"
+      }
+    ]
+  },
+  "inscrutable": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈskrü-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inscru01.mp3"
+      }
+    ]
+  },
+  "insecure": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-si-ˈkyu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insecu01.mp3"
+      }
+    ]
+  },
+  "insensible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈsen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insens02.mp3"
+      }
+    ]
+  },
+  "insentient": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈsen(t)-sh(ē-)ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insent01.mp3"
+      }
+    ]
+  },
+  "inseparable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈse-p(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insepa01.mp3"
+      }
+    ]
+  },
+  "insidious": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-dē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insidi01.mp3"
+      }
+    ]
+  },
+  "insight": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌsīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insigh01.mp3"
+      }
+    ]
+  },
+  "insignificance": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sig-ˈni-fi-kən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insign03.mp3"
+      }
+    ]
+  },
+  "insignificant": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sig-ˈni-fi-kənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insign05.mp3"
+      }
+    ]
+  },
+  "insinuate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsin-yə-ˌwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insinu01.mp3"
+      }
+    ]
+  },
+  "insipid": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-pəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insipi01.mp3"
+      }
+    ]
+  },
+  "insistence": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-stən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insist02.mp3"
+      }
+    ]
+  },
+  "insistent": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsi-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insist04.mp3"
+      }
+    ]
+  },
+  "insolence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-s(ə-)lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insole02.mp3"
+      }
+    ]
+  },
+  "insolent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-s(ə-)lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insole03.mp3"
+      }
+    ]
+  },
+  "insomnia": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsäm-nē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insomn01.mp3"
+      }
+    ]
+  },
+  "inspector": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈspek-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inspec04.mp3"
+      }
+    ]
+  },
+  "instance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-stən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/instan01.mp3"
+      }
+    ]
+  },
+  "instant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/instan04.mp3"
+      }
+    ]
+  },
+  "instantaneous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-stən-ˈtā-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/instan05.mp3"
+      }
+    ]
+  },
+  "instigate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-stə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/instig01.mp3"
+      }
+    ]
+  },
+  "instill": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈstil",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/instil01.mp3"
+      }
+    ]
+  },
+  "instructive": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈstrək-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/instru04.mp3"
+      }
+    ]
+  },
+  "insufficiency": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sə-ˈfi-shən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insuff03.mp3"
+      }
+    ]
+  },
+  "insufficient": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sə-ˈfi-shənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insuff04.mp3"
+      }
+    ]
+  },
+  "insular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-su̇-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insula02.mp3"
+      }
+    ]
+  },
+  "insulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin(t)-sə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insula06.mp3"
+      }
+    ]
+  },
+  "insuperable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈsü-p(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insupe01.mp3"
+      }
+    ]
+  },
+  "insuppressible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sə-ˈpre-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insupp03.mp3"
+      }
+    ]
+  },
+  "insurgence": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsər-jən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insurg01.mp3"
+      }
+    ]
+  },
+  "insurgent": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈsər-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insurg03.mp3"
+      }
+    ]
+  },
+  "insurrection": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin(t)-sə-ˈrek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/insurr01.mp3"
+      }
+    ]
+  },
+  "intangible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈtan-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intang01.mp3"
+      }
+    ]
+  },
+  "integrity": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈte-grə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/integr13.mp3"
+      }
+    ]
+  },
+  "intellect": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tə-ˌlekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intell01.mp3"
+      }
+    ]
+  },
+  "intellectual": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tə-ˈlek-chə-wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intell04.mp3"
+      }
+    ]
+  },
+  "intelligence": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈte-lə-jən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intell14.mp3"
+      }
+    ]
+  },
+  "intelligible": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈte-lə-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intell21.mp3"
+      }
+    ]
+  },
+  "intemperance": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈtem-p(ə-)rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intemp01.mp3"
+      }
+    ]
+  },
+  "intension": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈten(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intens05.mp3"
+      }
+    ]
+  },
+  "intensive": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈten(t)-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intens10.mp3"
+      }
+    ]
+  },
+  "intention": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈten(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intent02.mp3"
+      }
+    ]
+  },
+  "interact": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intera01.mp3"
+      }
+    ]
+  },
+  "intercede": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interc04.mp3"
+      }
+    ]
+  },
+  "intercept": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈsept",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interc06.mp3"
+      }
+    ]
+  },
+  "intercession": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈse-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interc10.mp3"
+      }
+    ]
+  },
+  "interdict": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tər-ˌdikt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interd03.mp3"
+      }
+    ]
+  },
+  "interim": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tə-rəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interi01.mp3"
+      }
+    ]
+  },
+  "interlocutor": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈlä-kyə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interl16.mp3"
+      }
+    ]
+  },
+  "interlude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tər-ˌlüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interl20.mp3"
+      }
+    ]
+  },
+  "intermediate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈmē-dē-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interm07.mp3"
+      }
+    ]
+  },
+  "interminable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈtər-mə-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interm17.mp3"
+      }
+    ]
+  },
+  "intermission": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interm20.mp3"
+      }
+    ]
+  },
+  "intermit": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈmit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interm21.mp3"
+      }
+    ]
+  },
+  "intermittent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈmi-tᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interm24.mp3"
+      }
+    ]
+  },
+  "interpolation": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˌtər-pə-ˈlā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interp14.mp3"
+      }
+    ]
+  },
+  "interpose": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈpōz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interp17.mp3"
+      }
+    ]
+  },
+  "interposition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-pə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interp18.mp3"
+      }
+    ]
+  },
+  "interpreter": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtər-prə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interp26.mp3"
+      }
+    ]
+  },
+  "interrogate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈter-ə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interr10.mp3"
+      }
+    ]
+  },
+  "interrogative": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tə-ˈrä-gə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interr14.mp3"
+      }
+    ]
+  },
+  "interrogatory": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tə-ˈrä-gə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interr16.mp3"
+      }
+    ]
+  },
+  "interrupt": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tə-ˈrəpt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interr18.mp3"
+      }
+    ]
+  },
+  "intersect": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈsekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inters03.mp3"
+      }
+    ]
+  },
+  "intervale": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tər-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interv03.mp3"
+      }
+    ]
+  },
+  "intervene": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tər-ˈvēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/interv05.mp3"
+      }
+    ]
+  },
+  "intestacy": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈte-stə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intest01.mp3"
+      }
+    ]
+  },
+  "intestate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈte-ˌstāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intest02.mp3"
+      }
+    ]
+  },
+  "intestine": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈte-stən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intest04.mp3"
+      }
+    ]
+  },
+  "intimacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tə-mə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intima04.mp3"
+      }
+    ]
+  },
+  "intimidate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈti-mə-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intimi01.mp3"
+      }
+    ]
+  },
+  "intolerable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈtä-lə-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intole01.mp3"
+      }
+    ]
+  },
+  "intolerance": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈtä-lə-rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intole05.mp3"
+      }
+    ]
+  },
+  "intolerant": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈtä-lə-rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intole06.mp3"
+      }
+    ]
+  },
+  "intoxicant": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtäk-si-kənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intoxi01.mp3"
+      }
+    ]
+  },
+  "intoxicate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtäk-sə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intoxi03.mp3"
+      }
+    ]
+  },
+  "intracellular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-trə-ˈsel-yə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intrac04.mp3"
+      }
+    ]
+  },
+  "intramural": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-trə-ˈmyu̇r-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intram02.mp3"
+      }
+    ]
+  },
+  "intrepid": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtre-pəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intrep01.mp3"
+      }
+    ]
+  },
+  "intricacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tri-kə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intric01.mp3"
+      }
+    ]
+  },
+  "intricate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-tri-kət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intric02.mp3"
+      }
+    ]
+  },
+  "intrigue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-ˌtrēg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intrig03.mp3"
+      }
+    ]
+  },
+  "intrinsic": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtrin-zik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intrin01.mp3"
+      }
+    ]
+  },
+  "introductory": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-trə-ˈdək-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/introd03.mp3"
+      }
+    ]
+  },
+  "introgression": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-trə-ˈgre-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/introg01.mp3"
+      }
+    ]
+  },
+  "intromit": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-trə-ˈmit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/introm02.mp3"
+      }
+    ]
+  },
+  "introspection": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-trə-ˈspek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intros01.mp3"
+      }
+    ]
+  },
+  "introversion": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-trə-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/introv01.mp3"
+      }
+    ]
+  },
+  "introvert": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-trə-ˌvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/introv03.mp3"
+      }
+    ]
+  },
+  "intrude": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtrüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intrud01.mp3"
+      }
+    ]
+  },
+  "intrusion": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈtrü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intrus01.mp3"
+      }
+    ]
+  },
+  "intuition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-tü-ˈi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/intuit03.mp3"
+      }
+    ]
+  },
+  "inundate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈi-(ˌ)nən-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inunda01.mp3"
+      }
+    ]
+  },
+  "inure": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈnu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inure001.mp3"
+      }
+    ]
+  },
+  "invalid": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈva-ləd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invali01.mp3"
+      }
+    ]
+  },
+  "invalidate": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈva-lə-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invali05.mp3"
+      }
+    ]
+  },
+  "invaluable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈval-yə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invalu01.mp3"
+      }
+    ]
+  },
+  "invariable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈver-ē-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invari01.mp3"
+      }
+    ]
+  },
+  "invasion": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvā-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invasi01.mp3"
+      }
+    ]
+  },
+  "invective": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvek-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invect01.mp3"
+      }
+    ]
+  },
+  "inveigh": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inveig01.mp3"
+      }
+    ]
+  },
+  "inventive": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈven-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invent05.mp3"
+      }
+    ]
+  },
+  "inverse": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈvərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invers01.mp3"
+      }
+    ]
+  },
+  "inversion": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invers03.mp3"
+      }
+    ]
+  },
+  "invert": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invert01.mp3"
+      }
+    ]
+  },
+  "investigator": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈve-stə-ˌgā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invest08.mp3"
+      }
+    ]
+  },
+  "inveterate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈve-t(ə-)rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invete02.mp3"
+      }
+    ]
+  },
+  "invidious": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvi-dē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invidi01.mp3"
+      }
+    ]
+  },
+  "invigorate": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvi-gə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invigo01.mp3"
+      }
+    ]
+  },
+  "invincible": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈvin(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invinc01.mp3"
+      }
+    ]
+  },
+  "inviolable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈvī-ə-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inviol01.mp3"
+      }
+    ]
+  },
+  "invoke": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvōk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invoke01.mp3"
+      }
+    ]
+  },
+  "involuntary": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈvä-lən-ˌter-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/involu06.mp3"
+      }
+    ]
+  },
+  "involution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌin-və-ˈlü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/involu11.mp3"
+      }
+    ]
+  },
+  "involve": {
+    "pronunciations": [
+      {
+        "syllables": "in-ˈvälv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/involv01.mp3"
+      }
+    ]
+  },
+  "invulnerable": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)in-ˈvəl-n(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/invuln01.mp3"
+      }
+    ]
+  },
+  "inwardly": {
+    "pronunciations": [
+      {
+        "syllables": "ˈin-wərd-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/inward03.mp3"
+      }
+    ]
+  },
+  "iota": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈō-tə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/iota0001.mp3"
+      }
+    ]
+  },
+  "irascible": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈra-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irasci01.mp3"
+      }
+    ]
+  },
+  "irate": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irate001.mp3"
+      }
+    ]
+  },
+  "ire": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/ire00001.mp3"
+      }
+    ]
+  },
+  "iridescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-ə-ˈde-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irides01.mp3"
+      }
+    ]
+  },
+  "iridescent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-ə-ˈde-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irides02.mp3"
+      }
+    ]
+  },
+  "irk": {
+    "pronunciations": [
+      {
+        "syllables": "ˈərk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irk00001.mp3"
+      }
+    ]
+  },
+  "irksome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈərk-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irksom01.mp3"
+      }
+    ]
+  },
+  "irony": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī-rə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irony002.mp3"
+      }
+    ]
+  },
+  "irradiance": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈrā-dē-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irradi01.mp3"
+      }
+    ]
+  },
+  "irradiate": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈrā-dē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irradi02.mp3"
+      }
+    ]
+  },
+  "irrational": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈra-sh(ə-)nəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrati01.mp3"
+      }
+    ]
+  },
+  "irreducible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-i-ˈdü-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irredu01.mp3"
+      }
+    ]
+  },
+  "irrefragable": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈre-frə-gə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrefr01.mp3"
+      }
+    ]
+  },
+  "irrelevant": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈre-lə-vənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrele03.mp3"
+      }
+    ]
+  },
+  "irreligious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-i-ˈli-jəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irreli03.mp3"
+      }
+    ]
+  },
+  "irreparable": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈre-p(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrepa02.mp3"
+      }
+    ]
+  },
+  "irrepressible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-i-ˈpre-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrepr01.mp3"
+      }
+    ]
+  },
+  "irresistible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-i-ˈzi-stə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irresi01.mp3"
+      }
+    ]
+  },
+  "irresponsible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-i-ˈspän(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irresp02.mp3"
+      }
+    ]
+  },
+  "irreverence": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈre-v(ə-)rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irreve01.mp3"
+      }
+    ]
+  },
+  "irreverent": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈre-v(ə-)rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irreve02.mp3"
+      }
+    ]
+  },
+  "irreversible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌir-i-ˈvər-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irreve03.mp3"
+      }
+    ]
+  },
+  "irrigate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈir-ə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irriga01.mp3"
+      }
+    ]
+  },
+  "irritable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈir-ə-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrita02.mp3"
+      }
+    ]
+  },
+  "irritant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈir-ə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrita04.mp3"
+      }
+    ]
+  },
+  "irritate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈir-ə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrita05.mp3"
+      }
+    ]
+  },
+  "irruption": {
+    "pronunciations": [
+      {
+        "syllables": "i-ˈrəp-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/irrupt02.mp3"
+      }
+    ]
+  },
+  "isle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/isle0001.mp3"
+      }
+    ]
+  },
+  "islet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/islet001.mp3"
+      }
+    ]
+  },
+  "isobar": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī-sə-ˌbär",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/isobar01.mp3"
+      }
+    ]
+  },
+  "isochronous": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈsä-krə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/isochr08.mp3"
+      }
+    ]
+  },
+  "isolate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈī-sə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/isolat01.mp3"
+      }
+    ]
+  },
+  "isothermal": {
+    "pronunciations": [
+      {
+        "syllables": "ˌī-sə-ˈthər-məl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/isothe02.mp3"
+      }
+    ]
+  },
+  "itinerant": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈti-nə-rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/itiner02.mp3"
+      }
+    ]
+  },
+  "itinerary": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈti-nə-ˌrer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/itiner03.mp3"
+      }
+    ]
+  },
+  "itinerate": {
+    "pronunciations": [
+      {
+        "syllables": "ī-ˈti-nə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/i/itiner04.mp3"
+      }
+    ]
+  }
+}

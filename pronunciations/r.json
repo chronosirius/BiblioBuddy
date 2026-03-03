@@ -1,1 +1,2034 @@
-{}
+{
+  "rabid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-bəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rabid001.mp3"
+      }
+    ]
+  },
+  "racy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrā-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/racy0001.mp3"
+      }
+    ]
+  },
+  "radiance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrā-dē-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/radian02.mp3"
+      }
+    ]
+  },
+  "radiate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrā-dē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/radiat01.mp3"
+      }
+    ]
+  },
+  "radical": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-di-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/radica01.mp3"
+      }
+    ]
+  },
+  "radix": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrā-diks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/radix001.mp3"
+      }
+    ]
+  },
+  "raillery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrā-lə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/raille01.mp3"
+      }
+    ]
+  },
+  "ramify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-mə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ramify01.mp3"
+      }
+    ]
+  },
+  "ramose": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrā-ˌmōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ramose01.mp3"
+      }
+    ]
+  },
+  "rampant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈram-pənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rampan02.mp3"
+      }
+    ]
+  },
+  "rampart": {
+    "pronunciations": [
+      {
+        "syllables": "ˈram-ˌpärt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rampar01.mp3"
+      }
+    ]
+  },
+  "rancor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈraŋ-kər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rancor01.mp3"
+      }
+    ]
+  },
+  "rankle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈraŋ-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rankle01.mp3"
+      }
+    ]
+  },
+  "rapacious": {
+    "pronunciations": [
+      {
+        "syllables": "rə-ˈpā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rapaci01.mp3"
+      }
+    ]
+  },
+  "rapid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-pəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rapid001.mp3"
+      }
+    ]
+  },
+  "rapine": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-pən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rapine.mp3"
+      }
+    ]
+  },
+  "rapt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrapt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rapt0001.mp3"
+      }
+    ]
+  },
+  "raptorial": {
+    "pronunciations": [
+      {
+        "syllables": "rap-ˈtȯr-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/raptor02.mp3"
+      }
+    ]
+  },
+  "ration": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ration02.mp3"
+      }
+    ]
+  },
+  "rationalism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-shə-nə-ˌli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ration06.mp3"
+      }
+    ]
+  },
+  "raucous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrȯ-kəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/raucou01.mp3"
+      }
+    ]
+  },
+  "ravage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-vij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ravage01.mp3"
+      }
+    ]
+  },
+  "ravenous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈra-və-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/raveno01.mp3"
+      }
+    ]
+  },
+  "ravine": {
+    "pronunciations": [
+      {
+        "syllables": "rə-ˈvēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ravine01.mp3"
+      }
+    ]
+  },
+  "reaction": {
+    "pronunciations": [
+      {
+        "syllables": "rē-ˈak-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reacti01.mp3"
+      }
+    ]
+  },
+  "reactionary": {
+    "pronunciations": [
+      {
+        "syllables": "rē-ˈak-shə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reacti02.mp3"
+      }
+    ]
+  },
+  "readily": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-də-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/readil01.mp3"
+      }
+    ]
+  },
+  "readjust": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-ə-ˈjəst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/readj01m.mp3"
+      }
+    ]
+  },
+  "ready": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ready001.mp3"
+      }
+    ]
+  },
+  "realism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrē-ə-ˌli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/realis01.mp3"
+      }
+    ]
+  },
+  "rearrange": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-ə-ˈrānj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rearr1s3.mp3"
+      }
+    ]
+  },
+  "reassure": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-ə-ˈshu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reassu02.mp3"
+      }
+    ]
+  },
+  "rebellious": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈbel-yəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rebell02.mp3"
+      }
+    ]
+  },
+  "rebuff": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈbəf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rebuff01.mp3"
+      }
+    ]
+  },
+  "rebuild": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-ˈbild",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rebuil01.mp3"
+      }
+    ]
+  },
+  "rebut": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈbət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rebut001.mp3"
+      }
+    ]
+  },
+  "recant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkant",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recant01.mp3"
+      }
+    ]
+  },
+  "recapitulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-kə-ˈpi-chə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recapi03.mp3"
+      }
+    ]
+  },
+  "recapture": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-ˈkap-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recapt01.mp3"
+      }
+    ]
+  },
+  "recede": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recede01.mp3"
+      }
+    ]
+  },
+  "receivable": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsē-və-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/receiv01.mp3"
+      }
+    ]
+  },
+  "receptive": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsep-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recept04.mp3"
+      }
+    ]
+  },
+  "recessive": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈse-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recess06.mp3"
+      }
+    ]
+  },
+  "recidivist": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsi-də-vist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recidi02.mp3"
+      }
+    ]
+  },
+  "reciprocal": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsi-prə-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recipr01.mp3"
+      }
+    ]
+  },
+  "reciprocate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsi-prə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recipr03.mp3"
+      }
+    ]
+  },
+  "reciprocity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-sə-ˈprä-s(ə-)tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recipr07.mp3"
+      }
+    ]
+  },
+  "recitation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-sə-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recita03.mp3"
+      }
+    ]
+  },
+  "reck": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrek",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reck0001.mp3"
+      }
+    ]
+  },
+  "reckless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-kləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reckle01.mp3"
+      }
+    ]
+  },
+  "reclaim": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈklām",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reclai01.mp3"
+      }
+    ]
+  },
+  "recline": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈklīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reclin01.mp3"
+      }
+    ]
+  },
+  "recluse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-ˌklüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reclus01.mp3"
+      }
+    ]
+  },
+  "recognizance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkäg-nə-zən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recogn02.mp3"
+      }
+    ]
+  },
+  "recognize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-kig-ˌnīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recogn03.mp3"
+      }
+    ]
+  },
+  "recoil": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkȯi(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recoil01.mp3"
+      }
+    ]
+  },
+  "recollect": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-kə-ˈlekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recoll01.mp3"
+      }
+    ]
+  },
+  "reconnoiter": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-kə-ˈnȯi-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reconn02.mp3"
+      }
+    ]
+  },
+  "reconsider": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-kən-ˈsi-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recons01.mp3"
+      }
+    ]
+  },
+  "reconstruct": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-kən-ˈstrəkt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recons05.mp3"
+      }
+    ]
+  },
+  "recourse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrē-ˌkȯrs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recour01.mp3"
+      }
+    ]
+  },
+  "recover": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkə-vər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recove01.mp3"
+      }
+    ]
+  },
+  "recreant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-krē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recrea01.mp3"
+      }
+    ]
+  },
+  "recreate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-krē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recrea02.mp3"
+      }
+    ]
+  },
+  "recrudescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-krü-ˈde-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recrud02.mp3"
+      }
+    ]
+  },
+  "recrudescent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-krü-ˈde-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recrud03.mp3"
+      }
+    ]
+  },
+  "recruit": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkrüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recrui01.mp3"
+      }
+    ]
+  },
+  "rectify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrek-tə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rectif04.mp3"
+      }
+    ]
+  },
+  "rectitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrek-tə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rectit01.mp3"
+      }
+    ]
+  },
+  "recuperate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkü-pə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recupe01.mp3"
+      }
+    ]
+  },
+  "recur": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recur001.mp3"
+      }
+    ]
+  },
+  "recurrent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkər-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/recurr01.mp3"
+      }
+    ]
+  },
+  "redemption": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈdem(p)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redemp01.mp3"
+      }
+    ]
+  },
+  "redolence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-də-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redole01.mp3"
+      }
+    ]
+  },
+  "redolent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-də-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redole02.mp3"
+      }
+    ]
+  },
+  "redoubtable": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈdau̇-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redoub03.mp3"
+      }
+    ]
+  },
+  "redound": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈdau̇nd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redoun01.mp3"
+      }
+    ]
+  },
+  "redress": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈdres",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redres01.mp3"
+      }
+    ]
+  },
+  "redundant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈdən-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/redund02.mp3"
+      }
+    ]
+  },
+  "reestablish": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-i-ˈsta-blish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reest01ld.mp3"
+      }
+    ]
+  },
+  "refer": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refer001.mp3"
+      }
+    ]
+  },
+  "referee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-fə-ˈrē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refere01.mp3"
+      }
+    ]
+  },
+  "refinery": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfī-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refine04.mp3"
+      }
+    ]
+  },
+  "reflection": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈflek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reflec03.mp3"
+      }
+    ]
+  },
+  "reflector": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈflek-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reflec08.mp3"
+      }
+    ]
+  },
+  "reform": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfȯrm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reform01.mp3"
+      }
+    ]
+  },
+  "reformer": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfȯr-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reform10.mp3"
+      }
+    ]
+  },
+  "refract": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfrakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refrac01.mp3"
+      }
+    ]
+  },
+  "refractory": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfrak-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refrac10.mp3"
+      }
+    ]
+  },
+  "refusal": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfyü-zəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refusa01.mp3"
+      }
+    ]
+  },
+  "refute": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈfyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/refute01.mp3"
+      }
+    ]
+  },
+  "regale": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈgāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regale01.mp3"
+      }
+    ]
+  },
+  "regalia": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈgāl-yə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regali01.mp3"
+      }
+    ]
+  },
+  "regenerate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈje-nə-rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regene02.mp3"
+      }
+    ]
+  },
+  "regent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrē-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regent01.mp3"
+      }
+    ]
+  },
+  "regicide": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-jə-ˌsīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regici01.mp3"
+      }
+    ]
+  },
+  "regime": {
+    "pronunciations": [
+      {
+        "syllables": "rā-ˈzhēm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regime01.mp3"
+      }
+    ]
+  },
+  "regimen": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-jə-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regime02.mp3"
+      }
+    ]
+  },
+  "regiment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-jə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regime03.mp3"
+      }
+    ]
+  },
+  "regnant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈreg-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regnan01.mp3"
+      }
+    ]
+  },
+  "regress": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrē-ˌgres",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regres01.mp3"
+      }
+    ]
+  },
+  "regretful": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈgret-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/regret02.mp3"
+      }
+    ]
+  },
+  "rehabilitate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-ə-ˈbi-lə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rehabi02.mp3"
+      }
+    ]
+  },
+  "reign": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reign001.mp3"
+      }
+    ]
+  },
+  "reimburse": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-əm-ˈbərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reimbu01.mp3"
+      }
+    ]
+  },
+  "rein": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rein0001.mp3"
+      }
+    ]
+  },
+  "reinstate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-ən-ˈstāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reinst01.mp3"
+      }
+    ]
+  },
+  "reiterate": {
+    "pronunciations": [
+      {
+        "syllables": "rē-ˈi-tə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reiter01.mp3"
+      }
+    ]
+  },
+  "rejoin": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈjȯin",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rejoin01.mp3"
+      }
+    ]
+  },
+  "rejuvenate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈjü-və-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rejuve01.mp3"
+      }
+    ]
+  },
+  "rejuvenescence": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˌjü-və-ˈne-sən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rejuve04.mp3"
+      }
+    ]
+  },
+  "relapse": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈlaps",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relaps02.mp3"
+      }
+    ]
+  },
+  "relegate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-lə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relega01.mp3"
+      }
+    ]
+  },
+  "relent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈlent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relent01.mp3"
+      }
+    ]
+  },
+  "relevant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-lə-vənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/releva03.mp3"
+      }
+    ]
+  },
+  "reliance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈlī-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relian01.mp3"
+      }
+    ]
+  },
+  "reliant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈlī-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relian02.mp3"
+      }
+    ]
+  },
+  "relinquish": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈliŋ-kwish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relinq01.mp3"
+      }
+    ]
+  },
+  "reliquary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-lə-ˌkwer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reliqu01.mp3"
+      }
+    ]
+  },
+  "relish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-lish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/relish01.mp3"
+      }
+    ]
+  },
+  "reluctance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈlək-tən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reluct02.mp3"
+      }
+    ]
+  },
+  "reluctant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈlək-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reluct04.mp3"
+      }
+    ]
+  },
+  "remembrance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈmem-brən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rememb06.mp3"
+      }
+    ]
+  },
+  "reminiscence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-mə-ˈni-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remini03.mp3"
+      }
+    ]
+  },
+  "reminiscent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-mə-ˈni-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remini04.mp3"
+      }
+    ]
+  },
+  "remiss": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈmis",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remiss01.mp3"
+      }
+    ]
+  },
+  "remission": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remiss04.mp3"
+      }
+    ]
+  },
+  "remodel": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-ˈmä-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remode01.mp3"
+      }
+    ]
+  },
+  "remonstrance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈmän(t)-strən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remons01.mp3"
+      }
+    ]
+  },
+  "remonstrant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈmän(t)-strənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remons02.mp3"
+      }
+    ]
+  },
+  "remonstrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-mən-ˌstrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remons03.mp3"
+      }
+    ]
+  },
+  "remunerate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈmyü-nə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remune01.mp3"
+      }
+    ]
+  },
+  "remuneration": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˌmyü-nə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/remune04.mp3"
+      }
+    ]
+  },
+  "renaissance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-nə-ˌsän(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/renai01ld.mp3"
+      }
+    ]
+  },
+  "rendezvous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrän-di-ˌvü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rendez01.mp3"
+      }
+    ]
+  },
+  "rendition": {
+    "pronunciations": [
+      {
+        "syllables": "ren-ˈdi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rendit01.mp3"
+      }
+    ]
+  },
+  "renovate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-nə-ˌvāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/renova02.mp3"
+      }
+    ]
+  },
+  "renunciation": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˌnən(t)-sē-ˈā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/renunc01.mp3"
+      }
+    ]
+  },
+  "reorganize": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-ˈȯr-gə-ˌnīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reorga03.mp3"
+      }
+    ]
+  },
+  "reparable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-p(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repara01.mp3"
+      }
+    ]
+  },
+  "reparation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-pə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repara02.mp3"
+      }
+    ]
+  },
+  "repartee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-pər-ˈtē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repart02.mp3"
+      }
+    ]
+  },
+  "repeal": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpēl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repeal01.mp3"
+      }
+    ]
+  },
+  "repel": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repel001.mp3"
+      }
+    ]
+  },
+  "repellent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpe-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repell02.mp3"
+      }
+    ]
+  },
+  "repentance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpen-tᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repent03.mp3"
+      }
+    ]
+  },
+  "repertory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-pər-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repert02.mp3"
+      }
+    ]
+  },
+  "repetition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-pə-ˈti-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repeti01.mp3"
+      }
+    ]
+  },
+  "repine": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repine01.mp3"
+      }
+    ]
+  },
+  "replenish": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈple-nish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/replen01.mp3"
+      }
+    ]
+  },
+  "replete": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈplēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/replet01.mp3"
+      }
+    ]
+  },
+  "replica": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-pli-kə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/replic01.mp3"
+      }
+    ]
+  },
+  "repository": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpä-zə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reposi06.mp3"
+      }
+    ]
+  },
+  "reprehend": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-pri-ˈhend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repreh01.mp3"
+      }
+    ]
+  },
+  "reprehensible": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-pri-ˈhen(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repreh02.mp3"
+      }
+    ]
+  },
+  "reprehension": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-pri-ˈhen(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repreh06.mp3"
+      }
+    ]
+  },
+  "repress": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpres",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repres11.mp3"
+      }
+    ]
+  },
+  "reprieve": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈprēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reprie02.mp3"
+      }
+    ]
+  },
+  "reprimand": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-prə-ˌmand",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reprim01.mp3"
+      }
+    ]
+  },
+  "reprisal": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈprī-zəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repris01.mp3"
+      }
+    ]
+  },
+  "reprobate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-prə-ˌbāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reprob02.mp3"
+      }
+    ]
+  },
+  "reproduce": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-prə-ˈdüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reprod01.mp3"
+      }
+    ]
+  },
+  "reproduction": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-prə-ˈdək-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reprod05.mp3"
+      }
+    ]
+  },
+  "reproof": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈprüf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reproo01.mp3"
+      }
+    ]
+  },
+  "repudiate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpyü-dē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repudi01.mp3"
+      }
+    ]
+  },
+  "repugnance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpəg-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repugn02.mp3"
+      }
+    ]
+  },
+  "repugnant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpəg-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repugn04.mp3"
+      }
+    ]
+  },
+  "repulse": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpəls",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repuls01.mp3"
+      }
+    ]
+  },
+  "repulsive": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpəl-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repuls03.mp3"
+      }
+    ]
+  },
+  "repute": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈpyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/repute01.mp3"
+      }
+    ]
+  },
+  "requiem": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-kwē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/requie01.mp3"
+      }
+    ]
+  },
+  "requisite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-kwə-zət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/requis01.mp3"
+      }
+    ]
+  },
+  "requital": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkwī-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/requit01.mp3"
+      }
+    ]
+  },
+  "requite": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈkwīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/requit02.mp3"
+      }
+    ]
+  },
+  "rescind": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsind",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rescin01.mp3"
+      }
+    ]
+  },
+  "reseat": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-ˈsēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reseat_1.mp3"
+      }
+    ]
+  },
+  "resemblance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzem-blən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resemb01.mp3"
+      }
+    ]
+  },
+  "resent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resent01.mp3"
+      }
+    ]
+  },
+  "reservoir": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-zə-ˌvwär",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reserv09.mp3"
+      }
+    ]
+  },
+  "residue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-zə-ˌdü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/residu03.mp3"
+      }
+    ]
+  },
+  "resilience": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzil-yən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resili01.mp3"
+      }
+    ]
+  },
+  "resilient": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzil-yənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resili03.mp3"
+      }
+    ]
+  },
+  "resistance": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzi-stən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resist02.mp3"
+      }
+    ]
+  },
+  "resistant": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzi-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resist03.mp3"
+      }
+    ]
+  },
+  "resistive": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzi-stiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resist07.mp3"
+      }
+    ]
+  },
+  "resistless": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzist-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resist09.mp3"
+      }
+    ]
+  },
+  "resonance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-zə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resona01.mp3"
+      }
+    ]
+  },
+  "resonate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-zə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resona03.mp3"
+      }
+    ]
+  },
+  "resource": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrē-ˌsȯrs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resour01.mp3"
+      }
+    ]
+  },
+  "respite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-spət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/respit01.mp3"
+      }
+    ]
+  },
+  "resplendent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsplen-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resple03.mp3"
+      }
+    ]
+  },
+  "respondent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈspän-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/respon03.mp3"
+      }
+    ]
+  },
+  "restitution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-stə-ˈtü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/restit02.mp3"
+      }
+    ]
+  },
+  "resumption": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈzəm(p)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resump01.mp3"
+      }
+    ]
+  },
+  "resurgent": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsər-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resurg03.mp3"
+      }
+    ]
+  },
+  "resurrection": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-zə-ˈrek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resurr02.mp3"
+      }
+    ]
+  },
+  "resuscitate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈsə-sə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/resusc01.mp3"
+      }
+    ]
+  },
+  "retaliate": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈta-lē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retali01.mp3"
+      }
+    ]
+  },
+  "retch": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrech",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retch001.mp3"
+      }
+    ]
+  },
+  "retention": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈten(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retent01.mp3"
+      }
+    ]
+  },
+  "reticence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-tə-sən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retice01.mp3"
+      }
+    ]
+  },
+  "reticent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-tə-sənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retice03.mp3"
+      }
+    ]
+  },
+  "retinue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-tə-ˌnü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retinu01.mp3"
+      }
+    ]
+  },
+  "retort": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈtȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retort01.mp3"
+      }
+    ]
+  },
+  "retouch": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-ˈtəch",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retouc01.mp3"
+      }
+    ]
+  },
+  "retrace": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)rē-ˈtrās",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retra01ld.mp3"
+      }
+    ]
+  },
+  "retract": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈtrakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retrac01.mp3"
+      }
+    ]
+  },
+  "retrench": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈtrench",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retren01.mp3"
+      }
+    ]
+  },
+  "retrieve": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈtrēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retrie02.mp3"
+      }
+    ]
+  },
+  "retroactive": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-trō-ˈak-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retroa02.mp3"
+      }
+    ]
+  },
+  "retrograde": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-trə-ˌgrād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retrog02.mp3"
+      }
+    ]
+  },
+  "retrogression": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-trə-ˈgre-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retrog04.mp3"
+      }
+    ]
+  },
+  "retrospect": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-trə-ˌspekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retros01.mp3"
+      }
+    ]
+  },
+  "retrospective": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-trə-ˈspek-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/retros03.mp3"
+      }
+    ]
+  },
+  "reunite": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrē-yu̇-ˈnīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/reunit01.mp3"
+      }
+    ]
+  },
+  "revelation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-və-ˈlā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revela01.mp3"
+      }
+    ]
+  },
+  "revere": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈvir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revere01.mp3"
+      }
+    ]
+  },
+  "reverent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrev-rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revere04.mp3"
+      }
+    ]
+  },
+  "reversion": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revers08.mp3"
+      }
+    ]
+  },
+  "revert": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revert01.mp3"
+      }
+    ]
+  },
+  "revile": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈvī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revile01.mp3"
+      }
+    ]
+  },
+  "revisal": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈvī-zəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revisa01.mp3"
+      }
+    ]
+  },
+  "revise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrē-ˌvīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revise01.mp3"
+      }
+    ]
+  },
+  "revocation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-və-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revoca03.mp3"
+      }
+    ]
+  },
+  "revoke": {
+    "pronunciations": [
+      {
+        "syllables": "ri-ˈvōk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/revoke01.mp3"
+      }
+    ]
+  },
+  "rhapsody": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrap-sə-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rhapso07.mp3"
+      }
+    ]
+  },
+  "rhetoric": {
+    "pronunciations": [
+      {
+        "syllables": "ˈre-tə-rik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rhetor03.mp3"
+      }
+    ]
+  },
+  "rhetorician": {
+    "pronunciations": [
+      {
+        "syllables": "ˌre-tə-ˈri-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rhetor07.mp3"
+      }
+    ]
+  },
+  "ribald": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-bəld",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ribald01.mp3"
+      }
+    ]
+  },
+  "riddance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/riddan01.mp3"
+      }
+    ]
+  },
+  "ridicule": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-də-ˌkyül",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ridicu01.mp3"
+      }
+    ]
+  },
+  "ridiculous": {
+    "pronunciations": [
+      {
+        "syllables": "rə-ˈdi-kyə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ridicu02.mp3"
+      }
+    ]
+  },
+  "rife": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrīf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rife0001.mp3"
+      }
+    ]
+  },
+  "rightful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrīt-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rightf01.mp3"
+      }
+    ]
+  },
+  "rigmarole": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-gə-mə-ˌrōl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rigmar01.mp3"
+      }
+    ]
+  },
+  "rigor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-gər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rigor001.mp3"
+      }
+    ]
+  },
+  "rigorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-g(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rigoro01.mp3"
+      }
+    ]
+  },
+  "risible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/risibl01.mp3"
+      }
+    ]
+  },
+  "rivulet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈri-vyə-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rivule01.mp3"
+      }
+    ]
+  },
+  "robust": {
+    "pronunciations": [
+      {
+        "syllables": "rō-ˈbəst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/robust01.mp3"
+      }
+    ]
+  },
+  "rondo": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrän-(ˌ)dō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rondo001.mp3"
+      }
+    ]
+  },
+  "rookery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈru̇-kə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rooker01.mp3"
+      }
+    ]
+  },
+  "rotary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrō-tə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rotary01.mp3"
+      }
+    ]
+  },
+  "rotate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrō-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rotate01.mp3"
+      }
+    ]
+  },
+  "rote": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrōt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rote0001.mp3"
+      }
+    ]
+  },
+  "rotund": {
+    "pronunciations": [
+      {
+        "syllables": "rō-ˈtənd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rotund01.mp3"
+      }
+    ]
+  },
+  "rudimentary": {
+    "pronunciations": [
+      {
+        "syllables": "ˌrü-də-ˈmen-tə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rudime03.mp3"
+      }
+    ]
+  },
+  "rue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rue00001.mp3"
+      }
+    ]
+  },
+  "ruffian": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrə-fē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ruffia01.mp3"
+      }
+    ]
+  },
+  "ruminant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrü-mə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rumina01.mp3"
+      }
+    ]
+  },
+  "ruminate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrü-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rumina02.mp3"
+      }
+    ]
+  },
+  "rupture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrəp(t)-shər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ruptur01.mp3"
+      }
+    ]
+  },
+  "rustic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrə-stik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/rustic01.mp3"
+      }
+    ]
+  },
+  "ruth": {
+    "pronunciations": [
+      {
+        "syllables": "ˈrüth",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/r/ruth0001.mp3"
+      }
+    ]
+  }
+}

@@ -2,164 +2,382 @@
   "fabricate": {
     "def": [
       {
-        "definition": "To invent fancifully or falsely.",
+        "definition": "to make up for the purpose of deception",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fabricate",
+      "fabricated",
+      "fabricates",
+      "fabricating",
+      "fabricator",
+      "fabricators"
+    ]
   },
   "fabulous": {
     "def": [
       {
-        "definition": "Incredible.",
+        "definition": "resembling or suggesting a fable of an incredible, astonishing, or exaggerated nature",
+        "type": "adj."
+      },
+      {
+        "definition": "told in or based on fable",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fabulous",
+      "fabulously",
+      "fabulousness",
+      "fabulousnesses"
+    ]
   },
   "facet": {
     "def": [
       {
-        "definition": "One of the small triangular plane surfaces of a diamond or other gem.",
+        "definition": "a particular part or aspect (as of something being contemplated or considered)",
+        "type": "n."
+      },
+      {
+        "definition": "a small plane surface (as on a cut gem) {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "the external corneal surface of an",
+        "type": "n."
+      },
+      {
+        "definition": "a smooth flat circumscribed anatomical surface (as of a bone)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "facet",
+      "faceted",
+      "facets",
+      "facetted"
+    ]
   },
   "facetious": {
     "def": [
       {
-        "definition": "Amusing.",
+        "definition": "joking or sarcastic especially in a way regarded by others as silly, annoying, or inappropriate",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "facetious",
+      "facetiously",
+      "facetiousness",
+      "facetiousnesses"
+    ]
   },
   "facial": {
     "def": [
       {
-        "definition": "Pertaining to the face.",
+        "definition": "of or relating to the face",
         "type": "adj."
+      },
+      {
+        "definition": "concerned with or used in improving the appearance of the face",
+        "type": "adj."
+      },
+      {
+        "definition": "a treatment to improve the condition or appearance of the facial skin",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "facial",
+      "facially",
+      "facials"
+    ]
   },
   "facile": {
     "def": [
       {
-        "definition": "Not difficult to do.",
+        "definition": "used or comprehended with",
+        "type": "adj."
+      },
+      {
+        "definition": "readily  and often lacking sincerity or depth",
+        "type": "adj."
+      },
+      {
+        "definition": "mild or pleasing in manner or disposition",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "facile",
+      "facilely",
+      "facileness",
+      "facilenesses"
+    ]
   },
   "facilitate": {
     "def": [
       {
-        "definition": "To make more easy.",
+        "definition": "to help bring (something) about",
+        "type": "v."
+      },
+      {
+        "definition": "to help (something) run more smoothly and effectively",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "facilitate",
+      "facilitated",
+      "facilitates",
+      "facilitating",
+      "facilitative"
+    ]
   },
   "facility": {
     "def": [
       {
-        "definition": "Ease.",
+        "definition": "the quality of being easily performed",
+        "type": "n."
+      },
+      {
+        "definition": "ease in performance",
+        "type": "n."
+      },
+      {
+        "definition": "readiness of compliance",
+        "type": "n."
+      },
+      {
+        "definition": "something (such as a hospital) that is built, installed, or established to serve a particular purpose",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "facilities",
+      "facility"
+    ]
   },
   "facsimile": {
     "def": [
       {
-        "definition": "An exact copy or reproduction.",
+        "definition": "an exact copy",
+        "type": "n."
+      },
+      {
+        "definition": "a system of transmitting and reproducing graphic matter (such as printing or still pictures) by means of signals sent over telephone lines",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "facsimile",
+      "facsimiles"
+    ]
   },
   "faction": {
     "def": [
       {
-        "definition": "A number of persons combined for a common purpose.",
+        "definition": "a party or group (as within a government) that is often contentious or self-seeking",
+        "type": "n."
+      },
+      {
+        "definition": "party spirit especially when marked by dissension",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "faction",
+      "factional",
+      "factionalism",
+      "factionalisms",
+      "factionally",
+      "factions"
+    ]
   },
   "factious": {
     "def": [
       {
-        "definition": "Turbulent.",
+        "definition": "caused by faction",
+        "type": "adj."
+      },
+      {
+        "definition": "inclined to faction or the formation of factions",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "factious",
+      "factiously",
+      "factiousness",
+      "factiousnesses"
+    ]
   },
   "fallacious": {
     "def": [
       {
-        "definition": "Illogical.",
+        "definition": "embodying a",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to deceive or mislead",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fallacious",
+      "fallaciously",
+      "fallaciousness",
+      "fallaciousnesses"
+    ]
   },
   "fallacy": {
     "def": [
       {
-        "definition": "Any unsound or delusive mode of reasoning, or anything based on such reasoning.",
+        "definition": "a false or mistaken idea",
+        "type": "n."
+      },
+      {
+        "definition": "erroneous character",
+        "type": "n."
+      },
+      {
+        "definition": "deceptive appearance",
+        "type": "n."
+      },
+      {
+        "definition": "an often plausible argument using false or invalid inference",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fallacies",
+      "fallacy"
+    ]
   },
   "fallible": {
     "def": [
       {
-        "definition": "Capable of erring.",
+        "definition": "liable to be erroneous",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of making a mistake",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fallible",
+      "fallibly"
+    ]
   },
   "fallow": {
     "def": [
       {
-        "definition": "Land broken up and left to become mellow or to rest.",
+        "definition": "of a light yellowish-brown color",
+        "type": "adj."
+      },
+      {
+        "definition": "usually cultivated land that is allowed to lie idle during the growing season",
         "type": "n."
+      },
+      {
+        "definition": "plowed land",
+        "type": "n."
+      },
+      {
+        "definition": "the state or period of being fallow",
+        "type": "n."
+      },
+      {
+        "definition": "the tilling of land without sowing it for a season",
+        "type": "n."
+      },
+      {
+        "definition": "to plow, harrow, and break up (land) without seeding to destroy weeds and conserve soil moisture",
+        "type": "v."
+      },
+      {
+        "definition": "left untilled or unsown after plowing",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fallow",
+      "fallowness",
+      "fallownesses",
+      "fallows",
+      "fallowed",
+      "fallowing"
+    ]
   },
   "famish": {
     "def": [
       {
-        "definition": "To suffer extremity of hunger or thirst.",
+        "definition": "to cause to suffer severely from hunger",
+        "type": "v."
+      },
+      {
+        "definition": "to make very hungry",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to starve to death",
+        "type": "v."
+      },
+      {
+        "definition": "to suffer for lack of something necessary",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "famish",
+      "famished",
+      "famishes",
+      "famishing",
+      "famishment",
+      "famishments"
+    ]
   },
   "fanatic": {
     "def": [
       {
-        "definition": "A religious zealot.",
+        "definition": "a person exhibiting excessive enthusiasm and intense uncritical devotion toward some controversial matter (as in religion or politics)",
         "type": "n."
+      },
+      {
+        "definition": "a person who is extremely enthusiastic about and devoted to some interest or activity",
+        "type": "n."
+      },
+      {
+        "definition": "marked by excessive enthusiasm and often intense uncritical devotion",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fanatic",
+      "fanatics",
+      "fanatical",
+      "fanatically",
+      "fanaticalness",
+      "fanaticalnesses"
+    ]
   },
   "fancier": {
     "def": [
       {
-        "definition": "One having a taste for or interest in special objects.",
+        "definition": "one that has a special liking or interest",
+        "type": "n."
+      },
+      {
+        "definition": "a person who breeds or grows a particular animal or plant for points of excellence",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fancier",
+      "fanciers"
+    ]
   },
   "fanciless": {
     "def": [
@@ -168,448 +386,1018 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fanciless"
+    ]
   },
   "fastidious": {
     "def": [
       {
-        "definition": "Hard to please.",
+        "definition": "extremely or excessively careful or detailed",
+        "type": "adj."
+      },
+      {
+        "definition": "having complex nutritional requirements",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fastidious",
+      "fastidiously",
+      "fastidiousness",
+      "fastidiousnesses"
+    ]
   },
   "fathom": {
     "def": [
       {
-        "definition": "A measure of length, 6 feet.",
+        "definition": "a unit of length equal to six feet (1.83 meters) used especially for measuring the depth of water",
         "type": "n."
+      },
+      {
+        "definition": "to take soundings",
+        "type": "v."
+      },
+      {
+        "definition": "to measure by a sounding line",
+        "type": "v."
+      },
+      {
+        "definition": "to penetrate and come to understand",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fathom",
+      "fathoms",
+      "fathomable",
+      "fathomed",
+      "fathoming"
+    ]
   },
   "fatuous": {
     "def": [
       {
-        "definition": "Idiotic",
+        "definition": "complacently or inanely foolish",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fatuous",
+      "fatuously",
+      "fatuousness",
+      "fatuousnesses"
+    ]
   },
   "faulty": {
     "def": [
       {
-        "definition": "Imperfect.",
+        "definition": "marked by fault or defect",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "faultier",
+      "faultiest",
+      "faultily",
+      "faultiness",
+      "faultinesses",
+      "faulty"
+    ]
   },
   "faun": {
     "def": [
       {
-        "definition": "One of a class of deities of the woods and herds represented as half human, with",
+        "definition": "a figure in Roman mythology similar to but gentler than the satyr",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "faun",
+      "fauns"
+    ]
   },
   "fawn": {
     "def": [
       {
-        "definition": "A young deer.",
+        "definition": "to court favor by a cringing or flattering manner",
+        "type": "v."
+      },
+      {
+        "definition": "to show affection",
+        "type": "v."
+      },
+      {
+        "definition": "a young deer",
+        "type": "n."
+      },
+      {
+        "definition": "a light grayish brown",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fawn",
+      "fawned",
+      "fawner",
+      "fawners",
+      "fawning",
+      "fawns",
+      "fawnier",
+      "fawniest",
+      "fawny"
+    ]
   },
   "fealty": {
     "def": [
       {
-        "definition": "Loyalty.",
+        "definition": "the fidelity of a vassal or feudal tenant to a lord",
+        "type": "n."
+      },
+      {
+        "definition": "the obligation of such fidelity",
+        "type": "n."
+      },
+      {
+        "definition": "intense fidelity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fealties",
+      "fealty"
+    ]
   },
   "feasible": {
     "def": [
       {
-        "definition": "That may be done, performed, or effected; practicable.",
+        "definition": "of being done or carried out",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being used or dealt with successfully",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "feasibilities",
+      "feasibility",
+      "feasible",
+      "feasibleness",
+      "feasibly"
+    ]
   },
   "federate": {
     "def": [
       {
-        "definition": "To league together.",
+        "definition": "united in an alliance or federation",
+        "type": "adj."
+      },
+      {
+        "definition": "to join in a federation",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "federate",
+      "federated",
+      "federates",
+      "federating"
+    ]
   },
   "feint": {
     "def": [
       {
-        "definition": "Any sham, pretense, or deceptive movement.",
+        "definition": "something feigned",
         "type": "n."
+      },
+      {
+        "definition": "to make a feint",
+        "type": "v."
+      },
+      {
+        "definition": "to lure or deceive with a feint",
+        "type": "v."
+      },
+      {
+        "definition": "to make a pretense of",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "feint",
+      "feints",
+      "feinted",
+      "feinting"
+    ]
   },
   "felicitate": {
     "def": [
       {
-        "definition": "To wish joy or happiness to, especially in view of a coming event.",
+        "definition": "made happy",
+        "type": "adj."
+      },
+      {
+        "definition": "to make happy",
+        "type": "v."
+      },
+      {
+        "definition": "to consider happy or fortunate",
+        "type": "v."
+      },
+      {
+        "definition": "to offer congratulations to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "felicitate",
+      "felicitated",
+      "felicitates",
+      "felicitating",
+      "felicitation",
+      "felicitations",
+      "felicitator",
+      "felicitators"
+    ]
   },
   "felicity": {
     "def": [
       {
-        "definition": "A state of well-founded happiness.",
+        "definition": "the quality or state of being happy",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of happiness",
+        "type": "n."
+      },
+      {
+        "definition": "something that causes happiness",
+        "type": "n."
+      },
+      {
+        "definition": "a pleasing manner or quality especially in art or language",
+        "type": "n."
+      },
+      {
+        "definition": "an apt expression",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "felicities",
+      "felicity"
+    ]
   },
   "felon": {
     "def": [
       {
-        "definition": "A criminal or depraved person.",
+        "definition": "one who has committed a felony",
+        "type": "n."
+      },
+      {
+        "definition": "a painful abscess of the deep tissues of the palmar surface of the fingertip that is typically caused by bacterial infection (as with a ) and is marked by swelling and pain {dx}compare",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "felon",
+      "felons"
+    ]
   },
   "felonious": {
     "def": [
       {
-        "definition": "Showing criminal or evil purpose.",
+        "definition": "very evil",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or having the nature of a felony",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "felonious",
+      "feloniously",
+      "feloniousness",
+      "feloniousnesses"
+    ]
   },
   "felony": {
     "def": [
       {
-        "definition": "One of the highest class of offenses, and punishable with death or imprisonment.",
+        "definition": "a grave crime formerly differing from a misdemeanor {dx_def}see {/dx_def} under English common law by involving forfeiture in addition to any other punishment",
+        "type": "n."
+      },
+      {
+        "definition": "a grave crime (such as murder or rape) declared to be a felony by the common law or by statute regardless of the punishment actually imposed",
+        "type": "n."
+      },
+      {
+        "definition": "a crime declared a felony by statute because of the punishment imposed",
+        "type": "n."
+      },
+      {
+        "definition": "a crime for which the punishment in federal law may be death or imprisonment for more than one year",
+        "type": "n."
+      },
+      {
+        "definition": "an act on the part of a feudal vassal {dx_def}see {/dx_def} involving the forfeiture of their fee",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "felonies",
+      "felony"
+    ]
   },
   "feminine": {
     "def": [
       {
-        "definition": "Characteristic of woman or womankind.",
+        "definition": "considered to be characteristic of women  marked by or having qualities, features, etc. traditionally associated with women",
         "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being a woman or girl",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or constituting the gender {dx_def}see {/dx_def} that ordinarily includes most words or grammatical forms referring to females as well as other words and forms either systematically or arbitrarily in the same category",
+        "type": "adj."
+      },
+      {
+        "definition": "being an unstressed and usually additional final syllable after the final complete foot {dx_def}see {/dx_def} in a line of verse",
+        "type": "adj."
+      },
+      {
+        "definition": "having an unstressed final syllable",
+        "type": "adj."
+      },
+      {
+        "definition": "ending on an unaccented beat",
+        "type": "adj."
+      },
+      {
+        "definition": "a noun, pronoun, adjective, or inflectional form or class of the feminine {dx_def}see {/dx_def} gender",
+        "type": "n."
+      },
+      {
+        "definition": "the feminine {dx_def}see {/dx_def} gender",
+        "type": "n."
+      },
+      {
+        "definition": "the embodiment or conception of an idealized feminine nature",
+        "type": "n."
+      },
+      {
+        "definition": "the set of qualities, features, etc. traditionally associated with women",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "feminine",
+      "femininely",
+      "feminineness",
+      "femininenesses",
+      "feminines"
+    ]
   },
   "fernery": {
     "def": [
       {
-        "definition": "A place in which ferns are grown.",
+        "definition": "a place or stand where ferns grow",
+        "type": "n."
+      },
+      {
+        "definition": "a collection of growing ferns",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ferneries",
+      "fernery"
+    ]
   },
   "ferocious": {
     "def": [
       {
-        "definition": "Of a wild, fierce, and savage nature.",
+        "definition": "exhibiting or given to extreme fierceness and unrestrained violence and brutality",
+        "type": "adj."
+      },
+      {
+        "definition": "extremely intense",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ferocious",
+      "ferociously",
+      "ferociousness",
+      "ferociousnesses"
+    ]
   },
   "ferocity": {
     "def": [
       {
-        "definition": "Savageness.",
+        "definition": "the quality or state of being",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ferocities",
+      "ferocity"
+    ]
   },
   "fervent": {
     "def": [
       {
-        "definition": "Ardent in feeling.",
+        "definition": "exhibiting or marked by great intensity of feeling",
+        "type": "adj."
+      },
+      {
+        "definition": "very hot",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fervent",
+      "fervently"
+    ]
   },
   "fervid": {
     "def": [
       {
-        "definition": "Intense.",
+        "definition": "marked by often extreme fervor {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "very hot",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fervid",
+      "fervidly",
+      "fervidness",
+      "fervidnesses"
+    ]
   },
   "fervor": {
     "def": [
       {
-        "definition": "Ardor or intensity of feeling.",
+        "definition": "of feeling or expression",
+        "type": "n."
+      },
+      {
+        "definition": "intense heat",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fervor",
+      "fervors"
+    ]
   },
   "festal": {
     "def": [
       {
-        "definition": "Joyous.",
+        "definition": "of or relating to a feast or festival",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "festal",
+      "festally"
+    ]
   },
   "festive": {
     "def": [
       {
-        "definition": "Merry.",
+        "definition": "of, relating to, or suitable for a feast or festival",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "festive",
+      "festively",
+      "festiveness",
+      "festivenesses"
+    ]
   },
   "fete": {
     "def": [
       {
-        "definition": "A festival or feast.",
+        "definition": "a lavish often outdoor entertainment",
         "type": "n."
+      },
+      {
+        "definition": "a large elaborate party",
+        "type": "n."
+      },
+      {
+        "definition": "to honor or commemorate with a fete",
+        "type": "v."
+      },
+      {
+        "definition": "to pay high honor to",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fete",
+      "fetes",
+      "fête",
+      "feted",
+      "feting"
+    ]
   },
   "fetus": {
     "def": [
       {
-        "definition": "The young in the womb or in the egg.",
+        "definition": "an unborn or unhatched vertebrate especially after attaining the basic structural plan of its kind",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fetus",
+      "fetuses"
+    ]
   },
   "feudal": {
     "def": [
       {
-        "definition": "Pertaining to the relation of lord and vassal.",
+        "definition": "of, relating to, or suggestive of feudalism",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or having the characteristics of a medieval fee {dx_def}see {/dx_def}",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "feudal",
+      "feudally"
+    ]
   },
   "feudalism": {
     "def": [
       {
-        "definition": "The feudal system.",
+        "definition": "the system of political organization prevailing in Europe from the 9th to about the 15th centuries having as its basis the relation of lord to vassal {dx_def}see {/dx_def} with all land held in fee {dx_def}see {/dx_def} and as chief characteristics homage, the service of tenants under arms and in court, wardship {dx_def}see {/dx_def}, and forfeiture {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "any of various political or social systems similar to medieval feudalism",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "feudalism",
+      "feudalisms",
+      "feudalist",
+      "feudalistic",
+      "feudalists"
+    ]
   },
   "fez": {
     "def": [
       {
-        "definition": "A brimless felt cap in the shape of a truncated cone, usually red with a black",
+        "definition": "a brimless cylindrical or somewhat cone-shaped hat with a flat top that usually has a tassel, is typically made of red felt, and is worn especially by men in eastern Mediterranean countries",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fez",
+      "fezes",
+      "fezzed",
+      "fezzes"
+    ]
   },
   "fiasco": {
     "def": [
       {
-        "definition": "A complete or humiliating failure.",
+        "definition": "a complete failure",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fiaschi",
+      "fiasco",
+      "fiascoes",
+      "fiascos"
+    ]
   },
   "fickle": {
     "def": [
       {
-        "definition": "Unduly changeable in feeling, judgment, or purpose.",
+        "definition": "marked by lack of steadfastness, constancy, or stability given to  changeableness",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fickle",
+      "fickleness",
+      "ficklenesses",
+      "fickler",
+      "ficklest",
+      "fickly"
+    ]
   },
   "fictitious": {
     "def": [
       {
-        "definition": "Created or formed by the imagination.",
+        "definition": "of, relating to, or characteristic of fiction",
+        "type": "adj."
+      },
+      {
+        "definition": "conventionally or hypothetically assumed or accepted",
+        "type": "adj."
+      },
+      {
+        "definition": "not genuinely felt",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fictitious",
+      "fictitiously",
+      "fictitiousness",
+      "fictitiousnesses"
+    ]
   },
   "fidelity": {
     "def": [
       {
-        "definition": "Loyalty.",
+        "definition": "the quality or state of being",
+        "type": "n."
+      },
+      {
+        "definition": "accuracy in details",
+        "type": "n."
+      },
+      {
+        "definition": "the degree to which an electronic device or a software application  reproduces an effect (such as sound or picture)  {dx}see also",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fidelities",
+      "fidelity"
+    ]
   },
   "fiducial": {
     "def": [
       {
-        "definition": "Indicative of faith or trust.",
+        "definition": "taken as standard of reference",
+        "type": "adj."
+      },
+      {
+        "definition": "founded on faith or trust",
+        "type": "adj."
+      },
+      {
+        "definition": "having the nature of a trust",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fiducial",
+      "fiducially"
+    ]
   },
   "fief": {
     "def": [
       {
-        "definition": "A landed estate held under feudal tenure.",
+        "definition": "a feudal estate",
+        "type": "n."
+      },
+      {
+        "definition": "something over which one has rights or exercises control",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fief",
+      "fiefs"
+    ]
   },
   "filibuster": {
     "def": [
       {
-        "definition": "One who attempts to obstruct legislation.",
+        "definition": "an irregular military adventurer",
         "type": "n."
+      },
+      {
+        "definition": "the use of extreme dilatory {dx_def}see {/dx_def} tactics (as by making long speeches) in an attempt to delay or prevent action especially in a legislative assembly",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of this practice",
+        "type": "n."
+      },
+      {
+        "definition": "to carry out insurrectionist activities in a foreign country",
+        "type": "v."
+      },
+      {
+        "definition": "to engage in a filibuster",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to a filibuster",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "filibuster",
+      "filibusters",
+      "filibustered",
+      "filibusterer",
+      "filibusterers",
+      "filibustering"
+    ]
   },
   "finale": {
     "def": [
       {
-        "definition": "Concluding performance.",
+        "definition": "the last section of an instrumental musical composition",
+        "type": "n."
+      },
+      {
+        "definition": "the closing part, scene, or number in a public performance",
+        "type": "n."
+      },
+      {
+        "definition": "the last and often climactic event or item in a sequence",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "finale",
+      "finales"
+    ]
   },
   "finality": {
     "def": [
       {
-        "definition": "The state or quality of being final or complete.",
+        "definition": "the character or condition of being final, settled, irrevocable, or complete",
+        "type": "n."
+      },
+      {
+        "definition": "the condition of being at an ultimate point especially of development or authority",
+        "type": "n."
+      },
+      {
+        "definition": "something final",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "finalities",
+      "finality"
+    ]
   },
   "finally": {
     "def": [
       {
-        "definition": "At last.",
+        "definition": "after a prolonged time at the end of period of time",
+        "type": "adv."
+      },
+      {
+        "definition": "as the last act or occurrence in a series in the end",
+        "type": "adv."
+      },
+      {
+        "definition": "by way of conclusion as the last point",
+        "type": "adv."
+      },
+      {
+        "definition": "in the end",
+        "type": "adv."
+      },
+      {
+        "definition": "in a  manner in a way that does not allow change",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "finally"
+    ]
   },
   "financial": {
     "def": [
       {
-        "definition": "Monetary.",
+        "definition": "relating to finance or financiers",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "financial"
+    ]
   },
   "financier": {
     "def": [
       {
-        "definition": "One skilled in or occupied with financial affairs or operations.",
+        "definition": "one who specializes in raising and expending public moneys",
+        "type": "n."
+      },
+      {
+        "definition": "one who deals with finance and investment on a large scale",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "financier",
+      "financiers"
+    ]
   },
   "finery": {
-    "def": [
-      {
-        "definition": "That which is used to decorate the person or dress.",
-        "type": "n."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "fineries",
+      "finery"
+    ]
   },
   "finesse": {
     "def": [
       {
-        "definition": "Subtle contrivance used to gain a point.",
+        "definition": "refinement or delicacy of workmanship, structure, or texture",
         "type": "n."
+      },
+      {
+        "definition": "skillful handling of a situation adroit maneuvering",
+        "type": "n."
+      },
+      {
+        "definition": "the withholding of one's highest card or trump in the hope that a lower card will take the trick because the only opposing higher card is in the hand of an opponent who has already played",
+        "type": "n."
+      },
+      {
+        "definition": "to bring about, direct, or manage by adroit maneuvering",
+        "type": "v."
+      },
+      {
+        "definition": "to play (a card) in a finesse",
+        "type": "v."
+      },
+      {
+        "definition": "to make a finesse in playing cards",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "finesse",
+      "finesses",
+      "finessed",
+      "finessing"
+    ]
   },
   "finite": {
     "def": [
       {
-        "definition": "Limited.",
+        "definition": "having definite or definable limits",
+        "type": "adj."
+      },
+      {
+        "definition": "having a limited nature or existence",
+        "type": "adj."
+      },
+      {
+        "definition": "completely determinable in theory or in fact by counting, measurement, or thought",
+        "type": "adj."
+      },
+      {
+        "definition": "less than an arbitrary positive integer and greater than the negative of that integer",
+        "type": "adj."
+      },
+      {
+        "definition": "having a finite number of elements",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being a verb or verb form that can function as a predicate or as the initial element of one and that is limited (as in tense, person, and number)",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "finite",
+      "finitely",
+      "finiteness",
+      "finitenesses",
+      "finites"
+    ]
   },
   "fiscal": {
     "def": [
       {
-        "definition": "Pertaining to the treasury or public finances of a government.",
+        "definition": "of or relating to taxation, public revenues, or public debt",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to financial matters",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fiscal",
+      "fiscally",
+      "fiscals"
+    ]
   },
   "fishmonger": {
     "def": [
       {
-        "definition": "One who sells fish.",
+        "definition": "a fish dealer",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fishmonger",
+      "fishmongers"
+    ]
   },
   "fissure": {
     "def": [
       {
-        "definition": "A crack or crack-like depression.",
+        "definition": "a narrow opening or crack of considerable length and depth usually occurring from some breaking or parting",
         "type": "n."
+      },
+      {
+        "definition": "a natural cleft between body parts or in the substance of an organ",
+        "type": "n."
+      },
+      {
+        "definition": "a break or slit in tissue usually at the junction of skin and",
+        "type": "n."
+      },
+      {
+        "definition": "a separation or disagreement in thought or viewpoint",
+        "type": "n."
+      },
+      {
+        "definition": "to break into fissures",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fissure",
+      "fissures",
+      "fissured",
+      "fissuring"
+    ]
   },
   "fitful": {
     "def": [
       {
-        "definition": "Spasmodic.",
+        "definition": "characterized by fits or paroxysms",
+        "type": "adj."
+      },
+      {
+        "definition": "having an erratic or intermittent character",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fitful",
+      "fitfully",
+      "fitfulness",
+      "fitfulnesses"
+    ]
   },
   "fixture": {
     "def": [
       {
-        "definition": "One who or that which is expected to remain permanently in its position.",
+        "definition": "the act or process of fixing the state of being fixed",
+        "type": "n."
+      },
+      {
+        "definition": "something that is fixed or attached (as to a building) as a permanent appendage or as a structural part",
+        "type": "n."
+      },
+      {
+        "definition": "a device for supporting work during machining",
+        "type": "n."
+      },
+      {
+        "definition": "an item of movable property so incorporated into real property that it may be regarded as legally a part of it",
+        "type": "n."
+      },
+      {
+        "definition": "a familiar or invariably present element or feature in some particular setting",
+        "type": "n."
+      },
+      {
+        "definition": "a settled date or time especially for a sporting or festive event",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fixture",
+      "fixtures"
+    ]
   },
   "flag-officer": {
     "def": [
@@ -618,34 +1406,59 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "flag-officer"
+    ]
   },
   "flagrant": {
     "def": [
       {
-        "definition": "Openly scandalous.",
+        "definition": "conspicuously offensive",
+        "type": "adj."
+      },
+      {
+        "definition": "fiery hot",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "flagrant",
+      "flagrantly"
+    ]
   },
   "flamboyant": {
     "def": [
       {
-        "definition": "Characterized by extravagance and in general by want of good taste.",
+        "definition": "marked by or given to strikingly  or colorful display or behavior that attracts attention",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by waving curves suggesting flames",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Flamboyant",
+      "flamboyant",
+      "flamboyantly",
+      "flamboyants"
+    ]
   },
   "flatulence": {
     "def": [
       {
-        "definition": "Accumulation of gas in the stomach and bowels.",
+        "definition": "the quality or state of being flatulent",
+        "type": "n."
+      },
+      {
+        "definition": "flatus expelled through the anus",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "flatulence",
+      "flatulences"
+    ]
   },
   "flection": {
     "def": [
@@ -654,124 +1467,274 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "flection"
+    ]
   },
   "fledgling": {
     "def": [
       {
-        "definition": "A young bird.",
+        "definition": "a young bird just fledged {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "an immature or inexperienced person",
+        "type": "n."
+      },
+      {
+        "definition": "one that is new",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fledgling",
+      "fledglings"
+    ]
   },
   "flexible": {
     "def": [
       {
-        "definition": "Pliable.",
+        "definition": "capable of being",
+        "type": "adj."
+      },
+      {
+        "definition": "yielding to influence",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by a ready capability to adapt to new, different, or changing requirements",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "flexibilities",
+      "flexibility",
+      "flexible",
+      "flexibly"
+    ]
   },
   "flimsy": {
     "def": [
       {
-        "definition": "Thin and weak.",
+        "definition": "lacking in physical strength or substance",
         "type": "adj."
+      },
+      {
+        "definition": "of inferior materials and workmanship",
+        "type": "adj."
+      },
+      {
+        "definition": "having little worth or plausibility",
+        "type": "adj."
+      },
+      {
+        "definition": "a lightweight paper used especially for multiple copies",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "flimsier",
+      "flimsiest",
+      "flimsily",
+      "flimsiness",
+      "flimsinesses",
+      "flimsy",
+      "flimsies"
+    ]
   },
   "flippant": {
     "def": [
       {
-        "definition": "Having a light, pert, trifling disposition.",
+        "definition": "lacking proper respect or seriousness",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "flippant",
+      "flippantly"
+    ]
   },
   "floe": {
     "def": [
       {
-        "definition": "A collection of tabular masses of floating polar ice.",
+        "definition": "floating ice formed in a large sheet on the surface of a body of water",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "floe",
+      "floes"
+    ]
   },
   "flora": {
     "def": [
       {
-        "definition": "The aggregate of plants growing without cultivation in a district.",
+        "definition": "a treatise on or list of the plants of an area or period",
+        "type": "n."
+      },
+      {
+        "definition": "plant, bacterial, or fungal life",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "flora",
+      "florae",
+      "floras"
+    ]
   },
   "floral": {
     "def": [
       {
-        "definition": "Pertaining to flowers.",
+        "definition": "of, relating to, or depicting flowers",
         "type": "adj."
+      },
+      {
+        "definition": "of or relating to a flora",
+        "type": "adj."
+      },
+      {
+        "definition": "a design or picture in which flowers predominate",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "floral",
+      "florals"
+    ]
   },
   "florid": {
     "def": [
       {
-        "definition": "Flushed with red.",
+        "definition": "very flowery in style",
+        "type": "adj."
+      },
+      {
+        "definition": "elaborately decorated",
+        "type": "adj."
+      },
+      {
+        "definition": "covered with flowers",
+        "type": "adj."
+      },
+      {
+        "definition": "tinged with red",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by emotional or sexual fervor",
+        "type": "adj."
+      },
+      {
+        "definition": "fully developed manifesting a complete and typical clinical syndrome",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "florid",
+      "floridities",
+      "floridity",
+      "floridly",
+      "floridness",
+      "floridnesses"
+    ]
   },
   "florist": {
     "def": [
       {
-        "definition": "A dealer in flowers.",
+        "definition": "a person who sells or grows for sale flowers and ornamental plants",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "florist",
+      "floristries",
+      "floristry",
+      "florists"
+    ]
   },
   "fluctuate": {
     "def": [
       {
-        "definition": "To pass backward and forward irregularly from one state or degree to another.",
+        "definition": "to shift back and forth uncertainly",
+        "type": "v."
+      },
+      {
+        "definition": "to rise and fall in or as if in waves",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to fluctuate",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fluctuate",
+      "fluctuated",
+      "fluctuates",
+      "fluctuating"
+    ]
   },
   "fluctuation": {
     "def": [
       {
-        "definition": "Frequent irregular change back and forth from one state or degree to",
+        "definition": "an act or instance of  an irregular shifting back and forth or up and down in the level, strength, or value of something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fluctuation",
+      "fluctuational",
+      "fluctuations"
+    ]
   },
   "flue": {
     "def": [
       {
-        "definition": "A smoke-duct in a chimney.",
+        "definition": "a channel in a chimney for conveying flame and smoke to the outer air",
+        "type": "n."
+      },
+      {
+        "definition": "a pipe for conveying flame and hot gases around or through water in a steam boiler",
+        "type": "n."
+      },
+      {
+        "definition": "an air channel leading to the lip of a wind instrument",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "flue",
+      "flues"
+    ]
   },
   "fluent": {
     "def": [
       {
-        "definition": "Having a ready or easy flow of words or ideas.",
+        "definition": "capable of flowing",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of moving with ease and grace",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of using a language easily and accurately",
+        "type": "adj."
+      },
+      {
+        "definition": "effortlessly smooth and flowing",
+        "type": "adj."
+      },
+      {
+        "definition": "having or showing mastery of a subject or skill",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fluent",
+      "fluently"
+    ]
   },
   "fluential": {
     "def": [
@@ -780,61 +1743,184 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fluential"
+    ]
   },
   "flux": {
     "def": [
       {
-        "definition": "A state of constant movement, change, or renewal.",
+        "definition": "a continuous moving on or passing by (as of a stream)",
         "type": "n."
+      },
+      {
+        "definition": "a continued flow",
+        "type": "n."
+      },
+      {
+        "definition": "a substance used to promote fusion (as of metals or minerals)",
+        "type": "n."
+      },
+      {
+        "definition": "the rate of transfer of fluid, particles, or energy across a given surface",
+        "type": "n."
+      },
+      {
+        "definition": "to cause to become fluid",
+        "type": "v."
+      },
+      {
+        "definition": "to treat with a flux",
+        "type": "v."
+      },
+      {
+        "definition": "to become fluid",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "flux",
+      "fluxes",
+      "fluxed",
+      "fluxing"
+    ]
   },
   "foggy": {
     "def": [
       {
-        "definition": "Obscure.",
+        "definition": "filled or abounding with fog",
+        "type": "adj."
+      },
+      {
+        "definition": "covered or made opaque by moisture or grime",
+        "type": "adj."
+      },
+      {
+        "definition": "blurred or obscured as if by fog",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "foggier",
+      "foggiest",
+      "foggily",
+      "fogginess",
+      "fogginesses",
+      "foggy"
+    ]
   },
   "foible": {
     "def": [
       {
-        "definition": "A personal weakness or failing.",
+        "definition": "the part of a sword or foil blade between the middle and point",
+        "type": "n."
+      },
+      {
+        "definition": "a minor flaw or shortcoming in character or behavior",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foible",
+      "foibles"
+    ]
   },
   "foist": {
     "def": [
       {
-        "definition": "To palm off.",
+        "definition": "to introduce or insert surreptitiously or without warrant",
+        "type": "v."
+      },
+      {
+        "definition": "to force another to accept especially by stealth or deceit",
+        "type": "v."
+      },
+      {
+        "definition": "to pass off as genuine or worthy",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foist",
+      "foisted",
+      "foisting",
+      "foists"
+    ]
   },
   "foliage": {
     "def": [
       {
-        "definition": "Any growth of leaves.",
+        "definition": "the aggregate of leaves of one or more plants",
+        "type": "n."
+      },
+      {
+        "definition": "a cluster of leaves, flowers, and branches",
+        "type": "n."
+      },
+      {
+        "definition": "a representation of leaves, flowers, and branches for architectural ornamentation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foliage",
+      "foliaged",
+      "foliages"
+    ]
   },
   "folio": {
     "def": [
       {
-        "definition": "A sheet of paper folded once, or of a size adapted to folding once.",
+        "definition": "a leaf especially of a manuscript or book",
         "type": "n."
+      },
+      {
+        "definition": "a leaf number",
+        "type": "n."
+      },
+      {
+        "definition": "a page number",
+        "type": "n."
+      },
+      {
+        "definition": "an identifying reference in accounting used in posting",
+        "type": "n."
+      },
+      {
+        "definition": "a sheet of paper folded once",
+        "type": "n."
+      },
+      {
+        "definition": "a case or folder for loose papers",
+        "type": "n."
+      },
+      {
+        "definition": "the size of a piece of paper cut two from a sheet",
+        "type": "n."
+      },
+      {
+        "definition": "a book printed on folio pages",
+        "type": "n."
+      },
+      {
+        "definition": "a book of the largest size",
+        "type": "n."
+      },
+      {
+        "definition": "a certain number of words taken as a unit or division in a document for purposes of measurement or reference",
+        "type": "n."
+      },
+      {
+        "definition": "to put a serial number on each leaf or page of",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "folio",
+      "folios",
+      "folioed",
+      "folioing"
+    ]
   },
   "folk-lore": {
     "def": [
@@ -843,25 +1929,49 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "folk-lore"
+    ]
   },
   "fondle": {
     "def": [
       {
-        "definition": "To handle tenderly and lovingly.",
+        "definition": "to handle tenderly, lovingly, or lingeringly",
+        "type": "v."
+      },
+      {
+        "definition": "to touch (someone or something) sexually",
+        "type": "v."
+      },
+      {
+        "definition": "to show affection or desire by caressing",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fondle",
+      "fondled",
+      "fondler",
+      "fondlers",
+      "fondles",
+      "fondling"
+    ]
   },
   "foolery": {
     "def": [
       {
-        "definition": "Folly.",
+        "definition": "a foolish act, utterance, or belief",
+        "type": "n."
+      },
+      {
+        "definition": "foolish behavior",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fooleries",
+      "foolery"
+    ]
   },
   "foot-note": {
     "def": [
@@ -870,178 +1980,389 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foot-note"
+    ]
   },
   "foppery": {
     "def": [
       {
-        "definition": "Dandyism.",
+        "definition": "foolish character or action",
+        "type": "n."
+      },
+      {
+        "definition": "the behavior or dress of a fop",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fopperies",
+      "foppery"
+    ]
   },
   "foppish": {
     "def": [
       {
-        "definition": "Characteristic of one who is unduly devoted to dress and the niceties of",
+        "definition": "characteristic of a",
+        "type": "adj."
+      },
+      {
+        "definition": "behaving or dressing in the manner of a fop",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "foppish",
+      "foppishly",
+      "foppishness",
+      "foppishnesses"
+    ]
   },
   "forbearance": {
     "def": [
       {
-        "definition": "Patient endurance or toleration of offenses.",
+        "definition": "a refraining from the enforcement of something (such as a debt, right, or obligation) that is due",
+        "type": "n."
+      },
+      {
+        "definition": "the act of",
+        "type": "n."
+      },
+      {
+        "definition": "the quality of being forbearing",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forbearance",
+      "forbearances"
+    ]
   },
   "forby": {
     "def": [
       {
-        "definition": "Besides.",
+        "definition": "in addition",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "forby",
+      "forbye"
+    ]
   },
   "forcible": {
     "def": [
       {
-        "definition": "Violent.",
+        "definition": "effected by force used against opposition or resistance",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by force, efficiency, or energy",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "forcible",
+      "forcibleness",
+      "forciblenesses",
+      "forcibly"
+    ]
   },
   "forecourt": {
     "def": [
       {
-        "definition": "A court opening directly from the street.",
+        "definition": "an open court in front of a building",
+        "type": "n."
+      },
+      {
+        "definition": "the area near the net in a court game",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forecourt",
+      "forecourts"
+    ]
   },
   "forejudge": {
     "def": [
       {
-        "definition": "To judge of before hearing evidence.",
+        "definition": "to expel, oust, or put out by judgment of a court",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "forejudge",
+      "forejudged",
+      "forejudges",
+      "forejudging"
+    ]
   },
   "forepeak": {
     "def": [
       {
-        "definition": "The extreme forward part of a ship's hold, under the lowest deck.",
+        "definition": "the extreme forward lower compartment or tank usually used for trimming or storage in a ship",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forepeak",
+      "forepeaks"
+    ]
   },
   "foreshore": {
     "def": [
       {
-        "definition": "That part of a shore uncovered at low tide.",
+        "definition": "a strip of land margining a body of water",
+        "type": "n."
+      },
+      {
+        "definition": "the part of a seashore between high-water and low-water marks",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreshore",
+      "foreshores"
+    ]
   },
   "forebode": {
     "def": [
       {
-        "definition": "To be an omen or warning sign of, especially of evil.",
+        "definition": "to have an inward conviction of (something, such as a coming ill or misfortune)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "forbode",
+      "forboded",
+      "forbodes",
+      "forboding",
+      "forebode",
+      "foreboded",
+      "foreboder",
+      "foreboders",
+      "forebodes",
+      "foreboding"
+    ]
   },
   "forecast": {
     "def": [
       {
-        "definition": "To predict.",
+        "definition": "to calculate or predict (some future event or condition) usually as a result of study and analysis of available pertinent data",
         "type": "v."
+      },
+      {
+        "definition": "to indicate as likely to occur",
+        "type": "v."
+      },
+      {
+        "definition": "to serve as a forecast of",
+        "type": "v."
+      },
+      {
+        "definition": "to calculate the future",
+        "type": "v."
+      },
+      {
+        "definition": "a prophecy, estimate, or prediction of a future happening or condition",
+        "type": "n."
+      },
+      {
+        "definition": "foresight of consequences and provision against them",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forecast",
+      "forecastable",
+      "forecasted",
+      "forecaster",
+      "forecasters",
+      "forecasting",
+      "forecasts"
+    ]
   },
   "forecastle": {
     "def": [
       {
-        "definition": "That part of the upper deck of a ship forward of the after fore-shrouds.",
+        "definition": "the forward part of the upper deck of a ship",
+        "type": "n."
+      },
+      {
+        "definition": "the crew's quarters usually in a ship's bow",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fo'c'sle",
+      "fo'c'sles",
+      "forecastle",
+      "forecastles"
+    ]
   },
   "foreclose": {
     "def": [
       {
-        "definition": "To bar by judicial proceedings the equitable right of a mortgagor to redeem",
+        "definition": "to shut out",
+        "type": "v."
+      },
+      {
+        "definition": "to hold exclusively",
+        "type": "v."
+      },
+      {
+        "definition": "to deal with or close in advance",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to foreclosure proceedings",
+        "type": "v."
+      },
+      {
+        "definition": "to foreclose a mortgage",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreclose",
+      "foreclosed",
+      "forecloses",
+      "foreclosing"
+    ]
   },
   "forefather": {
     "def": [
       {
-        "definition": "An ancestor.",
+        "definition": "a person of an earlier period and common heritage",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forefather",
+      "forefathers"
+    ]
   },
   "forego": {
     "def": [
       {
-        "definition": "To deny oneself the pleasure or profit of.",
+        "definition": "to go before",
+        "type": "v."
+      },
+      {
+        "definition": "to give up the enjoyment or advantage of do without",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "forego",
+      "foregoer",
+      "foregoers",
+      "foregoes",
+      "foregoing",
+      "foregone",
+      "forewent",
+      "forgo"
+    ]
   },
   "foreground": {
     "def": [
       {
-        "definition": "That part of a landscape or picture situated or represented as nearest the",
+        "definition": "the part of a scene or representation that is nearest to and in front of the spectator",
         "type": "n."
+      },
+      {
+        "definition": "a position of prominence",
+        "type": "n."
+      },
+      {
+        "definition": "a level of computer processing at which the processor responds immediately to input to a designated high-priority task {dx}compare",
+        "type": "n."
+      },
+      {
+        "definition": "to bring to the foreground",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreground",
+      "foregrounds",
+      "foregrounded",
+      "foregrounding"
+    ]
   },
   "forehead": {
     "def": [
       {
-        "definition": "The upper part of the face, between the eyes and the hair.",
+        "definition": "the part of the face above the eyes",
+        "type": "n."
+      },
+      {
+        "definition": "the front or forepart of something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forehead",
+      "foreheads"
+    ]
   },
   "foreign": {
     "def": [
       {
-        "definition": "Belonging to, situated in, or derived from another country.",
+        "definition": "situated outside a place or country",
+        "type": "adj."
+      },
+      {
+        "definition": "born in, belonging to, or characteristic of some place or country other than the one under consideration",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or proceeding from some other person or material thing than the one under consideration",
+        "type": "adj."
+      },
+      {
+        "definition": "alien in character not connected or pertinent",
+        "type": "adj."
+      },
+      {
+        "definition": "related to or dealing with other nations",
+        "type": "adj."
+      },
+      {
+        "definition": "occurring in an abnormal situation in the living body and often introduced from outside",
+        "type": "adj."
+      },
+      {
+        "definition": "not recognized by the immune system as part of the self",
+        "type": "adj."
+      },
+      {
+        "definition": "not being within the jurisdiction of a political unit (such as a state)",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreign",
+      "foreignness",
+      "foreignnesses"
+    ]
   },
   "foreigner": {
     "def": [
       {
-        "definition": "A citizen of a foreign country.",
+        "definition": "a person belonging to or owing allegiance to a foreign country",
+        "type": "n."
+      },
+      {
+        "definition": "one not native to a place or community",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreigner",
+      "foreigners"
+    ]
   },
   "foreknowledge": {
     "def": [
@@ -1050,25 +2371,39 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreknowledge"
+    ]
   },
   "foreman": {
     "def": [
       {
-        "definition": "The head man.",
+        "definition": "a member of a jury who acts as leader and spokesperson for the jury",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreman",
+      "foremanship",
+      "foremanships",
+      "foremen"
+    ]
   },
   "foreordain": {
     "def": [
       {
-        "definition": "To predetermine.",
+        "definition": "to dispose or appoint in advance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreordain",
+      "foreordained",
+      "foreordaining",
+      "foreordains",
+      "foreordination",
+      "foreordinations"
+    ]
   },
   "foreordination": {
     "def": [
@@ -1077,313 +2412,778 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreordination"
+    ]
   },
   "forerun": {
     "def": [
       {
-        "definition": "To go before as introducing or ushering in.",
+        "definition": "to run before",
+        "type": "v."
+      },
+      {
+        "definition": "to come before as a token of something to follow",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreran",
+      "forerun",
+      "forerunning",
+      "foreruns"
+    ]
   },
   "foresail": {
     "def": [
       {
-        "definition": "A square sail.",
+        "definition": "the lowest sail set on the foremast of a square-rigged ship or schooner {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "the sole or principal headsail (as of a sloop, cutter, or schooner)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foresail",
+      "foresails"
+    ]
   },
   "foresee": {
     "def": [
       {
-        "definition": "To discern beforehand.",
+        "definition": "to see (something, such as a development) beforehand",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foresaw",
+      "foresee",
+      "foreseeing",
+      "foreseen",
+      "foreseer",
+      "foreseers",
+      "foresees"
+    ]
   },
   "foresight": {
     "def": [
       {
-        "definition": "Provision against harm or need.",
+        "definition": "an act or the power of foreseeing",
+        "type": "n."
+      },
+      {
+        "definition": "provident care",
+        "type": "n."
+      },
+      {
+        "definition": "an act of looking forward",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foresight",
+      "foresighted",
+      "foresightedly",
+      "foresightedness",
+      "foresightednesses",
+      "foresightful",
+      "foresights"
+    ]
   },
   "foretell": {
     "def": [
       {
-        "definition": "To predict.",
+        "definition": "to tell beforehand",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foretell",
+      "foreteller",
+      "foretellers",
+      "foretelling",
+      "foretells",
+      "foretold"
+    ]
   },
   "forethought": {
     "def": [
       {
-        "definition": "Premeditation.",
+        "definition": "a thinking or planning out in advance",
+        "type": "n."
+      },
+      {
+        "definition": "consideration for the future",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forethought",
+      "forethoughts"
+    ]
   },
   "forfeit": {
     "def": [
       {
-        "definition": "To lose possession of through failure to fulfill some obligation.",
+        "definition": "something  or subject to being forfeited (as for a crime, offense, or neglect of duty)",
+        "type": "n."
+      },
+      {
+        "definition": "especially of civil rights",
+        "type": "n."
+      },
+      {
+        "definition": "something deposited (as for making a mistake in a game) and then redeemed on payment of a fine",
+        "type": "n."
+      },
+      {
+        "definition": "a game in which forfeits are exacted",
+        "type": "n."
+      },
+      {
+        "definition": "to lose or lose the right to especially by some error, offense, or crime",
         "type": "v."
+      },
+      {
+        "definition": "to subject to confiscation as a forfeit",
+        "type": "v."
+      },
+      {
+        "definition": "forfeited or subject to forfeiture",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "forfeit",
+      "forfeits",
+      "forfeitable",
+      "forfeited",
+      "forfeiter",
+      "forfeiters",
+      "forfeiting"
+    ]
   },
   "forfend": {
     "def": [
       {
-        "definition": "To ward off.",
+        "definition": "to ward off",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "forfend",
+      "forfended",
+      "forfending",
+      "forfends"
+    ]
   },
   "forgery": {
     "def": [
       {
-        "definition": "Counterfeiting.",
+        "definition": "something forged",
+        "type": "n."
+      },
+      {
+        "definition": "an act of forging",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forgeries",
+      "forgery"
+    ]
   },
   "forgo": {
     "def": [
       {
-        "definition": "To deny oneself.",
+        "definition": "to give up the enjoyment or advantage of do without",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "forego",
+      "foregoer",
+      "foregoers",
+      "foregoes",
+      "foregoing",
+      "foregone",
+      "forewent",
+      "forgo",
+      "forgoer",
+      "forgoers",
+      "forgoes",
+      "forgoing",
+      "forgone",
+      "forwent"
+    ]
   },
   "formation": {
     "def": [
       {
-        "definition": "Relative disposition of parts.",
+        "definition": "an act of giving form or shape to something or of taking form",
+        "type": "n."
+      },
+      {
+        "definition": "something that is formed",
+        "type": "n."
+      },
+      {
+        "definition": "the manner in which a thing is formed",
+        "type": "n."
+      },
+      {
+        "definition": "a major kind of plant growth (such as forest, grassland, or tundra) characteristic of a broad ecological region",
+        "type": "n."
+      },
+      {
+        "definition": "any igneous, sedimentary, or metamorphic rock represented as a unit",
+        "type": "n."
+      },
+      {
+        "definition": "any sedimentary bed or consecutive series of beds sufficiently homogeneous or distinctive to be a unit",
+        "type": "n."
+      },
+      {
+        "definition": "an arrangement of a body or group of persons or things in some prescribed manner or for a particular purpose",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "formation",
+      "formations"
+    ]
   },
   "formidable": {
     "def": [
       {
-        "definition": "Difficult to accomplish.",
+        "definition": "causing fear, dread, or  very difficult to deal with",
+        "type": "adj."
+      },
+      {
+        "definition": "having qualities that discourage approach or attack very powerful or strong",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to inspire awe or wonder",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "formidabilities",
+      "formidability",
+      "formidable",
+      "formidableness",
+      "formidablenesses",
+      "formidably"
+    ]
   },
   "formula": {
     "def": [
       {
-        "definition": "Fixed rule or set form.",
+        "definition": "a set form of words for use in a ceremony or ritual",
         "type": "n."
+      },
+      {
+        "definition": "a conventionalized statement intended to express some fundamental truth or principle especially as a basis for negotiation or action",
+        "type": "n."
+      },
+      {
+        "definition": "a milk mixture or substitute for feeding an infant",
+        "type": "n."
+      },
+      {
+        "definition": "a plan or method for doing, making, or achieving something",
+        "type": "n."
+      },
+      {
+        "definition": "a customary or set form or method allowing little room for originality",
+        "type": "n."
+      },
+      {
+        "definition": "a general fact, rule, or principle expressed in usually mathematical symbols",
+        "type": "n."
+      },
+      {
+        "definition": "a symbolic expression of the chemical composition or constitution of a substance",
+        "type": "n."
+      },
+      {
+        "definition": "a group of symbols (such as letters and numbers) associated to express facts or data (such as the number and kinds of teeth in the jaw) concisely",
+        "type": "n."
+      },
+      {
+        "definition": "a combination of signs in a logical calculus",
+        "type": "n."
+      },
+      {
+        "definition": "of, relating to, or being an open-wheel open-cockpit rear-engine racing car conforming to prescribed specifications as to size, weight, and engine displacement",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "formula",
+      "formulae",
+      "formulas"
+    ]
   },
   "forswear": {
     "def": [
       {
-        "definition": "To renounce upon oath.",
+        "definition": "to make a liar of (oneself) under or as if under oath",
+        "type": "v."
+      },
+      {
+        "definition": "to reject or renounce under oath",
+        "type": "v."
+      },
+      {
+        "definition": "to renounce earnestly",
+        "type": "v."
+      },
+      {
+        "definition": "to deny under oath",
+        "type": "v."
+      },
+      {
+        "definition": "to swear falsely",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "foreswear",
+      "foreswearing",
+      "foreswears",
+      "foreswore",
+      "foresworn",
+      "forswear",
+      "forswearing",
+      "forswears",
+      "forswore",
+      "forsworn"
+    ]
   },
   "forte": {
     "def": [
       {
-        "definition": "A strong point.",
+        "definition": "one's strong point",
+        "type": "n."
+      },
+      {
+        "definition": "the part of a sword or  blade that is between the middle and the  and that is the strongest part of the blade",
+        "type": "n."
+      },
+      {
+        "definition": "a musical tone or passage played loudly",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forte",
+      "fortes"
+    ]
   },
   "forth": {
     "def": [
       {
-        "definition": "Into notice or view.",
+        "definition": "onward in time, place, or order",
         "type": "adv."
+      },
+      {
+        "definition": "out into notice or view",
+        "type": "adv."
+      },
+      {
+        "definition": "forth from",
+        "type": "prep."
       }
     ],
-    "forms": []
+    "forms": [
+      "forth"
+    ]
   },
   "forthright": {
     "def": [
       {
-        "definition": "With directness.",
+        "definition": "free from ambiguity or evasiveness going straight to the point",
+        "type": "adj."
+      },
+      {
+        "definition": "notably simple in style or quality",
+        "type": "adj."
+      },
+      {
+        "definition": "proceeding straight on",
+        "type": "adj."
+      },
+      {
+        "definition": "directly forward",
         "type": "adv."
+      },
+      {
+        "definition": "without hesitation",
+        "type": "adv."
+      },
+      {
+        "definition": "at once",
+        "type": "adv."
+      },
+      {
+        "definition": "a straight path",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "forthright",
+      "forthrightly",
+      "forthrightness",
+      "forthrightnesses",
+      "forthrights"
+    ]
   },
   "fortify": {
     "def": [
       {
-        "definition": "To provide with defensive works.",
+        "definition": "to strengthen and secure (a place, such as a town) by forts or batteries",
+        "type": "v."
+      },
+      {
+        "definition": "to give physical strength, courage, or endurance to",
+        "type": "v."
+      },
+      {
+        "definition": "to add mental or moral strength to",
+        "type": "v."
+      },
+      {
+        "definition": "to erect fortifications",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fortified",
+      "fortifier",
+      "fortifiers",
+      "fortifies",
+      "fortify",
+      "fortifying"
+    ]
   },
   "fortitude": {
     "def": [
       {
-        "definition": "Patient courage.",
+        "definition": "of mind that enables a person to encounter danger or bear pain or adversity with courage",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fortitude",
+      "fortitudes"
+    ]
   },
   "foursome": {
     "def": [
       {
-        "definition": "Consisting of four.",
-        "type": "adj."
+        "definition": "a group of four persons or things",
+        "type": "n."
+      },
+      {
+        "definition": "two couples",
+        "type": "n."
+      },
+      {
+        "definition": "a golf match in which two players compete against two others with players on each side taking turns playing one ball",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "foursome",
+      "foursomes"
+    ]
   },
   "fracture": {
     "def": [
       {
-        "definition": "A break.",
+        "definition": "the result of fracturing",
         "type": "n."
+      },
+      {
+        "definition": "the act or process of breaking or the state of being broken",
+        "type": "n."
+      },
+      {
+        "definition": "the rupture (as by tearing) of soft tissue",
+        "type": "n."
+      },
+      {
+        "definition": "the general appearance of a freshly broken surface of a mineral",
+        "type": "n."
+      },
+      {
+        "definition": "to cause a crack or fracture in",
+        "type": "v."
+      },
+      {
+        "definition": "to damage or destroy as if by rupturing",
+        "type": "v."
+      },
+      {
+        "definition": "to cause great disorder in",
+        "type": "v."
+      },
+      {
+        "definition": "to break up",
+        "type": "v."
+      },
+      {
+        "definition": "to go beyond the limits of (something, such as a rule)",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo fracture to crack or break",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fracture",
+      "fractures",
+      "fractured",
+      "fracturing"
+    ]
   },
   "fragile": {
     "def": [
       {
-        "definition": "Capable of being broken.",
+        "definition": "easily broken or destroyed",
+        "type": "adj."
+      },
+      {
+        "definition": "constitutionally {dx_def}see {/dx_def} delicate lacking in vigor",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fragile",
+      "fragilities",
+      "fragility"
+    ]
   },
   "frailty": {
     "def": [
       {
-        "definition": "Liability to be broken or destroyed.",
+        "definition": "the quality or state of being",
+        "type": "n."
+      },
+      {
+        "definition": "a fault due to weakness especially of moral character",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "frailties",
+      "frailty"
+    ]
   },
   "frankincense": {
     "def": [
       {
-        "definition": "A gum or resin which on burning yields aromatic fumes.",
+        "definition": "a fragrant gum resin from trees of a genus (Boswellia of the family Burseraceae) of Somalia and southern coastal Arabia that is an important incense resin and has been used in religious rites, perfumery, and embalming",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "frankincense",
+      "frankincenses"
+    ]
   },
   "frantic": {
     "def": [
       {
-        "definition": "Frenzied.",
+        "definition": "emotionally out of control",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by fast and nervous, disordered, or anxiety-driven activity",
+        "type": "adj."
+      },
+      {
+        "definition": "mentally unsound",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frantic",
+      "franticness",
+      "franticnesses"
+    ]
   },
   "fraternal": {
     "def": [
       {
-        "definition": "Brotherly.",
+        "definition": "of, relating to, or involving brothers",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being a fraternity or society",
+        "type": "adj."
+      },
+      {
+        "definition": "derived from two ova",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fraternal",
+      "fraternalism",
+      "fraternalisms",
+      "fraternally"
+    ]
   },
   "fraudulence": {
     "def": [
       {
-        "definition": "Deceitfulness.",
+        "definition": "the quality or state of being fraudulent",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fraudulence",
+      "fraudulences"
+    ]
   },
   "fraudulent": {
     "def": [
       {
-        "definition": "Counterfeit.",
+        "definition": "characterized by, based on, or done by fraud",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fraudulent",
+      "fraudulently",
+      "fraudulentness",
+      "fraudulentnesses"
+    ]
   },
   "fray": {
     "def": [
       {
-        "definition": "To fret at the edge so as to loosen or break the threads.",
+        "definition": "a usually disorderly or protracted fight, struggle, or dispute",
+        "type": "n."
+      },
+      {
+        "definition": "to wear (something, such as an edge of cloth) by or as if by rubbing",
         "type": "v."
+      },
+      {
+        "definition": "to separate the threads at the edge of",
+        "type": "v."
+      },
+      {
+        "definition": "to wear out or into shreds",
+        "type": "v."
+      },
+      {
+        "definition": "to show signs of strain",
+        "type": "v."
+      },
+      {
+        "definition": "a raveled place or worn spot (as on fabric)",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fray",
+      "frays",
+      "frayed",
+      "fraying"
+    ]
   },
   "freemason": {
     "def": [
       {
-        "definition": "A member of an ancient secret fraternity originally confined to skilled",
+        "definition": "a member of a major fraternal organization called Free and Accepted Masons or Ancient Free and Accepted Masons that has certain secret rituals",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Freemason",
+      "Freemasons",
+      "freemason"
+    ]
   },
   "freethinker": {
     "def": [
       {
-        "definition": "One who rejects authority or inspiration in religion.",
+        "definition": "a person who thinks freely or independently one who forms opinions on the basis of reason independently of authority",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "freethinker",
+      "freethinkers",
+      "freethinking",
+      "freethinkings"
+    ]
   },
   "free trade": {
     "def": [
       {
-        "definition": "Commerce unrestricted by tariff or customs.",
+        "definition": "trade based on the unrestricted international exchange of goods with tariffs used only as a source of revenue",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "free trade"
+    ]
   },
   "frequency": {
     "def": [
       {
-        "definition": "The comparative number of any kind of occurrences within a given time or",
+        "definition": "the fact or condition of occurring frequently",
+        "type": "n."
+      },
+      {
+        "definition": "the number of times that a periodic function repeats the same sequence of values during a unit variation of the",
+        "type": "n."
+      },
+      {
+        "definition": "the number, proportion, or percentage of items in a particular category in a set of data",
+        "type": "n."
+      },
+      {
+        "definition": "the number of complete alternations {dx_def}see {/dx_def} per second of an alternating current",
+        "type": "n."
+      },
+      {
+        "definition": "the number of complete oscillations {dx_def}see {/dx_def} per second of energy (such as sound or electromagnetic radiation) in the form of waves",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "frequencies",
+      "frequency"
+    ]
   },
   "fresco": {
     "def": [
       {
-        "definition": "The art of painting on a surface of plaster, particularly on walls and ceilings.",
+        "definition": "the art of painting on freshly spread moist lime plaster with water-based pigments",
+        "type": "n."
+      },
+      {
+        "definition": "a painting executed in fresco",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fresco",
+      "frescoed",
+      "frescoes",
+      "frescoing",
+      "frescos"
+    ]
   },
   "freshness": {
     "def": [
@@ -1392,34 +3192,69 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "freshness"
+    ]
   },
   "fretful": {
     "def": [
       {
-        "definition": "Disposed to peevishness.",
+        "definition": "disposed to fret ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fretful",
+      "fretfully",
+      "fretfulness",
+      "fretfulnesses"
+    ]
   },
   "frightful": {
     "def": [
       {
-        "definition": "Apt to induce terror or alarm.",
+        "definition": "causing intense fear or alarm",
+        "type": "adj."
+      },
+      {
+        "definition": "startling especially in being bad or objectionable",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frightful",
+      "frightfuller",
+      "frightfullest",
+      "frightfully",
+      "frightfulness",
+      "frightfulnesses"
+    ]
   },
   "frigid": {
     "def": [
       {
-        "definition": "Lacking warmth.",
+        "definition": "intensely cold",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking warmth or ardor",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking imaginative qualities",
+        "type": "adj."
+      },
+      {
+        "definition": "experiencing diminished or absent sexual desire or response",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frigid",
+      "frigidly",
+      "frigidness",
+      "frigidnesses"
+    ]
   },
   "frigidarium": {
     "def": [
@@ -1428,61 +3263,146 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "frigidarium"
+    ]
   },
   "frivolity": {
     "def": [
       {
-        "definition": "A trifling act, thought, saying, or practice.",
+        "definition": "the quality or state of being frivolous",
+        "type": "n."
+      },
+      {
+        "definition": "a frivolous act or thing",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "frivolities",
+      "frivolity"
+    ]
   },
   "frivolous": {
     "def": [
       {
-        "definition": "Trivial.",
+        "definition": "of little weight or importance",
+        "type": "adj."
+      },
+      {
+        "definition": "having no  basis (as in fact or law)",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking in seriousness",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by unbecoming",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frivolous",
+      "frivolously",
+      "frivolousness",
+      "frivolousnesses"
+    ]
   },
   "frizz": {
     "def": [
       {
-        "definition": "To give a crinkled, fluffy appearance to.",
+        "definition": "to form into small tight curls",
+        "type": "v."
+      },
+      {
+        "definition": "to form a mass of tight curls",
+        "type": "v."
+      },
+      {
+        "definition": "a tight curl",
+        "type": "n."
+      },
+      {
+        "definition": "hair that is tightly curled",
+        "type": "n."
+      },
+      {
+        "definition": "to fry or sear with a sizzling noise",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "frizz",
+      "frizzed",
+      "frizzes",
+      "frizzing"
+    ]
   },
   "frizzle": {
     "def": [
       {
-        "definition": "To cause to crinkle or curl, as the hair.",
+        "definition": "a crisp curl",
+        "type": "n."
+      },
+      {
+        "definition": "to fry until crisp and curled",
+        "type": "v."
+      },
+      {
+        "definition": "to cook with a sizzling noise",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "frizzle",
+      "frizzled",
+      "frizzles",
+      "frizzling"
+    ]
   },
   "frolicsome": {
     "def": [
       {
-        "definition": "Prankish.",
+        "definition": "full of gaiety ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frolicsome"
+    ]
   },
   "frontier": {
     "def": [
       {
-        "definition": "The part of a nation's territory that abuts upon another country.",
+        "definition": "a border between two countries",
+        "type": "n."
+      },
+      {
+        "definition": "a stronghold on a frontier",
+        "type": "n."
+      },
+      {
+        "definition": "a region that forms the margin of settled or developed territory",
+        "type": "n."
+      },
+      {
+        "definition": "the farthermost limits of knowledge or achievement in a particular subject",
+        "type": "n."
+      },
+      {
+        "definition": "a line of division between different or opposed things",
+        "type": "n."
+      },
+      {
+        "definition": "a new field for exploitative or developmental activity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "frontier",
+      "frontiers"
+    ]
   },
   "frowzy": {
     "def": [
@@ -1491,97 +3411,235 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frowzy"
+    ]
   },
   "frugal": {
     "def": [
       {
-        "definition": "Economical.",
+        "definition": "characterized by or reflecting thrift and efficiency in the use of resources",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "frugal",
+      "frugally"
+    ]
   },
   "fruition": {
     "def": [
       {
-        "definition": "Fulfillment.",
+        "definition": "pleasurable use or possession",
+        "type": "n."
+      },
+      {
+        "definition": "the state of bearing fruit",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fruition",
+      "fruitions"
+    ]
   },
   "fugacious": {
     "def": [
       {
-        "definition": "Fleeting.",
+        "definition": "lasting a short time",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fugacious"
+    ]
   },
   "fulcrum": {
     "def": [
       {
-        "definition": "The support on or against which a lever rests, or the point about which it",
+        "definition": "one that supplies capability for action",
+        "type": "n."
+      },
+      {
+        "definition": "a part of an animal that serves as a hinge or support",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fulcra",
+      "fulcrum",
+      "fulcrums"
+    ]
   },
   "fulminate": {
     "def": [
       {
-        "definition": "To cause to explode.",
+        "definition": "to utter or send out with denunciation",
         "type": "v."
+      },
+      {
+        "definition": "to send forth censures or invectives",
+        "type": "v."
+      },
+      {
+        "definition": "an often explosive salt (such as mercury fulminate) containing the group −CNO",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fulminate",
+      "fulminated",
+      "fulminates",
+      "fulminating",
+      "fulmination",
+      "fulminations"
+    ]
   },
   "fulsome": {
     "def": [
       {
-        "definition": "Offensive from excess of praise or commendation.",
+        "definition": "characterized by abundance",
+        "type": "adj."
+      },
+      {
+        "definition": "generous in amount, extent, or spirit",
+        "type": "adj."
+      },
+      {
+        "definition": "being full and well developed",
+        "type": "adj."
+      },
+      {
+        "definition": "aesthetically, morally, or generally offensive",
+        "type": "adj."
+      },
+      {
+        "definition": "exceeding the bounds of good taste",
+        "type": "adj."
+      },
+      {
+        "definition": "excessively complimentary or flattering",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fulsome",
+      "fulsomely",
+      "fulsomeness",
+      "fulsomenesses"
+    ]
   },
   "fumigate": {
     "def": [
       {
-        "definition": "To subject to the action of smoke or fumes, especially for disinfection.",
+        "definition": "to apply smoke, vapor, or gas to especially for the purpose of disinfecting or of destroying pests",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fumigate",
+      "fumigated",
+      "fumigates",
+      "fumigating",
+      "fumigation",
+      "fumigations",
+      "fumigator",
+      "fumigators"
+    ]
   },
   "functionary": {
     "def": [
       {
-        "definition": "An official.",
+        "definition": "one who serves in a certain function",
+        "type": "n."
+      },
+      {
+        "definition": "one holding office in a government or political party",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "functionaries",
+      "functionary"
+    ]
   },
   "fundamental": {
     "def": [
       {
-        "definition": "Basal.",
+        "definition": "serving as a basis supporting existence or determining essential structure or function",
         "type": "adj."
+      },
+      {
+        "definition": "serving as an original or generating source",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to essential structure, function, or facts",
+        "type": "adj."
+      },
+      {
+        "definition": "adhering to",
+        "type": "adj."
+      },
+      {
+        "definition": "of central importance",
+        "type": "adj."
+      },
+      {
+        "definition": "belonging to one's innate or ingrained characteristics",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or produced by the lowest component of a complex vibration {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "something fundamental",
+        "type": "n."
+      },
+      {
+        "definition": "the principal musical tone produced by vibration (as of a string or column of air) on which a series of higher harmonics is based",
+        "type": "n."
+      },
+      {
+        "definition": "the root of a chord",
+        "type": "n."
+      },
+      {
+        "definition": "the harmonic component of a complex wave that has the lowest frequency and commonly the greatest amplitude",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fundamental",
+      "fundamentals"
+    ]
   },
   "fungible": {
     "def": [
       {
-        "definition": "That may be measured, counted, or weighed.",
+        "definition": "being something (such as money or a commodity) of such a nature that one part or quantity may be replaced by another equal part or quantity in paying a debt or settling an account",
         "type": "adj."
+      },
+      {
+        "definition": "capable of mutual substitution",
+        "type": "adj."
+      },
+      {
+        "definition": "readily changeable to adapt to new situations",
+        "type": "adj."
+      },
+      {
+        "definition": "something that is fungible {dx_def}see {/dx_def} a good one part or quantity of which can be substituted for another of equal value in satisfying an obligation",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fungibilities",
+      "fungibility",
+      "fungible",
+      "fungibles"
+    ]
   },
   "fungous": {
     "def": [
@@ -1590,114 +3648,274 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fungous"
+    ]
   },
   "fungus": {
     "def": [
       {
-        "definition": "A plant destitute of chlorophyll, as a mushroom.",
+        "definition": "any of a kingdom (Fungi) of saprophytic and parasitic spore-producing eukaryotic typically filamentous organisms formerly classified as plants that lack chlorophyll and include molds, rusts, mildews, smuts, mushrooms, and yeasts",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "fungi",
+      "fungus",
+      "funguses"
+    ]
   },
   "furbish": {
     "def": [
       {
-        "definition": "To restore brightness or beauty to.",
+        "definition": "to make lustrous",
+        "type": "v."
+      },
+      {
+        "definition": "to give a new look to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "furbish",
+      "furbished",
+      "furbisher",
+      "furbishers",
+      "furbishes",
+      "furbishing"
+    ]
   },
   "furlong": {
     "def": [
       {
-        "definition": "A measure, one-eighth of a mile.",
+        "definition": "a unit of distance equal to 220 yards (about 201 meters)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "furlong",
+      "furlongs"
+    ]
   },
   "furlough": {
     "def": [
       {
-        "definition": "A temporary absence of a soldier or sailor by permission of the commanding",
+        "definition": "a leave of absence granted to a governmental or institutional employee (such as a soldier or civil servant)",
         "type": "n."
+      },
+      {
+        "definition": "a temporary leave from work that is not paid and is often for a set period of time",
+        "type": "n."
+      },
+      {
+        "definition": "a set period of time when a prisoner is allowed to leave a prison",
+        "type": "n."
+      },
+      {
+        "definition": "to grant a leave of absence or  to (someone)",
+        "type": "v."
+      },
+      {
+        "definition": "to put (a worker) on furlough to lay off (a worker) for usually a brief or temporary period",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "furlough",
+      "furloughs",
+      "furloughed",
+      "furloughing"
+    ]
   },
   "furrier": {
     "def": [
       {
-        "definition": "A dealer in or maker of fur goods.",
+        "definition": "a fur dealer",
+        "type": "n."
+      },
+      {
+        "definition": "one that dresses furs",
+        "type": "n."
+      },
+      {
+        "definition": "one that makes, repairs, alters, or cleans fur garments",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "furrier",
+      "furriers"
+    ]
   },
   "further": {
     "def": [
       {
-        "definition": "More distant or advanced.",
+        "definition": "at or to a greater distance or more advanced point",
+        "type": "adv."
+      },
+      {
+        "definition": "to a greater degree or extent",
+        "type": "adv."
+      },
+      {
+        "definition": "in addition ,",
+        "type": "adv."
+      },
+      {
+        "definition": "more distant",
         "type": "adj."
+      },
+      {
+        "definition": "going or extending beyond",
+        "type": "adj."
+      },
+      {
+        "definition": "to help forward",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "further",
+      "furthered",
+      "furtherer",
+      "furtherers",
+      "furthering",
+      "furthers"
+    ]
   },
   "furtherance": {
     "def": [
       {
-        "definition": "Advancement.",
+        "definition": "the act of furthering",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "furtherance",
+      "furtherances"
+    ]
   },
   "furtive": {
     "def": [
       {
-        "definition": "Stealthy or sly, like the actions of a thief.",
+        "definition": "done in a quiet and secretive way to avoid being noticed",
+        "type": "adj."
+      },
+      {
+        "definition": "expressive of stealth",
+        "type": "adj."
+      },
+      {
+        "definition": "obtained",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "furtive",
+      "furtively",
+      "furtiveness",
+      "furtivenesses"
+    ]
   },
   "fuse": {
     "def": [
       {
-        "definition": "To unite or blend as by melting together.",
+        "definition": "to reduce to a liquid or plastic state by heat",
+        "type": "v."
+      },
+      {
+        "definition": "to blend thoroughly by or as if by melting together",
+        "type": "v."
+      },
+      {
+        "definition": "to stitch by applying heat and pressure with or without the use of an adhesive",
+        "type": "v."
+      },
+      {
+        "definition": "to become fluid with heat",
+        "type": "v."
+      },
+      {
+        "definition": "to fail because of the blowing of a fuse",
+        "type": "v."
+      },
+      {
+        "definition": "to become blended or joined by or as if by melting together",
+        "type": "v."
+      },
+      {
+        "definition": "an electrical safety device consisting of or including a wire or strip of fusible metal that melts and interrupts the circuit when the current exceeds a particular amperage",
+        "type": "n."
+      },
+      {
+        "definition": "a continuous train of a combustible substance enclosed in a cord or cable for setting off an explosive charge by transmitting fire to it",
+        "type": "n."
+      },
+      {
+        "definition": "a mechanical or electrical detonating device for setting off the bursting charge of a projectile, bomb, or torpedo",
+        "type": "n."
+      },
+      {
+        "definition": "to equip with a fuse",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "fuse",
+      "fused",
+      "fuses",
+      "fusing",
+      "fuze",
+      "fuzed",
+      "fuzes",
+      "fuzing"
+    ]
   },
   "fusible": {
     "def": [
       {
-        "definition": "Capable of being melted by heat.",
+        "definition": "capable of being fused and especially liquefied by heat",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "fusibilities",
+      "fusibility",
+      "fusible"
+    ]
   },
   "futile": {
     "def": [
       {
-        "definition": "Of no avail or effect.",
+        "definition": "serving no useful purpose completely",
+        "type": "adj."
+      },
+      {
+        "definition": "occupied with things of little value, substance, or importance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "futile",
+      "futilely",
+      "futileness",
+      "futilenesses"
+    ]
   },
   "futurist": {
     "def": [
       {
-        "definition": "A person of expectant temperament.",
+        "definition": "one who studies and predicts the future especially on the basis of current trends",
+        "type": "n."
+      },
+      {
+        "definition": "one who advocates or practices futurism",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "futurist",
+      "futurists"
+    ]
   }
 }

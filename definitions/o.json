@@ -2,74 +2,146 @@
   "oaken": {
     "def": [
       {
-        "definition": "Made of or from oak.",
+        "definition": "made from the wood of an  tree",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "oaken"
+    ]
   },
   "oakum": {
     "def": [
       {
-        "definition": "Hemp-fiber obtained by untwisting and picking out loosely the yarns of old hemp",
+        "definition": "loosely twisted hemp or jute fiber impregnated with tar or a tar derivative and used in caulking seams and packing joints",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oakum",
+      "oakums"
+    ]
   },
   "obdurate": {
     "def": [
       {
-        "definition": "Impassive to feelings of humanity or pity.",
+        "definition": "stubbornly persistent in wrongdoing",
+        "type": "adj."
+      },
+      {
+        "definition": "hardened in feelings",
+        "type": "adj."
+      },
+      {
+        "definition": "resistant to persuasion or softening influences",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obdurate",
+      "obdurately",
+      "obdurateness",
+      "obduratenesses"
+    ]
   },
   "obelisk": {
     "def": [
       {
-        "definition": "A square shaft with pyramidal top, usually monumental or commemorative.",
+        "definition": "an upright 4-sided usually monolithic pillar that gradually tapers as it rises and terminates in a pyramid",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obelisk",
+      "obelisks"
+    ]
   },
   "obese": {
     "def": [
       {
-        "definition": "Exceedingly fat.",
+        "definition": "having excessive body fat",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obese"
+    ]
   },
   "obesity": {
     "def": [
       {
-        "definition": "Excessive fatness.",
+        "definition": "a condition characterized by the excessive accumulation and storage of fat in the body",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obesities",
+      "obesity"
+    ]
   },
   "obituary": {
     "def": [
       {
-        "definition": "A published notice of a death.",
-        "type": "adj."
+        "definition": "a notice of a person's death usually with a short biographical account",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obituaries",
+      "obituarist",
+      "obituarists",
+      "obituary"
+    ]
   },
   "objective": {
     "def": [
       {
-        "definition": "Grasping and representing facts as they are.",
+        "definition": "expressing or dealing with facts or conditions as perceived without distortion by personal feelings, prejudices, or interpretations",
         "type": "adj."
+      },
+      {
+        "definition": "limited to choices of fixed alternatives and reducing subjective factors to a minimum",
+        "type": "adj."
+      },
+      {
+        "definition": "existing outside of the mind existing in the real world  {dx}compare",
+        "type": "adj."
+      },
+      {
+        "definition": "involving or deriving from sense perception or experience with actual objects, conditions, or",
+        "type": "adj."
+      },
+      {
+        "definition": "to persons other than the affected individual  {dx}compare",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or existing as an object of thought without consideration of independent existence",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to, characteristic of, or constituting the case of words that follow prepositions or  verbs",
+        "type": "adj."
+      },
+      {
+        "definition": "something toward which effort is directed an aim, goal, or purpose",
+        "type": "n."
+      },
+      {
+        "definition": "a  position to be attained or a purpose to be achieved by a military operation",
+        "type": "n."
+      },
+      {
+        "definition": "a  or system of lenses that forms an image of an object",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "objective",
+      "objectiveness",
+      "objectivenesses",
+      "objectives"
+    ]
   },
   "objector": {
     "def": [
@@ -78,70 +150,187 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "objector"
+    ]
   },
   "obligate": {
     "def": [
       {
-        "definition": "To hold to the fulfillment of duty.",
+        "definition": "to bind legally or morally",
         "type": "v."
+      },
+      {
+        "definition": "to commit (something, such as funds) to meet an obligation",
+        "type": "v."
+      },
+      {
+        "definition": "restricted to one particularly characteristic mode of life",
+        "type": "adj."
+      },
+      {
+        "definition": "biologically essential for survival",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obligate",
+      "obligated",
+      "obligates",
+      "obligating",
+      "obligately"
+    ]
   },
   "obligatory": {
     "def": [
       {
-        "definition": "Binding in law or conscience.",
+        "definition": "binding in law or conscience",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or enforcing an obligation",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obligatorily",
+      "obligatory"
+    ]
   },
   "oblique": {
     "def": [
       {
-        "definition": "Slanting; said of lines.",
+        "definition": "neither perpendicular nor parallel",
         "type": "adj."
+      },
+      {
+        "definition": "having the  not perpendicular to the base",
+        "type": "adj."
+      },
+      {
+        "definition": "having no right angle",
+        "type": "adj."
+      },
+      {
+        "definition": "not straightforward",
+        "type": "adj."
+      },
+      {
+        "definition": "situated at an angle and having one end not inserted on bone",
+        "type": "adj."
+      },
+      {
+        "definition": "taken from an airplane with the camera directed horizontally or diagonally downward",
+        "type": "adj."
+      },
+      {
+        "definition": "something (such as a line) that is oblique",
+        "type": "n."
+      },
+      {
+        "definition": "any of several oblique muscles",
+        "type": "n."
+      },
+      {
+        "definition": "at a 45 degree angle",
+        "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "oblique",
+      "obliquely",
+      "obliqueness",
+      "obliquenesses",
+      "obliques"
+    ]
   },
   "obliterate": {
     "def": [
       {
-        "definition": "To cause to disappear.",
+        "definition": "to remove utterly from recognition or memory",
+        "type": "v."
+      },
+      {
+        "definition": "to remove from existence destroy utterly all trace, indication, or significance of",
+        "type": "v."
+      },
+      {
+        "definition": "to cause (something, such as a bodily part, a scar, or a duct conveying body fluid) to disappear or collapse",
+        "type": "v."
+      },
+      {
+        "definition": "to make undecipherable or  by obscuring or wearing away",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "obliterate",
+      "obliterated",
+      "obliterates",
+      "obliterating",
+      "obliteration",
+      "obliterations",
+      "obliterator",
+      "obliterators"
+    ]
   },
   "oblivion": {
     "def": [
       {
-        "definition": "The state of having passed out of the memory or of being utterly forgotten.",
+        "definition": "the fact or condition of not remembering a state marked by lack of awareness or consciousness",
+        "type": "n."
+      },
+      {
+        "definition": "the condition or state of being forgotten or unknown",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being destroyed",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oblivion",
+      "oblivions"
+    ]
   },
   "oblong": {
     "def": [
       {
-        "definition": "Longer than broad: applied most commonly to rectangular objects considerably",
+        "definition": "deviating from a square, circular, or spherical form by elongation in one dimension  {dx}see",
         "type": "adj."
+      },
+      {
+        "definition": "something that is",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oblong",
+      "oblongs"
+    ]
   },
   "obnoxious": {
     "def": [
       {
-        "definition": "Detestable.",
+        "definition": "odiously or disgustingly objectionable highly offensive",
+        "type": "adj."
+      },
+      {
+        "definition": "exposed to something unpleasant or harmful",
+        "type": "adj."
+      },
+      {
+        "definition": "deserving of",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obnoxious",
+      "obnoxiously",
+      "obnoxiousness",
+      "obnoxiousnesses"
+    ]
   },
   "obsequies": {
     "def": [
@@ -150,142 +339,292 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obsequies"
+    ]
   },
   "obsequious": {
     "def": [
       {
-        "definition": "Showing a servile readiness to fall in with the wishes or will of another.",
+        "definition": "marked by or exhibiting a  attentiveness",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obsequious",
+      "obsequiously",
+      "obsequiousness",
+      "obsequiousnesses"
+    ]
   },
   "observance": {
     "def": [
       {
-        "definition": "A traditional form or customary act.",
+        "definition": "a customary practice, rite, or ceremony",
+        "type": "n."
+      },
+      {
+        "definition": "a rule governing members of a religious order",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of following a custom, rule, or law",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of watching",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "observance",
+      "observances"
+    ]
   },
   "observant": {
     "def": [
       {
-        "definition": "Quick to notice.",
+        "definition": "paying strict attention",
         "type": "adj."
+      },
+      {
+        "definition": "careful in observing rites, laws, or customs",
+        "type": "adj."
+      },
+      {
+        "definition": "an assiduous or obsequious servant or attendant",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "observant",
+      "observantly",
+      "observants"
+    ]
   },
   "observatory": {
     "def": [
       {
-        "definition": "A building designed for systematic astronomical observations.",
+        "definition": "a building or place given over to or equipped for observation of natural phenomena (as in astronomy)",
+        "type": "n."
+      },
+      {
+        "definition": "a situation or structure commanding a wide view",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "observatories",
+      "observatory"
+    ]
   },
   "obsolescence": {
     "def": [
       {
-        "definition": "The condition or process of gradually falling into disuse.",
+        "definition": "the process of becoming obsolete or the condition of being nearly obsolete",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obsolescence",
+      "obsolescences"
+    ]
   },
   "obsolescent": {
     "def": [
       {
-        "definition": "Passing out of use, as a word.",
+        "definition": "going out of use becoming obsolete",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obsolescent",
+      "obsolescently"
+    ]
   },
   "obsolete": {
     "def": [
       {
-        "definition": "No longer practiced or accepted.",
+        "definition": "no longer in use or no longer useful",
         "type": "adj."
+      },
+      {
+        "definition": "of a kind or style no longer",
+        "type": "adj."
+      },
+      {
+        "definition": "indistinct or imperfect as compared with a corresponding part in related organisms ,",
+        "type": "adj."
+      },
+      {
+        "definition": "to make (something) old-fashioned or no longer useful make obsolete",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "obsolete",
+      "obsoletely",
+      "obsoleteness",
+      "obsoletenesses",
+      "obsoleted",
+      "obsoletes",
+      "obsoleting"
+    ]
   },
   "obstetrician": {
     "def": [
       {
-        "definition": "A practitioner of midwifery.",
+        "definition": "a physician specializing in obstetrics",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obstetrician",
+      "obstetricians"
+    ]
   },
   "obstetrics": {
     "def": [
       {
-        "definition": "The branch of medical science concerned with the treatment and care of women",
+        "definition": "a branch of medical science that deals with pregnancy, childbirth, and the postpartum period",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obstetrics"
+    ]
   },
   "obstinacy": {
     "def": [
       {
-        "definition": "Stubborn adherence to opinion, arising from conceit or the desire to have",
+        "definition": "the quality or state of being",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being difficult to remedy, relieve, or subdue",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of being obstinate",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obstinacies",
+      "obstinacy"
+    ]
   },
   "obstreperous": {
     "def": [
       {
-        "definition": "Boisterous.",
+        "definition": "marked by  or aggressive noisiness",
+        "type": "adj."
+      },
+      {
+        "definition": "stubbornly resistant to control",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obstreperous",
+      "obstreperously",
+      "obstreperousness",
+      "obstreperousnesses"
+    ]
   },
   "obstruct": {
     "def": [
       {
-        "definition": "To fill with impediments so as to prevent passage, either wholly or in part.",
+        "definition": "to block or close up by an obstacle",
+        "type": "v."
+      },
+      {
+        "definition": "to hinder from passage, action, or operation",
+        "type": "v."
+      },
+      {
+        "definition": "to cut off from sight",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "obstruct",
+      "obstructed",
+      "obstructing",
+      "obstructive",
+      "obstructiveness",
+      "obstructivenesses",
+      "obstructives",
+      "obstructor",
+      "obstructors",
+      "obstructs"
+    ]
   },
   "obstruction": {
     "def": [
       {
-        "definition": "Hindrance.",
+        "definition": "the state of being",
+        "type": "n."
+      },
+      {
+        "definition": "an act of obstructing",
+        "type": "n."
+      },
+      {
+        "definition": "something that obstructs",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "obstruction",
+      "obstructions"
+    ]
   },
   "obtrude": {
     "def": [
       {
-        "definition": "To be pushed or to push oneself into undue prominence.",
+        "definition": "to thrust out",
+        "type": "v."
+      },
+      {
+        "definition": "to force or impose (oneself, one's ideas, etc.) without warrant or request",
+        "type": "v."
+      },
+      {
+        "definition": "to become unduly prominent or interfering",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "obtrude",
+      "obtruded",
+      "obtruder",
+      "obtruders",
+      "obtrudes",
+      "obtruding"
+    ]
   },
   "obtrusive": {
     "def": [
       {
-        "definition": "Tending to be pushed or to push oneself into undue prominence.",
+        "definition": "forward in manner or conduct",
+        "type": "adj."
+      },
+      {
+        "definition": "undesirably prominent",
+        "type": "adj."
+      },
+      {
+        "definition": "thrust out",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "obtrusive",
+      "obtrusively",
+      "obtrusiveness",
+      "obtrusivenesses"
+    ]
   },
   "obvert": {
     "def": [
@@ -294,25 +633,63 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "obvert"
+    ]
   },
   "obviate": {
     "def": [
       {
-        "definition": "To clear away or provide for, as an objection or difficulty.",
+        "definition": "to anticipate and prevent (something, such as a situation) or make (an action) unnecessary",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "obviate",
+      "obviated",
+      "obviates",
+      "obviating",
+      "obviation",
+      "obviations"
+    ]
   },
   "occasion": {
     "def": [
       {
-        "definition": "An important event or celebration.",
+        "definition": "a special event or ceremony",
+        "type": "n."
+      },
+      {
+        "definition": "a favorable opportunity or",
+        "type": "n."
+      },
+      {
+        "definition": "a state of affairs that provides a ground or reason",
+        "type": "n."
+      },
+      {
+        "definition": "an occurrence or condition that brings something about",
+        "type": "n."
+      },
+      {
+        "definition": "a time at which something happens",
+        "type": "n."
+      },
+      {
+        "definition": "a need arising from a particular circumstance",
+        "type": "n."
+      },
+      {
+        "definition": "a personal want or need",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "occasion",
+      "occasions",
+      "occasioned",
+      "occasioning"
+    ]
   },
   "occident": {
     "def": [
@@ -321,88 +698,214 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "occident"
+    ]
   },
   "occlude": {
     "def": [
       {
-        "definition": "To absorb, as a gas by a metal.",
+        "definition": "to close up or block off",
+        "type": "v."
+      },
+      {
+        "definition": "to come into contact with cusps of the opposing teeth fitting together",
+        "type": "v."
+      },
+      {
+        "definition": "to become occluded",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "occlude",
+      "occluded",
+      "occludes",
+      "occluding"
+    ]
   },
   "occult": {
     "def": [
       {
-        "definition": "Existing but not immediately perceptible.",
+        "definition": "to shut off from view or exposure ,",
+        "type": "v."
+      },
+      {
+        "definition": "not revealed",
         "type": "adj."
+      },
+      {
+        "definition": "not easily apprehended or understood ,",
+        "type": "adj."
+      },
+      {
+        "definition": "hidden from view",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to supernatural or supernormal powers or practices or the knowledge of them",
+        "type": "adj."
+      },
+      {
+        "definition": "not manifest or detectable by clinical methods alone",
+        "type": "adj."
+      },
+      {
+        "definition": "matters regarded as involving the action or influence of supernatural or supernormal powers or some secret knowledge of them",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "occult",
+      "occulted",
+      "occulter",
+      "occulters",
+      "occulting",
+      "occults",
+      "occultly"
+    ]
   },
   "occupant": {
     "def": [
       {
-        "definition": "A tenant in possession of property, as distinguished from the actual owner.",
+        "definition": "one who acquires title by occupancy",
+        "type": "n."
+      },
+      {
+        "definition": "one who occupies a particular place",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "occupant",
+      "occupants"
+    ]
   },
   "occurrence": {
     "def": [
       {
-        "definition": "A happening.",
+        "definition": "something that",
+        "type": "n."
+      },
+      {
+        "definition": "the action or fact of happening or occurring",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "occurrence",
+      "occurrences"
+    ]
   },
   "octagon": {
     "def": [
       {
-        "definition": "A figure with eight sides and eight angles.",
+        "definition": "a polygon of eight angles and eight sides",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "octagon",
+      "octagonal",
+      "octagonally",
+      "octagons"
+    ]
   },
   "octave": {
     "def": [
       {
-        "definition": "A note at this interval above or below any other, considered in relation to that",
+        "definition": "an 8-day period of observances beginning with a festival day",
+        "type": "n."
+      },
+      {
+        "definition": "a stanza of eight lines",
+        "type": "n."
+      },
+      {
+        "definition": "the first eight lines of an Italian sonnet",
+        "type": "n."
+      },
+      {
+        "definition": "a musical interval embracing eight diatonic degrees",
+        "type": "n."
+      },
+      {
+        "definition": "a tone or note at this interval",
+        "type": "n."
+      },
+      {
+        "definition": "the harmonic combination of two tones an octave apart",
+        "type": "n."
+      },
+      {
+        "definition": "the whole series of notes, tones, or digitals comprised within this interval and forming the unit of the modern scale",
+        "type": "n."
+      },
+      {
+        "definition": "an organ stop giving tones an octave above those corresponding to the keys",
+        "type": "n."
+      },
+      {
+        "definition": "the interval between two frequencies (as in an electromagnetic spectrum) having a ratio of 2 to 1",
+        "type": "n."
+      },
+      {
+        "definition": "a group of eight",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "octave",
+      "octaves"
+    ]
   },
   "octavo": {
     "def": [
       {
-        "definition": "A book, or collection of paper in which the sheets are so folded as to make",
+        "definition": "the size of a piece of paper cut eight from a sheet",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "octavo",
+      "octavos"
+    ]
   },
   "octogenarian": {
     "def": [
       {
-        "definition": "A person of between eighty and ninety years.",
-        "type": "adj."
+        "definition": "a person whose age is in the eighties",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "octogenarian",
+      "octogenarians"
+    ]
   },
   "ocular": {
     "def": [
       {
-        "definition": "Of or pertaining to the eye.",
+        "definition": "done or perceived by the eye",
+        "type": "adj."
+      },
+      {
+        "definition": "based on what has been seen",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the eye",
+        "type": "adj."
+      },
+      {
+        "definition": "resembling an eye in form or function",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ocular",
+      "oculars"
+    ]
   },
   "oculist": {
     "def": [
@@ -411,52 +914,95 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oculist"
+    ]
   },
   "oddity": {
     "def": [
       {
-        "definition": "An eccentricity.",
+        "definition": "an odd person, thing, event, or trait",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being odd",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oddities",
+      "oddity"
+    ]
   },
   "ode": {
     "def": [
       {
-        "definition": "The form of lyric poetry anciently intended to be sung.",
+        "definition": "a lyric poem usually marked by exaltation of feeling and style, varying length of line, and complexity of stanza forms",
+        "type": "n."
+      },
+      {
+        "definition": "something that shows respect for or celebrates the worth or influence of another",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ode",
+      "odes",
+      "odist",
+      "odists"
+    ]
   },
   "odious": {
     "def": [
       {
-        "definition": "Hateful.",
+        "definition": "arousing or deserving hatred or",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "odious",
+      "odiously",
+      "odiousness",
+      "odiousnesses"
+    ]
   },
   "odium": {
     "def": [
       {
-        "definition": "A feeling of extreme repugnance, or of dislike and disgust.",
+        "definition": "the state or fact of being subjected to hatred and contempt as a result of a despicable act or blameworthy circumstance",
+        "type": "n."
+      },
+      {
+        "definition": "hatred and condemnation accompanied by loathing or contempt",
+        "type": "n."
+      },
+      {
+        "definition": "disrepute or infamy attached to something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "odium",
+      "odiums"
+    ]
   },
   "odoriferous": {
     "def": [
       {
-        "definition": "Having or diffusing an odor or scent, especially an agreeable one.",
+        "definition": "yielding an odor",
+        "type": "adj."
+      },
+      {
+        "definition": "morally offensive",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "odoriferous",
+      "odoriferously",
+      "odoriferousness",
+      "odoriferousnesses"
+    ]
   },
   "odorous": {
     "def": [
@@ -465,79 +1011,221 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "odorous"
+    ]
   },
   "off": {
     "def": [
       {
-        "definition": "Farther or more distant.",
+        "definition": "from a course",
+        "type": "adv."
+      },
+      {
+        "definition": "into an unconscious state",
+        "type": "adv."
+      },
+      {
+        "definition": "so as to be separated from support  or close contact",
+        "type": "adv."
+      },
+      {
+        "definition": "so as to be divided",
+        "type": "adv."
+      },
+      {
+        "definition": "to a state of discontinuance or suspension",
+        "type": "adv."
+      },
+      {
+        "definition": "in absence from or suspension of regular work or service",
+        "type": "adv."
+      },
+      {
+        "definition": "to seaward of",
+        "type": "prep."
+      },
+      {
+        "definition": "from the possession or charge of",
+        "type": "prep."
+      },
+      {
+        "definition": "below the usual standard or level of",
+        "type": "prep."
+      },
+      {
+        "definition": "more removed or distant",
         "type": "adj."
+      },
+      {
+        "definition": "started on the way",
+        "type": "adj."
+      },
+      {
+        "definition": "not taking place or staying in effect",
+        "type": "adj."
+      },
+      {
+        "definition": "not operating",
+        "type": "adj."
+      },
+      {
+        "definition": "not placed so as to permit operation",
+        "type": "adj."
+      },
+      {
+        "definition": "not corresponding to fact",
+        "type": "adj."
+      },
+      {
+        "definition": "not entirely sane",
+        "type": "adj."
+      },
+      {
+        "definition": "spent off duty",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by a periodic decline in activity or business",
+        "type": "adj."
+      },
+      {
+        "definition": "to go away",
+        "type": "v."
+      },
+      {
+        "definition": "office; officer; official",
+        "type": "abbreviation"
       }
     ],
-    "forms": []
+    "forms": [
+      "off",
+      "offed",
+      "offing",
+      "offs"
+    ]
   },
   "offhand": {
     "def": [
       {
-        "definition": "Without preparation.",
+        "definition": "without premeditation or preparation",
         "type": "adv."
+      },
+      {
+        "definition": "done or made offhand",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "offhand"
+    ]
   },
   "officiate": {
     "def": [
       {
-        "definition": "To act as an officer or leader.",
+        "definition": "to perform a ceremony, function, or duty",
+        "type": "v."
+      },
+      {
+        "definition": "to act in an official capacity act as an official (as at a sports contest)",
+        "type": "v."
+      },
+      {
+        "definition": "to carry out (an official duty or function)",
+        "type": "v."
+      },
+      {
+        "definition": "to serve as a leader or celebrant of (a ceremony)",
+        "type": "v."
+      },
+      {
+        "definition": "to administer the rules of (a game or sport) especially as a referee or umpire",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "officiate",
+      "officiated",
+      "officiates",
+      "officiating",
+      "officiation",
+      "officiations"
+    ]
   },
   "officious": {
     "def": [
       {
-        "definition": "Intermeddling with what is not one's concern.",
+        "definition": "volunteering one's services where they are neither asked nor needed",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "officious",
+      "officiously",
+      "officiousness",
+      "officiousnesses"
+    ]
   },
   "offshoot": {
     "def": [
       {
-        "definition": "Something that branches off from the parent stock.",
+        "definition": "a collateral or derived branch, descendant, or member",
+        "type": "n."
+      },
+      {
+        "definition": "a lateral branch (as of a mountain range)",
+        "type": "n."
+      },
+      {
+        "definition": "a branch of a main stem especially of a plant",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "offshoot",
+      "offshoots"
+    ]
   },
   "ogre": {
     "def": [
       {
-        "definition": "A demon or monster that was supposed to devour human beings.",
+        "definition": "a hideous giant of fairy tales and folklore that feeds on human beings",
+        "type": "n."
+      },
+      {
+        "definition": "a dreaded person or object",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ogre",
+      "ogreish",
+      "ogres"
+    ]
   },
   "ointment": {
     "def": [
       {
-        "definition": "A fatty preparation with a butter-like consistency in which a medicinal",
+        "definition": "a salve or unguent for application to the skin",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ointment",
+      "ointments"
+    ]
   },
   "olfactory": {
     "def": [
       {
-        "definition": "of or pertaining to the sense of smell.",
+        "definition": "of or relating to the sense of smell",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "olfactorily",
+      "olfactory"
+    ]
   },
   "olive-branch": {
     "def": [
@@ -546,115 +1234,184 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "olive-branch"
+    ]
   },
   "ominous": {
     "def": [
       {
-        "definition": "Portentous.",
+        "definition": "being or exhibiting an omen",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ominous",
+      "ominously",
+      "ominousness",
+      "ominousnesses"
+    ]
   },
   "omission": {
     "def": [
       {
-        "definition": "Exclusion.",
+        "definition": "something neglected or left undone",
+        "type": "n."
+      },
+      {
+        "definition": "toward or neglect of duty",
+        "type": "n."
+      },
+      {
+        "definition": "the act of omitting the state of being omitted",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "omission",
+      "omissions"
+    ]
   },
   "omnipotence": {
     "def": [
       {
-        "definition": "Unlimited and universal power.",
+        "definition": "the quality or state of being omnipotent",
+        "type": "n."
+      },
+      {
+        "definition": "an agency or force of unlimited power",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "omnipotence",
+      "omnipotences"
+    ]
   },
   "omnipotent": {
     "def": [
       {
-        "definition": "Possessed of unlimited and universal power.",
+        "definition": "having virtually unlimited  or influence",
         "type": "adj."
+      },
+      {
+        "definition": "one who has unlimited power or authority one who is omnipotent",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Omnipotent",
+      "Omnipotents",
+      "omnipotent",
+      "omnipotently",
+      "omnipotents"
+    ]
   },
   "omniscience": {
     "def": [
       {
-        "definition": "Unlimited or infinite knowledge.",
+        "definition": "the quality or state of being",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "omniscience",
+      "omnisciences"
+    ]
   },
   "omniscient": {
     "def": [
       {
-        "definition": "Characterized by unlimited or infinite knowledge.",
+        "definition": "having infinite awareness, understanding, and insight",
+        "type": "adj."
+      },
+      {
+        "definition": "possessed of universal or complete knowledge",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "omniscient",
+      "omnisciently"
+    ]
   },
   "omnivorous": {
     "def": [
       {
-        "definition": "Eating or living upon food of all kinds indiscriminately.",
+        "definition": "feeding on both animal and vegetable substances",
+        "type": "adj."
+      },
+      {
+        "definition": "avidly taking in everything as if devouring or consuming",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "omnivorous",
+      "omnivorously"
+    ]
   },
   "onerous": {
     "def": [
       {
-        "definition": "Burdensome or oppressive.",
+        "definition": "involving, imposing, or constituting a",
+        "type": "adj."
+      },
+      {
+        "definition": "having legal obligations that outweigh the advantages",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "onerous",
+      "onerously",
+      "onerousness",
+      "onerousnesses"
+    ]
   },
   "onrush": {
     "def": [
       {
-        "definition": "Onset.",
+        "definition": "a rushing forward or onward",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "onrush",
+      "onrushes",
+      "onrushing"
+    ]
   },
   "onset": {
-    "def": [
-      {
-        "definition": "An assault, especially of troops, upon an enemy or fortification.",
-        "type": "n."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "onset",
+      "onsets"
+    ]
   },
   "onslaught": {
     "def": [
       {
-        "definition": "A violent onset.",
+        "definition": "an especially fierce attack",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "onslaught",
+      "onslaughts"
+    ]
   },
   "onus": {
     "def": [
       {
-        "definition": "A burden or responsibility.",
+        "definition": "a disagreeable necessity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "onus",
+      "onuses"
+    ]
   },
   "opalescence": {
     "def": [
@@ -663,277 +1420,685 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "opalescence"
+    ]
   },
   "opaque": {
     "def": [
       {
-        "definition": "Impervious to light.",
+        "definition": "blocking the passage of radiant energy and especially light exhibiting opacity  {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "hard to understand or explain",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "opaque",
+      "opaquely",
+      "opaqueness",
+      "opaquenesses",
+      "opaquer",
+      "opaques",
+      "opaquest"
+    ]
   },
   "operate": {
     "def": [
       {
-        "definition": "To put in action and supervise the working of.",
+        "definition": "to perform a function exert power or influence",
+        "type": "v."
+      },
+      {
+        "definition": "to produce an appropriate effect",
+        "type": "v."
+      },
+      {
+        "definition": "to perform an operation or a series of operations",
+        "type": "v."
+      },
+      {
+        "definition": "to perform surgery",
+        "type": "v."
+      },
+      {
+        "definition": "to carry on a military or naval action or mission",
+        "type": "v."
+      },
+      {
+        "definition": "to follow a course of conduct that is often irregular",
+        "type": "v."
+      },
+      {
+        "definition": "to drive a vehicle",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to function",
+        "type": "v."
+      },
+      {
+        "definition": "to put or keep in operation",
+        "type": "v."
+      },
+      {
+        "definition": "to perform an operation on",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "operate",
+      "operated",
+      "operates",
+      "operating"
+    ]
   },
   "operative": {
     "def": [
       {
-        "definition": "Active.",
+        "definition": "producing an appropriate effect",
         "type": "adj."
+      },
+      {
+        "definition": "most significant or essential",
+        "type": "adj."
+      },
+      {
+        "definition": "exerting force or influence",
+        "type": "adj."
+      },
+      {
+        "definition": "having to do with physical operations (as of machines)",
+        "type": "adj."
+      },
+      {
+        "definition": "based on or consisting of an operation",
+        "type": "adj."
+      },
+      {
+        "definition": "a secret agent",
+        "type": "n."
+      },
+      {
+        "definition": "a person who works toward achieving the objectives of a larger interest",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "operative",
+      "operatively",
+      "operativeness",
+      "operativenesses",
+      "operatives"
+    ]
   },
   "operator": {
     "def": [
       {
-        "definition": "One who works with or controls some machine or scientific apparatus.",
+        "definition": "one that operates a machine or device",
+        "type": "n."
+      },
+      {
+        "definition": "one that operates a business",
+        "type": "n."
+      },
+      {
+        "definition": "one that performs surgical operations",
+        "type": "n."
+      },
+      {
+        "definition": "one that deals in stocks or commodities",
+        "type": "n."
+      },
+      {
+        "definition": "a shrewd and skillful person who knows how to circumvent restrictions or difficulties",
+        "type": "n."
+      },
+      {
+        "definition": "something and especially a symbol that denotes or performs a mathematical or logical operation",
+        "type": "n."
+      },
+      {
+        "definition": "a mathematical function",
+        "type": "n."
+      },
+      {
+        "definition": "a binding site in a DNA chain at which a genetic repressor binds to inhibit the initiation of transcription of messenger RNA by one or more nearby structural genes  {dx}compare",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "operator",
+      "operatorless",
+      "operators"
+    ]
   },
   "operetta": {
     "def": [
       {
-        "definition": "A humorous play in dialogue and music, of more than one act.",
+        "definition": "a usually romantic comic opera that includes songs and dancing",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "operetta",
+      "operettas",
+      "operettist",
+      "operettists"
+    ]
   },
   "opinion": {
     "def": [
       {
-        "definition": "A conclusion or judgment held with confidence, but falling short of positive",
+        "definition": "a view, judgment, or appraisal formed in the mind about a particular matter",
+        "type": "n."
+      },
+      {
+        "definition": "belief stronger than impression and less strong than positive knowledge",
+        "type": "n."
+      },
+      {
+        "definition": "a generally held view",
+        "type": "n."
+      },
+      {
+        "definition": "a formal written expression of judgment or advice by an expert",
+        "type": "n."
+      },
+      {
+        "definition": "the formal expression (as by a judge, court, or referee) of the legal reasons and principles upon which a legal decision is based",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "opinion",
+      "opinioned",
+      "opinions"
+    ]
   },
   "opponent": {
     "def": [
       {
-        "definition": "One who supports the opposite side in a debate, discussion, struggle, or",
+        "definition": "one that takes an opposite position (as in a debate, contest, or conflict)",
         "type": "n."
+      },
+      {
+        "definition": "a muscle that opposes or  and limits the action of another",
+        "type": "n."
+      },
+      {
+        "definition": "situated in front",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "opponent",
+      "opponents"
+    ]
   },
   "opportune": {
     "def": [
       {
-        "definition": "Especially fit as occurring, said, or done at the right moment.",
+        "definition": "suitable or convenient for a particular occurrence",
+        "type": "adj."
+      },
+      {
+        "definition": "occurring at an appropriate time",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "opportune",
+      "opportunely",
+      "opportuneness",
+      "opportunenesses"
+    ]
   },
   "opportunist": {
     "def": [
       {
-        "definition": "One who takes advantage of circumstances to gain his ends.",
+        "definition": "one that is  or that practices",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "opportunist",
+      "opportunists"
+    ]
   },
   "opportunity": {
     "def": [
       {
-        "definition": "Favorable or advantageous chance or opening.",
+        "definition": "a favorable  of",
+        "type": "n."
+      },
+      {
+        "definition": "a good chance for advancement or progress",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "opportunities",
+      "opportunity"
+    ]
   },
   "opposite": {
     "def": [
       {
-        "definition": "Radically different or contrary in action or movement.",
+        "definition": "set over against something that is at the other end or side of an intervening {dx_def}see {/dx_def} line or space",
         "type": "adj."
+      },
+      {
+        "definition": "situated in pairs on an axis {dx_def}see {/dx_def} with each member being separated from the other by half the circumference {dx_def}see {/dx_def} of the axis  {dx}compare",
+        "type": "adj."
+      },
+      {
+        "definition": "located across from something",
+        "type": "adj."
+      },
+      {
+        "definition": "occupying an opposing and often  position",
+        "type": "adj."
+      },
+      {
+        "definition": "diametrically different (as in nature or character)",
+        "type": "adj."
+      },
+      {
+        "definition": "contrary to one another or to a thing specified",
+        "type": "adj."
+      },
+      {
+        "definition": "being the other of a pair that are corresponding {dx_def}see {/dx_def} or complementary {dx_def}see {/dx_def} in position, function, or nature {dx}see also",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being the side of a baseball field that is near the first base line for a right-handed batter and near the third base line for a left-handed batter",
+        "type": "adj."
+      },
+      {
+        "definition": "something that is opposed to some other often specified thing",
+        "type": "n."
+      },
+      {
+        "definition": "on or to an opposite side",
+        "type": "adv."
+      },
+      {
+        "definition": "across from and usually facing or on the same level with",
+        "type": "prep."
+      },
+      {
+        "definition": "in a role complementary to",
+        "type": "prep."
       }
     ],
-    "forms": []
+    "forms": [
+      "opposite",
+      "oppositely",
+      "oppositeness",
+      "oppositenesses",
+      "opposites"
+    ]
   },
   "opprobrium": {
     "def": [
       {
-        "definition": "The state of being scornfully reproached or accused of evil.",
+        "definition": "something that brings disgrace",
+        "type": "n."
+      },
+      {
+        "definition": "public disgrace or ill fame that follows from conduct considered grossly wrong or vicious",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "opprobrium",
+      "opprobriums"
+    ]
   },
   "optic": {
     "def": [
       {
-        "definition": "Pertaining to the eye or vision.",
+        "definition": "of or relating to vision or the eye",
+        "type": "adj."
+      },
+      {
+        "definition": "any of the elements (such as lenses, mirrors, or light guides) of an optical instrument or system",
+        "type": "n."
+      },
+      {
+        "definition": "an optical instrument",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "optic",
+      "optics"
+    ]
   },
   "optician": {
     "def": [
       {
-        "definition": "One who makes or deals in optical instruments or eye-glasses.",
+        "definition": "a maker of or dealer in optical items and instruments",
+        "type": "n."
+      },
+      {
+        "definition": "a person who reads prescriptions for visual correction, orders lenses, and dispenses eyeglasses and contact lenses {dx}compare ,",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "optician",
+      "opticians"
+    ]
   },
   "optics": {
     "def": [
       {
-        "definition": "The science that treats of light and vision, and all that is connected with",
-        "type": "n."
+        "definition": "a science that deals with the genesis and propagation of light, the changes that it undergoes and produces, and other phenomena closely associated with it  {dx}see also",
+        "type": "n. pl."
+      },
+      {
+        "definition": "the aspects of an action, policy, or decision (as in politics or business) that relate to public perceptions",
+        "type": "n. pl."
       }
     ],
-    "forms": []
+    "forms": [
+      "optics"
+    ]
   },
   "optimism": {
     "def": [
       {
-        "definition": "The view that everything in nature and the history of mankind is ordered for",
+        "definition": "a doctrine that this world is the best possible world",
+        "type": "n."
+      },
+      {
+        "definition": "an inclination to put the most favorable construction upon actions and events or to anticipate the best possible outcome",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "optimism",
+      "optimisms"
+    ]
   },
   "option": {
     "def": [
       {
-        "definition": "The right, power, or liberty of choosing.",
+        "definition": "an act of choosing",
         "type": "n."
+      },
+      {
+        "definition": "the power or right to choose freedom of choice",
+        "type": "n."
+      },
+      {
+        "definition": "a privilege of demanding fulfillment of a contract on any day within a specified time",
+        "type": "n."
+      },
+      {
+        "definition": "a contract conveying a right to buy or sell designated securities, commodities, or property interests at a specified price during a stipulated period",
+        "type": "n."
+      },
+      {
+        "definition": "a right of an insured person to choose the form in which payments due on a policy shall be made or applied",
+        "type": "n."
+      },
+      {
+        "definition": "an alternative course of action",
+        "type": "n."
+      },
+      {
+        "definition": "an item that is offered in addition to or in place of standard equipment",
+        "type": "n."
+      },
+      {
+        "definition": "an offensive football play in which a back {dx_def}see {/dx_def} may choose whether to pass or run with the ball",
+        "type": "n."
+      },
+      {
+        "definition": "to grant or take an option on",
+        "type": "v."
+      },
+      {
+        "definition": "to acquire the exclusive right to use (an author's work) as the basis for a movie",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "option",
+      "options",
+      "optioned",
+      "optioning"
+    ]
   },
   "optometry": {
     "def": [
       {
-        "definition": "Measurement of the powers of vision.",
+        "definition": "the health care profession concerned especially with examining the eye for defects and faults of refraction, with prescribing correctional lenses or eye exercises, with diagnosing diseases of the eye, and with treating such diseases or referring them for treatment",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "optometric",
+      "optometries",
+      "optometry"
+    ]
   },
   "opulence": {
-    "def": [
-      {
-        "definition": "Affluence.",
-        "type": "n."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "opulence",
+      "opulences"
+    ]
   },
   "opulent": {
     "def": [
       {
-        "definition": "Wealthy.",
+        "definition": "amply or plentifully provided or fashioned often to the point of",
+        "type": "adj."
+      },
+      {
+        "definition": "having a large estate or property",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "opulent",
+      "opulently"
+    ]
   },
   "oral": {
     "def": [
       {
-        "definition": "Uttered through the mouth.",
+        "definition": "uttered by the mouth or in words",
         "type": "adj."
+      },
+      {
+        "definition": "using speech or the lips especially in teaching people who are deaf",
+        "type": "adj."
+      },
+      {
+        "definition": "of, given through, or involving the mouth",
+        "type": "adj."
+      },
+      {
+        "definition": "being on or relating to the same surface as the mouth",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characterized by the first stage of psychosexual development in psychoanalytic theory during which libidinal gratification is derived from intake (as of food), by sucking, and later by biting",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characterized by personality traits of passive dependency and aggressiveness",
+        "type": "adj."
+      },
+      {
+        "definition": "an oral examination",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oral",
+      "oralities",
+      "orality",
+      "orals"
+    ]
   },
   "orate": {
     "def": [
       {
-        "definition": "To deliver an elaborate or formal public speech.",
+        "definition": "to speak in an elevated and often pompous manner",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "orate",
+      "orated",
+      "orates",
+      "orating"
+    ]
   },
   "oration": {
     "def": [
       {
-        "definition": "An elaborate or formal public speech.",
+        "definition": "an elaborate discourse {dx_def}see {/dx_def} delivered in a formal and dignified manner",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oration",
+      "orations"
+    ]
   },
   "orator": {
     "def": [
       {
-        "definition": "One who delivers an elaborate or formal speech.",
+        "definition": "one who delivers an",
+        "type": "n."
+      },
+      {
+        "definition": "one distinguished for skill and power as a public speaker",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "orator",
+      "orators"
+    ]
   },
   "oratorio": {
     "def": [
       {
-        "definition": "A composition for solo voices, chorus, and orchestra, generally taken from the",
+        "definition": "a lengthy choral work usually of a religious nature consisting chiefly of recitatives, arias, and choruses without action or scenery",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "oratorio",
+      "oratorios"
+    ]
   },
   "oratory": {
     "def": [
       {
-        "definition": "The art of public speaking.",
+        "definition": "a place of prayer",
+        "type": "n."
+      },
+      {
+        "definition": "an Oratorian congregation, house, or church",
+        "type": "n."
+      },
+      {
+        "definition": "the art of speaking in public eloquently or effectively",
+        "type": "n."
+      },
+      {
+        "definition": "public speaking that employs oratory",
+        "type": "n."
+      },
+      {
+        "definition": "public speaking that is characterized by the use of stock phrases and that appeals chiefly to the emotions",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Oratories",
+      "Oratory",
+      "oratories",
+      "oratory"
+    ]
   },
   "ordeal": {
     "def": [
       {
-        "definition": "Anything that severely tests courage, strength, patience, conscience, etc.",
+        "definition": "a primitive means used to determine guilt or innocence by submitting the accused to dangerous or painful tests believed to be under supernatural control",
+        "type": "n."
+      },
+      {
+        "definition": "a severe trial or experience",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ordeal",
+      "ordeals"
+    ]
   },
   "ordinal": {
     "def": [
       {
-        "definition": "That form of the numeral that shows the order of anything in a series, as",
+        "definition": "a book of rites for the ordination of deacons, priests, and bishops",
         "type": "n."
+      },
+      {
+        "definition": "of a specified order or rank in a series",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a taxonomic order",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Ordinal",
+      "Ordinals",
+      "ordinal",
+      "ordinals"
+    ]
   },
   "ordination": {
     "def": [
       {
-        "definition": "A consecration to the ministry.",
+        "definition": "the act or an instance of ordaining the state of being ordained",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ordination",
+      "ordinations"
+    ]
   },
   "ordnance": {
     "def": [
       {
-        "definition": "A general name for all kinds of weapons and their appliances used in war.",
+        "definition": "military supplies including weapons, ammunition, combat vehicles, and maintenance tools and equipment",
+        "type": "n."
+      },
+      {
+        "definition": "a service of the army charged with the procuring, distributing, and safekeeping of ordnance",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ordnance",
+      "ordnances"
+    ]
   },
   "orgies": {
     "def": [
@@ -942,97 +2107,262 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "orgies"
+    ]
   },
   "origin": {
     "def": [
       {
-        "definition": "The beginning of that which becomes or is made to be.",
+        "definition": "rise, beginning, or derivation from a source",
+        "type": "n."
+      },
+      {
+        "definition": "the point at which something begins or rises or from which it derives",
+        "type": "n."
+      },
+      {
+        "definition": "the more fixed, central, or larger attachment of a muscle",
+        "type": "n."
+      },
+      {
+        "definition": "the intersection of coordinate axes",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "origin",
+      "origins"
+    ]
   },
   "original": {
     "def": [
       {
-        "definition": "Not copied nor produced by imitation.",
+        "definition": "of, relating to, or constituting an origin or beginning",
         "type": "adj."
+      },
+      {
+        "definition": "not secondary, derivative, or imitative",
+        "type": "adj."
+      },
+      {
+        "definition": "being the first instance or source from which a copy, reproduction, or translation is or can be made",
+        "type": "adj."
+      },
+      {
+        "definition": "independent and creative in thought or action",
+        "type": "adj."
+      },
+      {
+        "definition": "that from which a copy, reproduction, or translation is made",
+        "type": "n."
+      },
+      {
+        "definition": "a work composed firsthand",
+        "type": "n."
+      },
+      {
+        "definition": "a person of fresh initiative or inventive capacity",
+        "type": "n."
+      },
+      {
+        "definition": "a unique or eccentric person",
+        "type": "n."
+      },
+      {
+        "definition": "the source or cause from which something arises",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "original",
+      "originals"
+    ]
   },
   "originate": {
     "def": [
       {
-        "definition": "To cause or constitute the beginning or first stage of the existence of.",
+        "definition": "to take or have origin",
+        "type": "v."
+      },
+      {
+        "definition": "to give rise to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "originate",
+      "originated",
+      "originates",
+      "originating",
+      "origination",
+      "originations"
+    ]
   },
   "ornate": {
     "def": [
       {
-        "definition": "Ornamented to a marked degree.",
+        "definition": "marked by elaborate rhetoric {dx_def}see {/dx_def} or florid {dx_def}see {/dx_def} style",
+        "type": "adj."
+      },
+      {
+        "definition": "elaborately or excessively decorated",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ornate",
+      "ornately",
+      "ornateness",
+      "ornatenesses"
+    ]
   },
   "orthodox": {
     "def": [
       {
-        "definition": "Holding the commonly accepted faith.",
+        "definition": "conforming to established doctrine especially in religion",
         "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or practicing",
+        "type": "adj."
+      },
+      {
+        "definition": "one that is orthodox",
+        "type": "n."
+      },
+      {
+        "definition": "a member of an Eastern Orthodox church",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Orthodox",
+      "Orthodoxes",
+      "orthodox",
+      "orthodoxly",
+      "orthodoxes"
+    ]
   },
   "orthodoxy": {
     "def": [
       {
-        "definition": "Acceptance of the common faith.",
+        "definition": "the quality or state of being orthodox",
+        "type": "n."
+      },
+      {
+        "definition": "an orthodox belief or practice",
+        "type": "n."
+      },
+      {
+        "definition": "Eastern Orthodox Christianity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Orthodoxies",
+      "Orthodoxy",
+      "orthodoxies",
+      "orthodoxy"
+    ]
   },
   "orthogonal": {
     "def": [
       {
-        "definition": "Having or determined by right angles.",
+        "definition": "intersecting or lying at right angles",
+        "type": "adj."
+      },
+      {
+        "definition": "having perpendicular slopes or tangents at the point of intersection",
+        "type": "adj."
+      },
+      {
+        "definition": "having the integral of the product of each pair of functions over a specific interval equal to zero",
+        "type": "adj."
+      },
+      {
+        "definition": "having the  equal to zero",
+        "type": "adj."
+      },
+      {
+        "definition": "having the sum of products of corresponding elements in any two rows or any two columns equal to one if the rows or columns are the same and equal to zero otherwise having a  with which the product equals the",
+        "type": "adj."
+      },
+      {
+        "definition": "having a matrix {dx_def}see {/dx_def} that is orthogonal preserving length and distance",
+        "type": "adj."
+      },
+      {
+        "definition": "composed of mutually orthogonal elements",
+        "type": "adj."
+      },
+      {
+        "definition": "statistically independent",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "orthogonal",
+      "orthogonalities",
+      "orthogonality",
+      "orthogonally"
+    ]
   },
   "orthopedic": {
     "def": [
       {
-        "definition": "Relating to the correcting or preventing of deformity",
+        "definition": "of, relating to, or employed in",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by or affected with a skeletal deformity, disorder, or injury",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "orthopaedic",
+      "orthopedic",
+      "orthopedically"
+    ]
   },
   "orthopedist": {
     "def": [
       {
-        "definition": "One who practices the correcting or preventing of deformity",
+        "definition": "a specialist in  a doctor who specializes in the branch of medicine concerned with the correction or prevention of deformities, disorders, or injuries of the skeleton and associated structures",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "orthopedist",
+      "orthopedists"
+    ]
   },
   "oscillate": {
     "def": [
       {
-        "definition": "To swing back and forth.",
+        "definition": "to swing backward and forward like a pendulum",
+        "type": "v."
+      },
+      {
+        "definition": "to move or travel back and forth between two points",
+        "type": "v."
+      },
+      {
+        "definition": "to vary between opposing beliefs, feelings, or theories",
+        "type": "v."
+      },
+      {
+        "definition": "to vary above and below a  value",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "oscillate",
+      "oscillated",
+      "oscillates",
+      "oscillating",
+      "oscillatory"
+    ]
   },
   "osculate": {
     "def": [
@@ -1041,438 +2371,1067 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "osculate"
+    ]
   },
   "ossify": {
     "def": [
       {
-        "definition": "to convert into bone.",
+        "definition": "to change into bone",
+        "type": "v."
+      },
+      {
+        "definition": "to become hardened or conventional and opposed to change",
+        "type": "v."
+      },
+      {
+        "definition": "to change (a material, such as ) into bone",
+        "type": "v."
+      },
+      {
+        "definition": "to make rigidly conventional and opposed to change",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ossified",
+      "ossifies",
+      "ossify",
+      "ossifying"
+    ]
   },
   "ostentation": {
     "def": [
       {
-        "definition": "A display dictated by vanity and intended to invite applause or flattery.",
+        "definition": "excessive display vain and unnecessary show especially for the purpose of attracting attention, admiration, or envy",
+        "type": "n."
+      },
+      {
+        "definition": "an act of displaying",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ostentation",
+      "ostentations"
+    ]
   },
   "ostracism": {
     "def": [
       {
-        "definition": "Exclusion from intercourse or favor, as in society or politics.",
+        "definition": "a method of temporary banishment by popular vote without trial or special accusation practiced in ancient Greece",
+        "type": "n."
+      },
+      {
+        "definition": "exclusion by general consent from common privileges or social acceptance",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ostracism",
+      "ostracisms"
+    ]
   },
   "ostracize": {
     "def": [
       {
-        "definition": "To exclude from public or private favor.",
+        "definition": "to exile by",
+        "type": "v."
+      },
+      {
+        "definition": "to exclude from a group by common consent",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ostracize",
+      "ostracized",
+      "ostracizes",
+      "ostracizing"
+    ]
   },
   "ought": {
     "def": [
       {
-        "definition": "To be under moral obligation to be or do.",
-        "type": "v."
+        "definition": "moral obligation",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ought",
+      "oughted",
+      "oughting",
+      "oughts",
+      "aught"
+    ]
   },
   "oust": {
     "def": [
       {
-        "definition": "To eject.",
+        "definition": "to remove from or  of property or position by legal action, by force, or by the compulsion of necessity",
+        "type": "v."
+      },
+      {
+        "definition": "to take away (something, such as a right or authority) ,",
+        "type": "v."
+      },
+      {
+        "definition": "to take the place of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "oust",
+      "ousted",
+      "ousting",
+      "ousts"
+    ]
   },
   "out-and-out": {
     "def": [
       {
-        "definition": "Genuinely.",
-        "type": "adv."
+        "definition": "being such completely at all times, in every way, or from every point of view",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "out-and-out"
+    ]
   },
   "outbreak": {
     "def": [
       {
-        "definition": "A sudden and violent breaking forth, as of something that has been pent up or",
+        "definition": "a sudden or violent increase in activity or currency",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden rise in the incidence of a disease",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden increase in numbers of a harmful organism and especially an insect within a particular area",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outbreak",
+      "outbreaks"
+    ]
   },
   "outburst": {
     "def": [
       {
-        "definition": "A violent issue, especially of passion in an individual.",
+        "definition": "a violent expression of feeling",
+        "type": "n."
+      },
+      {
+        "definition": "a surge of activity or growth",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outburst",
+      "outbursts"
+    ]
   },
   "outcast": {
     "def": [
       {
-        "definition": "One rejected and despised, especially socially.",
+        "definition": "one that is cast out or refused acceptance (as by society)",
         "type": "n."
+      },
+      {
+        "definition": "rejected or cast out by society",
+        "type": "adj."
+      },
+      {
+        "definition": "thrown aside",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "outcast",
+      "outcasts"
+    ]
   },
   "outcry": {
     "def": [
       {
-        "definition": "A vehement or loud cry or clamor.",
+        "definition": "a loud cry",
+        "type": "n."
+      },
+      {
+        "definition": "a vehement protest",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outcries",
+      "outcry"
+    ]
   },
   "outdo": {
     "def": [
       {
-        "definition": "To surpass.",
+        "definition": "to go beyond in action or performance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outdid",
+      "outdo",
+      "outdoes",
+      "outdoing",
+      "outdone"
+    ]
   },
   "outlandish": {
     "def": [
       {
-        "definition": "Of barbarous, uncouth, and unfamiliar aspect or action.",
+        "definition": "of or relating to another country",
+        "type": "adj."
+      },
+      {
+        "definition": "strikingly out of the ordinary",
+        "type": "adj."
+      },
+      {
+        "definition": "exceeding proper or reasonable limits or standards",
+        "type": "adj."
+      },
+      {
+        "definition": "remote from civilization",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "outlandish",
+      "outlandishly",
+      "outlandishness",
+      "outlandishnesses"
+    ]
   },
   "outlast": {
     "def": [
       {
-        "definition": "To last longer than.",
+        "definition": "to last longer than to continue to exist, be active, etc., longer than (someone or something)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outlast",
+      "outlasted",
+      "outlasting",
+      "outlasts"
+    ]
   },
   "outlaw": {
     "def": [
       {
-        "definition": "A habitual lawbreaker.",
+        "definition": "a person excluded from the benefit or protection of the law",
         "type": "n."
+      },
+      {
+        "definition": "a lawless person or a fugitive from the law",
+        "type": "n."
+      },
+      {
+        "definition": "a person or organization under a ban or restriction",
+        "type": "n."
+      },
+      {
+        "definition": "one that is unconventional or rebellious",
+        "type": "n."
+      },
+      {
+        "definition": "an animal (such as a horse) that is wild and unmanageable",
+        "type": "n."
+      },
+      {
+        "definition": "to deprive of the benefit and protection of law declare to be an outlaw",
+        "type": "v."
+      },
+      {
+        "definition": "to make illegal",
+        "type": "v."
+      },
+      {
+        "definition": "to place under a ban or restriction",
+        "type": "v."
+      },
+      {
+        "definition": "to remove (as a claim) from legal jurisdiction or enforcement",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outlaw",
+      "outlaws",
+      "outlawed",
+      "outlawing",
+      "outlawries",
+      "outlawry"
+    ]
   },
   "outlive": {
     "def": [
       {
-        "definition": "To continue to exist after.",
+        "definition": "to live beyond or longer than",
+        "type": "v."
+      },
+      {
+        "definition": "to survive the effects of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outlive",
+      "outlived",
+      "outlives",
+      "outliving"
+    ]
   },
   "out-of-the-way": {
     "def": [
       {
-        "definition": "Remotely situated.",
+        "definition": "being off the beaten track",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "out-of-the-way"
+    ]
   },
   "outpost": {
     "def": [
       {
-        "definition": "A detachment of troops stationed at a distance from the main body to guard",
+        "definition": "a security detachment dispatched by a main body of troops to protect it from enemy surprise",
+        "type": "n."
+      },
+      {
+        "definition": "a military base established by treaty or agreement in another country",
+        "type": "n."
+      },
+      {
+        "definition": "an outlying or frontier settlement",
+        "type": "n."
+      },
+      {
+        "definition": "an outlying branch or position of a main organization or group",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outpost",
+      "outposts"
+    ]
   },
   "outrage": {
     "def": [
       {
-        "definition": "A gross infringement of morality or decency.",
+        "definition": "an act of violence or brutality",
         "type": "n."
+      },
+      {
+        "definition": "an act that violates accepted standards of behavior or taste",
+        "type": "n."
+      },
+      {
+        "definition": "the anger and resentment aroused by injury or insult",
+        "type": "n."
+      },
+      {
+        "definition": "to violate the standards or principles of",
+        "type": "v."
+      },
+      {
+        "definition": "to arouse anger or resentment in usually by some grave offense",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outrage",
+      "outrages",
+      "outraged",
+      "outraging"
+    ]
   },
   "outrageous": {
     "def": [
       {
-        "definition": "Shocking in conduct.",
+        "definition": "exceeding the limits of what is usual",
+        "type": "adj."
+      },
+      {
+        "definition": "not conventional or matter-of-fact",
+        "type": "adj."
+      },
+      {
+        "definition": "going beyond all standards of what is right or decent",
+        "type": "adj."
+      },
+      {
+        "definition": "in propriety {dx_def}see {/dx_def} or good taste",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "outrageous",
+      "outrageously",
+      "outrageousness",
+      "outrageousnesses"
+    ]
   },
   "outreach": {
     "def": [
       {
-        "definition": "To reach or go beyond.",
+        "definition": "to surpass in reach",
         "type": "v."
+      },
+      {
+        "definition": "to get the better of by trickery",
+        "type": "v."
+      },
+      {
+        "definition": "to go too far",
+        "type": "v."
+      },
+      {
+        "definition": "to reach out",
+        "type": "v."
+      },
+      {
+        "definition": "the act of reaching out",
+        "type": "n."
+      },
+      {
+        "definition": "the extent or limit of reach",
+        "type": "n."
+      },
+      {
+        "definition": "the extending of services or assistance beyond current or usual limits",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outreach",
+      "outreached",
+      "outreaches",
+      "outreaching"
+    ]
   },
   "outride": {
     "def": [
       {
-        "definition": "To ride faster than.",
+        "definition": "to ride better, faster, or farther than",
         "type": "v."
+      },
+      {
+        "definition": "to ride out (a storm)",
+        "type": "v."
+      },
+      {
+        "definition": "an unstressed syllable or group of syllables added to a foot in sprung rhythm but not counted in the scansion",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outridden",
+      "outride",
+      "outrides",
+      "outriding",
+      "outrode"
+    ]
   },
   "outrigger": {
     "def": [
       {
-        "definition": "A part built or arranged to project beyond a natural outline for support.",
+        "definition": "a projection with a float or a shaped log at the end attached to a boat to prevent capsizing",
+        "type": "n."
+      },
+      {
+        "definition": "a spar or projecting beam run out from a ship's side to help secure the masts or from a mast to extend a rope or sail",
+        "type": "n."
+      },
+      {
+        "definition": "a boat equipped with an outrigger",
+        "type": "n."
+      },
+      {
+        "definition": "a projecting member run out from a main structure to provide additional stability or to support something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outrigger",
+      "outriggers"
+    ]
   },
   "outright": {
     "def": [
       {
-        "definition": "Entirely.",
+        "definition": "in entirety",
         "type": "adv."
+      },
+      {
+        "definition": "on the spot",
+        "type": "adv."
+      },
+      {
+        "definition": "without lien {dx_def}see {/dx_def} or encumbrance {dx_def}see {/dx_def}",
+        "type": "adv."
+      },
+      {
+        "definition": "without restraint or reservation",
+        "type": "adv."
+      },
+      {
+        "definition": "straight ahead",
+        "type": "adv."
+      },
+      {
+        "definition": "being completely or exactly what is stated",
+        "type": "adj."
+      },
+      {
+        "definition": "given without reservation",
+        "type": "adj."
+      },
+      {
+        "definition": "made without encumbrance or lien",
+        "type": "adj."
+      },
+      {
+        "definition": "proceeding directly onward",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "outright",
+      "outrightly"
+    ]
   },
   "outskirt": {
     "def": [
       {
-        "definition": "A border region.",
+        "definition": "a part remote from the center",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "outskirt",
+      "outskirts"
+    ]
   },
   "outstretch": {
     "def": [
       {
-        "definition": "To extend.",
+        "definition": "to stretch out",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outstretch",
+      "outstretched",
+      "outstretches",
+      "outstretching"
+    ]
   },
   "outstrip": {
     "def": [
       {
-        "definition": "To go beyond.",
+        "definition": "to go faster or farther than",
+        "type": "v."
+      },
+      {
+        "definition": "to get ahead of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outstrip",
+      "outstripped",
+      "outstripping",
+      "outstrips",
+      "outstript"
+    ]
   },
   "outweigh": {
     "def": [
       {
-        "definition": "To surpass in importance or excellence.",
+        "definition": "to exceed in weight, value, or importance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "outweigh",
+      "outweighed",
+      "outweighing",
+      "outweighs"
+    ]
   },
   "overdo": {
     "def": [
       {
-        "definition": "To overtax the strength of.",
+        "definition": "to do in excess",
+        "type": "v."
+      },
+      {
+        "definition": "to use to excess",
+        "type": "v."
+      },
+      {
+        "definition": "to cook too long",
+        "type": "v."
+      },
+      {
+        "definition": "to go to extremes",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overdid",
+      "overdo",
+      "overdoes",
+      "overdoing",
+      "overdone"
+    ]
   },
   "overdose": {
     "def": [
       {
-        "definition": "An excessive dose, usually so large a dose of a medicine that its effect is",
+        "definition": "too great a dose (as of a therapeutic agent)",
         "type": "n."
+      },
+      {
+        "definition": "an excessive quantity or amount",
+        "type": "n."
+      },
+      {
+        "definition": "to give an overdose or too many doses to",
+        "type": "v."
+      },
+      {
+        "definition": "to take or experience an overdose",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overdosage",
+      "overdosages",
+      "overdose",
+      "overdoses",
+      "overdosed",
+      "overdosing"
+    ]
   },
   "overeat": {
     "def": [
       {
-        "definition": "To eat to excess.",
+        "definition": "to eat to excess",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overate",
+      "overeat",
+      "overeaten",
+      "overeater",
+      "overeaters",
+      "overeating",
+      "overeats"
+    ]
   },
   "overhang": {
     "def": [
       {
-        "definition": "A portion of a structure which projects or hangs over.",
+        "definition": "to project over",
+        "type": "v."
+      },
+      {
+        "definition": "to impend over",
+        "type": "v."
+      },
+      {
+        "definition": "to project so as to be over something",
+        "type": "v."
+      },
+      {
+        "definition": "something that overhangs",
+        "type": "n."
+      },
+      {
+        "definition": "the part of the bow or stern of a ship that projects over the water above the waterline",
+        "type": "n."
+      },
+      {
+        "definition": "a projection of the roof or upper story of a building beyond the wall of the lower part",
+        "type": "n."
+      },
+      {
+        "definition": "an excess of something that is left over and not easily disposed of",
+        "type": "n."
+      },
+      {
+        "definition": "an excess amount of a commodity or security the selling of which often drives down the value of that kind of commodity or security",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overhang",
+      "overhanging",
+      "overhangs",
+      "overhung"
+    ]
   },
   "overleap": {
     "def": [
       {
-        "definition": "To leap beyond.",
+        "definition": "to leap over or across",
+        "type": "v."
+      },
+      {
+        "definition": "to defeat (oneself) by going too far",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overleap",
+      "overleaped",
+      "overleaping",
+      "overleaps",
+      "overleapt"
+    ]
   },
   "overlord": {
     "def": [
       {
-        "definition": "One who holds supremacy over another.",
+        "definition": "a lord over other lords a lord paramount",
+        "type": "n."
+      },
+      {
+        "definition": "an absolute or supreme ruler",
+        "type": "n."
+      },
+      {
+        "definition": "one having great power or authority",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overlord",
+      "overlords",
+      "overlordship",
+      "overlordships"
+    ]
   },
   "overpass": {
     "def": [
       {
-        "definition": "To pass across or over, as a river.",
+        "definition": "to pass across, over, or beyond",
         "type": "v."
+      },
+      {
+        "definition": "a crossing of two highways or of a highway and pedestrian path or railroad at different levels where clearance to traffic on the lower level is obtained by elevating the higher level",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overpass",
+      "overpassed",
+      "overpasses",
+      "overpassing"
+    ]
   },
   "overpay": {
     "def": [
       {
-        "definition": "To pay or reward in excess.",
-        "type": "v."
+        "definition": "to  too much to someone or for something",
+        "type": "transitive + intransitive"
       }
     ],
-    "forms": []
+    "forms": [
+      "overpaid",
+      "overpay",
+      "overpaying",
+      "overpays"
+    ]
   },
   "overpower": {
     "def": [
       {
-        "definition": "To gain supremacy or victory over by superior power.",
+        "definition": "to overcome by superior force",
+        "type": "v."
+      },
+      {
+        "definition": "to affect with overwhelming intensity",
+        "type": "v."
+      },
+      {
+        "definition": "to provide with more power than is needed or desirable",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overpower",
+      "overpowered",
+      "overpowering",
+      "overpoweringly",
+      "overpowers"
+    ]
   },
   "overproduction": {
     "def": [
       {
-        "definition": "Excessive production.",
+        "definition": "the act or an instance of  too much of something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overproduction",
+      "overproductions"
+    ]
   },
   "overreach": {
     "def": [
       {
-        "definition": "To stretch out too far.",
+        "definition": "to reach above or beyond",
+        "type": "v."
+      },
+      {
+        "definition": "to defeat (oneself) by seeking to do or gain too much",
+        "type": "v."
+      },
+      {
+        "definition": "to get the better of especially in dealing and bargaining and typically by unscrupulous or crafty methods",
+        "type": "v."
+      },
+      {
+        "definition": "to strike the forefoot with the front part of the hind foot",
+        "type": "v."
+      },
+      {
+        "definition": "to go to excess",
+        "type": "v."
+      },
+      {
+        "definition": "to overreach oneself",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overreach",
+      "overreached",
+      "overreacher",
+      "overreachers",
+      "overreaches",
+      "overreaching"
+    ]
   },
   "overrun": {
     "def": [
       {
-        "definition": "To infest or ravage.",
+        "definition": "to spread or swarm over",
         "type": "v."
+      },
+      {
+        "definition": "to run or go beyond or past",
+        "type": "v."
+      },
+      {
+        "definition": "to readjust (set type) by shifting letters or words from one line into another",
+        "type": "v."
+      },
+      {
+        "definition": "to flow over",
+        "type": "v."
+      },
+      {
+        "definition": "an act or instance of overrunning",
+        "type": "n."
+      },
+      {
+        "definition": "the amount by which something overruns",
+        "type": "n."
+      },
+      {
+        "definition": "a run in excess of the quantity ordered by a customer",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overran",
+      "overrun",
+      "overrunning",
+      "overruns"
+    ]
   },
   "oversee": {
     "def": [
       {
-        "definition": "To superintend.",
+        "definition": "to watch over and direct (an undertaking, a group of workers, etc.) in order to ensure a satisfactory outcome or performance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "oversaw",
+      "oversee",
+      "overseeing",
+      "overseen",
+      "oversees"
+    ]
   },
   "overseer": {
     "def": [
       {
-        "definition": "A supervisor.",
+        "definition": "a person who  others a person with supervisory responsibilities",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overseer",
+      "overseers"
+    ]
   },
   "overshadow": {
     "def": [
       {
-        "definition": "To cast into the shade or render insignificant by comparison.",
+        "definition": "to cast a shadow over",
+        "type": "v."
+      },
+      {
+        "definition": "to exceed in importance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overshadow",
+      "overshadowed",
+      "overshadowing",
+      "overshadows"
+    ]
   },
   "overstride": {
     "def": [
       {
-        "definition": "To step beyond.",
+        "definition": "to stride over, across, or beyond",
+        "type": "v."
+      },
+      {
+        "definition": "to stride faster than or beyond",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overstridden",
+      "overstride",
+      "overstrides",
+      "overstriding",
+      "overstrode"
+    ]
   },
   "overthrow": {
     "def": [
       {
-        "definition": "To vanquish an established ruler or government.",
+        "definition": "to cause the downfall of ,",
+        "type": "v."
+      },
+      {
+        "definition": "to throw a ball over or past (something or someone, such as a base or a receiver)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overthrew",
+      "overthrow",
+      "overthrowing",
+      "overthrown",
+      "overthrows"
+    ]
   },
   "overtone": {
     "def": [
       {
-        "definition": "A harmonic.",
+        "definition": "one of the higher tones produced simultaneously with the fundamental and that with the fundamental comprise a complex musical tone",
+        "type": "n."
+      },
+      {
+        "definition": "the color of the light reflected (as by a paint)",
+        "type": "n."
+      },
+      {
+        "definition": "a secondary effect, quality, or meaning ,",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "overtone",
+      "overtones"
+    ]
   },
   "overture": {
     "def": [
       {
-        "definition": "An instrumental prelude to an opera, oratorio, or ballet.",
+        "definition": "an initiative toward agreement or action",
         "type": "n."
+      },
+      {
+        "definition": "something introductory",
+        "type": "n."
+      },
+      {
+        "definition": "the orchestral introduction to a musical dramatic work",
+        "type": "n."
+      },
+      {
+        "definition": "an orchestral concert piece written especially as a single movement in sonata form",
+        "type": "n."
+      },
+      {
+        "definition": "to put forward as an overture",
+        "type": "v."
+      },
+      {
+        "definition": "to make or present an overture to",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "overture",
+      "overtures",
+      "overtured",
+      "overturing"
+    ]
   },
   "overweight": {
     "def": [
       {
-        "definition": "Preponderance.",
+        "definition": "weight over and above what is required or allowed",
         "type": "n."
+      },
+      {
+        "definition": "excessive or burdensome weight",
+        "type": "n."
+      },
+      {
+        "definition": "to give too much weight or consideration to",
+        "type": "v."
+      },
+      {
+        "definition": "to weight excessively",
+        "type": "v."
+      },
+      {
+        "definition": "exceeding expected, normal, or proper weight",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "overweight",
+      "overweights",
+      "overweighted",
+      "overweighting"
+    ]
   }
 }

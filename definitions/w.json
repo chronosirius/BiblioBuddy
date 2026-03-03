@@ -2,47 +2,133 @@
   "waif": {
     "def": [
       {
-        "definition": "A homeless, neglected wanderer.",
+        "definition": "a stray person or animal",
+        "type": "n."
+      },
+      {
+        "definition": "something found without an owner and especially by chance",
+        "type": "n."
+      },
+      {
+        "definition": "an extremely thin and usually young woman",
+        "type": "n."
+      },
+      {
+        "definition": "a piece of property (such as property washed up by the sea) found but unclaimed",
+        "type": "n."
+      },
+      {
+        "definition": "stolen goods thrown away by a thief in flight",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "waif",
+      "waifish",
+      "waiflike",
+      "waifs"
+    ]
   },
   "waistcoat": {
     "def": [
       {
-        "definition": "A vest.",
+        "definition": "an ornamental garment worn under a doublet",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "waistcoat",
+      "waistcoated",
+      "waistcoats"
+    ]
   },
   "waive": {
     "def": [
       {
-        "definition": "To relinquish, especially temporarily, as a right or claim.",
+        "definition": "to relinquish (something, such as a legal right) voluntarily",
+        "type": "v."
+      },
+      {
+        "definition": "to refrain from pressing or enforcing (something, such as a claim or rule)",
+        "type": "v."
+      },
+      {
+        "definition": "to put off from immediate consideration",
+        "type": "v."
+      },
+      {
+        "definition": "to dismiss with or as if with a wave of the hand",
+        "type": "v."
+      },
+      {
+        "definition": "to place (a ball player) on waivers",
+        "type": "v."
+      },
+      {
+        "definition": "to throw away (stolen goods)",
+        "type": "v."
+      },
+      {
+        "definition": "to shunt aside (a danger or duty)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "waive",
+      "waived",
+      "waives",
+      "waiving"
+    ]
   },
   "wampum": {
     "def": [
       {
-        "definition": "Beads strung on threads, formerly used among the American Indians as currency.",
+        "definition": "beads of polished shells strung in strands, belts, or sashes and used by North American Indigenous people as money, ceremonial pledges, and ornaments",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wampum",
+      "wampums"
+    ]
   },
   "wane": {
     "def": [
       {
-        "definition": "To diminish in size and brilliancy.",
+        "definition": "to diminish in phase or intensity",
         "type": "v."
+      },
+      {
+        "definition": "to become less brilliant or powerful",
+        "type": "v."
+      },
+      {
+        "definition": "to flow out",
+        "type": "v."
+      },
+      {
+        "definition": "to fall gradually from power, prosperity, or influence",
+        "type": "v."
+      },
+      {
+        "definition": "the act or process of waning",
+        "type": "n."
+      },
+      {
+        "definition": "a period or time of waning",
+        "type": "n."
+      },
+      {
+        "definition": "a defect in lumber characterized by bark or a lack of wood at a corner or edge",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wane",
+      "waned",
+      "wanes",
+      "waning"
+    ]
   },
   "wantonness": {
     "def": [
@@ -51,79 +137,136 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wantonness"
+    ]
   },
   "warlike": {
     "def": [
       {
-        "definition": "Belligerent.",
+        "definition": "ready for war equipped to fight",
+        "type": "adj."
+      },
+      {
+        "definition": "fit for, disposed to, or fond of war",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or useful in war",
+        "type": "adj."
+      },
+      {
+        "definition": "befitting or characteristic of war or a soldier",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "warlike"
+    ]
   },
   "wavelet": {
     "def": [
       {
-        "definition": "A ripple.",
+        "definition": "a little wave",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wavelet",
+      "wavelets"
+    ]
   },
   "weak-kneed": {
     "def": [
       {
-        "definition": "Without resolute purpose or energy.",
+        "definition": "lacking willpower or resolution",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "weak-kneed"
+    ]
   },
   "weal": {
     "def": [
       {
-        "definition": "Well-being.",
+        "definition": "a sound, healthy, or prosperous state",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "weal",
+      "weals"
+    ]
   },
   "wean": {
     "def": [
       {
-        "definition": "To transfer (the young) from dependence on mother's milk to another form of",
+        "definition": "to accustom (a young child or animal) to take food otherwise than by nursing",
+        "type": "v."
+      },
+      {
+        "definition": "to detach from a source of dependence",
+        "type": "v."
+      },
+      {
+        "definition": "to accustom to something from an early age",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "wean",
+      "weaned",
+      "weaning",
+      "weans"
+    ]
   },
   "wearisome": {
     "def": [
       {
-        "definition": "Fatiguing.",
+        "definition": "causing weariness",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "wearisome",
+      "wearisomely",
+      "wearisomeness",
+      "wearisomenesses"
+    ]
   },
   "wee": {
     "def": [
       {
-        "definition": "Very small.",
+        "definition": "very small",
+        "type": "adj."
+      },
+      {
+        "definition": "very early",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "wee",
+      "weer",
+      "weest",
+      "WEE"
+    ]
   },
   "well-bred": {
     "def": [
       {
-        "definition": "Of good ancestry.",
+        "definition": "having or displaying the politeness and good manners associated especially with people of high social class",
+        "type": "adj."
+      },
+      {
+        "definition": "having a good",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "well-bred"
+    ]
   },
   "well-doer": {
     "def": [
@@ -132,169 +275,402 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "well-doer"
+    ]
   },
   "well-to-do": {
     "def": [
       {
-        "definition": "In prosperous circumstances.",
+        "definition": "having more than adequate financial resources",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "well-to-do"
+    ]
   },
   "whereabouts": {
     "def": [
       {
-        "definition": "The place in or near which a person or thing is.",
+        "definition": "about where near what place",
+        "type": "adv."
+      },
+      {
+        "definition": "the place or general locality where a person or thing is",
         "type": "n."
+      },
+      {
+        "definition": "near what place",
+        "type": "conj."
+      },
+      {
+        "definition": "on what business or errand",
+        "type": "conj."
       }
     ],
-    "forms": []
+    "forms": [
+      "whereabout",
+      "whereabouts"
+    ]
   },
   "whereupon": {
     "def": [
       {
-        "definition": "After which.",
-        "type": "adv."
+        "definition": "on which",
+        "type": "conj."
+      },
+      {
+        "definition": "closely following and in consequence of which",
+        "type": "conj."
       }
     ],
-    "forms": []
+    "forms": [
+      "whereupon"
+    ]
   },
   "wherever": {
     "def": [
       {
-        "definition": "In or at whatever place.",
+        "definition": "at, in, or to any or all places that",
+        "type": "conj."
+      },
+      {
+        "definition": "in any circumstance in which",
+        "type": "conj."
+      },
+      {
+        "definition": "where in the world",
+        "type": "adv."
+      },
+      {
+        "definition": "anywhere at all",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "wherever"
+    ]
   },
   "wherewith": {
     "def": [
       {
-        "definition": "The necessary means or resources.",
-        "type": "n."
+        "definition": "with or by means of which",
+        "type": "conj."
+      },
+      {
+        "definition": "that with or by which",
+        "type": "pron."
+      },
+      {
+        "definition": "with what",
+        "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "wherewith"
+    ]
   },
   "whet": {
     "def": [
       {
-        "definition": "To make more keen or eager.",
+        "definition": "to sharpen by rubbing on or with something (such as a stone)",
         "type": "v."
+      },
+      {
+        "definition": "to make keen or more acute ,",
+        "type": "v."
+      },
+      {
+        "definition": "a spell of work done with a scythe between the time it is sharpened and the time it needs to be sharpened again",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "whet",
+      "whets",
+      "whetted",
+      "whetter",
+      "whetters",
+      "whetting"
+    ]
   },
   "whimsical": {
     "def": [
       {
-        "definition": "Capricious.",
+        "definition": "resulting from or characterized by whim or",
+        "type": "adj."
+      },
+      {
+        "definition": "subject to  behavior or unpredictable change",
+        "type": "adj."
+      },
+      {
+        "definition": "full of, actuated by, or exhibiting",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "whimsical",
+      "whimsicalities",
+      "whimsicality",
+      "whimsically",
+      "whimsicalness",
+      "whimsicalnesses"
+    ]
   },
   "whine": {
     "def": [
       {
-        "definition": "To utter with complaining tone.",
+        "definition": "to utter a high-pitched plaintive or distressed cry",
         "type": "v."
+      },
+      {
+        "definition": "to make a sound similar to such a cry",
+        "type": "v."
+      },
+      {
+        "definition": "to complain with or as if with a whine",
+        "type": "v."
+      },
+      {
+        "definition": "to move or proceed with the sound of a whine",
+        "type": "v."
+      },
+      {
+        "definition": "to utter or express with or as if with a whine",
+        "type": "v."
+      },
+      {
+        "definition": "a prolonged high-pitched cry usually expressive of distress or pain",
+        "type": "n."
+      },
+      {
+        "definition": "a sound resembling such a cry",
+        "type": "n."
+      },
+      {
+        "definition": "a complaint uttered with or as if with a whine",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "whine",
+      "whined",
+      "whiner",
+      "whiners",
+      "whines",
+      "whining",
+      "whinier",
+      "whiniest"
+    ]
   },
   "wholly": {
     "def": [
       {
-        "definition": "Completely.",
+        "definition": "to the full or entire extent",
+        "type": "adv."
+      },
+      {
+        "definition": "to the exclusion of other things",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "wholly"
+    ]
   },
   "wield": {
     "def": [
       {
-        "definition": "To use, control, or manage, as a weapon, or instrument, especially with full",
+        "definition": "to deal successfully with",
+        "type": "v."
+      },
+      {
+        "definition": "to handle (something, such as a tool) especially effectively",
+        "type": "v."
+      },
+      {
+        "definition": "to exert one's authority by means of",
+        "type": "v."
+      },
+      {
+        "definition": "to have at one's command or disposal",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "wield",
+      "wielded",
+      "wielder",
+      "wielders",
+      "wielding",
+      "wields"
+    ]
   },
   "wile": {
     "def": [
       {
-        "definition": "An act or a means of cunning deception.",
+        "definition": "a trick or stratagem intended to ensnare or deceive",
         "type": "n."
+      },
+      {
+        "definition": "skill in outwitting ,",
+        "type": "n."
+      },
+      {
+        "definition": "to lure by or as if by a magic spell",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "wile",
+      "wiles",
+      "wiled",
+      "wiling"
+    ]
   },
   "winsome": {
     "def": [
       {
-        "definition": "Attractive.",
+        "definition": "generally pleasing and engaging often because of a childlike charm and innocence",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "winsome",
+      "winsomely",
+      "winsomeness",
+      "winsomenesses",
+      "winsomer",
+      "winsomest"
+    ]
   },
   "wintry": {
     "def": [
       {
-        "definition": "Lacking warmth of manner.",
+        "definition": "of, relating to, or characteristic of winter",
+        "type": "adj."
+      },
+      {
+        "definition": "weathered by or as if by winter ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "winterier",
+      "winteriest",
+      "wintery",
+      "wintrier",
+      "wintriest",
+      "wintriness",
+      "wintrinesses",
+      "wintry"
+    ]
   },
   "wiry": {
     "def": [
       {
-        "definition": "Thin, but tough and sinewy.",
+        "definition": "made of wire",
+        "type": "adj."
+      },
+      {
+        "definition": "resembling wire especially in form and flexibility",
+        "type": "adj."
+      },
+      {
+        "definition": "produced by or suggestive of the vibration of wire",
+        "type": "adj."
+      },
+      {
+        "definition": "being lean, supple, and vigorous",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "wirier",
+      "wiriest",
+      "wirily",
+      "wiriness",
+      "wirinesses",
+      "wiry"
+    ]
   },
   "witchcraft": {
     "def": [
       {
-        "definition": "Sorcery.",
+        "definition": "the use of sorcery or magic",
+        "type": "n."
+      },
+      {
+        "definition": "communication with the devil or with a familiar",
+        "type": "n."
+      },
+      {
+        "definition": "an irresistible influence or fascination",
+        "type": "n."
+      },
+      {
+        "definition": "rituals and practices that incorporate belief in magic and that are associated especially with neo-pagan traditions and religions (such as )",
+        "type": "n."
+      },
+      {
+        "definition": "a tradition or religion that involves the practice of witchcraft",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Witchcraft",
+      "Witchcrafts",
+      "witchcraft",
+      "witchcrafts"
+    ]
   },
   "witless": {
     "def": [
       {
-        "definition": "Foolish, indiscreet, or silly.",
+        "definition": "lacking wit or understanding",
+        "type": "adj."
+      },
+      {
+        "definition": "mentally unsound",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "witless",
+      "witlessly",
+      "witlessness",
+      "witlessnesses"
+    ]
   },
   "witling": {
     "def": [
       {
-        "definition": "A person who has little understanding.",
+        "definition": "a would-be wit",
+        "type": "n."
+      },
+      {
+        "definition": "a person of little wit",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "witling",
+      "witlings"
+    ]
   },
   "witticism": {
     "def": [
       {
-        "definition": "A witty, brilliant, or original saying or sentiment.",
+        "definition": "a cleverly witty and often biting or ironic remark",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "witticism",
+      "witticisms"
+    ]
   },
   "wittingly": {
     "def": [
@@ -303,16 +679,31 @@
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "wittingly"
+    ]
   },
   "wizen": {
     "def": [
       {
-        "definition": "To become or cause to become withered or dry.",
+        "definition": "to become dry, shrunken, and wrinkled often as a result of aging or of failing vitality",
         "type": "v."
+      },
+      {
+        "definition": "to cause to wizen",
+        "type": "v."
+      },
+      {
+        "definition": "that is wizened",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "wizen",
+      "wizened",
+      "wizening",
+      "wizens"
+    ]
   },
   "wizen-faced": {
     "def": [
@@ -321,7 +712,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "wizen-faced"
+    ]
   },
   "working-man": {
     "def": [
@@ -330,52 +723,114 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "working-man"
+    ]
   },
   "workmanlike": {
     "def": [
       {
-        "definition": "Like or befitting a skilled workman.",
+        "definition": "characterized by the skill and efficiency typical of a good workman",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "workmanlike"
+    ]
   },
   "workmanship": {
     "def": [
       {
-        "definition": "The art or skill of a workman.",
+        "definition": "something effected, made, or produced",
+        "type": "n."
+      },
+      {
+        "definition": "the art or skill of a workman",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "workmanship",
+      "workmanships"
+    ]
   },
   "wrangle": {
     "def": [
       {
-        "definition": "To maintain by noisy argument or dispute.",
+        "definition": "to dispute angrily or peevishly",
         "type": "v."
+      },
+      {
+        "definition": "to engage in argument or controversy",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain by persistent arguing or maneuvering",
+        "type": "v."
+      },
+      {
+        "definition": "to herd and care for (livestock and especially horses) on the range",
+        "type": "v."
+      },
+      {
+        "definition": "an angry, noisy, or prolonged dispute or quarrel",
+        "type": "n."
+      },
+      {
+        "definition": "the action or process of wrangling",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wrangle",
+      "wrangled",
+      "wrangles",
+      "wrangling"
+    ]
   },
   "wreak": {
     "def": [
       {
-        "definition": "To inflict, as a revenge or punishment.",
+        "definition": "to cause the infliction of (vengeance or punishment)",
+        "type": "v."
+      },
+      {
+        "definition": "to give free play or course to (malevolent feeling)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "wreak",
+      "wreaked",
+      "wreaking",
+      "wreaks"
+    ]
   },
   "wrest": {
     "def": [
       {
-        "definition": "To pull or force away by or as by violent twisting or wringing.",
+        "definition": "to pull, force, or move by violent wringing or twisting movements",
         "type": "v."
+      },
+      {
+        "definition": "to gain with difficulty by or as if by force, violence, or determined labor",
+        "type": "v."
+      },
+      {
+        "definition": "the action of wresting",
+        "type": "n."
+      },
+      {
+        "definition": "a key or wrench used for turning pins in a stringed instrument (such as a piano)",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wrest",
+      "wrested",
+      "wresting",
+      "wrests"
+    ]
   },
   "wretchedness": {
     "def": [
@@ -384,33 +839,109 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "wretchedness"
+    ]
   },
   "writhe": {
     "def": [
       {
-        "definition": "To twist the body, face, or limbs or as in pain or distress.",
+        "definition": "to twist into coils or folds",
+        "type": "v."
+      },
+      {
+        "definition": "to twist so as to distort",
+        "type": "v."
+      },
+      {
+        "definition": "to twist (the body or a bodily part) in pain",
+        "type": "v."
+      },
+      {
+        "definition": "to move or proceed with twists and turns",
+        "type": "v."
+      },
+      {
+        "definition": "to twist from or as if from pain or struggling",
+        "type": "v."
+      },
+      {
+        "definition": "to suffer keenly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "writhe",
+      "writhed",
+      "writhes",
+      "writhing"
+    ]
   },
   "writing": {
     "def": [
       {
-        "definition": "The act or art of tracing or inscribing on a surface letters or ideographs.",
+        "definition": "the act or art of forming visible letters or characters",
+        "type": "n."
+      },
+      {
+        "definition": "the act or practice of literary or musical composition",
+        "type": "n."
+      },
+      {
+        "definition": "letters or characters that serve as visible signs of ideas, words, or symbols",
+        "type": "n."
+      },
+      {
+        "definition": "a letter, note, or notice used to communicate or record",
+        "type": "n."
+      },
+      {
+        "definition": "a written composition",
+        "type": "n."
+      },
+      {
+        "definition": "a style or form of composition",
+        "type": "n."
+      },
+      {
+        "definition": "the occupation of a writer",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "writing",
+      "writings"
+    ]
   },
   "wry": {
     "def": [
       {
-        "definition": "Deviating from that which is proper or right.",
+        "definition": "to pull out of or as if out of proper shape make awry",
+        "type": "v."
+      },
+      {
+        "definition": "bent, twisted, or turned usually abnormally to one side",
+        "type": "adj."
+      },
+      {
+        "definition": "made by a deliberate distortion of the facial muscles often to express irony or mockery",
+        "type": "adj."
+      },
+      {
+        "definition": "cleverly and often ironically or grimly humorous",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "wried",
+      "wries",
+      "wry",
+      "wrying",
+      "wryer",
+      "wryest",
+      "wryly",
+      "wryness",
+      "wrynesses"
+    ]
   }
 }

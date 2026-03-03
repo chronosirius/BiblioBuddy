@@ -1,1 +1,218 @@
-{}
+{
+  "quackery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwa-k(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quacke01.mp3"
+      }
+    ]
+  },
+  "quadrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwä-ˌdrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quadra09.mp3"
+      }
+    ]
+  },
+  "quadruple": {
+    "pronunciations": [
+      {
+        "syllables": "kwä-ˈdrü-pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quadru08.mp3"
+      }
+    ]
+  },
+  "qualification": {
+    "pronunciations": [
+      {
+        "syllables": "ˌkwä-lə-fə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/qualif02.mp3"
+      }
+    ]
+  },
+  "qualify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwä-lə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/qualif06.mp3"
+      }
+    ]
+  },
+  "qualm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwäm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/qualm002.mp3"
+      }
+    ]
+  },
+  "quandary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwän-d(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quanda01.mp3"
+      }
+    ]
+  },
+  "quantity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwän-tə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quanti09.mp3"
+      }
+    ]
+  },
+  "quarantine": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwȯr-ən-ˌtēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quaran01.mp3"
+      }
+    ]
+  },
+  "quarrelsome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwȯr(-ə)l-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quarre03.mp3"
+      }
+    ]
+  },
+  "quarter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwȯ(r)-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quarte02.mp3"
+      }
+    ]
+  },
+  "quarterly": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwȯ(r)-tər-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quarte10.mp3"
+      }
+    ]
+  },
+  "quartet": {
+    "pronunciations": [
+      {
+        "syllables": "kwȯr-ˈtet",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quarte17.mp3"
+      }
+    ]
+  },
+  "quarto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwȯr-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quarto01.mp3"
+      }
+    ]
+  },
+  "quay": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quay0002.mp3"
+      }
+    ]
+  },
+  "querulous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwer-yə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/querul01.mp3"
+      }
+    ]
+  },
+  "query": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwir-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/query002.mp3"
+      }
+    ]
+  },
+  "queue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkyü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/queue001.mp3"
+      }
+    ]
+  },
+  "quibble": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwi-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quibbl01.mp3"
+      }
+    ]
+  },
+  "quiescence": {
+    "pronunciations": [
+      {
+        "syllables": "kwī-ˈe-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quiesc01.mp3"
+      }
+    ]
+  },
+  "quiescent": {
+    "pronunciations": [
+      {
+        "syllables": "kwī-ˈe-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quiesc02.mp3"
+      }
+    ]
+  },
+  "quiet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwī-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quiet001.mp3"
+      }
+    ]
+  },
+  "quietus": {
+    "pronunciations": [
+      {
+        "syllables": "kwī-ˈē-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quietu03.mp3"
+      }
+    ]
+  },
+  "quintessence": {
+    "pronunciations": [
+      {
+        "syllables": "kwin-ˈte-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quinte01.mp3"
+      }
+    ]
+  },
+  "quintet": {
+    "pronunciations": [
+      {
+        "syllables": "kwin-ˈtet",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quinte03.mp3"
+      }
+    ]
+  },
+  "quite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkwīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quite001.mp3"
+      }
+    ]
+  },
+  "quixotic": {
+    "pronunciations": [
+      {
+        "syllables": "kwik-ˈsä-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/q/quixot05.mp3"
+      }
+    ]
+  }
+}

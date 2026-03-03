@@ -3718,5 +3718,13 @@
         "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/azure001.mp3"
       }
     ]
+  },
+  "atone": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈtōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/a/atone001.mp3"
+      }
+    ]
   }
 }

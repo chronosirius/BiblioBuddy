@@ -2,479 +2,1233 @@
   "rabid": {
     "def": [
       {
-        "definition": "Affected with rabies or hydrophobia.",
+        "definition": "extremely violent",
+        "type": "adj."
+      },
+      {
+        "definition": "going to extreme lengths in expressing or pursuing a feeling, interest, or opinion",
+        "type": "adj."
+      },
+      {
+        "definition": "affected with rabies",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rabid",
+      "rabidities",
+      "rabidity",
+      "rabidly",
+      "rabidness",
+      "rabidnesses"
+    ]
   },
   "racy": {
     "def": [
       {
-        "definition": "Exciting or exhilarating to the mind.",
+        "definition": "full of zest or vigor",
+        "type": "adj."
+      },
+      {
+        "definition": "having a strongly marked quality",
+        "type": "adj."
+      },
+      {
+        "definition": "having the distinctive quality of something in its original or most characteristic form",
+        "type": "adj."
+      },
+      {
+        "definition": "having a body or shape that is suited for racing",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "racier",
+      "raciest",
+      "racily",
+      "raciness",
+      "racinesses",
+      "racy"
+    ]
   },
   "radiance": {
     "def": [
       {
-        "definition": "Brilliant or sparkling luster.",
+        "definition": "the quality or state of being radiant",
+        "type": "n."
+      },
+      {
+        "definition": "a deep pink",
+        "type": "n."
+      },
+      {
+        "definition": "the flux density of radiant energy per unit solid angle and per unit projected area of radiating surface",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "radiance",
+      "radiances"
+    ]
   },
   "radiate": {
     "def": [
       {
-        "definition": "To extend in all directions, as from a source or focus.",
+        "definition": "to proceed in a direct line from or toward a center",
         "type": "v."
+      },
+      {
+        "definition": "to send out rays shine brightly",
+        "type": "v."
+      },
+      {
+        "definition": "to issue in or as if in rays",
+        "type": "v."
+      },
+      {
+        "definition": "to evolve by adaptive radiation",
+        "type": "v."
+      },
+      {
+        "definition": "to send out in or as if in rays",
+        "type": "v."
+      },
+      {
+        "definition": "to spread abroad or around as if from a center",
+        "type": "v."
+      },
+      {
+        "definition": "having ray flowers",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by radial symmetry radially symmetrical",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "radiate",
+      "radiated",
+      "radiates",
+      "radiating",
+      "radiately"
+    ]
   },
   "radical": {
     "def": [
       {
-        "definition": "One who holds extreme views or advocates extreme measures.",
+        "definition": "of, relating to, or constituting a linguistic root",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a mathematical root",
+        "type": "adj."
+      },
+      {
+        "definition": "designed to remove the root of a disease or all diseased and potentially diseased tissue",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the origin",
+        "type": "adj."
+      },
+      {
+        "definition": "very different from the usual or traditional",
+        "type": "adj."
+      },
+      {
+        "definition": "favoring extreme changes in existing views, habits, conditions, or institutions",
+        "type": "adj."
+      },
+      {
+        "definition": "associated with political views, practices, and policies of extreme change",
+        "type": "adj."
+      },
+      {
+        "definition": "advocating extreme measures to retain or restore a political state of affairs",
+        "type": "adj."
+      },
+      {
+        "definition": "a root part",
+        "type": "n."
+      },
+      {
+        "definition": "a basic principle",
+        "type": "n."
+      },
+      {
+        "definition": "a sound or letter belonging to a radical",
+        "type": "n."
+      },
+      {
+        "definition": "one who is radical",
+        "type": "n."
+      },
+      {
+        "definition": "a mathematical expression indicating a root by means of a radical sign",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "radical",
+      "radicalness",
+      "radicalnesses",
+      "radicals"
+    ]
   },
   "radix": {
     "def": [
       {
-        "definition": "That from or on which something is developed.",
+        "definition": "the base of a number system or of logarithms",
+        "type": "n."
+      },
+      {
+        "definition": "the primary source",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "radices",
+      "radix",
+      "radixes"
+    ]
   },
   "raillery": {
     "def": [
       {
-        "definition": "Good-humored satire.",
+        "definition": "good-natured ridicule",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "railleries",
+      "raillery"
+    ]
   },
   "ramify": {
     "def": [
       {
-        "definition": "To divide or subdivide into branches or subdivisions.",
+        "definition": "to split up into branches or constituent parts",
+        "type": "v."
+      },
+      {
+        "definition": "to send forth branches or extensions",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to branch",
+        "type": "v."
+      },
+      {
+        "definition": "to separate into divisions",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ramified",
+      "ramifies",
+      "ramify",
+      "ramifying"
+    ]
   },
   "ramose": {
     "def": [
       {
-        "definition": "Branch-like.",
+        "definition": "consisting of or having branches",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ramose"
+    ]
   },
   "rampant": {
     "def": [
       {
-        "definition": "Growing, climbing, or running without check or restraint.",
+        "definition": "rearing upon the hind legs with forelegs extended",
+        "type": "adj."
+      },
+      {
+        "definition": "standing on one hind foot with one foreleg raised above the other and the head in profile",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by a menacing wildness, extravagance, or absence of restraint",
+        "type": "adj."
+      },
+      {
+        "definition": "profusely widespread",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rampant",
+      "rampantly"
+    ]
   },
   "rampart": {
     "def": [
       {
-        "definition": "A bulwark or construction to oppose assault or hostile entry.",
+        "definition": "a protective barrier",
+        "type": "n."
+      },
+      {
+        "definition": "a broad embankment raised as a fortification and usually surmounted by a parapet",
+        "type": "n."
+      },
+      {
+        "definition": "a wall-like ridge (as of rock fragments, earth, or debris)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rampart",
+      "ramparts"
+    ]
   },
   "rancor": {
     "def": [
       {
-        "definition": "Malice.",
+        "definition": "bitter deep-seated ill will",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rancor",
+      "rancors"
+    ]
   },
   "rankle": {
     "def": [
       {
-        "definition": "To produce irritation or festering.",
+        "definition": "to cause anger, irritation, or deep bitterness",
+        "type": "v."
+      },
+      {
+        "definition": "to feel anger and irritation",
+        "type": "v."
+      },
+      {
+        "definition": "to cause irritation or bitterness in",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rankle",
+      "rankled",
+      "rankles",
+      "rankling"
+    ]
   },
   "rapacious": {
     "def": [
       {
-        "definition": "Disposed to seize by violence or by unlawful or greedy methods.",
+        "definition": "excessively grasping or covetous",
+        "type": "adj."
+      },
+      {
+        "definition": "living on prey",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rapacious",
+      "rapaciously",
+      "rapaciousness",
+      "rapaciousnesses"
+    ]
   },
   "rapid": {
     "def": [
       {
-        "definition": "Having great speed.",
+        "definition": "marked by a fast rate of motion, activity, succession, or occurrence",
         "type": "adj."
-      }
-    ],
-    "forms": []
-  },
-  "rapine": {
-    "def": [
+      },
       {
-        "definition": "The act of seizing and carrying off property by superior force, as in war.",
+        "definition": "a part of a river where the current is fast and the surface is usually broken by obstructions",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rapid",
+      "rapider",
+      "rapidest",
+      "rapidly",
+      "rapidness",
+      "rapidnesses",
+      "rapids"
+    ]
+  },
+  "rapine": {
+    "def": [],
+    "forms": [
+      "rapine",
+      "rapines"
+    ]
   },
   "rapt": {
     "def": [
       {
-        "definition": "Enraptured.",
+        "definition": "lifted up and carried away",
+        "type": "adj."
+      },
+      {
+        "definition": "transported with emotion",
+        "type": "adj."
+      },
+      {
+        "definition": "wholly absorbed",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rapt",
+      "raptly",
+      "raptness",
+      "raptnesses"
+    ]
   },
   "raptorial": {
     "def": [
       {
-        "definition": "Seizing and devouring living prey.",
+        "definition": "adapted to seize prey",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being a bird of prey",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "raptorial"
+    ]
   },
   "ration": {
     "def": [
       {
-        "definition": "To provide with a fixed allowance or portion, especially of food.",
+        "definition": "a food allowance for one day",
+        "type": "n."
+      },
+      {
+        "definition": "a share especially as determined by supply",
+        "type": "n."
+      },
+      {
+        "definition": "to supply with or put on rations",
+        "type": "v."
+      },
+      {
+        "definition": "to distribute as rations",
+        "type": "v."
+      },
+      {
+        "definition": "to distribute equitably",
+        "type": "v."
+      },
+      {
+        "definition": "to use sparingly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ration",
+      "rations",
+      "rationed",
+      "rationing"
+    ]
   },
   "rationalism": {
     "def": [
       {
-        "definition": "The formation of opinions by relying upon reason alone, independently of",
+        "definition": "reliance on reason as the basis for establishment of religious truth",
+        "type": "n."
+      },
+      {
+        "definition": "a theory that reason is in itself a source of knowledge superior to and independent of sense perceptions",
+        "type": "n."
+      },
+      {
+        "definition": "a view that reason and experience rather than the nonrational are the fundamental criteria in the solution of problems",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rationalism",
+      "rationalisms",
+      "rationalist",
+      "rationalistic",
+      "rationalistically",
+      "rationalists"
+    ]
   },
   "raucous": {
     "def": [
       {
-        "definition": "Harsh.",
+        "definition": "disagreeably harsh or",
+        "type": "adj."
+      },
+      {
+        "definition": "boisterously disorderly",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "raucous",
+      "raucously",
+      "raucousness",
+      "raucousnesses"
+    ]
   },
   "ravage": {
     "def": [
       {
-        "definition": "To lay waste by pillage, rapine, devouring, or other destructive methods.",
+        "definition": "an act or practice of ravaging",
+        "type": "n."
+      },
+      {
+        "definition": "damage resulting from ravaging violently destructive effect",
+        "type": "n."
+      },
+      {
+        "definition": "to wreak havoc on affect destructively",
+        "type": "v."
+      },
+      {
+        "definition": "to commit destructive actions",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ravage",
+      "ravages",
+      "ravaged",
+      "ravagement",
+      "ravagements",
+      "ravager",
+      "ravagers",
+      "ravaging"
+    ]
   },
   "ravenous": {
     "def": [
       {
-        "definition": "Furiously voracious or hungry.",
+        "definition": "very eager or greedy for food, satisfaction, or gratification",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ravenous",
+      "ravenously",
+      "ravenousness",
+      "ravenousnesses"
+    ]
   },
   "ravine": {
     "def": [
       {
-        "definition": "A deep gorge or hollow, especially one worn by a stream or flow of water.",
+        "definition": "a small narrow steep-sided valley that is larger than a gully and smaller than a canyon and that is usually worn by running water",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ravine",
+      "ravines"
+    ]
   },
   "reaction": {
     "def": [
       {
-        "definition": "Tendency towards a former, or opposite state of things, as after reform,",
+        "definition": "the act or process or an instance of reacting",
+        "type": "n."
+      },
+      {
+        "definition": "resistance or opposition to a force, influence, or movement",
+        "type": "n."
+      },
+      {
+        "definition": "a response to some treatment, situation, or stimulus",
+        "type": "n."
+      },
+      {
+        "definition": "an action induced by vital resistance to another action",
+        "type": "n."
+      },
+      {
+        "definition": "depression or exhaustion due to excessive exertion or stimulation",
+        "type": "n."
+      },
+      {
+        "definition": "heightened activity and overaction succeeding depression or shock",
+        "type": "n."
+      },
+      {
+        "definition": "a mental or emotional disorder forming an individual's response to their life situation",
+        "type": "n."
+      },
+      {
+        "definition": "the force that a body subjected to the action of a force from another body exerts in the opposite direction",
+        "type": "n."
+      },
+      {
+        "definition": "a process involving change in atomic nuclei",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reaction",
+      "reactions"
+    ]
   },
   "reactionary": {
     "def": [
       {
-        "definition": "Pertaining to, of the nature of, causing, or favoring reaction.",
+        "definition": "relating to, marked by, or favoring reaction",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reactionaries",
+      "reactionary",
+      "reactionaryism",
+      "reactionaryisms"
+    ]
   },
   "readily": {
     "def": [
       {
-        "definition": "Without objection or reluctance.",
+        "definition": "without hesitating",
+        "type": "adv."
+      },
+      {
+        "definition": "without much difficulty",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "readily"
+    ]
   },
   "readjust": {
     "def": [
       {
-        "definition": "To put in order after disarrangement.",
-        "type": "v."
+        "definition": "to  (something or oneself) again",
+        "type": "transitive + intransitive"
       }
     ],
-    "forms": []
+    "forms": [
+      "re-adjust",
+      "re-adjusted",
+      "re-adjusting",
+      "re-adjusts",
+      "readjust",
+      "readjusted",
+      "readjusting",
+      "readjusts"
+    ]
   },
   "ready": {
     "def": [
       {
-        "definition": "In a state of preparedness for any given purpose or occasion.",
+        "definition": "prepared mentally or physically for some experience or action",
         "type": "adj."
+      },
+      {
+        "definition": "prepared for immediate use",
+        "type": "adj."
+      },
+      {
+        "definition": "willingly disposed",
+        "type": "adj."
+      },
+      {
+        "definition": "likely to do something indicated",
+        "type": "adj."
+      },
+      {
+        "definition": "displayed readily and spontaneously",
+        "type": "adj."
+      },
+      {
+        "definition": "immediately available",
+        "type": "adj."
+      },
+      {
+        "definition": "to make ready",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "readier",
+      "readiest",
+      "ready",
+      "readied",
+      "readies",
+      "readying"
+    ]
   },
   "realism": {
     "def": [
       {
-        "definition": "The principle and practice of depicting persons and scenes as they are believed",
+        "definition": "concern for fact or reality and rejection of the impractical and visionary",
+        "type": "n."
+      },
+      {
+        "definition": "a doctrine that universals exist outside the mind",
+        "type": "n."
+      },
+      {
+        "definition": "a theory that objects of sense perception or cognition exist independently of the mind {dx}compare",
+        "type": "n."
+      },
+      {
+        "definition": "the theory or practice of fidelity in art and literature to nature or to real life and to accurate representation without idealization",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "realism",
+      "realisms"
+    ]
   },
   "rearrange": {
     "def": [
       {
-        "definition": "To arrange again or in a different order.",
+        "definition": "to  (something or someone) again in a different way",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "re-arrange",
+      "re-arranged",
+      "re-arranges",
+      "re-arranging",
+      "rearrange",
+      "rearranged",
+      "rearranges",
+      "rearranging"
+    ]
   },
   "reassure": {
     "def": [
       {
-        "definition": "To give new confidence.",
+        "definition": "to assure anew",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to confidence",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reassure",
+      "reassured",
+      "reassures",
+      "reassuring"
+    ]
   },
   "rebellious": {
     "def": [
       {
-        "definition": "Insubordinate.",
+        "definition": "given to or engaged in rebellion",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of a rebel or rebellion",
+        "type": "adj."
+      },
+      {
+        "definition": "resisting treatment or management",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rebellious",
+      "rebelliously",
+      "rebelliousness",
+      "rebelliousnesses"
+    ]
   },
   "rebuff": {
     "def": [
       {
-        "definition": "A peremptory or unexpected rejection of advances or approaches.",
-        "type": "n."
+        "definition": "to reject or criticize sharply",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rebuff",
+      "rebuffed",
+      "rebuffing",
+      "rebuffs"
+    ]
   },
   "rebuild": {
     "def": [
       {
-        "definition": "To build again or anew.",
+        "definition": "to make extensive repairs to",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to a previous state",
+        "type": "v."
+      },
+      {
+        "definition": "to make extensive changes in",
+        "type": "v."
+      },
+      {
+        "definition": "to build again",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rebuild",
+      "rebuilding",
+      "rebuilds",
+      "rebuilt"
+    ]
   },
   "rebut": {
     "def": [
       {
-        "definition": "To oppose by argument or a sufficient answer.",
+        "definition": "to drive or beat back",
+        "type": "v."
+      },
+      {
+        "definition": "to contradict or oppose by formal legal argument, plea, or countervailing proof",
+        "type": "v."
+      },
+      {
+        "definition": "to expose the falsity of",
+        "type": "v."
+      },
+      {
+        "definition": "to make or furnish an answer or counter proof",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rebut",
+      "rebuts",
+      "rebuttable",
+      "rebutted",
+      "rebutting"
+    ]
   },
   "recant": {
     "def": [
       {
-        "definition": "To withdraw formally one's belief (in something previously believed or",
+        "definition": "to withdraw or repudiate (a statement or belief) formally and publicly",
+        "type": "v."
+      },
+      {
+        "definition": "to make an open confession of error",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recant",
+      "recantation",
+      "recantations",
+      "recanted",
+      "recanting",
+      "recants"
+    ]
   },
   "recapitulate": {
     "def": [
       {
-        "definition": "To repeat again the principal points of.",
+        "definition": "to retell or restate briefly",
+        "type": "v."
+      },
+      {
+        "definition": "to give new form or expression to",
+        "type": "v."
+      },
+      {
+        "definition": "to repeat the principal stages or phases of (a process, such as a biological process)",
+        "type": "v."
+      },
+      {
+        "definition": "to reproduce or closely resemble (as in structure or function)",
+        "type": "v."
+      },
+      {
+        "definition": "to make or be able to make a summary",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recapitulate",
+      "recapitulated",
+      "recapitulates",
+      "recapitulating"
+    ]
   },
   "recapture": {
     "def": [
       {
-        "definition": "To capture again.",
+        "definition": "the act of retaking",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of being retaken",
+        "type": "n."
+      },
+      {
+        "definition": "the retaking of a prize or goods under international law",
+        "type": "n."
+      },
+      {
+        "definition": "a government seizure under law of earnings or profits beyond a fixed amount",
+        "type": "n."
+      },
+      {
+        "definition": "to capture again",
+        "type": "v."
+      },
+      {
+        "definition": "to experience again",
+        "type": "v."
+      },
+      {
+        "definition": "to take (something, such as a portion of earnings or profits above a fixed amount) by law or through negotiations under law",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recapture",
+      "recaptures",
+      "recaptured",
+      "recapturing"
+    ]
   },
   "recede": {
     "def": [
       {
-        "definition": "To move back or away.",
+        "definition": "to move back or away",
+        "type": "v."
+      },
+      {
+        "definition": "to slant backward",
+        "type": "v."
+      },
+      {
+        "definition": "to grow less or smaller ,",
+        "type": "v."
+      },
+      {
+        "definition": "to cede back to a former possessor",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recede",
+      "receded",
+      "recedes",
+      "receding"
+    ]
   },
   "receivable": {
     "def": [
       {
-        "definition": "Capable of being or fit to be received - often money.",
+        "definition": "capable of being received",
+        "type": "adj."
+      },
+      {
+        "definition": "subject to call for payment",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "receivable"
+    ]
   },
   "receptive": {
     "def": [
       {
-        "definition": "Having the capacity, quality, or ability of receiving, as truths or",
+        "definition": "able or inclined to receive",
+        "type": "adj."
+      },
+      {
+        "definition": "fit to receive and transmit stimuli",
+        "type": "adj."
+      },
+      {
+        "definition": "willing to copulate with a male",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "receptive",
+      "receptively",
+      "receptiveness",
+      "receptivenesses",
+      "receptivities",
+      "receptivity"
+    ]
   },
   "recessive": {
     "def": [
       {
-        "definition": "Having a tendency to go back.",
+        "definition": "tending to recede",
         "type": "adj."
+      },
+      {
+        "definition": "producing little or no phenotypic effect when occurring in heterozygous condition with a contrasting allele",
+        "type": "adj."
+      },
+      {
+        "definition": "expressed only when the determining gene is in the homozygous condition",
+        "type": "adj."
+      },
+      {
+        "definition": "an organism possessing one or more recessive characters",
+        "type": "n."
+      },
+      {
+        "definition": "a recessive character or gene",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recessive",
+      "recessively",
+      "recessiveness",
+      "recessivenesses",
+      "recessives"
+    ]
   },
   "recidivist": {
     "def": [
       {
-        "definition": "A confirmed criminal.",
+        "definition": "one who relapses",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recidivist",
+      "recidivistic",
+      "recidivists"
+    ]
   },
   "reciprocal": {
     "def": [
       {
-        "definition": "Mutually interchangeable or convertible.",
+        "definition": "inversely related",
         "type": "adj."
+      },
+      {
+        "definition": "of, constituting, or resulting from paired crosses in which the kind that supplies the male parent of the first cross supplies the female parent of the second cross and vice versa",
+        "type": "adj."
+      },
+      {
+        "definition": "shared, felt, or shown by both sides",
+        "type": "adj."
+      },
+      {
+        "definition": "serving to reciprocate consisting of or functioning as a return in kind",
+        "type": "adj."
+      },
+      {
+        "definition": "mutually corresponding",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by or based on reciprocity",
+        "type": "adj."
+      },
+      {
+        "definition": "something in a reciprocal relationship to another",
+        "type": "n."
+      },
+      {
+        "definition": "either of a pair of numbers (such as 2/3 and 3/2 or 9 and 1/9) whose product is one",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reciprocal",
+      "reciprocally",
+      "reciprocals"
+    ]
   },
   "reciprocate": {
     "def": [
       {
-        "definition": "To give and take mutually.",
+        "definition": "to give and take mutually",
+        "type": "v."
+      },
+      {
+        "definition": "to return in kind or degree",
+        "type": "v."
+      },
+      {
+        "definition": "to make a return for something",
+        "type": "v."
+      },
+      {
+        "definition": "to move forward and backward alternately",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reciprocate",
+      "reciprocated",
+      "reciprocates",
+      "reciprocating",
+      "reciprocator",
+      "reciprocators"
+    ]
   },
   "reciprocity": {
     "def": [
       {
-        "definition": "Equal mutual rights and benefits granted and enjoyed.",
+        "definition": "the quality or state of being reciprocal  dependence, action, or influence",
+        "type": "n."
+      },
+      {
+        "definition": "a mutual exchange of privileges",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reciprocities",
+      "reciprocity"
+    ]
   },
   "recitation": {
     "def": [
       {
-        "definition": "The act of reciting or repeating, especially in public and from memory.",
+        "definition": "the act of enumerating",
+        "type": "n."
+      },
+      {
+        "definition": "the act or an instance of reading or repeating aloud especially publicly",
+        "type": "n."
+      },
+      {
+        "definition": "a student's oral reply to questions",
+        "type": "n."
+      },
+      {
+        "definition": "a class period especially in association with and for review of a lecture",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recitation",
+      "recitations"
+    ]
   },
   "reck": {
     "def": [
       {
-        "definition": "To have a care or thought for.",
+        "definition": "to be of account or interest",
+        "type": "v."
+      },
+      {
+        "definition": "to care for",
+        "type": "v."
+      },
+      {
+        "definition": "to matter to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reck",
+      "recked",
+      "recking",
+      "recks"
+    ]
   },
   "reckless": {
     "def": [
       {
-        "definition": "Foolishly headless of danger.",
+        "definition": "marked by lack of proper caution careless of consequences",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reckless",
+      "recklessly",
+      "recklessness",
+      "recklessnesses"
+    ]
   },
   "reclaim": {
     "def": [
       {
-        "definition": "To demand or to obtain the return or restoration of.",
+        "definition": "to recall from wrong or improper conduct",
+        "type": "v."
+      },
+      {
+        "definition": "to rescue from an undesirable state",
+        "type": "v."
+      },
+      {
+        "definition": "to make available for human use by changing natural conditions",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain from a waste product or by-product",
+        "type": "v."
+      },
+      {
+        "definition": "to demand or obtain the return of",
+        "type": "v."
+      },
+      {
+        "definition": "to regain possession of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reclaim",
+      "reclaimable",
+      "reclaimed",
+      "reclaiming",
+      "reclaims"
+    ]
   },
   "recline": {
     "def": [
       {
-        "definition": "To cause to assume a leaning or recumbent attitude or position.",
+        "definition": "to cause or permit to incline backwards",
+        "type": "v."
+      },
+      {
+        "definition": "to lean or incline backwards",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recline",
+      "reclined",
+      "reclines",
+      "reclining"
+    ]
   },
   "recluse": {
     "def": [
       {
-        "definition": "One who lives in retirement or seclusion.",
+        "definition": "marked by withdrawal from society",
+        "type": "adj."
+      },
+      {
+        "definition": "a person who leads a secluded or solitary life",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recluse",
+      "reclusive",
+      "reclusively",
+      "reclusiveness",
+      "reclusivenesses",
+      "recluses"
+    ]
   },
   "reclusory": {
     "def": [
@@ -483,43 +1237,121 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reclusory"
+    ]
   },
   "recognizance": {
     "def": [
       {
-        "definition": "An acknowledgment entered into before a court with condition to do some",
+        "definition": "an obligation of record entered into before a court or magistrate requiring the performance of an act (such as appearance in court) usually under penalty of a money forfeiture",
+        "type": "n."
+      },
+      {
+        "definition": "the sum liable to forfeiture upon such an obligation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recognizance",
+      "recognizances"
+    ]
   },
   "recognize": {
     "def": [
       {
-        "definition": "To recall the identity of (a person or thing).",
+        "definition": "to admit as being lord or sovereign",
+        "type": "v."
+      },
+      {
+        "definition": "to admit as being of a particular status",
+        "type": "v."
+      },
+      {
+        "definition": "to admit as being one entitled to be heard give the floor to",
+        "type": "v."
+      },
+      {
+        "definition": "to acknowledge the de facto existence or the independence of",
+        "type": "v."
+      },
+      {
+        "definition": "to acknowledge with a show of appreciation",
+        "type": "v."
+      },
+      {
+        "definition": "to acknowledge acquaintance with",
+        "type": "v."
+      },
+      {
+        "definition": "to perceive to be something or someone previously known",
+        "type": "v."
+      },
+      {
+        "definition": "to perceive clearly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recognizabilities",
+      "recognizability",
+      "recognizable",
+      "recognizably",
+      "recognize",
+      "recognized",
+      "recognizer",
+      "recognizers",
+      "recognizes",
+      "recognizing"
+    ]
   },
   "recoil": {
     "def": [
       {
-        "definition": "To start back as in dismay, loathing, or dread.",
+        "definition": "to fall back under pressure",
         "type": "v."
+      },
+      {
+        "definition": "to shrink back physically or emotionally",
+        "type": "v."
+      },
+      {
+        "definition": "to spring back to or as if to a starting point",
+        "type": "v."
+      },
+      {
+        "definition": "the act or action of recoiling",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recoil",
+      "recoiled",
+      "recoiling",
+      "recoils"
+    ]
   },
   "recollect": {
     "def": [
       {
-        "definition": "To recall the knowledge of.",
+        "definition": "to bring back to the level of conscious awareness",
+        "type": "v."
+      },
+      {
+        "definition": "to remind (oneself) of something temporarily forgotten",
+        "type": "v."
+      },
+      {
+        "definition": "to call something to mind",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recollect",
+      "recollected",
+      "recollecting",
+      "recollects"
+    ]
   },
   "reconcilable": {
     "def": [
@@ -528,133 +1360,352 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reconcilable"
+    ]
   },
   "reconnoiter": {
     "def": [
       {
-        "definition": "To make a preliminary examination of for military, surveying, or geological",
+        "definition": "to make a reconnaissance of",
+        "type": "v."
+      },
+      {
+        "definition": "to engage in reconnaissance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reconnoiter",
+      "reconnoitered",
+      "reconnoitering",
+      "reconnoiters",
+      "reconnoitre",
+      "reconnoitred",
+      "reconnoitres",
+      "reconnoitring"
+    ]
   },
   "reconsider": {
     "def": [
       {
-        "definition": "To review with care, especially with a view to a reversal of previous",
+        "definition": "to consider again especially with a view to changing or reversing",
+        "type": "v."
+      },
+      {
+        "definition": "to consider something again",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reconsider",
+      "reconsideration",
+      "reconsiderations",
+      "reconsidered",
+      "reconsidering",
+      "reconsiders"
+    ]
   },
   "reconstruct": {
     "def": [
       {
-        "definition": "To rebuild.",
+        "definition": "to build or assemble (something) again",
+        "type": "v."
+      },
+      {
+        "definition": "to subject (an organ or part) to surgery to re-form its structure or correct a defect",
+        "type": "v."
+      },
+      {
+        "definition": "to re-create or reimagine (something from the past) especially by using information acquired through research",
+        "type": "v."
+      },
+      {
+        "definition": "to create an accurate reenactment or understanding of (a past occurrence or event, such as an accident) by applying scientific principles and techniques to physical evidence",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reconstruct",
+      "reconstructed",
+      "reconstructible",
+      "reconstructing",
+      "reconstructive",
+      "reconstructor",
+      "reconstructors",
+      "reconstructs"
+    ]
   },
   "recourse": {
     "def": [
       {
-        "definition": "Resort to or application for help in exigency or trouble.",
+        "definition": "a turning to someone or something for help or protection",
+        "type": "n."
+      },
+      {
+        "definition": "a source of help or strength",
+        "type": "n."
+      },
+      {
+        "definition": "the right to demand payment from the maker or endorser of a negotiable instrument (such as a check)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recourse",
+      "recourses"
+    ]
   },
   "recover": {
     "def": [
       {
-        "definition": "To regain.",
+        "definition": "to get back",
+        "type": "v."
+      },
+      {
+        "definition": "to bring back to normal position or condition",
+        "type": "v."
+      },
+      {
+        "definition": "to make up for",
+        "type": "v."
+      },
+      {
+        "definition": "to gain by legal process",
+        "type": "v."
+      },
+      {
+        "definition": "to find or identify again",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain from an ore, a waste product, or a by-product",
+        "type": "v."
+      },
+      {
+        "definition": "to save from loss and restore to usefulness",
+        "type": "v."
+      },
+      {
+        "definition": "to regain a normal position or condition (as of health)",
+        "type": "v."
+      },
+      {
+        "definition": "to obtain a final legal judgment in one's favor",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recover",
+      "recoverabilities",
+      "recoverability",
+      "recoverable",
+      "recovered",
+      "recoverer",
+      "recoverers",
+      "recovering",
+      "recovers"
+    ]
   },
   "recreant": {
     "def": [
       {
-        "definition": "A cowardly or faithless person.",
-        "type": "n."
+        "definition": "crying for mercy",
+        "type": "adj."
+      },
+      {
+        "definition": "unfaithful to duty or allegiance",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "recreant",
+      "recreants"
+    ]
   },
   "recreate": {
     "def": [
       {
-        "definition": "To refresh after labor.",
+        "definition": "to give new life or freshness to",
+        "type": "v."
+      },
+      {
+        "definition": "to take recreation",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recreate",
+      "recreated",
+      "recreates",
+      "recreating",
+      "recreative"
+    ]
   },
   "recrudescence": {
     "def": [
       {
-        "definition": "The state of becoming raw or sore again.",
+        "definition": "a new outbreak after a period of abatement or inactivity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recrudescence",
+      "recrudescences"
+    ]
   },
   "recrudescent": {
     "def": [
       {
-        "definition": "Becoming raw or sore again.",
+        "definition": "breaking out again",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "recrudescent"
+    ]
   },
   "recruit": {
     "def": [
       {
-        "definition": "To enlist men for military or naval service.",
+        "definition": "to increase or maintain the number of",
         "type": "v."
+      },
+      {
+        "definition": "to secure the services of ,",
+        "type": "v."
+      },
+      {
+        "definition": "to seek to enroll",
+        "type": "v."
+      },
+      {
+        "definition": "to restore or increase the health, vigor, or intensity of",
+        "type": "v."
+      },
+      {
+        "definition": "to enlist new members",
+        "type": "v."
+      },
+      {
+        "definition": "a fresh or additional supply",
+        "type": "n."
+      },
+      {
+        "definition": "a newcomer to a field or activity",
+        "type": "n."
+      },
+      {
+        "definition": "a former enlisted man of the lowest rank in the army",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "recruit",
+      "recruited",
+      "recruiter",
+      "recruiters",
+      "recruiting",
+      "recruits"
+    ]
   },
   "rectify": {
     "def": [
       {
-        "definition": "To correct.",
+        "definition": "to set right",
+        "type": "v."
+      },
+      {
+        "definition": "to purify especially by repeated or fractional distillation",
+        "type": "v."
+      },
+      {
+        "definition": "to correct by removing errors",
+        "type": "v."
+      },
+      {
+        "definition": "to make (an alternating current) unidirectional",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rectification",
+      "rectifications",
+      "rectified",
+      "rectifies",
+      "rectify",
+      "rectifying"
+    ]
   },
   "rectitude": {
     "def": [
       {
-        "definition": "The quality of being upright in principles and conduct.",
+        "definition": "the quality or state of being straight",
+        "type": "n."
+      },
+      {
+        "definition": "moral integrity",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being correct in judgment or procedure",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rectitude",
+      "rectitudes"
+    ]
   },
   "recuperate": {
     "def": [
       {
-        "definition": "To recover.",
+        "definition": "to get back",
+        "type": "v."
+      },
+      {
+        "definition": "to bring back into use or currency",
+        "type": "v."
+      },
+      {
+        "definition": "to regain a former state or condition",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recuperate",
+      "recuperated",
+      "recuperates",
+      "recuperating",
+      "recuperation",
+      "recuperations"
+    ]
   },
   "recur": {
     "def": [
       {
-        "definition": "To happen again or repeatedly, especially at regular intervals.",
+        "definition": "to occur or appear again",
+        "type": "v."
+      },
+      {
+        "definition": "to come again to mind",
+        "type": "v."
+      },
+      {
+        "definition": "to have recourse",
+        "type": "v."
+      },
+      {
+        "definition": "to go back in thought or discourse",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recur",
+      "recurred",
+      "recurring",
+      "recurs"
+    ]
   },
   "recure": {
     "def": [
@@ -663,70 +1714,143 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "recure"
+    ]
   },
   "recurrent": {
     "def": [
       {
-        "definition": "Returning from time to time, especially at regular or stated intervals.",
+        "definition": "running or turning back in a direction opposite to a former course",
+        "type": "adj."
+      },
+      {
+        "definition": "returning or happening time after time",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "recurrent",
+      "recurrently"
+    ]
   },
   "redemption": {
     "def": [
       {
-        "definition": "The recovery of what is mortgaged or pledged, by paying the debt.",
+        "definition": "the act, process, or an instance of redeeming",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "redemption",
+      "redemptions"
+    ]
   },
   "redolent": {
     "def": [
       {
-        "definition": "Smelling sweet and agreeable.",
+        "definition": "exuding fragrance",
+        "type": "adj."
+      },
+      {
+        "definition": "full of a specified fragrance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "redolent",
+      "redolently"
+    ]
   },
   "redolence": {
     "def": [
       {
-        "definition": "Smelling sweet and agreeable.",
+        "definition": "an often pungent or agreeable odor",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being redolent",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "redolence",
+      "redolences"
+    ]
   },
   "redoubtable": {
     "def": [
       {
-        "definition": "Formidable.",
+        "definition": "causing fear or alarm",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "redoubtable",
+      "redoubtably"
+    ]
   },
   "redound": {
     "def": [
       {
-        "definition": "Rebound.",
-        "type": "n."
+        "definition": "to become swollen",
+        "type": "v."
+      },
+      {
+        "definition": "to have an effect for good or ill",
+        "type": "v."
+      },
+      {
+        "definition": "to become transferred or added",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "redound",
+      "redounded",
+      "redounding",
+      "redounds"
+    ]
   },
   "redress": {
     "def": [
       {
-        "definition": "To set right, as a wrong by compensation or the punishment of the wrong-doer.",
+        "definition": "to remove the cause of (a grievance or complaint)",
         "type": "v."
+      },
+      {
+        "definition": "to exact reparation for",
+        "type": "v."
+      },
+      {
+        "definition": "to requite (a person) for a wrong or loss",
+        "type": "v."
+      },
+      {
+        "definition": "relief from distress",
+        "type": "n."
+      },
+      {
+        "definition": "means or possibility of seeking a remedy",
+        "type": "n."
+      },
+      {
+        "definition": "compensation for wrong or loss",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of redressing",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "redress",
+      "redressed",
+      "redresser",
+      "redressers",
+      "redresses",
+      "redressing"
+    ]
   },
   "reducible": {
     "def": [
@@ -735,7 +1859,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reducible"
+    ]
   },
   "redundance": {
     "def": [
@@ -744,34 +1870,100 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "redundance"
+    ]
   },
   "redundant": {
     "def": [
       {
-        "definition": "Constituting an excess.",
+        "definition": "what is necessary or normal",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by or containing an",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by similarity or repetition",
+        "type": "adj."
+      },
+      {
+        "definition": "no longer needed for a job and hence laid off",
+        "type": "adj."
+      },
+      {
+        "definition": "serving as a duplicate for preventing failure of an entire system (such as a spacecraft) upon failure of a single",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "redundant",
+      "redundantly"
+    ]
   },
   "reestablish": {
     "def": [
       {
-        "definition": "To restore.",
+        "definition": "to  (something or someone) again",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "re-establish",
+      "re-established",
+      "re-establishes",
+      "re-establishing",
+      "re-establishment",
+      "re-establishments",
+      "reestablish",
+      "reestablished",
+      "reestablishes",
+      "reestablishing",
+      "reestablishment",
+      "reestablishments"
+    ]
   },
   "refer": {
     "def": [
       {
-        "definition": "To direct or send for information or other purpose.",
+        "definition": "to allot to a particular place, stage, or period",
+        "type": "v."
+      },
+      {
+        "definition": "to regard as coming from or located in a specific area",
+        "type": "v."
+      },
+      {
+        "definition": "to send or direct for treatment, aid, information, or decision",
+        "type": "v."
+      },
+      {
+        "definition": "to direct for testimony or guaranty as to character or ability",
+        "type": "v."
+      },
+      {
+        "definition": "to have relation or connection",
+        "type": "v."
+      },
+      {
+        "definition": "to direct attention usually by clear and specific mention",
+        "type": "v."
+      },
+      {
+        "definition": "to have recourse glance briefly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "refer",
+      "referable",
+      "referred",
+      "referrer",
+      "referrers",
+      "referring",
+      "refers"
+    ]
   },
   "referrer": {
     "def": [
@@ -780,7 +1972,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "referrer"
+    ]
   },
   "referable": {
     "def": [
@@ -789,25 +1983,59 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "referable"
+    ]
   },
   "referee": {
     "def": [
       {
-        "definition": "An umpire.",
+        "definition": "a person to whom a legal matter is referred for investigation and report or for settlement",
         "type": "n."
+      },
+      {
+        "definition": "a person who reviews a paper and especially a technical paper and recommends that it should or should not be published",
+        "type": "n."
+      },
+      {
+        "definition": "a sports official usually having final authority in administering a game",
+        "type": "n."
+      },
+      {
+        "definition": "to conduct (a match or game) as referee",
+        "type": "v."
+      },
+      {
+        "definition": "to arbitrate (something, such as a legal matter) as a judge or third party",
+        "type": "v."
+      },
+      {
+        "definition": "to review (something, such as a technical paper) before publication",
+        "type": "v."
+      },
+      {
+        "definition": "to act as a referee",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "referee",
+      "referees",
+      "refereed",
+      "refereeing"
+    ]
   },
   "refinery": {
     "def": [
       {
-        "definition": "A place where some crude material, as sugar or petroleum, is purified.",
+        "definition": "a building and equipment for refining or processing something (such as oil or sugar)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "refineries",
+      "refinery"
+    ]
   },
   "reflectible": {
     "def": [
@@ -816,25 +2044,82 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reflectible"
+    ]
   },
   "reflection": {
     "def": [
       {
-        "definition": "The throwing off or back of light, heat, sound, or any form of energy that",
+        "definition": "an instance of reflecting",
+        "type": "n."
+      },
+      {
+        "definition": "the production of an image by or as if by a mirror",
+        "type": "n."
+      },
+      {
+        "definition": "the action of bending or folding back",
+        "type": "n."
+      },
+      {
+        "definition": "a reflected part",
+        "type": "n."
+      },
+      {
+        "definition": "an image given back by a reflecting surface",
+        "type": "n."
+      },
+      {
+        "definition": "an effect produced by an influence",
+        "type": "n."
+      },
+      {
+        "definition": "an often obscure or indirect criticism",
+        "type": "n."
+      },
+      {
+        "definition": "a thought, idea, or opinion formed or a remark made as a result of meditation",
+        "type": "n."
+      },
+      {
+        "definition": "consideration of some subject matter, idea, or purpose",
+        "type": "n."
+      },
+      {
+        "definition": "turning back",
+        "type": "n."
+      },
+      {
+        "definition": "a transformation of a figure in which each point is replaced by a point symmetric with respect to a line or plane",
+        "type": "n."
+      },
+      {
+        "definition": "a transformation that involves reflection in more than one axis of a rectangular coordinate system",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reflection",
+      "reflectional",
+      "reflections"
+    ]
   },
   "reflector": {
     "def": [
       {
-        "definition": "A mirror, as of metal, for reflecting light, heat, or sound in a particular",
+        "definition": "one that reflects",
+        "type": "n."
+      },
+      {
+        "definition": "a telescope in which the principal focusing element is a mirror",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reflector",
+      "reflectors"
+    ]
   },
   "reflexible": {
     "def": [
@@ -843,43 +2128,147 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reflexible"
+    ]
   },
   "reform": {
     "def": [
       {
-        "definition": "Change for the better.",
+        "definition": "to put or change into an improved form or condition",
+        "type": "v."
+      },
+      {
+        "definition": "to amend or improve by change of form or removal of faults or abuses",
+        "type": "v."
+      },
+      {
+        "definition": "to put an end to (an evil) by enforcing or introducing a better method or course of action",
+        "type": "v."
+      },
+      {
+        "definition": "to induce or cause to abandon evil ways",
+        "type": "v."
+      },
+      {
+        "definition": "to subject (hydrocarbons) to cracking",
+        "type": "v."
+      },
+      {
+        "definition": "to produce (gasoline, gas, etc.) by cracking",
+        "type": "v."
+      },
+      {
+        "definition": "to become changed for the better",
+        "type": "v."
+      },
+      {
+        "definition": "amendment of what is defective, vicious, corrupt, or depraved",
         "type": "n."
+      },
+      {
+        "definition": "removal or correction of errors or of an abuse or a wrong",
+        "type": "n."
+      },
+      {
+        "definition": "relating to or favoring reform",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or practicing",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reform",
+      "reformabilities",
+      "reformability",
+      "reformable",
+      "reformed",
+      "reforming",
+      "reforms",
+      "Reform",
+      "Reforms"
+    ]
   },
   "reformer": {
     "def": [
       {
-        "definition": "One who carries out a reform.",
+        "definition": "one that works for or urges reform",
+        "type": "n."
+      },
+      {
+        "definition": "a leader of the Protestant Reformation",
+        "type": "n."
+      },
+      {
+        "definition": "an apparatus for cracking oils or gases to form specialized products",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Reformer",
+      "Reformers",
+      "reformer",
+      "reformers"
+    ]
   },
   "refract": {
     "def": [
       {
-        "definition": "To bend or turn from a direct course.",
+        "definition": "to subject (something, such as a ray of light) to",
+        "type": "v."
+      },
+      {
+        "definition": "to alter or distort as if by refraction",
+        "type": "v."
+      },
+      {
+        "definition": "to determine the refracting power of",
+        "type": "v."
+      },
+      {
+        "definition": "to be subjected to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "refract",
+      "refracted",
+      "refracting",
+      "refracts"
+    ]
   },
   "refractory": {
     "def": [
       {
-        "definition": "Not amenable to control.",
+        "definition": "resisting control or authority ,",
         "type": "adj."
+      },
+      {
+        "definition": "resistant to treatment or cure",
+        "type": "adj."
+      },
+      {
+        "definition": "unresponsive to stimulus",
+        "type": "adj."
+      },
+      {
+        "definition": "difficult to fuse, corrode, or draw out",
+        "type": "adj."
+      },
+      {
+        "definition": "a refractory person or thing",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "refractorily",
+      "refractoriness",
+      "refractorinesses",
+      "refractory",
+      "refractories"
+    ]
   },
   "refragable": {
     "def": [
@@ -888,7 +2277,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "refragable"
+    ]
   },
   "refringency": {
     "def": [
@@ -897,7 +2288,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "refringency"
+    ]
   },
   "refringent": {
     "def": [
@@ -906,43 +2299,101 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "refringent"
+    ]
   },
   "refusal": {
     "def": [
       {
-        "definition": "Denial of what is asked.",
+        "definition": "the act of refusing or denying",
+        "type": "n."
+      },
+      {
+        "definition": "the opportunity or right of refusing or taking before others",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "refusal",
+      "refusals"
+    ]
   },
   "refute": {
     "def": [
       {
-        "definition": "To prove to be wrong.",
+        "definition": "to prove wrong by argument or evidence show to be false or",
+        "type": "v."
+      },
+      {
+        "definition": "to deny the truth or  of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "refutable",
+      "refutably",
+      "refute",
+      "refuted",
+      "refuter",
+      "refuters",
+      "refutes",
+      "refuting"
+    ]
   },
   "regale": {
     "def": [
       {
-        "definition": "To give unusual pleasure.",
+        "definition": "to entertain sumptuously feast with delicacies",
         "type": "v."
+      },
+      {
+        "definition": "to give pleasure or amusement to",
+        "type": "v."
+      },
+      {
+        "definition": "to feast oneself",
+        "type": "v."
+      },
+      {
+        "definition": "a sumptuous feast",
+        "type": "n."
+      },
+      {
+        "definition": "a choice piece especially of food",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regale",
+      "regaled",
+      "regales",
+      "regaling",
+      "regalia"
+    ]
   },
   "regalia": {
     "def": [
       {
-        "definition": "pl. The emblems of royalty.",
-        "type": "n."
+        "definition": "royal rights or prerogatives",
+        "type": "n. pl."
+      },
+      {
+        "definition": "the emblems, symbols, or paraphernalia indicative of royalty",
+        "type": "n. pl."
+      },
+      {
+        "definition": "decorations or insignia indicative of an office or membership",
+        "type": "n. pl."
+      },
+      {
+        "definition": "special dress",
+        "type": "n. pl."
       }
     ],
-    "forms": []
+    "forms": [
+      "regalia"
+    ]
   },
   "regality": {
     "def": [
@@ -951,583 +2402,1495 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regality"
+    ]
   },
   "regenerate": {
     "def": [
       {
-        "definition": "To reproduce.",
+        "definition": "formed or created again",
+        "type": "adj."
+      },
+      {
+        "definition": "spiritually reborn or converted",
+        "type": "adj."
+      },
+      {
+        "definition": "restored to a better, higher, or more worthy state",
+        "type": "adj."
+      },
+      {
+        "definition": "to become formed again",
         "type": "v."
+      },
+      {
+        "definition": "to become regenerate",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo regeneration",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to spiritual regeneration",
+        "type": "v."
+      },
+      {
+        "definition": "to change radically and for the better",
+        "type": "v."
+      },
+      {
+        "definition": "to generate or produce anew",
+        "type": "v."
+      },
+      {
+        "definition": "to produce again chemically sometimes in a physically changed form",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to original strength or properties",
+        "type": "v."
+      },
+      {
+        "definition": "an individual who is spiritually reborn",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regenerate",
+      "regenerately",
+      "regenerateness",
+      "regeneratenesses",
+      "regenerable",
+      "regenerated",
+      "regenerates",
+      "regenerating"
+    ]
   },
   "regent": {
     "def": [
       {
-        "definition": "One who is lawfully deputized to administer the government for the time being in",
+        "definition": "a person who governs a kingdom in the minority, absence, or disability of the sovereign",
+        "type": "n."
+      },
+      {
+        "definition": "a person who rules or reigns",
+        "type": "n."
+      },
+      {
+        "definition": "a member of a governing board (as of a state university)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regent",
+      "regental",
+      "regents"
+    ]
   },
   "regicide": {
     "def": [
       {
-        "definition": "The killing of a king or sovereign.",
+        "definition": "a person who kills a king",
+        "type": "n."
+      },
+      {
+        "definition": "the killing of a king",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regicidal",
+      "regicide",
+      "regicides"
+    ]
   },
   "regime": {
     "def": [
       {
-        "definition": "Particular conduct or administration of affairs.",
+        "definition": "a form of government",
+        "type": "n."
+      },
+      {
+        "definition": "a government in power",
+        "type": "n."
+      },
+      {
+        "definition": "a period of rule",
+        "type": "n."
+      },
+      {
+        "definition": "mode of rule or management",
+        "type": "n."
+      },
+      {
+        "definition": "a regular pattern of occurrence or action (as of seasonal rainfall)",
+        "type": "n."
+      },
+      {
+        "definition": "the characteristic behavior or orderly procedure of a natural phenomenon or process",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regime",
+      "regimes",
+      "régime",
+      "régimes"
+    ]
   },
   "regimen": {
     "def": [
       {
-        "definition": "A systematized order or course of living with reference to food, clothing and",
+        "definition": "a systematic plan (as of diet, therapy, or medication) especially when designed to improve and maintain the health of a patient",
+        "type": "n."
+      },
+      {
+        "definition": "a regular course of action and especially of strenuous training",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "regimen",
+      "regimens"
+    ]
   },
   "regiment": {
     "def": [
       {
-        "definition": "A body of soldiers.",
+        "definition": "a military unit consisting usually of a number of battalions",
         "type": "n."
+      },
+      {
+        "definition": "governmental rule",
+        "type": "n."
+      },
+      {
+        "definition": "to organize rigidly especially for the sake of regulation or control",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to order or uniformity",
+        "type": "v."
+      },
+      {
+        "definition": "to form into or assign to a regiment",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "regiment",
+      "regiments",
+      "regimentation",
+      "regimentations",
+      "regimented",
+      "regimenting"
+    ]
   },
   "regnant": {
     "def": [
       {
-        "definition": "Exercising royal authority in one's own right.",
+        "definition": "exercising rule",
+        "type": "adj."
+      },
+      {
+        "definition": "having the chief power",
+        "type": "adj."
+      },
+      {
+        "definition": "of common or widespread occurrence",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "regnant"
+    ]
   },
   "regress": {
     "def": [
       {
-        "definition": "To return to a former place or condition.",
+        "definition": "an act or the privilege of going or coming back",
+        "type": "n."
+      },
+      {
+        "definition": "movement backward to a previous and especially worse or more primitive state or condition",
+        "type": "n."
+      },
+      {
+        "definition": "the act of reasoning backward",
+        "type": "n."
+      },
+      {
+        "definition": "to make or undergo regress",
+        "type": "v."
+      },
+      {
+        "definition": "to be subject to or exhibit regression",
+        "type": "v."
+      },
+      {
+        "definition": "to tend to approach or revert to a mean",
+        "type": "v."
+      },
+      {
+        "definition": "to induce a state of psychological regression in",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "regress",
+      "regresses",
+      "regressed",
+      "regressing",
+      "regressor",
+      "regressors"
+    ]
   },
   "regretful": {
     "def": [
       {
-        "definition": "Feeling, expressive of, or full of regret.",
+        "definition": "full of regret feeling or expressing",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "regretful",
+      "regretfulness"
+    ]
   },
   "rehabilitate": {
     "def": [
       {
-        "definition": "To restore to a former status, capacity, right rank, or privilege.",
+        "definition": "to restore to a former capacity",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to good repute reestablish the good name of",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to a former state (as of efficiency, good management, or solvency)",
+        "type": "v."
+      },
+      {
+        "definition": "to restore or bring to a condition of health or useful and constructive activity",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rehabilitate",
+      "rehabilitated",
+      "rehabilitates",
+      "rehabilitating",
+      "rehabilitative",
+      "rehabilitator",
+      "rehabilitators"
+    ]
   },
   "reign": {
     "def": [
       {
-        "definition": "To hold and exercise sovereign power.",
+        "definition": "royal authority",
+        "type": "n."
+      },
+      {
+        "definition": "the dominion, sway, or influence of one resembling a monarch",
+        "type": "n."
+      },
+      {
+        "definition": "the time during which someone (such as a sovereign) reigns",
+        "type": "n."
+      },
+      {
+        "definition": "to possess or exercise sovereign power",
+        "type": "v."
+      },
+      {
+        "definition": "to hold office as chief of state although possessing little governing power",
+        "type": "v."
+      },
+      {
+        "definition": "to exercise authority in the manner of a monarch",
+        "type": "v."
+      },
+      {
+        "definition": "to be predominant or prevalent",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reign",
+      "reigns",
+      "reigned",
+      "reigning"
+    ]
   },
   "reimburse": {
     "def": [
       {
-        "definition": "To pay back as an equivalent of what has been expended.",
+        "definition": "to pay back to someone",
+        "type": "v."
+      },
+      {
+        "definition": "to make restoration or payment of an equivalent to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reimbursable",
+      "reimburse",
+      "reimbursed",
+      "reimbursement",
+      "reimbursements",
+      "reimburses",
+      "reimbursing"
+    ]
   },
   "rein": {
     "def": [
       {
-        "definition": "A step attached to the bit for controlling a horse or other draft-animal.",
+        "definition": "a strap fastened to a bit by which a rider or driver controls an animal",
         "type": "n."
+      },
+      {
+        "definition": "a restraining influence",
+        "type": "n."
+      },
+      {
+        "definition": "controlling or guiding power",
+        "type": "n."
+      },
+      {
+        "definition": "opportunity for unhampered activity or use",
+        "type": "n."
+      },
+      {
+        "definition": "to control or direct with or as if with",
+        "type": "v."
+      },
+      {
+        "definition": "to check or stop by or as if by a pull at the reins",
+        "type": "v."
+      },
+      {
+        "definition": "to stop or slow up one's horse or oneself by or as if by pulling the reins",
+        "type": "v."
+      },
+      {
+        "definition": "to submit to the use of reins",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rein",
+      "reins",
+      "reined",
+      "reining"
+    ]
   },
   "reinstate": {
     "def": [
       {
-        "definition": "To restore to a former state, station, or authority.",
+        "definition": "to place again (as in possession or in a former position)",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to a previous effective state",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reinstate",
+      "reinstated",
+      "reinstatement",
+      "reinstatements",
+      "reinstates",
+      "reinstating"
+    ]
   },
   "reiterate": {
     "def": [
       {
-        "definition": "To say or do again and again.",
+        "definition": "to state or do over again or repeatedly sometimes with wearying effect",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reiterate",
+      "reiterated",
+      "reiterates",
+      "reiterating",
+      "reiteration",
+      "reiterations",
+      "reiterative",
+      "reiteratively"
+    ]
   },
   "rejoin": {
     "def": [
       {
-        "definition": "To reunite after separation.",
+        "definition": "to answer the replication of the plaintiff",
+        "type": "v."
+      },
+      {
+        "definition": "to join again",
+        "type": "v."
+      },
+      {
+        "definition": "to say often sharply or critically in response especially as a reply to a reply",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rejoin",
+      "rejoined",
+      "rejoining",
+      "rejoins"
+    ]
   },
   "rejuvenate": {
     "def": [
       {
-        "definition": "To restore to youth.",
+        "definition": "to make young or youthful again give new vigor to",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to an original or new state",
+        "type": "v."
+      },
+      {
+        "definition": "to stimulate (a stream) to renewed erosive activity especially by uplift",
+        "type": "v."
+      },
+      {
+        "definition": "to develop youthful features of topography in",
+        "type": "v."
+      },
+      {
+        "definition": "to cause or undergo rejuvenescence",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rejuvenate",
+      "rejuvenated",
+      "rejuvenates",
+      "rejuvenating",
+      "rejuvenator",
+      "rejuvenators"
+    ]
   },
   "rejuvenescence": {
     "def": [
       {
-        "definition": "A renewal of youth.",
+        "definition": "a renewal of youthfulness or vigor",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rejuvenescence",
+      "rejuvenescences",
+      "rejuvenescent"
+    ]
   },
   "relapse": {
     "def": [
       {
-        "definition": "To suffer a return of a disease after partial recovery.",
+        "definition": "the act or an instance of backsliding, worsening, or subsiding",
+        "type": "n."
+      },
+      {
+        "definition": "a recurrence of symptoms of a disease after a period of improvement",
+        "type": "n."
+      },
+      {
+        "definition": "to slip or fall back into a former worse state",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "relapse",
+      "relapses",
+      "relapsed",
+      "relapser",
+      "relapsers",
+      "relapsing"
+    ]
   },
   "relegate": {
     "def": [
       {
-        "definition": "To send off or consign, as to an obscure position or remote destination.",
+        "definition": "to send into exile",
+        "type": "v."
+      },
+      {
+        "definition": "to assign to a place of insignificance or of oblivion put out of sight or mind",
+        "type": "v."
+      },
+      {
+        "definition": "to assign to an appropriate place or situation on the basis of classification or appraisal",
+        "type": "v."
+      },
+      {
+        "definition": "to submit to someone or something for appropriate action",
+        "type": "v."
+      },
+      {
+        "definition": "to transfer (a sports team) to a lower ranking division",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "relegate",
+      "relegated",
+      "relegates",
+      "relegating",
+      "relegation",
+      "relegations"
+    ]
   },
   "relent": {
     "def": [
       {
-        "definition": "To yield.",
+        "definition": "to become less severe, harsh, or strict usually from reasons of humanity",
+        "type": "v."
+      },
+      {
+        "definition": "to cease resistance",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "relent",
+      "relented",
+      "relenting",
+      "relents"
+    ]
   },
   "relevant": {
     "def": [
       {
-        "definition": "Bearing upon the matter in hand.",
+        "definition": "relating in an appropriate way to something under consideration having significant and  bearing on or relation to the matter at hand",
+        "type": "adj."
+      },
+      {
+        "definition": "providing evidence tending to prove or disprove the matter at issue or under discussion",
+        "type": "adj."
+      },
+      {
+        "definition": "having social  related to things that have societal importance",
+        "type": "adj."
+      },
+      {
+        "definition": "having a reasonable chance of succeeding (as in sports or politics)",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "relevant",
+      "relevantly"
+    ]
   },
   "reliance": {
     "def": [
       {
-        "definition": "Dependence.",
+        "definition": "the act of relying the state of being reliant",
+        "type": "n."
+      },
+      {
+        "definition": "something or someone relied on",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reliance",
+      "reliances"
+    ]
   },
   "reliant": {
     "def": [
       {
-        "definition": "Having confidence.",
+        "definition": "having reliance on something or someone",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reliant",
+      "reliantly"
+    ]
   },
   "relinquish": {
     "def": [
       {
-        "definition": "To give up using or having.",
+        "definition": "to withdraw or retreat from leave behind",
+        "type": "v."
+      },
+      {
+        "definition": "to stop holding physically",
+        "type": "v."
+      },
+      {
+        "definition": "to give over possession or control of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "relinquish",
+      "relinquished",
+      "relinquishes",
+      "relinquishing",
+      "relinquishment",
+      "relinquishments"
+    ]
   },
   "reliquary": {
     "def": [
       {
-        "definition": "A casket, coffer, or repository in which relics are kept.",
+        "definition": "a container or shrine in which sacred relics are kept",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reliquaries",
+      "reliquary"
+    ]
   },
   "relish": {
     "def": [
       {
-        "definition": "To like the taste or savor of.",
+        "definition": "characteristic flavor",
+        "type": "n."
+      },
+      {
+        "definition": "a quantity just sufficient to flavor or characterize",
+        "type": "n."
+      },
+      {
+        "definition": "enjoyment of or delight in something that satisfies one's tastes, inclinations, or desires",
+        "type": "n."
+      },
+      {
+        "definition": "a strong liking",
+        "type": "n."
+      },
+      {
+        "definition": "something adding a zestful flavor",
+        "type": "n."
+      },
+      {
+        "definition": "to add relish to",
+        "type": "v."
+      },
+      {
+        "definition": "to be pleased or gratified by",
+        "type": "v."
+      },
+      {
+        "definition": "to eat or drink with pleasure",
+        "type": "v."
+      },
+      {
+        "definition": "to appreciate with taste and discernment",
+        "type": "v."
+      },
+      {
+        "definition": "to have a characteristic or pleasing taste",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "relish",
+      "relishes",
+      "relishable",
+      "relished",
+      "relishing"
+    ]
   },
   "reluctance": {
     "def": [
       {
-        "definition": "Unwillingness.",
+        "definition": "the quality or state of being reluctant",
+        "type": "n."
+      },
+      {
+        "definition": "the opposition offered in a magnetic circuit to magnetic flux",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reluctance",
+      "reluctances"
+    ]
   },
   "reluctant": {
     "def": [
       {
-        "definition": "Unwilling.",
+        "definition": "feeling or showing , hesitation, or unwillingness",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reluctant"
+    ]
   },
   "remembrance": {
     "def": [
       {
-        "definition": "Recollection.",
+        "definition": "the state of bearing in mind",
+        "type": "n."
+      },
+      {
+        "definition": "the ability to remember",
+        "type": "n."
+      },
+      {
+        "definition": "the period over which one's memory extends",
+        "type": "n."
+      },
+      {
+        "definition": "an act of recalling to mind",
+        "type": "n."
+      },
+      {
+        "definition": "a memory of a person, thing, or event",
+        "type": "n."
+      },
+      {
+        "definition": "something that serves to keep in or bring to mind",
+        "type": "n."
+      },
+      {
+        "definition": "a greeting or gift recalling or expressing friendship or affection",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "remembrance",
+      "remembrances"
+    ]
   },
   "reminiscence": {
     "def": [
       {
-        "definition": "The calling to mind of incidents within the range of personal knowledge or",
+        "definition": "apprehension of a Platonic idea as if it had been known in a previous existence",
+        "type": "n."
+      },
+      {
+        "definition": "recall to mind of a long-forgotten experience or fact",
+        "type": "n."
+      },
+      {
+        "definition": "the process or practice of thinking or telling about past experiences",
+        "type": "n."
+      },
+      {
+        "definition": "a remembered experience",
+        "type": "n."
+      },
+      {
+        "definition": "an account of a memorable experience",
+        "type": "n."
+      },
+      {
+        "definition": "something so like another as to be regarded as an unconscious repetition, imitation, or survival",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reminiscence",
+      "reminiscences"
+    ]
   },
   "reminiscent": {
     "def": [
       {
-        "definition": "Pertaining to the recollection of matters of personal interest.",
+        "definition": "of the character of or relating to reminiscence",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by or given to reminiscence",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to remind",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reminiscent",
+      "reminiscently"
+    ]
   },
   "remiss": {
     "def": [
       {
-        "definition": "Negligent.",
+        "definition": "in the performance of work or duty",
+        "type": "adj."
+      },
+      {
+        "definition": "showing neglect or inattention",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "remiss",
+      "remissly",
+      "remissness",
+      "remissnesses"
+    ]
   },
   "remission": {
     "def": [
       {
-        "definition": "Temporary diminution of a disease.",
+        "definition": "the act or process of remitting",
+        "type": "n."
+      },
+      {
+        "definition": "a state or period during which something is remitted",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "remission",
+      "remissions"
+    ]
   },
   "remodel": {
     "def": [
       {
-        "definition": "Reconstruct.",
+        "definition": "to alter the structure of",
+        "type": "v."
+      },
+      {
+        "definition": "to cause (living tissue) to undergo structural reorganization, alteration, or renewal",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "remodel",
+      "remodeled",
+      "remodeling",
+      "remodelled",
+      "remodelling",
+      "remodels"
+    ]
   },
   "remonstrance": {
     "def": [
       {
-        "definition": "Reproof.",
+        "definition": "an earnest presentation of reasons for opposition or grievance",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of remonstrating",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "remonstrance",
+      "remonstrances"
+    ]
   },
   "remonstrant": {
     "def": [
       {
-        "definition": "Having the character of a reproof.",
+        "definition": "vigorously objecting or opposing",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "remonstrant",
+      "remonstrantly",
+      "remonstrants"
+    ]
   },
   "remonstrate": {
     "def": [
       {
-        "definition": "To present a verbal or written protest to those who have power to right or",
+        "definition": "to present and urge reasons in opposition",
+        "type": "v."
+      },
+      {
+        "definition": "to say or plead in protest, reproof, or opposition",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "remonstrate",
+      "remonstrated",
+      "remonstrates",
+      "remonstrating",
+      "remonstration",
+      "remonstrations",
+      "remonstrative",
+      "remonstratively",
+      "remonstrator",
+      "remonstrators"
+    ]
   },
   "remunerate": {
     "def": [
       {
-        "definition": "To pay or pay for.",
+        "definition": "to pay an equivalent for",
+        "type": "v."
+      },
+      {
+        "definition": "to pay an equivalent to for a service, loss, or expense",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "remunerate",
+      "remunerated",
+      "remunerates",
+      "remunerating",
+      "remunerator",
+      "remunerators",
+      "remuneratory"
+    ]
   },
   "remuneration": {
     "def": [
       {
-        "definition": "Compensation.",
+        "definition": "something that remunerates ,",
+        "type": "n."
+      },
+      {
+        "definition": "an act or fact of remunerating",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "remuneration",
+      "remunerations"
+    ]
   },
   "renaissance": {
     "def": [
       {
-        "definition": "The revival of letters, and then of art, which marks the transition from",
+        "definition": "the transitional movement in Europe between medieval and modern times beginning in the 14th century in Italy, lasting into the 17th century, and marked by a humanistic revival of classical influence expressed in a flowering of the arts and literature and by the beginnings of modern science",
+        "type": "n."
+      },
+      {
+        "definition": "the period of the Renaissance",
+        "type": "n."
+      },
+      {
+        "definition": "the neoclassical style of architecture prevailing during the Renaissance",
+        "type": "n."
+      },
+      {
+        "definition": "a movement or period of vigorous artistic and intellectual activity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Renaissance",
+      "Renaissances",
+      "renaissance",
+      "renaissances"
+    ]
   },
   "rendezvous": {
     "def": [
       {
-        "definition": "A prearranged place of meeting.",
+        "definition": "a meeting at an  place and time",
         "type": "n."
+      },
+      {
+        "definition": "a place appointed for assembling or meeting",
+        "type": "n."
+      },
+      {
+        "definition": "a place where many people go to spend time",
+        "type": "n."
+      },
+      {
+        "definition": "the process of bringing two spacecraft together",
+        "type": "n."
+      },
+      {
+        "definition": "to meet or come together for a",
+        "type": "v."
+      },
+      {
+        "definition": "to meet with for a rendezvous",
+        "type": "v."
+      },
+      {
+        "definition": "to bring together for a rendezvous",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rendezvous",
+      "rendezvoused",
+      "rendezvouses",
+      "rendezvousing"
+    ]
   },
   "rendition": {
     "def": [
       {
-        "definition": "Interpretation.",
+        "definition": "a performance or interpretation of something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rendition",
+      "renditions"
+    ]
   },
   "renovate": {
     "def": [
       {
-        "definition": "To restore after deterioration, as a building.",
+        "definition": "to restore to a former better state (as by cleaning, repairing, or rebuilding)",
+        "type": "v."
+      },
+      {
+        "definition": "to restore to life, vigor, or activity",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "renovate",
+      "renovated",
+      "renovates",
+      "renovating",
+      "renovation",
+      "renovations",
+      "renovative",
+      "renovator",
+      "renovators"
+    ]
   },
   "renunciation": {
     "def": [
       {
-        "definition": "An explicit disclaimer of a right or privilege.",
+        "definition": "the act or practice of renouncing",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "renunciation",
+      "renunciations",
+      "renunciative",
+      "renunciatory"
+    ]
   },
   "reorganize": {
     "def": [
       {
-        "definition": "To change to a more satisfactory form of organization.",
+        "definition": "to organize again or anew",
+        "type": "v."
+      },
+      {
+        "definition": "to reorganize something",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reorganize",
+      "reorganized",
+      "reorganizer",
+      "reorganizers",
+      "reorganizes",
+      "reorganizing"
+    ]
   },
   "reparable": {
     "def": [
       {
-        "definition": "Capable of repair.",
+        "definition": "capable of being repaired",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reparable"
+    ]
   },
   "reparation": {
     "def": [
       {
-        "definition": "The act of making amends, as for an injury, loss, or wrong.",
+        "definition": "a repairing or keeping in repair",
+        "type": "n."
+      },
+      {
+        "definition": "the act of making amends, offering expiation, or giving satisfaction for a wrong or injury",
+        "type": "n."
+      },
+      {
+        "definition": "something done or given as amends or satisfaction",
+        "type": "n."
+      },
+      {
+        "definition": "the payment of damages",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reparation",
+      "reparations"
+    ]
   },
   "repartee": {
     "def": [
       {
-        "definition": "A ready, witty, or apt reply.",
+        "definition": "a quick and witty reply",
+        "type": "n."
+      },
+      {
+        "definition": "a succession or interchange of clever retorts amusing and usually light sparring with words",
+        "type": "n."
+      },
+      {
+        "definition": "adroitness and cleverness in reply skill in repartee",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repartee",
+      "repartees"
+    ]
   },
   "repeal": {
     "def": [
       {
-        "definition": "To render of no further effect.",
+        "definition": "to rescind or annul by authoritative act",
+        "type": "v."
+      },
+      {
+        "definition": "to summon to return",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "repeal",
+      "repealable",
+      "repealed",
+      "repealing",
+      "repeals"
+    ]
   },
   "repel": {
     "def": [
       {
-        "definition": "To force or keep back in a manner, physically or mentally.",
+        "definition": "to drive back",
+        "type": "v."
+      },
+      {
+        "definition": "to fight against",
+        "type": "v."
+      },
+      {
+        "definition": "to drive away",
+        "type": "v."
+      },
+      {
+        "definition": "to be incapable of adhering to, mixing with, taking up, or holding",
+        "type": "v."
+      },
+      {
+        "definition": "to force away or apart or tend to do so by mutual action at a distance",
+        "type": "v."
+      },
+      {
+        "definition": "to cause aversion in",
+        "type": "v."
+      },
+      {
+        "definition": "to cause aversion",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "repel",
+      "repelled",
+      "repeller",
+      "repellers",
+      "repelling",
+      "repels"
+    ]
   },
   "repellent": {
     "def": [
       {
-        "definition": "Having power to force back in a manner, physically or mentally.",
+        "definition": "serving or tending to drive away or ward off",
         "type": "adj."
+      },
+      {
+        "definition": "arousing aversion or disgust",
+        "type": "adj."
+      },
+      {
+        "definition": "something that repels",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repellant",
+      "repellent",
+      "repellently",
+      "repellants",
+      "repellents"
+    ]
   },
   "repentance": {
     "def": [
       {
-        "definition": "Sorrow for something done or left undone, with desire to make things right",
+        "definition": "the action or process of repenting especially for misdeeds or moral shortcomings",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repentance",
+      "repentances"
+    ]
   },
   "repertory": {
     "def": [
       {
-        "definition": "A place where things are stored or gathered together.",
+        "definition": "a place where something may be found",
+        "type": "n."
+      },
+      {
+        "definition": "a company that presents several different plays, operas, or pieces usually alternately in the course of a season at one theater",
+        "type": "n."
+      },
+      {
+        "definition": "a theater housing such a company",
+        "type": "n."
+      },
+      {
+        "definition": "the production and presentation of plays by a repertory company",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repertories",
+      "repertory"
+    ]
   },
   "repetition": {
     "def": [
       {
-        "definition": "The act of repeating.",
+        "definition": "the act or an instance of repeating or being repeated",
+        "type": "n."
+      },
+      {
+        "definition": "a motion or exercise (such as a push-up) that is repeated and usually counted",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repetition",
+      "repetitional",
+      "repetitions"
+    ]
   },
   "repine": {
     "def": [
       {
-        "definition": "To indulge in fretfulness and faultfinding.",
+        "definition": "to feel or express dejection or discontent",
+        "type": "v."
+      },
+      {
+        "definition": "to long for something",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "repine",
+      "repined",
+      "repiner",
+      "repiners",
+      "repines",
+      "repining"
+    ]
   },
   "replenish": {
     "def": [
       {
-        "definition": "To fill again, as something that has been emptied.",
+        "definition": "to fill or build up again",
+        "type": "v."
+      },
+      {
+        "definition": "to fill with persons or animals",
+        "type": "v."
+      },
+      {
+        "definition": "to fill with inspiration or power",
+        "type": "v."
+      },
+      {
+        "definition": "to supply fully",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "replenish",
+      "replenishable",
+      "replenished",
+      "replenisher",
+      "replenishers",
+      "replenishes",
+      "replenishing",
+      "replenishment",
+      "replenishments"
+    ]
   },
   "replete": {
     "def": [
       {
-        "definition": "Full to the uttermost.",
+        "definition": "fully or abundantly provided or filled",
+        "type": "adj."
+      },
+      {
+        "definition": "abundantly fed",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "replete",
+      "repleteness",
+      "repletenesses"
+    ]
   },
   "replica": {
     "def": [
       {
-        "definition": "A duplicate executed by the artist himself, and regarded, equally with the",
+        "definition": "an exact reproduction (as of a painting) executed by the original artist",
+        "type": "n."
+      },
+      {
+        "definition": "a copy exact in all details",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "replica",
+      "replicas"
+    ]
   },
   "repository": {
     "def": [
       {
-        "definition": "A place in which goods are stored.",
+        "definition": "a place, room, or container where something is deposited or stored",
         "type": "n."
+      },
+      {
+        "definition": "a side altar in a Roman Catholic church where the consecrated Host is reserved from Maundy Thursday until Good Friday",
+        "type": "n."
+      },
+      {
+        "definition": "one that contains or stores something nonmaterial",
+        "type": "n."
+      },
+      {
+        "definition": "a place or region richly supplied with a natural resource",
+        "type": "n."
+      },
+      {
+        "definition": "a person to whom something is confided or entrusted",
+        "type": "n."
+      },
+      {
+        "definition": "designed to act over a prolonged period",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "repositories",
+      "repository"
+    ]
   },
   "reprehend": {
     "def": [
       {
-        "definition": "To find fault with.",
+        "definition": "to voice disapproval of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprehend",
+      "reprehended",
+      "reprehending",
+      "reprehends"
+    ]
   },
   "reprehensible": {
     "def": [
       {
-        "definition": "Censurable.",
+        "definition": "worthy of or deserving reprehension",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprehensibilities",
+      "reprehensibility",
+      "reprehensible",
+      "reprehensibleness",
+      "reprehensiblenesses",
+      "reprehensibly"
+    ]
   },
   "reprehension": {
     "def": [
       {
-        "definition": "Expression of blame.",
+        "definition": "the act of reprehending",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprehension",
+      "reprehensions"
+    ]
   },
   "repress": {
     "def": [
       {
-        "definition": "To keep under restraint or control.",
+        "definition": "to check by or as if by pressure",
+        "type": "v."
+      },
+      {
+        "definition": "to put down by force",
+        "type": "v."
+      },
+      {
+        "definition": "to hold in by self-control",
+        "type": "v."
+      },
+      {
+        "definition": "to prevent the natural or normal expression, activity, or development of",
+        "type": "v."
+      },
+      {
+        "definition": "to exclude from consciousness",
+        "type": "v."
+      },
+      {
+        "definition": "to inactivate (a gene or formation of a gene product) by allosteric combination at a DNA binding site",
+        "type": "v."
+      },
+      {
+        "definition": "to take repressive action",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "repress",
+      "repressed",
+      "represses",
+      "repressibilities",
+      "repressibility",
+      "repressible",
+      "repressing",
+      "repressive",
+      "repressively",
+      "repressiveness",
+      "repressivenesses"
+    ]
   },
   "repressible": {
     "def": [
@@ -1536,691 +3899,1801 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "repressible"
+    ]
   },
   "reprieve": {
     "def": [
       {
-        "definition": "To grant a respite from punishment to.",
+        "definition": "to delay the punishment of (someone, such as a condemned prisoner)",
         "type": "v."
+      },
+      {
+        "definition": "to give relief or  to for a time",
+        "type": "v."
+      },
+      {
+        "definition": "the act of  the state of being reprieved",
+        "type": "n."
+      },
+      {
+        "definition": "a formal temporary suspension of the execution of a sentence especially of death",
+        "type": "n."
+      },
+      {
+        "definition": "an order or warrant for a temporary suspension of the execution of a sentence",
+        "type": "n."
+      },
+      {
+        "definition": "a temporary  (as from pain or trouble)",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprieve",
+      "reprieved",
+      "reprieves",
+      "reprieving"
+    ]
   },
   "reprimand": {
     "def": [
       {
-        "definition": "To chide or rebuke for a fault.",
+        "definition": "a severe or formal reproof",
+        "type": "n."
+      },
+      {
+        "definition": "to reprove sharply or censure formally usually from a position of authority",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprimand",
+      "reprimands",
+      "reprimanded",
+      "reprimanding"
+    ]
   },
   "reprisal": {
     "def": [
       {
-        "definition": "Any infliction or act by way of retaliation on an enemy.",
+        "definition": "a retaliatory act",
+        "type": "n."
+      },
+      {
+        "definition": "the regaining of something (as by recapture)",
+        "type": "n."
+      },
+      {
+        "definition": "something (such as a sum of money) given or paid in restitution",
+        "type": "n."
+      },
+      {
+        "definition": "the act or practice in international law of resorting to force short of war in retaliation for damage or loss suffered",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of such action",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprisal",
+      "reprisals"
+    ]
   },
   "reprobate": {
     "def": [
       {
-        "definition": "One abandoned to depravity and sin.",
+        "definition": "an unprincipled or depraved person ,",
         "type": "n."
+      },
+      {
+        "definition": "morally corrupt",
+        "type": "adj."
+      },
+      {
+        "definition": "foreordained to damnation",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of a reprobate",
+        "type": "adj."
+      },
+      {
+        "definition": "expressing or involving reprobation",
+        "type": "adj."
+      },
+      {
+        "definition": "rejected as worthless or not standing a test",
+        "type": "adj."
+      },
+      {
+        "definition": "to condemn strongly as unworthy, unacceptable, or evil",
+        "type": "v."
+      },
+      {
+        "definition": "to refuse to accept",
+        "type": "v."
+      },
+      {
+        "definition": "to foreordain to damnation",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reprobate",
+      "reprobates",
+      "reprobated",
+      "reprobating",
+      "reprobative",
+      "reprobatory"
+    ]
   },
   "reproduce": {
     "def": [
       {
-        "definition": "To make a copy of.",
+        "definition": "to produce (new individuals of the same kind) by a sexual or asexual process",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to exist again or anew",
+        "type": "v."
+      },
+      {
+        "definition": "to imitate closely",
+        "type": "v."
+      },
+      {
+        "definition": "to present again",
+        "type": "v."
+      },
+      {
+        "definition": "to make a representation (such as an image or copy) of",
+        "type": "v."
+      },
+      {
+        "definition": "to revive mentally",
+        "type": "v."
+      },
+      {
+        "definition": "to translate (a recording) into sound",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo reproduction",
+        "type": "v."
+      },
+      {
+        "definition": "to produce offspring",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reproduce",
+      "reproduced",
+      "reproducer",
+      "reproducers",
+      "reproduces",
+      "reproducibilities",
+      "reproducibility",
+      "reproducible",
+      "reproducibles",
+      "reproducibly",
+      "reproducing"
+    ]
   },
   "reproduction": {
     "def": [
       {
-        "definition": "The process by which an animal or plant gives rise to another of its kind.",
+        "definition": "the act or process of reproducing",
+        "type": "n."
+      },
+      {
+        "definition": "something reproduced",
+        "type": "n."
+      },
+      {
+        "definition": "young seedling trees in a forest",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reproduction",
+      "reproductions"
+    ]
   },
   "reproof": {
     "def": [
       {
-        "definition": "An expression of disapproval or blame personally addressed to one censured.",
+        "definition": "criticism for a fault",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reproof",
+      "reproofs"
+    ]
   },
   "repudiate": {
     "def": [
       {
-        "definition": "To refuse to have anything to do with.",
+        "definition": "to refuse to accept",
+        "type": "v."
+      },
+      {
+        "definition": "to reject as untrue or unjust",
+        "type": "v."
+      },
+      {
+        "definition": "to refuse to  or pay",
+        "type": "v."
+      },
+      {
+        "definition": "to refuse to have anything to do with",
+        "type": "v."
+      },
+      {
+        "definition": "to divorce or separate formally from (a woman to whom one is betrothed or married)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "repudiate",
+      "repudiated",
+      "repudiates",
+      "repudiating",
+      "repudiator",
+      "repudiators"
+    ]
   },
   "repugnance": {
     "def": [
       {
-        "definition": "Thorough dislike.",
+        "definition": "the quality or fact of being contradictory or inconsistent",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of such contradiction or inconsistency",
+        "type": "n."
+      },
+      {
+        "definition": "strong dislike, distaste, or antagonism",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repugnance",
+      "repugnances"
+    ]
   },
   "repugnant": {
     "def": [
       {
-        "definition": "Offensive to taste and feeling.",
+        "definition": "causing a strong feeling of distaste or aversion",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "repugnant",
+      "repugnantly"
+    ]
   },
   "repulse": {
     "def": [
       {
-        "definition": "The act of beating or driving back, as an attacking or advancing enemy.",
+        "definition": "to drive or beat back",
+        "type": "v."
+      },
+      {
+        "definition": "to repel by discourtesy, coldness, or denial",
+        "type": "v."
+      },
+      {
+        "definition": "to cause repulsion in",
+        "type": "v."
+      },
+      {
+        "definition": "the action of repelling an attacker the fact of being repelled",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repulse",
+      "repulsed",
+      "repulses",
+      "repulsing"
+    ]
   },
   "repulsive": {
     "def": [
       {
-        "definition": "Grossly offensive.",
+        "definition": "serving or able to repulse",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to repel or reject ,",
+        "type": "adj."
+      },
+      {
+        "definition": "arousing aversion or disgust",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "repulsive",
+      "repulsively",
+      "repulsiveness",
+      "repulsivenesses"
+    ]
   },
   "repute": {
     "def": [
       {
-        "definition": "To hold in general opinion.",
-        "type": "v."
+        "definition": "the character or status commonly ascribed to one",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being favorably known, spoken of, or esteemed",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "repute",
+      "reputed",
+      "reputes",
+      "reputing"
+    ]
   },
   "requiem": {
     "def": [
       {
-        "definition": "A solemn mass sung for the repose of the souls of the dead.",
+        "definition": "a mass for the dead",
+        "type": "n."
+      },
+      {
+        "definition": "a solemn chant (such as a dirge) for the repose of the dead",
+        "type": "n."
+      },
+      {
+        "definition": "something that resembles such a solemn chant",
+        "type": "n."
+      },
+      {
+        "definition": "a musical setting of the mass for the dead",
+        "type": "n."
+      },
+      {
+        "definition": "a musical composition in honor of the dead",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "requiem",
+      "requiems"
+    ]
   },
   "requisite": {
     "def": [
       {
-        "definition": "Necessary.",
+        "definition": "needed for a particular purpose ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "requisite",
+      "requisiteness",
+      "requisitenesses",
+      "requisites"
+    ]
   },
   "requital": {
     "def": [
       {
-        "definition": "Adequate return for good or ill.",
+        "definition": "something given in return, compensation, or retaliation",
+        "type": "n."
+      },
+      {
+        "definition": "the act or action of requiting the state of being requited",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "requital",
+      "requitals"
+    ]
   },
   "requite": {
     "def": [
       {
-        "definition": "To repay either good or evil to, as to a person.",
+        "definition": "to make return for",
+        "type": "v."
+      },
+      {
+        "definition": "to make retaliation for",
+        "type": "v."
+      },
+      {
+        "definition": "to make suitable return to for a benefit or service or for an injury",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "requite",
+      "requited",
+      "requiter",
+      "requiters",
+      "requites",
+      "requiting"
+    ]
   },
   "rescind": {
     "def": [
       {
-        "definition": "To make void, as an act, by the enacting authority or a superior authority.",
+        "definition": "to take away",
+        "type": "v."
+      },
+      {
+        "definition": "to  (a contract) and restore the parties to the positions they would have occupied had there been no contract",
+        "type": "v."
+      },
+      {
+        "definition": "to make  by action of the enacting authority or a superior authority",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rescind",
+      "rescinded",
+      "rescinder",
+      "rescinders",
+      "rescinding",
+      "rescindment",
+      "rescindments",
+      "rescinds"
+    ]
   },
   "reseat": {
     "def": [
       {
-        "definition": "To place in position of office again.",
+        "definition": "to cause or help (someone) to be seated again",
+        "type": "v."
+      },
+      {
+        "definition": "to fit (something, such as a part of a machine) back into or on a seat {dx_def}see {/dx_def}",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "re-seat",
+      "re-seated",
+      "re-seating",
+      "re-seats",
+      "reseat",
+      "reseated",
+      "reseating",
+      "reseats"
+    ]
   },
   "resemblance": {
     "def": [
       {
-        "definition": "Similarity in quality or form.",
+        "definition": "the quality or state of resembling",
+        "type": "n."
+      },
+      {
+        "definition": "a point of likeness",
+        "type": "n."
+      },
+      {
+        "definition": "characteristic appearance",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "resemblance",
+      "resemblances"
+    ]
   },
   "resent": {
     "def": [
       {
-        "definition": "To be indignant at, as an injury or insult.",
+        "definition": "to feel or express annoyance or  at",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "resent",
+      "resented",
+      "resenting",
+      "resents"
+    ]
   },
   "reservoir": {
     "def": [
       {
-        "definition": "A receptacle where a quantity of some material, especially of a liquid or",
+        "definition": "an artificial lake where water is collected and kept in quantity for use",
+        "type": "n."
+      },
+      {
+        "definition": "a part of an apparatus in which a liquid is held",
+        "type": "n."
+      },
+      {
+        "definition": "an extra supply",
+        "type": "n."
+      },
+      {
+        "definition": "a host organism in which an infectious agent (such as a bacterium or virus) that is pathogenic for some other species lives and multiplies typically without damaging the host",
+        "type": "n."
+      },
+      {
+        "definition": "a part of the body that harbors an infectious agent and serves as a source of reinfection or infection transmission  {dx}compare ,",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reservoir",
+      "reservoirs"
+    ]
   },
   "residue": {
     "def": [
       {
-        "definition": "A remainder or surplus after a part has been separated or otherwise treated.",
+        "definition": "the part of a testator's estate remaining after the satisfaction of all debts, charges, allowances, and previous devises and bequests",
+        "type": "n."
+      },
+      {
+        "definition": "the remainder after subtracting a multiple of a modulus from an integer or a power of the integer that can appear as the second of the two terms in an appropriate congruence",
+        "type": "n."
+      },
+      {
+        "definition": "a constituent structural unit (such as a group or monomer) of a usually complex molecule",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "residue",
+      "residues"
+    ]
   },
   "resilience": {
     "def": [
       {
-        "definition": "The power of springing back to a former position",
+        "definition": "the capability of a body to recover its size and shape after  caused especially by compressive stress",
+        "type": "n."
+      },
+      {
+        "definition": "an ability to recover from or adjust easily to  or change",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "resilience",
+      "resiliences"
+    ]
   },
   "resilient": {
     "def": [
       {
-        "definition": "Having the quality of springing back to a former position.",
+        "definition": "capable of withstanding shock without permanent  or",
+        "type": "adj."
+      },
+      {
+        "definition": "tending to recover from or adjust easily to  or change",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "resilient",
+      "resiliently"
+    ]
   },
   "resistance": {
     "def": [
       {
-        "definition": "The exertion of opposite effort or effect.",
+        "definition": "an act or instance of",
         "type": "n."
+      },
+      {
+        "definition": "a means of resisting",
+        "type": "n."
+      },
+      {
+        "definition": "the inherent ability of an organism to resist harmful influences (such as disease, toxic agents, or infection)",
+        "type": "n."
+      },
+      {
+        "definition": "the capacity of a species or strain of microorganism to survive exposure to a toxic agent (such as a drug) formerly effective against it",
+        "type": "n."
+      },
+      {
+        "definition": "an opposing or impeding force",
+        "type": "n."
+      },
+      {
+        "definition": "the opposition offered by a body or substance to the passage through it of a steady electric current",
+        "type": "n."
+      },
+      {
+        "definition": "a source of resistance",
+        "type": "n."
+      },
+      {
+        "definition": "a psychological defense mechanism wherein a patient rejects, denies, or otherwise opposes the therapeutic efforts of a psychotherapist",
+        "type": "n."
+      },
+      {
+        "definition": "an underground organization of a conquered or nearly conquered country engaging in sabotage and secret operations against occupation forces and collaborators",
+        "type": "n."
+      },
+      {
+        "definition": "of, relating to, or being exercise involving pushing or pulling against a source of resistance (such as a weight) to increase strength",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Resistance",
+      "Resistances",
+      "resistance",
+      "resistances"
+    ]
   },
   "resistant": {
     "def": [
       {
-        "definition": "Offering or tending to produce resistance.",
+        "definition": "giving, capable of, or exhibiting resistance",
         "type": "adj."
+      },
+      {
+        "definition": "one that resists",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "resistant",
+      "resistants"
+    ]
   },
   "resistive": {
     "def": [
       {
-        "definition": "Having or exercising the power of resistance.",
+        "definition": "marked by resistance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "resistive",
+      "resistively",
+      "resistiveness",
+      "resistivenesses"
+    ]
   },
   "resistless": {
     "def": [
       {
-        "definition": "Powerless.",
+        "definition": "too strong to be resisted",
+        "type": "adj."
+      },
+      {
+        "definition": "offering no resistance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "resistless",
+      "resistlessly",
+      "resistlessness",
+      "resistlessnesses"
+    ]
   },
   "resonance": {
     "def": [
       {
-        "definition": "Able to reinforce sound by sympathetic vibrations.",
+        "definition": "the quality or state of being resonant",
+        "type": "n."
+      },
+      {
+        "definition": "the intensification and enriching of a musical tone by supplementary vibration",
+        "type": "n."
+      },
+      {
+        "definition": "a quality imparted to voiced sounds by vibration in anatomical resonating chambers or cavities (such as the mouth or the nasal cavity)",
+        "type": "n."
+      },
+      {
+        "definition": "a quality of richness or variety",
+        "type": "n."
+      },
+      {
+        "definition": "a quality of evoking response",
+        "type": "n."
+      },
+      {
+        "definition": "the sound elicited on percussion of the chest",
+        "type": "n."
+      },
+      {
+        "definition": "the conceptual alternation of a chemical species (such as a molecule or ion) between two or more equivalent allowed structural representations differing only in the placement of electrons that aids in understanding the actual state of the species as an amalgamation of its possible structures and the usually higher-than-expected stability of the species",
+        "type": "n."
+      },
+      {
+        "definition": "the enhancement of an atomic, nuclear, or particle reaction or a scattering event by excitation of internal motion in the system",
+        "type": "n."
+      },
+      {
+        "definition": "an extremely short-lived elementary particle",
+        "type": "n."
+      },
+      {
+        "definition": "a synchronous gravitational relationship of two celestial bodies (such as moons) that orbit a third (such as a planet) which can be expressed as a simple ratio of their orbital periods",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "resonance",
+      "resonances"
+    ]
   },
   "resonate": {
     "def": [
       {
-        "definition": "To have or produce resonance.",
+        "definition": "to produce or exhibit",
+        "type": "v."
+      },
+      {
+        "definition": "to respond as if by resonance",
+        "type": "v."
+      },
+      {
+        "definition": "to have particular meaning or importance to affect or appeal to someone in a personal or emotional way",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to resonating",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "resonate",
+      "resonated",
+      "resonates",
+      "resonating"
+    ]
   },
   "resource": {
     "def": [
       {
-        "definition": "That which is restored to, relied upon, or made available for aid or support.",
+        "definition": "a source of supply or support an available means",
+        "type": "n."
+      },
+      {
+        "definition": "a natural source of wealth or revenue",
+        "type": "n."
+      },
+      {
+        "definition": "a natural feature or phenomenon that enhances the quality of human life",
+        "type": "n."
+      },
+      {
+        "definition": "computable wealth",
+        "type": "n."
+      },
+      {
+        "definition": "a source of information or expertise",
+        "type": "n."
+      },
+      {
+        "definition": "something to which one has recourse in difficulty",
+        "type": "n."
+      },
+      {
+        "definition": "a possibility of relief or recovery",
+        "type": "n."
+      },
+      {
+        "definition": "a means of spending one's leisure time",
+        "type": "n."
+      },
+      {
+        "definition": "an ability to meet and handle a situation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "resource",
+      "resources"
+    ]
   },
   "respite": {
     "def": [
       {
-        "definition": "Interval of rest.",
+        "definition": "a period of temporary delay",
         "type": "n."
+      },
+      {
+        "definition": "an  of rest or relief",
+        "type": "n."
+      },
+      {
+        "definition": "to grant a temporary period of relief to grant a respite to",
+        "type": "v."
+      },
+      {
+        "definition": "providing or being temporary care in relief of a primary",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "respite",
+      "respites",
+      "respited",
+      "respiting"
+    ]
   },
   "resplendent": {
     "def": [
       {
-        "definition": "Very bright.",
+        "definition": "shining brilliantly characterized by a glowing splendor",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "resplendent",
+      "resplendently"
+    ]
   },
   "respondent": {
     "def": [
       {
-        "definition": "Answering.",
+        "definition": "one who maintains a thesis in reply",
+        "type": "n."
+      },
+      {
+        "definition": "a person who responds to a poll",
+        "type": "n."
+      },
+      {
+        "definition": "a reflex that occurs in response to a specific external stimulus {dx}compare",
+        "type": "n."
+      },
+      {
+        "definition": "making response",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or being behavior or responses to a stimulus that are followed by a reward  {dx}compare",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "respondent",
+      "respondents"
+    ]
   },
   "restitution": {
     "def": [
       {
-        "definition": "Restoration of anything to the one to whom it properly belongs.",
+        "definition": "a restoration of something to its rightful owner",
+        "type": "n."
+      },
+      {
+        "definition": "a making good of or giving an equivalent for some injury",
+        "type": "n."
+      },
+      {
+        "definition": "a legal action serving to cause restoration of a previous state",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "restitution",
+      "restitutions"
+    ]
   },
   "resumption": {
     "def": [
       {
-        "definition": "The act of taking back, or taking again.",
+        "definition": "an act or instance of resuming",
+        "type": "n."
+      },
+      {
+        "definition": "a return to payment in specie",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "resumption",
+      "resumptions"
+    ]
   },
   "resurgent": {
     "def": [
       {
-        "definition": "Surging back or again.",
+        "definition": "undergoing or tending to produce resurgence",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "resurgent"
+    ]
   },
   "resurrection": {
     "def": [
       {
-        "definition": "A return from death to life",
+        "definition": "the rising of Christ from the dead",
+        "type": "n."
+      },
+      {
+        "definition": "the rising again to life of all the human dead before the final judgment",
+        "type": "n."
+      },
+      {
+        "definition": "the state of one risen from the dead",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Resurrection",
+      "Resurrections",
+      "resurrection",
+      "resurrectional",
+      "resurrections"
+    ]
   },
   "resuscitate": {
     "def": [
       {
-        "definition": "To restore from apparent death.",
+        "definition": "to revive from apparent death or from unconsciousness",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "resuscitate",
+      "resuscitated",
+      "resuscitates",
+      "resuscitating",
+      "resuscitative"
+    ]
   },
   "retaliate": {
     "def": [
       {
-        "definition": "To repay evil with a similar evil.",
+        "definition": "to return like for like",
+        "type": "v."
+      },
+      {
+        "definition": "to repay in kind",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retaliate",
+      "retaliated",
+      "retaliates",
+      "retaliating",
+      "retaliation",
+      "retaliations",
+      "retaliative",
+      "retaliatory"
+    ]
   },
   "retch": {
     "def": [
       {
-        "definition": "To make an effort to vomit.",
+        "definition": "to make an effort to vomit",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retch",
+      "retched",
+      "retches",
+      "retching"
+    ]
   },
   "retention": {
     "def": [
       {
-        "definition": "The keeping of a thing within one's power or possession.",
+        "definition": "the act of retaining the state of being retained",
+        "type": "n."
+      },
+      {
+        "definition": "abnormal retaining of a fluid or secretion in a body cavity",
+        "type": "n."
+      },
+      {
+        "definition": "power of retaining",
+        "type": "n."
+      },
+      {
+        "definition": "an ability to retain things in mind",
+        "type": "n."
+      },
+      {
+        "definition": "something retained",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "retention",
+      "retentions"
+    ]
   },
   "reticence": {
     "def": [
       {
-        "definition": "The quality of habitually keeping silent or being reserved in utterance.",
+        "definition": "the quality or state of being reticent ,",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of being reticent",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reticence",
+      "reticences"
+    ]
   },
   "reticent": {
     "def": [
       {
-        "definition": "Habitually keeping silent or being reserved in utterance.",
+        "definition": "inclined to be silent or uncommunicative in speech",
+        "type": "adj."
+      },
+      {
+        "definition": "in expression, presentation, or appearance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reticent",
+      "reticently"
+    ]
   },
   "retinue": {
     "def": [
       {
-        "definition": "The body of persons who attend a person of importance in travel or public",
+        "definition": "a group of retainers or attendants",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "retinue",
+      "retinues"
+    ]
   },
   "retort": {
     "def": [
       {
-        "definition": "A retaliatory speech.",
+        "definition": "to pay or hurl back",
+        "type": "v."
+      },
+      {
+        "definition": "to make a reply to",
+        "type": "v."
+      },
+      {
+        "definition": "to say in reply",
+        "type": "v."
+      },
+      {
+        "definition": "to answer (an argument) by a counter argument",
+        "type": "v."
+      },
+      {
+        "definition": "to answer back usually sharply",
+        "type": "v."
+      },
+      {
+        "definition": "to return an argument or charge",
+        "type": "v."
+      },
+      {
+        "definition": "a quick, witty, or cutting reply",
         "type": "n."
+      },
+      {
+        "definition": "a vessel or chamber in which substances are distilled or decomposed by heat",
+        "type": "n."
+      },
+      {
+        "definition": "to treat (something, such as oil shale) by heating in a retort",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retort",
+      "retorted",
+      "retorting",
+      "retorts"
+    ]
   },
   "retouch": {
     "def": [
       {
-        "definition": "To modify the details of.",
+        "definition": "to rework in order to improve",
         "type": "v."
+      },
+      {
+        "definition": "to alter (something, such as a photographic negative) to produce a more desirable appearance",
+        "type": "v."
+      },
+      {
+        "definition": "to color (new growth of hair) to match previously dyed, tinted, or bleached hair",
+        "type": "v."
+      },
+      {
+        "definition": "to make or give retouches",
+        "type": "v."
+      },
+      {
+        "definition": "the act or process or an instance of retouching",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "retouch",
+      "retouched",
+      "retoucher",
+      "retouchers",
+      "retouches",
+      "retouching"
+    ]
   },
   "retrace": {
     "def": [
       {
-        "definition": "To follow backward or toward the place of beginning, as a track or marking.",
+        "definition": "to go over or along (something, such as a course or path) again often in a reverse direction",
+        "type": "v."
+      },
+      {
+        "definition": "to go over (something) again in memory",
+        "type": "v."
+      },
+      {
+        "definition": "to discover the origin or early history of (something) by going back over previous steps",
+        "type": "v."
+      },
+      {
+        "definition": "to follow, study, or present (something) in detail or step by step",
+        "type": "v."
+      },
+      {
+        "definition": "to write or draw (something, such as a letter or line) again",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrace",
+      "retraceabilities",
+      "retraceability",
+      "retraceable",
+      "retraced",
+      "retraces",
+      "retracing"
+    ]
   },
   "retract": {
     "def": [
       {
-        "definition": "To recall or take back (something that one has said).",
+        "definition": "to draw back or in",
+        "type": "v."
+      },
+      {
+        "definition": "to draw or pull back",
+        "type": "v."
+      },
+      {
+        "definition": "to recant or disavow something",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retract",
+      "retractable",
+      "retracted",
+      "retracting",
+      "retracts"
+    ]
   },
   "retrench": {
     "def": [
       {
-        "definition": "To cut down or reduce in extent or quantity.",
+        "definition": "to cut out",
+        "type": "v."
+      },
+      {
+        "definition": "to pare away",
+        "type": "v."
+      },
+      {
+        "definition": "to make retrenchments",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrench",
+      "retrenched",
+      "retrenches",
+      "retrenching"
+    ]
   },
   "retrieve": {
     "def": [
       {
-        "definition": "To recover something by searching.",
+        "definition": "to locate and bring in (killed or wounded game)",
         "type": "v."
+      },
+      {
+        "definition": "to call to mind again",
+        "type": "v."
+      },
+      {
+        "definition": "to get back again",
+        "type": "v."
+      },
+      {
+        "definition": "to return (something, such as a ball or shuttlecock that is difficult to reach) successfully",
+        "type": "v."
+      },
+      {
+        "definition": "to remedy the evil consequences of",
+        "type": "v."
+      },
+      {
+        "definition": "to get and bring back",
+        "type": "v."
+      },
+      {
+        "definition": "to bring in game",
+        "type": "v."
+      },
+      {
+        "definition": "the successful return of a ball that is difficult to reach or control (as in tennis)",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrievabilities",
+      "retrievability",
+      "retrievable",
+      "retrieve",
+      "retrieved",
+      "retrieves",
+      "retrieving"
+    ]
   },
   "retroactive": {
     "def": [
       {
-        "definition": "Operative on, affecting, or having reference to past events,",
+        "definition": "extending in scope or effect to a prior time or to conditions that existed or originated in the past",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "retroactive",
+      "retroactively",
+      "retroactivities",
+      "retroactivity"
+    ]
   },
   "retrograde": {
     "def": [
       {
-        "definition": "To cause to deteriorate or to move backward.",
+        "definition": "moving, occurring, or performed in a backward direction",
+        "type": "adj."
+      },
+      {
+        "definition": "contrary to the normal order",
+        "type": "adj."
+      },
+      {
+        "definition": "tending toward or resulting in a worse or previous state",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by retrogression",
+        "type": "adj."
+      },
+      {
+        "definition": "affecting memories of a period prior to a precipitating event (such as brain injury or disease)  {dx}compare",
+        "type": "adj."
+      },
+      {
+        "definition": "to turn back",
+        "type": "v."
+      },
+      {
+        "definition": "to go back",
+        "type": "v."
+      },
+      {
+        "definition": "to go back over or recapitulate something",
+        "type": "v."
+      },
+      {
+        "definition": "to decline to a worse condition",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrograde",
+      "retrogradely",
+      "retrograded",
+      "retrogrades",
+      "retrograding"
+    ]
   },
   "retrogression": {
     "def": [
       {
-        "definition": "A going or moving backward or in a reverse direction.",
+        "definition": "return to a former and less complex level of development or organization",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrogression",
+      "retrogressions"
+    ]
   },
   "retrospect": {
     "def": [
       {
-        "definition": "A view or contemplation of something past.",
+        "definition": "a review of or meditation on past events",
         "type": "n."
+      },
+      {
+        "definition": "reference to or regard of a precedent or authority",
+        "type": "n."
+      },
+      {
+        "definition": "to engage in retrospection",
+        "type": "v."
+      },
+      {
+        "definition": "to refer back",
+        "type": "v."
+      },
+      {
+        "definition": "to go back over in thought",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrospect",
+      "retrospects",
+      "retrospected",
+      "retrospecting"
+    ]
   },
   "retrospective": {
     "def": [
       {
-        "definition": "Looking back on the past.",
+        "definition": "being a retrospective",
         "type": "adj."
+      },
+      {
+        "definition": "affecting things past",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or being a study (as of a disease) that starts with the present condition of a population of individuals and collects data about their past history to explain their present condition",
+        "type": "adj."
+      },
+      {
+        "definition": "a generally comprehensive exhibition, compilation, or performance of the work of an artist over a span of years",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "retrospective",
+      "retrospectively",
+      "retrospectives"
+    ]
   },
   "reunite": {
     "def": [
       {
-        "definition": "To unite or join again, as after separation.",
+        "definition": "to bring together again",
+        "type": "v."
+      },
+      {
+        "definition": "to come together again",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "reunite",
+      "reunited",
+      "reunites",
+      "reuniting"
+    ]
   },
   "revelation": {
     "def": [
       {
-        "definition": "A disclosing, discovering, or making known of what was before secret,",
+        "definition": "an act of revealing or communicating divine truth",
+        "type": "n."
+      },
+      {
+        "definition": "something that is revealed by God to humans",
+        "type": "n."
+      },
+      {
+        "definition": "an act of revealing to view or making known",
+        "type": "n."
+      },
+      {
+        "definition": "something that is revealed",
+        "type": "n."
+      },
+      {
+        "definition": "a pleasant often enlightening surprise",
+        "type": "n."
+      },
+      {
+        "definition": "an apocalyptic writing addressed to early Christians of Asia Minor and included as a book in the New Testament  {dx}see",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Apocalypse",
+      "Apocalypses",
+      "Revelation",
+      "Revelations",
+      "revelation",
+      "revelations"
+    ]
   },
   "revere": {
     "def": [
       {
-        "definition": "To regard with worshipful veneration.",
+        "definition": "to show devoted deferential honor to regard as worthy of great honor",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "revere",
+      "revered",
+      "reveres",
+      "revering"
+    ]
   },
   "reverent": {
     "def": [
       {
-        "definition": "Humble.",
+        "definition": "expressing or characterized by reverence",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "reverent",
+      "reverently"
+    ]
   },
   "reversion": {
     "def": [
       {
-        "definition": "A return to or toward some former state or condition.",
+        "definition": "the part of a simple estate remaining in the control of its owner after the owner has granted therefrom a lesser particular estate",
+        "type": "n."
+      },
+      {
+        "definition": "a future interest in property left in the control of a grantor or the grantor's successor",
+        "type": "n."
+      },
+      {
+        "definition": "the right of succession or future possession or enjoyment",
+        "type": "n."
+      },
+      {
+        "definition": "an act or the process of returning (as to a former condition)",
+        "type": "n."
+      },
+      {
+        "definition": "a return toward an ancestral type or condition reappearance of an ancestral character",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of turning the opposite way the state of being so turned",
+        "type": "n."
+      },
+      {
+        "definition": "a product of reversion",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "reversion",
+      "reversions"
+    ]
   },
   "revert": {
     "def": [
       {
-        "definition": "To return, or turn or look back, as toward a former position or the like.",
+        "definition": "to come or go back (as to a former condition, period, or subject)",
+        "type": "v."
+      },
+      {
+        "definition": "to return to the grantor or the grantor's heirs at the end of a",
+        "type": "v."
+      },
+      {
+        "definition": "to return to an ancestral type",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "revert",
+      "reverted",
+      "reverter",
+      "reverters",
+      "revertible",
+      "reverting",
+      "reverts"
+    ]
   },
   "revile": {
     "def": [
       {
-        "definition": "To heap approach or abuse upon.",
+        "definition": "to subject to verbal abuse",
+        "type": "v."
+      },
+      {
+        "definition": "to use abusive language",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "revile",
+      "reviled",
+      "revilement",
+      "revilements",
+      "reviler",
+      "revilers",
+      "reviles",
+      "reviling"
+    ]
   },
   "revisal": {
     "def": [
       {
-        "definition": "Revision.",
+        "definition": "an act of revising",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "revisal",
+      "revisals"
+    ]
   },
   "revise": {
     "def": [
       {
-        "definition": "To examine for the correction of errors, or for the purpose of making changes.",
+        "definition": "an act of revising",
+        "type": "n."
+      },
+      {
+        "definition": "a printing proof that incorporates changes marked in a previous proof",
+        "type": "n."
+      },
+      {
+        "definition": "to look over again or make changes to in order to correct or improve",
+        "type": "v."
+      },
+      {
+        "definition": "to study again",
+        "type": "v."
+      },
+      {
+        "definition": "to make a new, amended, improved, or up-to-date version of",
+        "type": "v."
+      },
+      {
+        "definition": "to provide with a new taxonomic arrangement",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "revise",
+      "revises",
+      "revisable",
+      "revised",
+      "reviser",
+      "revisers",
+      "revising",
+      "revisor",
+      "revisors"
+    ]
   },
   "revocation": {
     "def": [
       {
-        "definition": "Repeal.",
+        "definition": "an act or instance of revoking",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "revocation",
+      "revocations"
+    ]
   },
   "revoke": {
     "def": [
       {
-        "definition": "To rescind.",
+        "definition": "to annul by recalling or taking back",
         "type": "v."
+      },
+      {
+        "definition": "to bring or call back",
+        "type": "v."
+      },
+      {
+        "definition": "to fail to follow suit when able in a card game in violation of the rules",
+        "type": "v."
+      },
+      {
+        "definition": "an act or instance of revoking in a card game",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "revoke",
+      "revoked",
+      "revoker",
+      "revokers",
+      "revokes",
+      "revoking"
+    ]
   },
   "rhapsody": {
     "def": [
       {
-        "definition": "Rapt or rapturous utterance.",
+        "definition": "a portion of an epic poem adapted for recitation",
+        "type": "n."
+      },
+      {
+        "definition": "a miscellaneous collection",
+        "type": "n."
+      },
+      {
+        "definition": "a musical composition of irregular form having an improvisatory character",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rhapsodies",
+      "rhapsody"
+    ]
   },
   "rhetoric": {
     "def": [
       {
-        "definition": "The art of discourse.",
+        "definition": "the study of principles and rules of  formulated by critics of ancient times",
+        "type": "n."
+      },
+      {
+        "definition": "the study of writing or speaking as a means of communication or persuasion",
+        "type": "n."
+      },
+      {
+        "definition": "skill in the effective use of speech",
+        "type": "n."
+      },
+      {
+        "definition": "a type or  of language or speech",
+        "type": "n."
+      },
+      {
+        "definition": "communication",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rhetoric",
+      "rhetorics"
+    ]
   },
   "rhetorician": {
     "def": [
       {
-        "definition": "A showy writer or speaker.",
+        "definition": "a master or teacher of rhetoric",
+        "type": "n."
+      },
+      {
+        "definition": "an eloquent or grandiloquent writer or speaker",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rhetorician",
+      "rhetoricians"
+    ]
   },
   "ribald": {
     "def": [
       {
-        "definition": "Indulging in or manifesting coarse indecency or obscenity.",
+        "definition": "marked by coarseness or lewdness ,",
         "type": "adj."
+      },
+      {
+        "definition": "characterized by or using coarse, indecent humor",
+        "type": "adj."
+      },
+      {
+        "definition": "a person coarse or lewd in appearance, speech, writing, or thought a ribald person",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ribald",
+      "ribalds"
+    ]
   },
   "riddance": {
     "def": [
       {
-        "definition": "The act or ridding or delivering from something undesirable.",
+        "definition": "an act of ridding",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "riddance",
+      "riddances"
+    ]
   },
   "ridicule": {
     "def": [
       {
-        "definition": "Looks or acts expressing amused contempt.",
+        "definition": "the act of ridiculing ,",
         "type": "n."
+      },
+      {
+        "definition": "to make fun of",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ridicule",
+      "ridicules",
+      "ridiculed",
+      "ridiculer",
+      "ridiculers",
+      "ridiculing"
+    ]
   },
   "ridiculous": {
     "def": [
       {
-        "definition": "Laughable and contemptible.",
+        "definition": "arousing or deserving ridicule extremely silly or unreasonable ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ridiculous",
+      "ridiculousness",
+      "ridiculousnesses"
+    ]
   },
   "rife": {
     "def": [
       {
-        "definition": "Abundant.",
+        "definition": "prevalent especially to an increasing degree and often unpleasant",
+        "type": "adj."
+      },
+      {
+        "definition": "copiously supplied",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rife",
+      "rifely",
+      "rifer",
+      "rifest"
+    ]
   },
   "righteousness": {
     "def": [
@@ -2229,43 +5702,95 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "righteousness"
+    ]
   },
   "rightful": {
     "def": [
       {
-        "definition": "Conformed to a just claim according to established laws or usage.",
+        "definition": "having a just or legally established claim",
+        "type": "adj."
+      },
+      {
+        "definition": "held by right or just claim",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rightful",
+      "rightfully",
+      "rightfulness",
+      "rightfulnesses"
+    ]
   },
   "rigmarole": {
     "def": [
       {
-        "definition": "Nonsense.",
+        "definition": "something (such as a procedure or an explanation) that is long, complicated, and tedious",
+        "type": "n."
+      },
+      {
+        "definition": "confused or meaningless talk",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rigamarole",
+      "rigamaroles",
+      "rigmarole",
+      "rigmaroles"
+    ]
   },
   "rigor": {
     "def": [
       {
-        "definition": "Inflexibility.",
+        "definition": "an act or instance of strictness, severity, or cruelty",
+        "type": "n."
+      },
+      {
+        "definition": "a tremor caused by a chill",
+        "type": "n."
+      },
+      {
+        "definition": "a condition that makes life difficult, challenging, or uncomfortable",
+        "type": "n."
+      },
+      {
+        "definition": "strict precision",
+        "type": "n."
+      },
+      {
+        "definition": "rigidness or torpor of organs or tissue that prevents response to stimuli",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rigor",
+      "rigors"
+    ]
   },
   "rigorous": {
     "def": [
       {
-        "definition": "Uncompromising.",
+        "definition": "manifesting, exercising, or favoring rigor very strict",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by extremes of temperature or climate",
+        "type": "adj."
+      },
+      {
+        "definition": "scrupulously accurate",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rigorous",
+      "rigorously",
+      "rigorousness",
+      "rigorousnesses"
+    ]
   },
   "ripplet": {
     "def": [
@@ -2274,159 +5799,481 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ripplet"
+    ]
   },
   "risible": {
     "def": [
       {
-        "definition": "capable of exciting laughter.",
+        "definition": "capable of laughing",
+        "type": "adj."
+      },
+      {
+        "definition": "disposed to laugh",
+        "type": "adj."
+      },
+      {
+        "definition": "arousing or provoking laughter",
+        "type": "adj."
+      },
+      {
+        "definition": "associated with, relating to, or used in laughter",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "risible",
+      "risibly"
+    ]
   },
   "rivulet": {
     "def": [
       {
-        "definition": "A small stream or brook.",
+        "definition": "a small stream",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rivulet",
+      "rivulets"
+    ]
   },
   "robust": {
     "def": [
       {
-        "definition": "Characterized by great strength or power of endurance.",
+        "definition": "having or exhibiting strength or  health",
+        "type": "adj."
+      },
+      {
+        "definition": "having or showing , strength, or firmness",
+        "type": "adj."
+      },
+      {
+        "definition": "strongly formed or constructed",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of performing without failure under a wide range of conditions",
+        "type": "adj."
+      },
+      {
+        "definition": "requiring strength or vigor",
+        "type": "adj."
+      },
+      {
+        "definition": "having a rich, strong flavor",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to, resembling, or being a specialized group of  characterized especially by heavy molars and small incisors adapted to a vegetarian diet  {dx}compare",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "robust",
+      "robuster",
+      "robustest",
+      "robustly",
+      "robustness",
+      "robustnesses"
+    ]
   },
   "rondo": {
     "def": [
       {
-        "definition": "A musical composition during which the first part or subject is repeated several",
+        "definition": "an instrumental composition typically with a refrain recurring four times in the tonic and with three couplets in contrasting keys",
+        "type": "n."
+      },
+      {
+        "definition": "the musical form of a rondo used especially for a movement in a concerto or sonata",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rondo",
+      "rondos"
+    ]
   },
   "rookery": {
     "def": [
       {
-        "definition": "A place where crows congregate to breed.",
+        "definition": "the nests or breeding place of a colony of rooks",
+        "type": "n."
+      },
+      {
+        "definition": "a breeding ground or haunt especially of gregarious birds or mammals (such as penguins or seals)",
+        "type": "n."
+      },
+      {
+        "definition": "a crowded dilapidated tenement or group of dwellings",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rookeries",
+      "rookery"
+    ]
   },
   "rotary": {
     "def": [
       {
-        "definition": "Turning around its axis, like a wheel, or so constructed as to turn thus.",
+        "definition": "turning on an axis like a wheel",
         "type": "adj."
+      },
+      {
+        "definition": "taking place about an axis",
+        "type": "adj."
+      },
+      {
+        "definition": "having an important part that turns on an axis",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by rotation",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being a press in which paper is printed by rotation in contact with a curved printing surface attached to a cylinder",
+        "type": "adj."
+      },
+      {
+        "definition": "a rotary machine",
+        "type": "n."
+      },
+      {
+        "definition": "a road junction formed around a central circle about which traffic moves in one direction only",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rotary",
+      "circle",
+      "rotaries"
+    ]
   },
   "rotate": {
     "def": [
       {
-        "definition": "To cause to turn on or as on its axis, as a wheel.",
+        "definition": "having the parts flat and spreading or radiating like the spokes of a wheel",
+        "type": "adj."
+      },
+      {
+        "definition": "to perform an act, function, or operation in turn",
+        "type": "v."
+      },
+      {
+        "definition": "to pass or alternate in a series",
+        "type": "v."
+      },
+      {
+        "definition": "to turn about an axis or a center",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to turn or move about an axis or a center",
+        "type": "v."
+      },
+      {
+        "definition": "to cause (a plane region or line) to sweep out a volume or surface by moving around an axis so that each of its points remains at a constant distance from the axis",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to grow in rotation",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to pass or act in a series",
+        "type": "v."
+      },
+      {
+        "definition": "to exchange (individuals or units) with others",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rotate",
+      "rotatable",
+      "rotated",
+      "rotates",
+      "rotating"
+    ]
   },
   "rote": {
     "def": [
       {
-        "definition": "Repetition of words or sounds as a means of learning them, with slight attention.",
+        "definition": "the use of memory usually with little intelligence",
+        "type": "n."
+      },
+      {
+        "definition": "mechanical or unthinking routine or repetition",
+        "type": "n."
+      },
+      {
+        "definition": "learned or memorized by rote",
+        "type": "adj."
+      },
+      {
+        "definition": "the noise of surf on the shore",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rote",
+      "rotes",
+      "rotely"
+    ]
   },
   "rotund": {
     "def": [
       {
-        "definition": "Round from fullness or plumpness.",
+        "definition": "marked by roundness",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by fullness of sound or cadence ,",
+        "type": "adj."
+      },
+      {
+        "definition": "notably plump",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rotund",
+      "rotundities",
+      "rotundity",
+      "rotundly",
+      "rotundness",
+      "rotundnesses"
+    ]
   },
   "rudimentary": {
     "def": [
       {
-        "definition": "Being in an initial, early, or incomplete stage of development.",
+        "definition": "consisting in first",
+        "type": "adj."
+      },
+      {
+        "definition": "of a primitive kind",
+        "type": "adj."
+      },
+      {
+        "definition": "very imperfectly developed or represented only by a",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "rudimentarily",
+      "rudimentariness",
+      "rudimentarinesses",
+      "rudimentary"
+    ]
   },
   "rue": {
     "def": [
       {
-        "definition": "To regret extremely.",
+        "definition": "to feel penitence, remorse, or regret for",
         "type": "v."
+      },
+      {
+        "definition": "to feel sorrow, remorse, or regret",
+        "type": "v."
+      },
+      {
+        "definition": "a European strong-scented perennial woody herb (Ruta graveolens of the family Rutaceae, the rue family) that has bitter leaves used medicinally",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rue",
+      "rued",
+      "rues",
+      "ruing"
+    ]
   },
   "ruffian": {
     "def": [
       {
-        "definition": "A lawless or recklessly brutal fellow.",
-        "type": "adj."
+        "definition": "a brutal person",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ruffian",
+      "ruffianism",
+      "ruffianisms",
+      "ruffianly",
+      "ruffians"
+    ]
   },
   "ruminant": {
     "def": [
       {
-        "definition": "Chewing the cud.",
+        "definition": "an animal that chews the",
+        "type": "n."
+      },
+      {
+        "definition": "chewing the  being a mammal that is a",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of a mammal that is a ruminant",
+        "type": "adj."
+      },
+      {
+        "definition": "given to or engaged in contemplation",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ruminant",
+      "ruminants",
+      "ruminantly"
+    ]
   },
   "ruminate": {
     "def": [
       {
-        "definition": "To chew over again, as food previously swallowed and regurgitated.",
+        "definition": "to go over in the mind repeatedly and often casually or slowly",
+        "type": "v."
+      },
+      {
+        "definition": "to chew repeatedly for an extended period",
+        "type": "v."
+      },
+      {
+        "definition": "to chew again what has been chewed slightly and swallowed chew the cud",
+        "type": "v."
+      },
+      {
+        "definition": "to engage in contemplation",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "ruminate",
+      "ruminated",
+      "ruminates",
+      "ruminating",
+      "rumination",
+      "ruminations",
+      "ruminative",
+      "ruminatively",
+      "ruminator",
+      "ruminators"
+    ]
   },
   "rupture": {
     "def": [
       {
-        "definition": "To separate the parts of by violence.",
+        "definition": "breach of peace or concord",
+        "type": "n."
+      },
+      {
+        "definition": "the tearing apart of a tissue",
+        "type": "n."
+      },
+      {
+        "definition": "a breaking apart or the state of being broken apart",
+        "type": "n."
+      },
+      {
+        "definition": "to part by violence ,",
+        "type": "v."
+      },
+      {
+        "definition": "to create or induce a breach of",
+        "type": "v."
+      },
+      {
+        "definition": "to produce a rupture in",
+        "type": "v."
+      },
+      {
+        "definition": "to have or undergo a rupture",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "rupture",
+      "ruptures",
+      "ruptured",
+      "rupturing"
+    ]
   },
   "rustic": {
     "def": [
       {
-        "definition": "Characteristic of dwelling in the country.",
+        "definition": "of, relating to, or suitable for the country",
         "type": "adj."
+      },
+      {
+        "definition": "made of the rough limbs of trees",
+        "type": "adj."
+      },
+      {
+        "definition": "finished by rusticating",
+        "type": "adj."
+      },
+      {
+        "definition": "characteristic of or resembling country people",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking in social graces or polish",
+        "type": "adj."
+      },
+      {
+        "definition": "appropriate to the country (as in plainness or sturdiness)",
+        "type": "adj."
+      },
+      {
+        "definition": "an inhabitant of a rural area",
+        "type": "n."
+      },
+      {
+        "definition": "an awkward coarse person",
+        "type": "n."
+      },
+      {
+        "definition": "an unsophisticated rural person",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rustic",
+      "rustical",
+      "rustically",
+      "rusticities",
+      "rusticity",
+      "rustics"
+    ]
   },
   "ruth": {
     "def": [
       {
-        "definition": "Sorrow for another's misery.",
+        "definition": "compassion for the misery of another",
+        "type": "n."
+      },
+      {
+        "definition": "sorrow for one's own faults",
+        "type": "n."
+      },
+      {
+        "definition": "a Moabite woman who accompanied Naomi to Bethlehem and became the ancestress of David",
+        "type": "n."
+      },
+      {
+        "definition": "a short narrative book of canonical Jewish and Christian Scriptures {dx}see",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "rut",
+      "ruth",
+      "ruths",
+      "Ruth"
+    ]
   }
 }

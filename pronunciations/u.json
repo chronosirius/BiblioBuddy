@@ -1,1 +1,618 @@
-{}
+{
+  "ubiquitous": {
+    "pronunciations": [
+      {
+        "syllables": "yü-ˈbi-kwə-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/ubiqui03.mp3"
+      }
+    ]
+  },
+  "ulterior": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəl-ˈtir-ē-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/ulteri01.mp3"
+      }
+    ]
+  },
+  "ultimate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəl-tə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/ultima04.mp3"
+      }
+    ]
+  },
+  "ultimatum": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəl-tə-ˈmā-təm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/ultima10.mp3"
+      }
+    ]
+  },
+  "ultramontane": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəl-trə-ˈmän-ˌtān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/ultram14.mp3"
+      }
+    ]
+  },
+  "umbrage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəm-brij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/umbrag01.mp3"
+      }
+    ]
+  },
+  "unaccountable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ə-ˈkau̇n-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unacco03.mp3"
+      }
+    ]
+  },
+  "unaffected": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ə-ˈfek-təd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unaffe01.mp3"
+      }
+    ]
+  },
+  "unanimity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌyü-nə-ˈni-mə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unanim01.mp3"
+      }
+    ]
+  },
+  "unanimous": {
+    "pronunciations": [
+      {
+        "syllables": "yu̇-ˈna-nə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unanim02.mp3"
+      }
+    ]
+  },
+  "unavoidable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ə-ˈvȯi-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unavoi01.mp3"
+      }
+    ]
+  },
+  "unbearable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈber-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unbear01.mp3"
+      }
+    ]
+  },
+  "unbecoming": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-bi-ˈkə-miŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unbeco01.mp3"
+      }
+    ]
+  },
+  "unbelief": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-bə-ˈlēf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unbeli01.mp3"
+      }
+    ]
+  },
+  "unbiased": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈbī-əst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unbias01.mp3"
+      }
+    ]
+  },
+  "unbridled": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈbrī-dᵊld",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unbrid02.mp3"
+      }
+    ]
+  },
+  "uncommon": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈkä-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/uncomm03.mp3"
+      }
+    ]
+  },
+  "unconscionable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈkän(t)-sh(ə-)nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/uncons01.mp3"
+      }
+    ]
+  },
+  "unconscious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈkän(t)-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/uncons05.mp3"
+      }
+    ]
+  },
+  "unction": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəŋ(k)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unctio01.mp3"
+      }
+    ]
+  },
+  "unctuous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəŋ(k)-chə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unctuo01.mp3"
+      }
+    ]
+  },
+  "undeceive": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-di-ˈsēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/undece01.mp3"
+      }
+    ]
+  },
+  "undercharge": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈchärj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underc04.mp3"
+      }
+    ]
+  },
+  "undergarment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈən-dər-ˌgär-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underg01.mp3"
+      }
+    ]
+  },
+  "underhanded": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈhan-dəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underh02.mp3"
+      }
+    ]
+  },
+  "underlie": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈlī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underl06.mp3"
+      }
+    ]
+  },
+  "underling": {
+    "pronunciations": [
+      {
+        "syllables": "ˈən-dər-liŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underl09.mp3"
+      }
+    ]
+  },
+  "undermine": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈmīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underm02.mp3"
+      }
+    ]
+  },
+  "underrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underr01.mp3"
+      }
+    ]
+  },
+  "undersell": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈsel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unders06.mp3"
+      }
+    ]
+  },
+  "undersized": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈsīzd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unders16.mp3"
+      }
+    ]
+  },
+  "understate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈstāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unders29.mp3"
+      }
+    ]
+  },
+  "undervalue": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-dər-ˈval-(ˌ)yü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underv02.mp3"
+      }
+    ]
+  },
+  "underworld": {
+    "pronunciations": [
+      {
+        "syllables": "ˈən-dər-ˌwərld",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underw09.mp3"
+      }
+    ]
+  },
+  "underwrite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈən-dər-ˌrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/underw10.mp3"
+      }
+    ]
+  },
+  "undue": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈdü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/undue001.mp3"
+      }
+    ]
+  },
+  "undulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈən-jə-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/undula02.mp3"
+      }
+    ]
+  },
+  "unfavorable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈfā-v(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unfavo02.mp3"
+      }
+    ]
+  },
+  "ungainly": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈgān-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/ungain01.mp3"
+      }
+    ]
+  },
+  "unguent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəŋ-gwənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unguen01.mp3"
+      }
+    ]
+  },
+  "unicellular": {
+    "pronunciations": [
+      {
+        "syllables": "ˌyü-ni-ˈsel-yə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unicel01.mp3"
+      }
+    ]
+  },
+  "unify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈyü-nə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unify001.mp3"
+      }
+    ]
+  },
+  "unique": {
+    "pronunciations": [
+      {
+        "syllables": "yu̇-ˈnēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unique01.mp3"
+      }
+    ]
+  },
+  "unison": {
+    "pronunciations": [
+      {
+        "syllables": "ˈyü-nə-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unison01.mp3"
+      }
+    ]
+  },
+  "unitarian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌyü-nə-ˈter-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unitar02.mp3"
+      }
+    ]
+  },
+  "unlawful": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈlȯ-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unlawf01.mp3"
+      }
+    ]
+  },
+  "unlimited": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈli-mə-təd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unlimi01.mp3"
+      }
+    ]
+  },
+  "unnatural": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈna-chə-rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unnatu01.mp3"
+      }
+    ]
+  },
+  "unnecessary": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈne-sə-ˌser-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unnece02.mp3"
+      }
+    ]
+  },
+  "unsettle": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈse-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unsett01.mp3"
+      }
+    ]
+  },
+  "unsophisticated": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-sə-ˈfi-stə-ˌkā-təd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unsoph01.mp3"
+      }
+    ]
+  },
+  "unspeakable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈspē-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unspea02.mp3"
+      }
+    ]
+  },
+  "untimely": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈtīm-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/untime01.mp3"
+      }
+    ]
+  },
+  "untoward": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈtō-ərd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/untowa01.mp3"
+      }
+    ]
+  },
+  "unutterable": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈə-tə-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unutte01.mp3"
+      }
+    ]
+  },
+  "unwieldy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈwēl-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unwiel01.mp3"
+      }
+    ]
+  },
+  "unwise": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈwīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unwise01.mp3"
+      }
+    ]
+  },
+  "unyoke": {
+    "pronunciations": [
+      {
+        "syllables": "ˌən-ˈyōk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/unyoke01.mp3"
+      }
+    ]
+  },
+  "upbraid": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəp-ˈbrād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/number/9upbra01.mp3"
+      }
+    ]
+  },
+  "upcast": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəp-ˌkast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/upcast01.mp3"
+      }
+    ]
+  },
+  "upheaval": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəp-ˈhē-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/upheav01.mp3"
+      }
+    ]
+  },
+  "upheave": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəp-ˈhēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/upheav02.mp3"
+      }
+    ]
+  },
+  "uppermost": {
+    "pronunciations": [
+      {
+        "syllables": "ˈə-pər-ˌmōst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/upperm01.mp3"
+      }
+    ]
+  },
+  "uproarious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌəp-ˈrȯr-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/uproar02.mp3"
+      }
+    ]
+  },
+  "uproot": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)əp-ˈrüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/uproot02.mp3"
+      }
+    ]
+  },
+  "upturn": {
+    "pronunciations": [
+      {
+        "syllables": "ˈəp-ˌtərn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/upturn01.mp3"
+      }
+    ]
+  },
+  "urban": {
+    "pronunciations": [
+      {
+        "syllables": "ˈər-bən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/urban001.mp3"
+      }
+    ]
+  },
+  "urbanity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌər-ˈba-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/urbani06.mp3"
+      }
+    ]
+  },
+  "urchin": {
+    "pronunciations": [
+      {
+        "syllables": "ˈər-chən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/urchin01.mp3"
+      }
+    ]
+  },
+  "urgency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈər-jən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/urgenc01.mp3"
+      }
+    ]
+  },
+  "usage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈyü-sij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/usage001.mp3"
+      }
+    ]
+  },
+  "usurious": {
+    "pronunciations": [
+      {
+        "syllables": "yu̇-ˈzhu̇r-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/usurio02.mp3"
+      }
+    ]
+  },
+  "usurp": {
+    "pronunciations": [
+      {
+        "syllables": "yu̇-ˈsərp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/usurp002.mp3"
+      }
+    ]
+  },
+  "usury": {
+    "pronunciations": [
+      {
+        "syllables": "ˈyü-zhə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/usury001.mp3"
+      }
+    ]
+  },
+  "utilitarianism": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)yü-ˌti-lə-ˈter-ē-ə-ˌni-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/utilit02.mp3"
+      }
+    ]
+  },
+  "utility": {
+    "pronunciations": [
+      {
+        "syllables": "yü-ˈti-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/utilit03.mp3"
+      }
+    ]
+  },
+  "utmost": {
+    "pronunciations": [
+      {
+        "syllables": "ˈət-ˌmōst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/u/utmost01.mp3"
+      }
+    ]
+  }
+}

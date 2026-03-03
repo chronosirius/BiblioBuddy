@@ -1,1 +1,114 @@
-{}
+{
+  "keepsake": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkēp-ˌsāk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/keepsa01.mp3"
+      }
+    ]
+  },
+  "kerchief": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkər-chəf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kerchi01.mp3"
+      }
+    ]
+  },
+  "kernel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kernel01.mp3"
+      }
+    ]
+  },
+  "kiln": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkiln",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kiln0002.mp3"
+      }
+    ]
+  },
+  "kiloliter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈki-lə-ˌlē-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kiloli01.mp3"
+      }
+    ]
+  },
+  "kilometer": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈlä-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kilome01.mp3"
+      }
+    ]
+  },
+  "kilowatt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈki-lə-ˌwät",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kilowa01.mp3"
+      }
+    ]
+  },
+  "kimono": {
+    "pronunciations": [
+      {
+        "syllables": "kə-ˈmō-(ˌ)nō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kimono01.mp3"
+      }
+    ]
+  },
+  "kingship": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkiŋ-ˌship",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kingsh01.mp3"
+      }
+    ]
+  },
+  "kinsfolk": {
+    "pronunciations": [
+      {
+        "syllables": "ˈkinz-ˌfōk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/kinsfo01.mp3"
+      }
+    ]
+  },
+  "knavery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈnā-və-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/knaver01.mp3"
+      }
+    ]
+  },
+  "knead": {
+    "pronunciations": [
+      {
+        "syllables": "ˈnēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/knead001.mp3"
+      }
+    ]
+  },
+  "knickknack": {
+    "pronunciations": [
+      {
+        "syllables": "ˈnik-ˌnak",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/knickk01.mp3"
+      }
+    ]
+  },
+  "knighthood": {
+    "pronunciations": [
+      {
+        "syllables": "ˈnīt-ˌhu̇d",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/k/knight04.mp3"
+      }
+    ]
+  }
+}

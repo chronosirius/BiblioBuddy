@@ -1990,5 +1990,421 @@
         "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exotic01.mp3"
       }
     ]
+  },
+  "expand": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspand",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expand01.mp3"
+      }
+    ]
+  },
+  "expanse": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspan(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expans01.mp3"
+      }
+    ]
+  },
+  "expansion": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspan(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expans04.mp3"
+      }
+    ]
+  },
+  "expatriate": {
+    "pronunciations": [
+      {
+        "syllables": "ek-ˈspā-trē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expatr01.mp3"
+      }
+    ]
+  },
+  "expect": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expect01.mp3"
+      }
+    ]
+  },
+  "expectancy": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspek-tən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expect05.mp3"
+      }
+    ]
+  },
+  "expectorate": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspek-tə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expect11.mp3"
+      }
+    ]
+  },
+  "expediency": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspē-dē-ən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expedi02.mp3"
+      }
+    ]
+  },
+  "expedient": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspē-dē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expedi04.mp3"
+      }
+    ]
+  },
+  "expedite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈek-spə-ˌdīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expedi05.mp3"
+      }
+    ]
+  },
+  "expeditious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌek-spə-ˈdi-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expedi09.mp3"
+      }
+    ]
+  },
+  "expend": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expend01.mp3"
+      }
+    ]
+  },
+  "expense": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspen(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expens01.mp3"
+      }
+    ]
+  },
+  "expiate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈek-spē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expiat01.mp3"
+      }
+    ]
+  },
+  "explicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈek-splə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/explic04.mp3"
+      }
+    ]
+  },
+  "explicit": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspli-sət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/explic13.mp3"
+      }
+    ]
+  },
+  "explode": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsplōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/explod01.mp3"
+      }
+    ]
+  },
+  "explosion": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsplō-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/explos01.mp3"
+      }
+    ]
+  },
+  "explosive": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsplō-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/explos02.mp3"
+      }
+    ]
+  },
+  "exposition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌek-spə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exposi02.mp3"
+      }
+    ]
+  },
+  "expository": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspä-zə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exposi06.mp3"
+      }
+    ]
+  },
+  "expostulate": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspäs-chə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expost01.mp3"
+      }
+    ]
+  },
+  "exposure": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspō-zhər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exposu01.mp3"
+      }
+    ]
+  },
+  "expressive": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspre-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expres11.mp3"
+      }
+    ]
+  },
+  "expulsion": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈspəl-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/expuls02.mp3"
+      }
+    ]
+  },
+  "extant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈek-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extant01.mp3"
+      }
+    ]
+  },
+  "extemporaneous": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)ek-ˌstem-pə-ˈrā-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extemp04.mp3"
+      }
+    ]
+  },
+  "extempore": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstem-pə-(ˌ)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extemp07.mp3"
+      }
+    ]
+  },
+  "extensible": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsten(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extens01.mp3"
+      }
+    ]
+  },
+  "extension": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsten(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extens04.mp3"
+      }
+    ]
+  },
+  "extensive": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsten(t)-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extens09.mp3"
+      }
+    ]
+  },
+  "extensor": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsten(t)-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extens11.mp3"
+      }
+    ]
+  },
+  "extenuate": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈsten-yə-ˌwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extenu01.mp3"
+      }
+    ]
+  },
+  "exterior": {
+    "pronunciations": [
+      {
+        "syllables": "ek-ˈstir-ē-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exteri01.mp3"
+      }
+    ]
+  },
+  "external": {
+    "pronunciations": [
+      {
+        "syllables": "ek-ˈstər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extern04.mp3"
+      }
+    ]
+  },
+  "extinct": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstiŋ(k)t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extinc02.mp3"
+      }
+    ]
+  },
+  "extinguish": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstiŋ-(g)wish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exting01.mp3"
+      }
+    ]
+  },
+  "extol": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstōl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extol001.mp3"
+      }
+    ]
+  },
+  "extort": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extort01.mp3"
+      }
+    ]
+  },
+  "extortion": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstȯr-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extort03.mp3"
+      }
+    ]
+  },
+  "extradite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈek-strə-ˌdīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrad02.mp3"
+      }
+    ]
+  },
+  "extradition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌek-strə-ˈdi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrad03.mp3"
+      }
+    ]
+  },
+  "extrajudicial": {
+    "pronunciations": [
+      {
+        "syllables": "ˌek-strə-jü-ˈdi-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extraj01.mp3"
+      }
+    ]
+  },
+  "extraneous": {
+    "pronunciations": [
+      {
+        "syllables": "ek-ˈstrā-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extran01.mp3"
+      }
+    ]
+  },
+  "extraordinary": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstrȯr-də-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrao03.mp3"
+      }
+    ]
+  },
+  "extravagance": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstra-vi-gən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrav01.mp3"
+      }
+    ]
+  },
+  "extravagant": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstra-vi-gənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrav03.mp3"
+      }
+    ]
+  },
+  "extremity": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstre-mə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrem05.mp3"
+      }
+    ]
+  },
+  "extricate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈek-strə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extric01.mp3"
+      }
+    ]
+  },
+  "extrude": {
+    "pronunciations": [
+      {
+        "syllables": "ik-ˈstrüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/extrud01.mp3"
+      }
+    ]
+  },
+  "exuberance": {
+    "pronunciations": [
+      {
+        "syllables": "ig-ˈzü-b(ə-)rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exuber01.mp3"
+      }
+    ]
+  },
+  "exuberant": {
+    "pronunciations": [
+      {
+        "syllables": "ig-ˈzü-b(ə-)rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/e/exuber02.mp3"
+      }
+    ]
   }
 }

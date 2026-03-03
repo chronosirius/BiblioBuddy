@@ -1,1 +1,1266 @@
-{}
+{
+  "oaken": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-kən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oak00002.mp3"
+      }
+    ]
+  },
+  "oakum": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-kəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oakum001.mp3"
+      }
+    ]
+  },
+  "obdurate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäb-də-rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obdura02.mp3"
+      }
+    ]
+  },
+  "obelisk": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-bə-ˌlisk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obelis01.mp3"
+      }
+    ]
+  },
+  "obese": {
+    "pronunciations": [
+      {
+        "syllables": "ō-ˈbēs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obese001.mp3"
+      }
+    ]
+  },
+  "obesity": {
+    "pronunciations": [
+      {
+        "syllables": "ō-ˈbē-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obesit01.mp3"
+      }
+    ]
+  },
+  "obituary": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbi-chə-ˌwer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obitu1s3.mp3"
+      }
+    ]
+  },
+  "objective": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈjek-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/object11.mp3"
+      }
+    ]
+  },
+  "obligate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-blə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obliga01.mp3"
+      }
+    ]
+  },
+  "obligatory": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbli-gə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obliga04.mp3"
+      }
+    ]
+  },
+  "oblique": {
+    "pronunciations": [
+      {
+        "syllables": "ō-ˈblēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obliqu01.mp3"
+      }
+    ]
+  },
+  "obliterate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbli-tə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oblite01.mp3"
+      }
+    ]
+  },
+  "oblivion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈbli-vē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oblivi01.mp3"
+      }
+    ]
+  },
+  "oblong": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-ˌblȯŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oblong01.mp3"
+      }
+    ]
+  },
+  "obnoxious": {
+    "pronunciations": [
+      {
+        "syllables": "äb-ˈnäk-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obnoxi01.mp3"
+      }
+    ]
+  },
+  "obsequious": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈsē-kwē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obsequ01.mp3"
+      }
+    ]
+  },
+  "observance": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈzər-vən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/observ04.mp3"
+      }
+    ]
+  },
+  "observant": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈzər-vənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/observ05.mp3"
+      }
+    ]
+  },
+  "observatory": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈzər-və-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/observ08.mp3"
+      }
+    ]
+  },
+  "obsolescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌäb-sə-ˈle-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obsole02.mp3"
+      }
+    ]
+  },
+  "obsolescent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌäb-sə-ˈle-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obsole03.mp3"
+      }
+    ]
+  },
+  "obsolete": {
+    "pronunciations": [
+      {
+        "syllables": "ˌäb-sə-ˈlēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obsole04.mp3"
+      }
+    ]
+  },
+  "obstetrician": {
+    "pronunciations": [
+      {
+        "syllables": "ˌäb-stə-ˈtri-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstet04.mp3"
+      }
+    ]
+  },
+  "obstetrics": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈste-triks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstet05.mp3"
+      }
+    ]
+  },
+  "obstinacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäb-stə-nə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstin01.mp3"
+      }
+    ]
+  },
+  "obstreperous": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈstre-p(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstre01.mp3"
+      }
+    ]
+  },
+  "obstruct": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈstrəkt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstru01.mp3"
+      }
+    ]
+  },
+  "obstruction": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈstrək-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obstru04.mp3"
+      }
+    ]
+  },
+  "obtrude": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈtrüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obtrud01.mp3"
+      }
+    ]
+  },
+  "obtrusive": {
+    "pronunciations": [
+      {
+        "syllables": "əb-ˈtrü-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obtrus02.mp3"
+      }
+    ]
+  },
+  "obviate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäb-vē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/obviat01.mp3"
+      }
+    ]
+  },
+  "occasion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkā-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/occasi01.mp3"
+      }
+    ]
+  },
+  "occident": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäk-sə-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/occide01.mp3"
+      }
+    ]
+  },
+  "occlude": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈklüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/occlud01.mp3"
+      }
+    ]
+  },
+  "occult": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkəlt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/occult01.mp3"
+      }
+    ]
+  },
+  "occupant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-kyə-pənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/occupa02.mp3"
+      }
+    ]
+  },
+  "occurrence": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈkər-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/occurr01.mp3"
+      }
+    ]
+  },
+  "octagon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäk-tə-ˌgän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/octago01.mp3"
+      }
+    ]
+  },
+  "octave": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäk-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/octave01.mp3"
+      }
+    ]
+  },
+  "octavo": {
+    "pronunciations": [
+      {
+        "syllables": "äk-ˈtā-(ˌ)vō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/octavo02.mp3"
+      }
+    ]
+  },
+  "octogenarian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌäk-tə-jə-ˈner-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/octoge01.mp3"
+      }
+    ]
+  },
+  "ocular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-kyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ocular01.mp3"
+      }
+    ]
+  },
+  "oculist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-kyə-list",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oculis01.mp3"
+      }
+    ]
+  },
+  "oddity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-də-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oddity01.mp3"
+      }
+    ]
+  },
+  "ode": {
+    "pronunciations": [
+      {
+        "syllables": "ˈōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ode00001.mp3"
+      }
+    ]
+  },
+  "odious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-dē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/odious01.mp3"
+      }
+    ]
+  },
+  "odium": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-dē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/odium001.mp3"
+      }
+    ]
+  },
+  "odoriferous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-də-ˈri-f(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/odorif01.mp3"
+      }
+    ]
+  },
+  "odorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-də-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/odorou01.mp3"
+      }
+    ]
+  },
+  "off": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/off00001.mp3"
+      }
+    ]
+  },
+  "offhand": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯf-ˈhand",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/offhan01.mp3"
+      }
+    ]
+  },
+  "officiate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfi-shē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/offici08.mp3"
+      }
+    ]
+  },
+  "officious": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈfi-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/offici12.mp3"
+      }
+    ]
+  },
+  "offshoot": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯf-ˌshüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/offsho01.mp3"
+      }
+    ]
+  },
+  "ogre": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-gər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ogre0001.mp3"
+      }
+    ]
+  },
+  "ointment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯint-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ointme01.mp3"
+      }
+    ]
+  },
+  "olfactory": {
+    "pronunciations": [
+      {
+        "syllables": "äl-ˈfak-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/olfact03.mp3"
+      }
+    ]
+  },
+  "ominous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-mə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ominou01.mp3"
+      }
+    ]
+  },
+  "omission": {
+    "pronunciations": [
+      {
+        "syllables": "ō-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omissi02.mp3"
+      }
+    ]
+  },
+  "omnipotence": {
+    "pronunciations": [
+      {
+        "syllables": "äm-ˈni-pə-tən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omnipo01.mp3"
+      }
+    ]
+  },
+  "omnipotent": {
+    "pronunciations": [
+      {
+        "syllables": "äm-ˈni-pə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omnipo02.mp3"
+      }
+    ]
+  },
+  "omniscience": {
+    "pronunciations": [
+      {
+        "syllables": "äm-ˈni-shən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omnisc01.mp3"
+      }
+    ]
+  },
+  "omniscient": {
+    "pronunciations": [
+      {
+        "syllables": "äm-ˈni-shənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omnisc02.mp3"
+      }
+    ]
+  },
+  "omnivorous": {
+    "pronunciations": [
+      {
+        "syllables": "äm-ˈni-v(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/omnivo02.mp3"
+      }
+    ]
+  },
+  "onerous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-nə-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onerou02.mp3"
+      }
+    ]
+  },
+  "onrush": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯn-ˌrəsh",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onrush01.mp3"
+      }
+    ]
+  },
+  "onset": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯn-ˌset",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onset001.mp3"
+      }
+    ]
+  },
+  "onslaught": {
+    "pronunciations": [
+      {
+        "syllables": "ˈän-ˌslȯt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onslau01.mp3"
+      }
+    ]
+  },
+  "onus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/onus0001.mp3"
+      }
+    ]
+  },
+  "opaque": {
+    "pronunciations": [
+      {
+        "syllables": "ō-ˈpāk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opaque01.mp3"
+      }
+    ]
+  },
+  "operate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-pə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/operat01.mp3"
+      }
+    ]
+  },
+  "operative": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-p(ə-)rə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/operat11.mp3"
+      }
+    ]
+  },
+  "operator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-pə-ˌrā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/operat12.mp3"
+      }
+    ]
+  },
+  "operetta": {
+    "pronunciations": [
+      {
+        "syllables": "ˌä-pə-ˈre-tə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/operet01.mp3"
+      }
+    ]
+  },
+  "opinion": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpin-yən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opinio01.mp3"
+      }
+    ]
+  },
+  "opponent": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈpō-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oppone01.mp3"
+      }
+    ]
+  },
+  "opportune": {
+    "pronunciations": [
+      {
+        "syllables": "ˌä-pər-ˈtün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opport01.mp3"
+      }
+    ]
+  },
+  "opportunist": {
+    "pronunciations": [
+      {
+        "syllables": "ˌä-pər-ˈtü-nist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opport04.mp3"
+      }
+    ]
+  },
+  "opportunity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌä-pər-ˈtü-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opport07.mp3"
+      }
+    ]
+  },
+  "opposite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-pə-zət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opposi01.mp3"
+      }
+    ]
+  },
+  "opprobrium": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈprō-brē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opprob02.mp3"
+      }
+    ]
+  },
+  "optic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäp-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/optic001.mp3"
+      }
+    ]
+  },
+  "optician": {
+    "pronunciations": [
+      {
+        "syllables": "äp-ˈti-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/optici01.mp3"
+      }
+    ]
+  },
+  "optics": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäp-tiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/optics01.mp3"
+      }
+    ]
+  },
+  "optimism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäp-tə-ˌmi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/optimi01.mp3"
+      }
+    ]
+  },
+  "option": {
+    "pronunciations": [
+      {
+        "syllables": "ˈäp-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/option01.mp3"
+      }
+    ]
+  },
+  "optometry": {
+    "pronunciations": [
+      {
+        "syllables": "äp-ˈtä-mə-trē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/optome02.mp3"
+      }
+    ]
+  },
+  "opulence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-pyə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opulen01.mp3"
+      }
+    ]
+  },
+  "opulent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-pyə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/opulen02.mp3"
+      }
+    ]
+  },
+  "oral": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oral0001.mp3"
+      }
+    ]
+  },
+  "orate": {
+    "pronunciations": [
+      {
+        "syllables": "ȯ-ˈrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orate001.mp3"
+      }
+    ]
+  },
+  "oration": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oratio01.mp3"
+      }
+    ]
+  },
+  "orator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-ə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orator01.mp3"
+      }
+    ]
+  },
+  "oratorio": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯr-ə-ˈtȯr-ē-ˌō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orator05.mp3"
+      }
+    ]
+  },
+  "oratory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-ə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orator06.mp3"
+      }
+    ]
+  },
+  "ordeal": {
+    "pronunciations": [
+      {
+        "syllables": "ȯr-ˈdē(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ordeal01.mp3"
+      }
+    ]
+  },
+  "ordinal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-də-nəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ordina01.mp3"
+      }
+    ]
+  },
+  "ordination": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯr-də-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ordina08.mp3"
+      }
+    ]
+  },
+  "ordnance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯrd-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ordnan01.mp3"
+      }
+    ]
+  },
+  "origin": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-ə-jən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/origin01.mp3"
+      }
+    ]
+  },
+  "original": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈri-jə-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/origin02.mp3"
+      }
+    ]
+  },
+  "originate": {
+    "pronunciations": [
+      {
+        "syllables": "ə-ˈri-jə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/origin05.mp3"
+      }
+    ]
+  },
+  "ornate": {
+    "pronunciations": [
+      {
+        "syllables": "ȯr-ˈnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ornate01.mp3"
+      }
+    ]
+  },
+  "orthodox": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-thə-ˌdäks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orthod06.mp3"
+      }
+    ]
+  },
+  "orthodoxy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯr-thə-ˌdäk-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orthod07.mp3"
+      }
+    ]
+  },
+  "orthogonal": {
+    "pronunciations": [
+      {
+        "syllables": "ȯr-ˈthä-gə-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orthog04.mp3"
+      }
+    ]
+  },
+  "orthopedic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯr-thə-ˈpē-dik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orthop01.mp3"
+      }
+    ]
+  },
+  "orthopedist": {
+    "pronunciations": [
+      {
+        "syllables": "ˌȯr-thə-ˈpē-dist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/orthop04.mp3"
+      }
+    ]
+  },
+  "oscillate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-sə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oscill01.mp3"
+      }
+    ]
+  },
+  "osculate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-skyə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oscula01.mp3"
+      }
+    ]
+  },
+  "ossify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-sə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ossify01.mp3"
+      }
+    ]
+  },
+  "ostentation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌä-stən-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ostent01.mp3"
+      }
+    ]
+  },
+  "ostracism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-strə-ˌsi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ostrac01.mp3"
+      }
+    ]
+  },
+  "ostracize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-strə-ˌsīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ostrac02.mp3"
+      }
+    ]
+  },
+  "ought": {
+    "pronunciations": [
+      {
+        "syllables": "ˈȯt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/ought004.mp3"
+      }
+    ]
+  },
+  "oust": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇st",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oust0001.mp3"
+      }
+    ]
+  },
+  "out-and-out": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ᵊn(d)-ˈau̇t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outand01.mp3"
+      }
+    ]
+  },
+  "out-of-the-way": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ə(v)-t͟hə-ˈwā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outoft01.mp3"
+      }
+    ]
+  },
+  "outbreak": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌbrāk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outbre01.mp3"
+      }
+    ]
+  },
+  "outburst": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌbərst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outbur01.mp3"
+      }
+    ]
+  },
+  "outcast": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌkast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outcas01.mp3"
+      }
+    ]
+  },
+  "outcry": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌkrī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outcry01.mp3"
+      }
+    ]
+  },
+  "outdo": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈdü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outdo001.mp3"
+      }
+    ]
+  },
+  "outlandish": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈlan-dish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outlan03.mp3"
+      }
+    ]
+  },
+  "outlast": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈlast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outla1s3.mp3"
+      }
+    ]
+  },
+  "outlaw": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌlȯ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outlaw01.mp3"
+      }
+    ]
+  },
+  "outlive": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈliv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outliv01.mp3"
+      }
+    ]
+  },
+  "outpost": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌpōst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outpos01.mp3"
+      }
+    ]
+  },
+  "outrage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌrāj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outrag01.mp3"
+      }
+    ]
+  },
+  "outrageous": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)au̇t-ˈrā-jəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outrag02.mp3"
+      }
+    ]
+  },
+  "outreach": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈrēch",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outrea01.mp3"
+      }
+    ]
+  },
+  "outride": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈrīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outrid01.mp3"
+      }
+    ]
+  },
+  "outrigger": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌri-gər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outrig01.mp3"
+      }
+    ]
+  },
+  "outright": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outrig02.mp3"
+      }
+    ]
+  },
+  "outskirt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈau̇t-ˌskərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outski01.mp3"
+      }
+    ]
+  },
+  "outstretch": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈstrech",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outstr01.mp3"
+      }
+    ]
+  },
+  "outstrip": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈstrip",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outstr02.mp3"
+      }
+    ]
+  },
+  "outweigh": {
+    "pronunciations": [
+      {
+        "syllables": "ˌau̇t-ˈwā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/outwei01.mp3"
+      }
+    ]
+  },
+  "overdo": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈdü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overdo01.mp3"
+      }
+    ]
+  },
+  "overdose": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌdōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overdo09.mp3"
+      }
+    ]
+  },
+  "overeat": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overea01.mp3"
+      }
+    ]
+  },
+  "overhang": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌhaŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overha03.mp3"
+      }
+    ]
+  },
+  "overleap": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈlēp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overle02.mp3"
+      }
+    ]
+  },
+  "overlord": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌlȯrd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overlo03.mp3"
+      }
+    ]
+  },
+  "overpass": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈpas",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overpa01.mp3"
+      }
+    ]
+  },
+  "overpay": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈpā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overp02ld.mp3"
+      }
+    ]
+  },
+  "overpower": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈpau̇(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overpo03.mp3"
+      }
+    ]
+  },
+  "overproduction": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-prə-ˈdək-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overp05m.mp3"
+      }
+    ]
+  },
+  "overreach": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈrēch",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overre01.mp3"
+      }
+    ]
+  },
+  "overrun": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈrən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overru02.mp3"
+      }
+    ]
+  },
+  "oversee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈsē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overse04.mp3"
+      }
+    ]
+  },
+  "overseer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌsir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overse07.mp3"
+      }
+    ]
+  },
+  "overshadow": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈsha-(ˌ)dō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/oversh01.mp3"
+      }
+    ]
+  },
+  "overstride": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈstrīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overst09.mp3"
+      }
+    ]
+  },
+  "overthrow": {
+    "pronunciations": [
+      {
+        "syllables": "ˌō-vər-ˈthrō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overth01.mp3"
+      }
+    ]
+  },
+  "overtone": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌtōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overto01.mp3"
+      }
+    ]
+  },
+  "overture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overtu01.mp3"
+      }
+    ]
+  },
+  "overweight": {
+    "pronunciations": [
+      {
+        "syllables": "ˈō-vər-ˌwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/o/overwe06.mp3"
+      }
+    ]
+  }
+}

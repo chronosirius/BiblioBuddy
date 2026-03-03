@@ -2,46 +2,94 @@
   "zealot": {
     "def": [
       {
-        "definition": "One who espouses a cause or pursues an object in an immoderately partisan",
+        "definition": "a zealous person",
+        "type": "n."
+      },
+      {
+        "definition": "a member of a fanatical sect arising in Judea during the first century {sc}a.d. and militantly opposing the Roman domination of Palestine",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Zealot",
+      "Zealots",
+      "zealot",
+      "zealots"
+    ]
   },
   "zeitgeist": {
     "def": [
       {
-        "definition": "The intellectual and moral tendencies that characterize any age or epoch.",
+        "definition": "the general intellectual, moral, and cultural climate of an era",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Zeitgeist",
+      "Zeitgeists",
+      "zeitgeist",
+      "zeitgeists"
+    ]
   },
   "zenith": {
     "def": [
       {
-        "definition": "The culminating-point of prosperity, influence, or greatness.",
+        "definition": "the point of the celestial sphere that is directly opposite the nadir and vertically above the observer {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "the highest point reached in the heavens by a celestial body",
+        "type": "n."
+      },
+      {
+        "definition": "culminating point",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "zenith",
+      "zeniths"
+    ]
   },
   "zephyr": {
     "def": [
       {
-        "definition": "Any soft, gentle wind.",
+        "definition": "a breeze from the west",
+        "type": "n."
+      },
+      {
+        "definition": "a gentle breeze",
+        "type": "n."
+      },
+      {
+        "definition": "any of various lightweight fabrics and articles of clothing",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "zephyr",
+      "zephyrs"
+    ]
   },
   "zodiac": {
     "def": [
       {
-        "definition": "An imaginary belt encircling the heavens within which are the larger planets.",
+        "definition": "an imaginary band in the heavens centered on the ecliptic that encompasses the apparent paths of all the planets and is divided into 12 constellations or signs each taken for astrological purposes to extend 30 degrees of longitude",
+        "type": "n."
+      },
+      {
+        "definition": "a figure representing the signs of the zodiac and their symbols",
+        "type": "n."
+      },
+      {
+        "definition": "a cyclic course",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "zodiac",
+      "zodiacal",
+      "zodiacs"
+    ]
   }
 }

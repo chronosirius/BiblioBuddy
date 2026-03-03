@@ -1,1 +1,42 @@
-{}
+{
+  "zealot": {
+    "pronunciations": [
+      {
+        "syllables": "ˈze-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zealot01.mp3"
+      }
+    ]
+  },
+  "zeitgeist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtsīt-ˌgīst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zeitge04.mp3"
+      }
+    ]
+  },
+  "zenith": {
+    "pronunciations": [
+      {
+        "syllables": "ˈzē-nəth",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zenith01.mp3"
+      }
+    ]
+  },
+  "zephyr": {
+    "pronunciations": [
+      {
+        "syllables": "ˈze-fər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zephyr01.mp3"
+      }
+    ]
+  },
+  "zodiac": {
+    "pronunciations": [
+      {
+        "syllables": "ˈzō-dē-ˌak",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/z/zodiac01.mp3"
+      }
+    ]
+  }
+}

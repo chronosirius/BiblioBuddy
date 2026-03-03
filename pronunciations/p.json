@@ -1,1 +1,4122 @@
-{}
+{
+  "pacify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-sə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pacify01.mp3"
+      }
+    ]
+  },
+  "packet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-kət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/packet01.mp3"
+      }
+    ]
+  },
+  "pact": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pact0001.mp3"
+      }
+    ]
+  },
+  "pagan": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-gən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pagan001.mp3"
+      }
+    ]
+  },
+  "pageant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pagean01.mp3"
+      }
+    ]
+  },
+  "palate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palate01.mp3"
+      }
+    ]
+  },
+  "palatial": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈlā-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palati01.mp3"
+      }
+    ]
+  },
+  "paleontology": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpā-lē-ˌän-ˈtä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paleon01.mp3"
+      }
+    ]
+  },
+  "palette": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palett01.mp3"
+      }
+    ]
+  },
+  "palinode": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-lə-ˌnōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palino01.mp3"
+      }
+    ]
+  },
+  "pall": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pall0001.mp3"
+      }
+    ]
+  },
+  "palliate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-lē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pallia03.mp3"
+      }
+    ]
+  },
+  "pallid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-ləd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pallid01.mp3"
+      }
+    ]
+  },
+  "palpable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpal-pə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palpab01.mp3"
+      }
+    ]
+  },
+  "palsy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯl-zē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/palsy001.mp3"
+      }
+    ]
+  },
+  "paly": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paly0001.mp3"
+      }
+    ]
+  },
+  "pamphlet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpam(p)-flət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pamphl01.mp3"
+      }
+    ]
+  },
+  "pamphleteer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpam(p)-flə-ˈtir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pamphl02.mp3"
+      }
+    ]
+  },
+  "pan-american": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpa-nə-ˈmer-ə-kən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paname01.mp3"
+      }
+    ]
+  },
+  "panacea": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpa-nə-ˈsē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panace01.mp3"
+      }
+    ]
+  },
+  "pandemic": {
+    "pronunciations": [
+      {
+        "syllables": "pan-ˈde-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pandem01.mp3"
+      }
+    ]
+  },
+  "pandemonium": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpan-də-ˈmō-nē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pandem02.mp3"
+      }
+    ]
+  },
+  "panegyric": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpa-nə-ˈjir-ik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panegy02.mp3"
+      }
+    ]
+  },
+  "panel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panel001.mp3"
+      }
+    ]
+  },
+  "panic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panic001.mp3"
+      }
+    ]
+  },
+  "panoply": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-nə-plē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panopl02.mp3"
+      }
+    ]
+  },
+  "panorama": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpa-nə-ˈra-mə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panora02.mp3"
+      }
+    ]
+  },
+  "pantheism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpan(t)-thē-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panthe01.mp3"
+      }
+    ]
+  },
+  "pantheon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpan(t)-thē-ˌän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/panthe06.mp3"
+      }
+    ]
+  },
+  "pantomime": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpan-tə-ˌmīm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pantom01.mp3"
+      }
+    ]
+  },
+  "papacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-pə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/papacy01.mp3"
+      }
+    ]
+  },
+  "papyrus": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈpī-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/papyru01.mp3"
+      }
+    ]
+  },
+  "parable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parabl01.mp3"
+      }
+    ]
+  },
+  "paradox": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌdäks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parado02.mp3"
+      }
+    ]
+  },
+  "paragon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌgän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parago01.mp3"
+      }
+    ]
+  },
+  "parallel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌlel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parall03.mp3"
+      }
+    ]
+  },
+  "parallelism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌle-ˌli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parall05.mp3"
+      }
+    ]
+  },
+  "paralysis": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈra-lə-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paraly01.mp3"
+      }
+    ]
+  },
+  "paralyze": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paraly06.mp3"
+      }
+    ]
+  },
+  "paramount": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌmau̇nt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paramo01.mp3"
+      }
+    ]
+  },
+  "paramour": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌmu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paramo04.mp3"
+      }
+    ]
+  },
+  "paraphernalia": {
+    "pronunciations": [
+      {
+        "syllables": "ˌper-ə-fər-ˈnāl-yə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paraph03.mp3"
+      }
+    ]
+  },
+  "paraphrase": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌfrāz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paraph04.mp3"
+      }
+    ]
+  },
+  "pare": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pare0001.mp3"
+      }
+    ]
+  },
+  "parentage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ən-tij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parent05.mp3"
+      }
+    ]
+  },
+  "pariah": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈrī-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pariah01.mp3"
+      }
+    ]
+  },
+  "parish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parish01.mp3"
+      }
+    ]
+  },
+  "parity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parity01.mp3"
+      }
+    ]
+  },
+  "parlance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpär-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parlan01.mp3"
+      }
+    ]
+  },
+  "parley": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpär-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parley01.mp3"
+      }
+    ]
+  },
+  "parliament": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpär-lə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parlia02.mp3"
+      }
+    ]
+  },
+  "parlor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpär-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parlor01.mp3"
+      }
+    ]
+  },
+  "parody": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parody01.mp3"
+      }
+    ]
+  },
+  "paronymous": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈrä-nə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parony02.mp3"
+      }
+    ]
+  },
+  "paroxysm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ək-ˌsi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paroxy02.mp3"
+      }
+    ]
+  },
+  "parricide": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-ˌsīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parric02.mp3"
+      }
+    ]
+  },
+  "parse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpärs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parse001.mp3"
+      }
+    ]
+  },
+  "parsimonious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpär-sə-ˈmō-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/parsim01.mp3"
+      }
+    ]
+  },
+  "partible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpär-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/partib01.mp3"
+      }
+    ]
+  },
+  "participant": {
+    "pronunciations": [
+      {
+        "syllables": "pär-ˈti-sə-pənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/partic01.mp3"
+      }
+    ]
+  },
+  "participate": {
+    "pronunciations": [
+      {
+        "syllables": "pär-ˈti-sə-ˌpāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/partic02.mp3"
+      }
+    ]
+  },
+  "partisan": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpär-tə-zən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/partis01.mp3"
+      }
+    ]
+  },
+  "partition": {
+    "pronunciations": [
+      {
+        "syllables": "pär-ˈti-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/partit03.mp3"
+      }
+    ]
+  },
+  "passible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/passib01.mp3"
+      }
+    ]
+  },
+  "passive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/passiv03.mp3"
+      }
+    ]
+  },
+  "pastoral": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-st(ə-)rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pastor05.mp3"
+      }
+    ]
+  },
+  "paternal": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈtər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patern01.mp3"
+      }
+    ]
+  },
+  "paternity": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈtər-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patern07.mp3"
+      }
+    ]
+  },
+  "pathos": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-ˌthäs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pathos02.mp3"
+      }
+    ]
+  },
+  "patriarch": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-trē-ˌärk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patria01.mp3"
+      }
+    ]
+  },
+  "patrician": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈtri-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patric01.mp3"
+      }
+    ]
+  },
+  "patrimony": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-trə-ˌmō-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patrim01.mp3"
+      }
+    ]
+  },
+  "patriotism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-trē-ə-ˌti-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patrio04.mp3"
+      }
+    ]
+  },
+  "patronize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpā-trə-ˌnīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patron08.mp3"
+      }
+    ]
+  },
+  "patronymic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpa-trə-ˈni-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patron11.mp3"
+      }
+    ]
+  },
+  "patter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpa-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/patter01.mp3"
+      }
+    ]
+  },
+  "paucity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯ-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/paucit01.mp3"
+      }
+    ]
+  },
+  "pauper": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯ-pər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pauper01.mp3"
+      }
+    ]
+  },
+  "pavilion": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈvil-yən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pavili01.mp3"
+      }
+    ]
+  },
+  "payee": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)pā-ˈē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/payee001.mp3"
+      }
+    ]
+  },
+  "peaceable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpē-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peacea01.mp3"
+      }
+    ]
+  },
+  "peaceful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpēs-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peacef01.mp3"
+      }
+    ]
+  },
+  "peccadillo": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpe-kə-ˈdi-(ˌ)lō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peccad01.mp3"
+      }
+    ]
+  },
+  "peccant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-kənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peccan01.mp3"
+      }
+    ]
+  },
+  "pectoral": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpek-t(ə-)rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pector01.mp3"
+      }
+    ]
+  },
+  "pecuniary": {
+    "pronunciations": [
+      {
+        "syllables": "pi-ˈkyü-nē-ˌer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pecuni01.mp3"
+      }
+    ]
+  },
+  "pedagogics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpe-də-ˈgä-jiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedago05.mp3"
+      }
+    ]
+  },
+  "pedagogue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-də-ˌgäg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedago06.mp3"
+      }
+    ]
+  },
+  "pedagogy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-də-ˌgō-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedago08.mp3"
+      }
+    ]
+  },
+  "pedal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedal001.mp3"
+      }
+    ]
+  },
+  "pedant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedant01.mp3"
+      }
+    ]
+  },
+  "peddle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peddle01.mp3"
+      }
+    ]
+  },
+  "peddler": {
+    "pronunciations": [
+      {
+        "syllables": "ˈped-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peddle03.mp3"
+      }
+    ]
+  },
+  "pedestal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-də-stᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedest01.mp3"
+      }
+    ]
+  },
+  "pedestrian": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈde-strē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedest02.mp3"
+      }
+    ]
+  },
+  "pediatrics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpē-dē-ˈa-triks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pediat05.mp3"
+      }
+    ]
+  },
+  "pedigree": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-də-ˌgrē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pedigr01.mp3"
+      }
+    ]
+  },
+  "peerage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpir-ij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peerag01.mp3"
+      }
+    ]
+  },
+  "peerless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpir-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peerle01.mp3"
+      }
+    ]
+  },
+  "peevish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpē-vish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peevis01.mp3"
+      }
+    ]
+  },
+  "pellucid": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈlü-səd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pelluc01.mp3"
+      }
+    ]
+  },
+  "penalty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-nᵊl-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penalt01.mp3"
+      }
+    ]
+  },
+  "penance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penanc01.mp3"
+      }
+    ]
+  },
+  "penchant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-chənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pencha01.mp3"
+      }
+    ]
+  },
+  "pendant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pendan02.mp3"
+      }
+    ]
+  },
+  "pendulous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-jə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pendul02.mp3"
+      }
+    ]
+  },
+  "pendulum": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-jə-ləm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pendul03.mp3"
+      }
+    ]
+  },
+  "penetrable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-nə-trə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penetr01.mp3"
+      }
+    ]
+  },
+  "penetrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-nə-ˌtrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penetr06.mp3"
+      }
+    ]
+  },
+  "penetration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpe-nə-ˈtrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penetr08.mp3"
+      }
+    ]
+  },
+  "penitence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-nə-tən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penite01.mp3"
+      }
+    ]
+  },
+  "penitential": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpe-nə-ˈten(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penite03.mp3"
+      }
+    ]
+  },
+  "pennant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pennan01.mp3"
+      }
+    ]
+  },
+  "pension": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pensio01.mp3"
+      }
+    ]
+  },
+  "pentad": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-ˌtad",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentad01.mp3"
+      }
+    ]
+  },
+  "pentagon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-tə-ˌgän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentag01.mp3"
+      }
+    ]
+  },
+  "pentagram": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-tə-ˌgram",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentag06.mp3"
+      }
+    ]
+  },
+  "pentahedron": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpen-tə-ˈhē-drən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentah01.mp3"
+      }
+    ]
+  },
+  "pentameter": {
+    "pronunciations": [
+      {
+        "syllables": "pen-ˈta-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentam02.mp3"
+      }
+    ]
+  },
+  "pentathlon": {
+    "pronunciations": [
+      {
+        "syllables": "pen-ˈtath-lən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentat03.mp3"
+      }
+    ]
+  },
+  "pentavalent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpen-tə-ˈvā-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pentav01.mp3"
+      }
+    ]
+  },
+  "penultimate": {
+    "pronunciations": [
+      {
+        "syllables": "pi-ˈnəl-tə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penult04.mp3"
+      }
+    ]
+  },
+  "penurious": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈnu̇r-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penuri01.mp3"
+      }
+    ]
+  },
+  "penury": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpen-yə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/penury01.mp3"
+      }
+    ]
+  },
+  "perambulate": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈram-byə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peramb01.mp3"
+      }
+    ]
+  },
+  "perceive": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsēv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percei01.mp3"
+      }
+    ]
+  },
+  "perceptible": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsep-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percep02.mp3"
+      }
+    ]
+  },
+  "perception": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsep-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percep05.mp3"
+      }
+    ]
+  },
+  "percipience": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsi-pē-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percip01.mp3"
+      }
+    ]
+  },
+  "percipient": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsi-pē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percip02.mp3"
+      }
+    ]
+  },
+  "percolate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-kə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percol02.mp3"
+      }
+    ]
+  },
+  "percolator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-kə-ˌlā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percol05.mp3"
+      }
+    ]
+  },
+  "percussion": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈkə-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/percus02.mp3"
+      }
+    ]
+  },
+  "peremptory": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈrem(p)-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peremp01.mp3"
+      }
+    ]
+  },
+  "perennial": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈre-nē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perenn04.mp3"
+      }
+    ]
+  },
+  "perfectible": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈfek-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfec07.mp3"
+      }
+    ]
+  },
+  "perfidy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-fə-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfid02.mp3"
+      }
+    ]
+  },
+  "perforate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-fə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfor01.mp3"
+      }
+    ]
+  },
+  "perform": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈfȯrm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfor07.mp3"
+      }
+    ]
+  },
+  "perfumery": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈfyü-mə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfum05.mp3"
+      }
+    ]
+  },
+  "perfunctory": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈfəŋ(k)-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perfun01.mp3"
+      }
+    ]
+  },
+  "perhaps": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈhaps",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perhap01.mp3"
+      }
+    ]
+  },
+  "perigee": {
+    "pronunciations": [
+      {
+        "syllables": "ˈper-ə-(ˌ)jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perige01.mp3"
+      }
+    ]
+  },
+  "periodicity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpir-ē-ə-ˈdi-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/period06.mp3"
+      }
+    ]
+  },
+  "peripatetic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌper-ə-pə-ˈte-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peripa01.mp3"
+      }
+    ]
+  },
+  "perjure": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-jər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perjur01.mp3"
+      }
+    ]
+  },
+  "perjury": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-jə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perjur05.mp3"
+      }
+    ]
+  },
+  "permanence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-mə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perman01.mp3"
+      }
+    ]
+  },
+  "permanent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-mə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perman03.mp3"
+      }
+    ]
+  },
+  "permeate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-mē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/permea04.mp3"
+      }
+    ]
+  },
+  "permissible": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈmi-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/permis01.mp3"
+      }
+    ]
+  },
+  "permutation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-myü-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/permut01.mp3"
+      }
+    ]
+  },
+  "pernicious": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈni-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pernic01.mp3"
+      }
+    ]
+  },
+  "perpendicular": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-pən-ˈdi-kyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perpen02.mp3"
+      }
+    ]
+  },
+  "perpetuate": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈpe-chə-ˌwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perpet05.mp3"
+      }
+    ]
+  },
+  "perquisite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-kwə-zət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perqui01.mp3"
+      }
+    ]
+  },
+  "persecution": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-si-ˈkyü-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persec06.mp3"
+      }
+    ]
+  },
+  "perseverance": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-sə-ˈvir-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persev01.mp3"
+      }
+    ]
+  },
+  "persevere": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-sə-ˈvir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persev04.mp3"
+      }
+    ]
+  },
+  "persiflage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-si-ˌfläzh",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persif02.mp3"
+      }
+    ]
+  },
+  "persist": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persis02.mp3"
+      }
+    ]
+  },
+  "persistence": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈsi-stən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persis03.mp3"
+      }
+    ]
+  },
+  "personage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpərs-nij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/person06.mp3"
+      }
+    ]
+  },
+  "personal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpərs-nəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/person09.mp3"
+      }
+    ]
+  },
+  "personality": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-sə-ˈna-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/person13.mp3"
+      }
+    ]
+  },
+  "personnel": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-sə-ˈnel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/person28.mp3"
+      }
+    ]
+  },
+  "perspective": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈspek-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perspe01.mp3"
+      }
+    ]
+  },
+  "perspicacious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-spə-ˈkā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perspi01.mp3"
+      }
+    ]
+  },
+  "perspicuous": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈspi-kyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perspi03.mp3"
+      }
+    ]
+  },
+  "perspiration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-spə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perspi06.mp3"
+      }
+    ]
+  },
+  "perspire": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈspī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perspi09.mp3"
+      }
+    ]
+  },
+  "persuadable": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈswā-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persua01.mp3"
+      }
+    ]
+  },
+  "persuade": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈswād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/persua02.mp3"
+      }
+    ]
+  },
+  "pertinacious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-tə-ˈnā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pertin01.mp3"
+      }
+    ]
+  },
+  "pertinent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-tə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pertin05.mp3"
+      }
+    ]
+  },
+  "perturb": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈtərb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pertur01.mp3"
+      }
+    ]
+  },
+  "perturbation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpər-tər-ˈbā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pertur03.mp3"
+      }
+    ]
+  },
+  "perusal": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈrü-zəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peruse02.mp3"
+      }
+    ]
+  },
+  "pervade": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈvād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pervad01.mp3"
+      }
+    ]
+  },
+  "pervasion": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈvā-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pervas01.mp3"
+      }
+    ]
+  },
+  "pervasive": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈvā-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pervas02.mp3"
+      }
+    ]
+  },
+  "perverse": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)pər-ˈvərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perver01.mp3"
+      }
+    ]
+  },
+  "perversion": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perver03.mp3"
+      }
+    ]
+  },
+  "pervert": {
+    "pronunciations": [
+      {
+        "syllables": "pər-ˈvərt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/perver05.mp3"
+      }
+    ]
+  },
+  "pervious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-vē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pervio01.mp3"
+      }
+    ]
+  },
+  "pestilence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-stə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pestil01.mp3"
+      }
+    ]
+  },
+  "pestilent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-stə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pestil02.mp3"
+      }
+    ]
+  },
+  "pestilential": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpe-stə-ˈlen(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pestil03.mp3"
+      }
+    ]
+  },
+  "peter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpē-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/peter001.mp3"
+      }
+    ]
+  },
+  "petrify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-trə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/petrif03.mp3"
+      }
+    ]
+  },
+  "petulance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-chə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/petula01.mp3"
+      }
+    ]
+  },
+  "petulant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpe-chə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/petula03.mp3"
+      }
+    ]
+  },
+  "pharmacopoeia": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfär-mə-kə-ˈpē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pharmo01.mp3"
+      }
+    ]
+  },
+  "pharmacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfär-mə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pharma19.mp3"
+      }
+    ]
+  },
+  "phenomenal": {
+    "pronunciations": [
+      {
+        "syllables": "fi-ˈnä-mə-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phenom04.mp3"
+      }
+    ]
+  },
+  "phenomenon": {
+    "pronunciations": [
+      {
+        "syllables": "fi-ˈnä-mə-ˌnän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phenom14.mp3"
+      }
+    ]
+  },
+  "philander": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlan-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philan01.mp3"
+      }
+    ]
+  },
+  "philanthropic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfi-lən-ˈthrä-pik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philan04.mp3"
+      }
+    ]
+  },
+  "philanthropist": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlan(t)-thrə-pist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philan07.mp3"
+      }
+    ]
+  },
+  "philanthropy": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlan(t)-thrə-pē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philan09.mp3"
+      }
+    ]
+  },
+  "philately": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈla-tə-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philat02.mp3"
+      }
+    ]
+  },
+  "philharmonic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfi-lər-ˈmä-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philha01.mp3"
+      }
+    ]
+  },
+  "philology": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philol01.mp3"
+      }
+    ]
+  },
+  "philosophize": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlä-sə-ˌfīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philos06.mp3"
+      }
+    ]
+  },
+  "philosophy": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlä-s(ə-)fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/philos07.mp3"
+      }
+    ]
+  },
+  "phlegmatic": {
+    "pronunciations": [
+      {
+        "syllables": "fleg-ˈma-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phlegm03.mp3"
+      }
+    ]
+  },
+  "phonetic": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈne-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phonet01.mp3"
+      }
+    ]
+  },
+  "phonic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfä-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phonic01.mp3"
+      }
+    ]
+  },
+  "phonogram": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfō-nə-ˌgram",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phonog01.mp3"
+      }
+    ]
+  },
+  "phonology": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈnä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phonol02.mp3"
+      }
+    ]
+  },
+  "phosphorescence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfäs-fə-ˈre-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/phosph36.mp3"
+      }
+    ]
+  },
+  "photoelectric": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfō-tō-i-ˈlek-trik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/photoe01.mp3"
+      }
+    ]
+  },
+  "photometer": {
+    "pronunciations": [
+      {
+        "syllables": "fō-ˈtä-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/photom05.mp3"
+      }
+    ]
+  },
+  "photometry": {
+    "pronunciations": [
+      {
+        "syllables": "fō-ˈtä-mə-trē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/photom08.mp3"
+      }
+    ]
+  },
+  "physicist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfi-zə-sist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/physic10.mp3"
+      }
+    ]
+  },
+  "physics": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfi-ziks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/physic13.mp3"
+      }
+    ]
+  },
+  "physiognomy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfi-zē-ˈä(g)-nə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/physio06.mp3"
+      }
+    ]
+  },
+  "physiography": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfi-zē-ˈä-grə-fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/physio07.mp3"
+      }
+    ]
+  },
+  "physiology": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfi-zē-ˈä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/physio14.mp3"
+      }
+    ]
+  },
+  "physique": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈzēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/physiq01.mp3"
+      }
+    ]
+  },
+  "picayune": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpi-kē-ˈyün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/picayu01.mp3"
+      }
+    ]
+  },
+  "piccolo": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-kə-ˌlō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/piccol01.mp3"
+      }
+    ]
+  },
+  "piece": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpēs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/piece001.mp3"
+      }
+    ]
+  },
+  "piecemeal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpēs-ˌmēl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/piecem01.mp3"
+      }
+    ]
+  },
+  "pillage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pillag01.mp3"
+      }
+    ]
+  },
+  "pillory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-lə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pillor01.mp3"
+      }
+    ]
+  },
+  "pinnacle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-ni-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pinnac02.mp3"
+      }
+    ]
+  },
+  "pioneer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpī-ə-ˈnir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pionee01.mp3"
+      }
+    ]
+  },
+  "pious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpī-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pious001.mp3"
+      }
+    ]
+  },
+  "pique": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pique101.mp3"
+      }
+    ]
+  },
+  "piteous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-tē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/piteou01.mp3"
+      }
+    ]
+  },
+  "pitiable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-tē-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pitiab01.mp3"
+      }
+    ]
+  },
+  "pitiful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-ti-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pitifu01.mp3"
+      }
+    ]
+  },
+  "pitiless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-ti-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pitile02.mp3"
+      }
+    ]
+  },
+  "pittance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpi-tᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pittan01.mp3"
+      }
+    ]
+  },
+  "placate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplā-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/placat02.mp3"
+      }
+    ]
+  },
+  "placid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpla-səd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/placid01.mp3"
+      }
+    ]
+  },
+  "plagiarism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplā-jə-ˌri-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plagia01.mp3"
+      }
+    ]
+  },
+  "planisphere": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplā-nə-ˌsfir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/planis02.mp3"
+      }
+    ]
+  },
+  "plasticity": {
+    "pronunciations": [
+      {
+        "syllables": "pla-ˈsti-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plasti05.mp3"
+      }
+    ]
+  },
+  "platitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpla-tə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/platit01.mp3"
+      }
+    ]
+  },
+  "plaudit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplȯ-dət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plaudi01.mp3"
+      }
+    ]
+  },
+  "plausible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplȯ-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plausi02.mp3"
+      }
+    ]
+  },
+  "playful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplā-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/playfu01.mp3"
+      }
+    ]
+  },
+  "playwright": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplā-ˌrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/playwr01.mp3"
+      }
+    ]
+  },
+  "plea": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plea0001.mp3"
+      }
+    ]
+  },
+  "pleasant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈple-zᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pleasa02.mp3"
+      }
+    ]
+  },
+  "pleasurable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplezh-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pleasu01.mp3"
+      }
+    ]
+  },
+  "plebeian": {
+    "pronunciations": [
+      {
+        "syllables": "pli-ˈbē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plebei01.mp3"
+      }
+    ]
+  },
+  "pledgee": {
+    "pronunciations": [
+      {
+        "syllables": "ple-ˈjē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pledge04.mp3"
+      }
+    ]
+  },
+  "plenary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈple-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plenar01.mp3"
+      }
+    ]
+  },
+  "plenipotentiary": {
+    "pronunciations": [
+      {
+        "syllables": "ˌple-nə-pə-ˈten(t)-sh(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plenip02.mp3"
+      }
+    ]
+  },
+  "plenitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈple-nə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plenit01.mp3"
+      }
+    ]
+  },
+  "plenteous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplen-tē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plente01.mp3"
+      }
+    ]
+  },
+  "plumb": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpləm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plumb001.mp3"
+      }
+    ]
+  },
+  "plummet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplə-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plumme01.mp3"
+      }
+    ]
+  },
+  "pluperfect": {
+    "pronunciations": [
+      {
+        "syllables": "ˌplü-ˈpər-fikt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pluper01.mp3"
+      }
+    ]
+  },
+  "plural": {
+    "pronunciations": [
+      {
+        "syllables": "ˈplu̇r-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plural01.mp3"
+      }
+    ]
+  },
+  "plurality": {
+    "pronunciations": [
+      {
+        "syllables": "plu̇-ˈra-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plural07.mp3"
+      }
+    ]
+  },
+  "plutocracy": {
+    "pronunciations": [
+      {
+        "syllables": "plü-ˈtä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/plutoc01.mp3"
+      }
+    ]
+  },
+  "pneumatic": {
+    "pronunciations": [
+      {
+        "syllables": "nu̇-ˈma-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pneuma02.mp3"
+      }
+    ]
+  },
+  "poesy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-ə-zē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poesy001.mp3"
+      }
+    ]
+  },
+  "poetaster": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-ə-ˌta-stər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poetas01.mp3"
+      }
+    ]
+  },
+  "poetic": {
+    "pronunciations": [
+      {
+        "syllables": "pō-ˈe-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poetic01.mp3"
+      }
+    ]
+  },
+  "poetics": {
+    "pronunciations": [
+      {
+        "syllables": "pō-ˈe-tiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poetic07.mp3"
+      }
+    ]
+  },
+  "poignancy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯi-nyən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poigna02.mp3"
+      }
+    ]
+  },
+  "poignant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯi-nyənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poigna03.mp3"
+      }
+    ]
+  },
+  "poise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯiz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poise001.mp3"
+      }
+    ]
+  },
+  "polar": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polar001.mp3"
+      }
+    ]
+  },
+  "pollen": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-lən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pollen01.mp3"
+      }
+    ]
+  },
+  "pollute": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈlüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pollut02.mp3"
+      }
+    ]
+  },
+  "polygamy": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈli-gə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polyga04.mp3"
+      }
+    ]
+  },
+  "polyglot": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-lē-ˌglät",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polygl01.mp3"
+      }
+    ]
+  },
+  "polygon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-lē-ˌgän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polygo01.mp3"
+      }
+    ]
+  },
+  "polyhedron": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpä-lē-ˈhē-drən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polyhe01.mp3"
+      }
+    ]
+  },
+  "polysyllable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-lē-ˌsi-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polysy03.mp3"
+      }
+    ]
+  },
+  "polytechnic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpä-lē-ˈtek-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polyte01.mp3"
+      }
+    ]
+  },
+  "polytheism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-lē-(ˌ)thē-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/polyth01.mp3"
+      }
+    ]
+  },
+  "pommel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpə-məl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pommel02.mp3"
+      }
+    ]
+  },
+  "pomposity": {
+    "pronunciations": [
+      {
+        "syllables": "päm-ˈpä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pompos01.mp3"
+      }
+    ]
+  },
+  "pompous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpäm-pəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pompou01.mp3"
+      }
+    ]
+  },
+  "ponder": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpän-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/ponder01.mp3"
+      }
+    ]
+  },
+  "ponderous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpän-d(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/ponder06.mp3"
+      }
+    ]
+  },
+  "pontiff": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpän-təf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pontif03.mp3"
+      }
+    ]
+  },
+  "populace": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-pyə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/popula01.mp3"
+      }
+    ]
+  },
+  "populous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-pyə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/populo01.mp3"
+      }
+    ]
+  },
+  "portend": {
+    "pronunciations": [
+      {
+        "syllables": "pȯr-ˈtend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/porten01.mp3"
+      }
+    ]
+  },
+  "portent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpȯr-ˌtent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/porten02.mp3"
+      }
+    ]
+  },
+  "portfolio": {
+    "pronunciations": [
+      {
+        "syllables": "pȯrt-ˈfō-lē-ˌō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/portfo01.mp3"
+      }
+    ]
+  },
+  "posit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-zət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/posit001.mp3"
+      }
+    ]
+  },
+  "position": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/positi01.mp3"
+      }
+    ]
+  },
+  "positive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-zə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/positi04.mp3"
+      }
+    ]
+  },
+  "posse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/posse001.mp3"
+      }
+    ]
+  },
+  "possess": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈzes",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/posses02.mp3"
+      }
+    ]
+  },
+  "possession": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈze-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/posses05.mp3"
+      }
+    ]
+  },
+  "possessive": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈze-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/posses08.mp3"
+      }
+    ]
+  },
+  "possible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpä-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/possib02.mp3"
+      }
+    ]
+  },
+  "postdate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpōs(t)-ˈdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/postda01.mp3"
+      }
+    ]
+  },
+  "posterior": {
+    "pronunciations": [
+      {
+        "syllables": "pō-ˈstir-ē-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/poster03.mp3"
+      }
+    ]
+  },
+  "postgraduate": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpōs(t)-ˈgra-jə-wət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/postgr01.mp3"
+      }
+    ]
+  },
+  "postscript": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpōs(t)-ˌskript",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/postsc01.mp3"
+      }
+    ]
+  },
+  "potency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-tᵊn(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/potenc02.mp3"
+      }
+    ]
+  },
+  "potent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-tᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/potent01.mp3"
+      }
+    ]
+  },
+  "potentate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-tᵊn-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/potent02.mp3"
+      }
+    ]
+  },
+  "potential": {
+    "pronunciations": [
+      {
+        "syllables": "pə-ˈten(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/potent03.mp3"
+      }
+    ]
+  },
+  "potion": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpō-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/potion01.mp3"
+      }
+    ]
+  },
+  "powerless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpau̇(-ə)r-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/powerl01.mp3"
+      }
+    ]
+  },
+  "practicable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprak-ti-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/practi01.mp3"
+      }
+    ]
+  },
+  "prate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prate001.mp3"
+      }
+    ]
+  },
+  "prattle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpra-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prattl01.mp3"
+      }
+    ]
+  },
+  "preamble": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprē-ˌam-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preamb01.mp3"
+      }
+    ]
+  },
+  "precarious": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈker-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precar01.mp3"
+      }
+    ]
+  },
+  "precaution": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈkȯ-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precau01.mp3"
+      }
+    ]
+  },
+  "precede": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preced01.mp3"
+      }
+    ]
+  },
+  "precedence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-sə-dən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preced02.mp3"
+      }
+    ]
+  },
+  "precedent": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsē-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preced06.mp3"
+      }
+    ]
+  },
+  "precession": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ˈse-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preces03.mp3"
+      }
+    ]
+  },
+  "precipice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-s(ə-)pəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precip01.mp3"
+      }
+    ]
+  },
+  "precipitant": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsi-pə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precip05.mp3"
+      }
+    ]
+  },
+  "precipitate": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsi-pə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precip06.mp3"
+      }
+    ]
+  },
+  "precise": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsīs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precis03.mp3"
+      }
+    ]
+  },
+  "precision": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsi-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precis04.mp3"
+      }
+    ]
+  },
+  "preclude": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈklüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preclu01.mp3"
+      }
+    ]
+  },
+  "precocious": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈkō-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precoc02.mp3"
+      }
+    ]
+  },
+  "precursor": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈkər-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/precur02.mp3"
+      }
+    ]
+  },
+  "predatory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-də-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predat04.mp3"
+      }
+    ]
+  },
+  "predecessor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-də-ˌse-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predec03.mp3"
+      }
+    ]
+  },
+  "predicament": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈdi-kə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predic02.mp3"
+      }
+    ]
+  },
+  "predicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-di-kət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predic03.mp3"
+      }
+    ]
+  },
+  "predict": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈdikt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predic09.mp3"
+      }
+    ]
+  },
+  "prediction": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈdik-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predic16.mp3"
+      }
+    ]
+  },
+  "predominance": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈdä-mə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predom01.mp3"
+      }
+    ]
+  },
+  "predominant": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈdä-mə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predom03.mp3"
+      }
+    ]
+  },
+  "predominate": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈdä-mə-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/predom05.mp3"
+      }
+    ]
+  },
+  "preeminence": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ˈe-mə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preemi02.mp3"
+      }
+    ]
+  },
+  "preempt": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ˈem(p)t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preemp01.mp3"
+      }
+    ]
+  },
+  "preemption": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ˈem(p)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preemp03.mp3"
+      }
+    ]
+  },
+  "preestablish": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-i-ˈsta-blish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preestablish_1.mp3"
+      }
+    ]
+  },
+  "preexist": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-ig-ˈzist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preexi02.mp3"
+      }
+    ]
+  },
+  "preexistence": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ig-ˈzi-stən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preexi03.mp3"
+      }
+    ]
+  },
+  "preface": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-fəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefac01.mp3"
+      }
+    ]
+  },
+  "prefatory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-fə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefat01.mp3"
+      }
+    ]
+  },
+  "prefer": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈfər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefer01.mp3"
+      }
+    ]
+  },
+  "preferable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-f(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefer02.mp3"
+      }
+    ]
+  },
+  "preference": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-fərn(t)s",
+        "audio": null
+      }
+    ]
+  },
+  "preferential": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpre-fə-ˈren(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefer06.mp3"
+      }
+    ]
+  },
+  "preferment": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈfər-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefer08.mp3"
+      }
+    ]
+  },
+  "prefix": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprē-ˌfiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prefix02.mp3"
+      }
+    ]
+  },
+  "prehensile": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ˈhen(t)-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prehen01.mp3"
+      }
+    ]
+  },
+  "prehension": {
+    "pronunciations": [
+      {
+        "syllables": "prē-ˈhen(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prehen03.mp3"
+      }
+    ]
+  },
+  "prejudice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-jə-dəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prejud03.mp3"
+      }
+    ]
+  },
+  "prelacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-lə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prelac01.mp3"
+      }
+    ]
+  },
+  "prelate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prelat01.mp3"
+      }
+    ]
+  },
+  "prelude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprel-ˌyüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prelud02.mp3"
+      }
+    ]
+  },
+  "premature": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-mə-ˈchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/premat01.mp3"
+      }
+    ]
+  },
+  "premier": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈmir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/premie02.mp3"
+      }
+    ]
+  },
+  "premise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/premis01.mp3"
+      }
+    ]
+  },
+  "premonition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-mə-ˈni-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/premon03.mp3"
+      }
+    ]
+  },
+  "preoccupation": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)prē-ˌä-kyə-ˈpā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preocc02.mp3"
+      }
+    ]
+  },
+  "preoccupy": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)prē-ˈä-kyə-ˌpī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preocc04.mp3"
+      }
+    ]
+  },
+  "preordain": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-ȯr-ˈdān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preord01.mp3"
+      }
+    ]
+  },
+  "preparation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpre-pə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prepar01.mp3"
+      }
+    ]
+  },
+  "preparatory": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈper-ə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prepar05.mp3"
+      }
+    ]
+  },
+  "preponderant": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈpän-d(ə-)rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prepon03.mp3"
+      }
+    ]
+  },
+  "preponderate": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈpän-də-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prepon04.mp3"
+      }
+    ]
+  },
+  "prepossession": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-pə-ˈze-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prepos05.mp3"
+      }
+    ]
+  },
+  "preposterous": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈpä-st(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prepos06.mp3"
+      }
+    ]
+  },
+  "prerogative": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈrä-gə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prerog01.mp3"
+      }
+    ]
+  },
+  "presage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-sij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presag01.mp3"
+      }
+    ]
+  },
+  "prescience": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-sh(ē-)ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presci01.mp3"
+      }
+    ]
+  },
+  "prescript": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprē-ˌskript",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prescr02.mp3"
+      }
+    ]
+  },
+  "prescription": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈskrip-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prescr04.mp3"
+      }
+    ]
+  },
+  "presentient": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈsen(t)-sh(ē-)ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presen18.mp3"
+      }
+    ]
+  },
+  "presentiment": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈzen-tə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presen19.mp3"
+      }
+    ]
+  },
+  "presentment": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈzent-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presen24.mp3"
+      }
+    ]
+  },
+  "preservation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpre-zər-ˈvā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preser06.mp3"
+      }
+    ]
+  },
+  "presumption": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈzəm(p)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presum07.mp3"
+      }
+    ]
+  },
+  "presumptuous": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈzəm(p)-chə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/presum09.mp3"
+      }
+    ]
+  },
+  "pretension": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈten(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preten05.mp3"
+      }
+    ]
+  },
+  "pretentious": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈten(t)-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preten08.mp3"
+      }
+    ]
+  },
+  "preternatural": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprē-tər-ˈna-chə-rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preter06.mp3"
+      }
+    ]
+  },
+  "pretext": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprē-ˌtekst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pretex01.mp3"
+      }
+    ]
+  },
+  "prevalence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-və-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preval01.mp3"
+      }
+    ]
+  },
+  "prevalent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpre-və-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preval02.mp3"
+      }
+    ]
+  },
+  "prevaricate": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈver-ə-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prevar01.mp3"
+      }
+    ]
+  },
+  "prevention": {
+    "pronunciations": [
+      {
+        "syllables": "pri-ˈven(t)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/preven06.mp3"
+      }
+    ]
+  },
+  "prickle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpri-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prickl01.mp3"
+      }
+    ]
+  },
+  "prim": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprim",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prim0001.mp3"
+      }
+    ]
+  },
+  "primer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpri-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/primer01.mp3"
+      }
+    ]
+  },
+  "primeval": {
+    "pronunciations": [
+      {
+        "syllables": "prī-ˈmē-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/primev01.mp3"
+      }
+    ]
+  },
+  "primitive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpri-mə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/primit01.mp3"
+      }
+    ]
+  },
+  "principal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprin(t)-s(ə-)pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/princi01.mp3"
+      }
+    ]
+  },
+  "principality": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprin(t)-sə-ˈpa-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/princi04.mp3"
+      }
+    ]
+  },
+  "principle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprin(t)-s(ə-)pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/princi07.mp3"
+      }
+    ]
+  },
+  "priory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprī-(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/priory01.mp3"
+      }
+    ]
+  },
+  "pristine": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpri-ˌstēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pristi01.mp3"
+      }
+    ]
+  },
+  "privateer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprī-və-ˈtir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/privat03.mp3"
+      }
+    ]
+  },
+  "privilege": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpriv-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/privil01.mp3"
+      }
+    ]
+  },
+  "privity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpri-və-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/privit01.mp3"
+      }
+    ]
+  },
+  "privy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpri-vē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/privy001.mp3"
+      }
+    ]
+  },
+  "probate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-ˌbāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/probat01.mp3"
+      }
+    ]
+  },
+  "probation": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈbā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/probat03.mp3"
+      }
+    ]
+  },
+  "probe": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprōb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/probe001.mp3"
+      }
+    ]
+  },
+  "probity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-bə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/probit02.mp3"
+      }
+    ]
+  },
+  "procedure": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈsē-jər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proced02.mp3"
+      }
+    ]
+  },
+  "proceed": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈsēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/procee01.mp3"
+      }
+    ]
+  },
+  "proclamation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprä-klə-ˈmā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/procla02.mp3"
+      }
+    ]
+  },
+  "procrastinate": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈkra-stə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/procra01.mp3"
+      }
+    ]
+  },
+  "proctor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpräk-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/procto07.mp3"
+      }
+    ]
+  },
+  "prodigal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-di-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prodig01.mp3"
+      }
+    ]
+  },
+  "prodigious": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈdi-jəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prodig04.mp3"
+      }
+    ]
+  },
+  "prodigy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-də-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prodig05.mp3"
+      }
+    ]
+  },
+  "productive": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈdək-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/produc09.mp3"
+      }
+    ]
+  },
+  "profession": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈfe-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profes05.mp3"
+      }
+    ]
+  },
+  "professor": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈfe-sər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profes10.mp3"
+      }
+    ]
+  },
+  "proffer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-fər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proffe01.mp3"
+      }
+    ]
+  },
+  "proficiency": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈfi-shən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profic01.mp3"
+      }
+    ]
+  },
+  "proficient": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈfi-shənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profic02.mp3"
+      }
+    ]
+  },
+  "profile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-ˌfī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profil01.mp3"
+      }
+    ]
+  },
+  "profiteer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprä-fə-ˈtir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profit08.mp3"
+      }
+    ]
+  },
+  "profligacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-fli-gə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profli01.mp3"
+      }
+    ]
+  },
+  "profligate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-fli-gət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profli02.mp3"
+      }
+    ]
+  },
+  "profuse": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈfyüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/profus01.mp3"
+      }
+    ]
+  },
+  "progeny": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-jə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/progen02.mp3"
+      }
+    ]
+  },
+  "progression": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈgre-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/progre03.mp3"
+      }
+    ]
+  },
+  "prohibition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprō-ə-ˈbi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prohib03.mp3"
+      }
+    ]
+  },
+  "prohibitionist": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprō-ə-ˈbi-sh(ə-)nist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prohib04.mp3"
+      }
+    ]
+  },
+  "prohibitory": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈhi-bə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prohib06.mp3"
+      }
+    ]
+  },
+  "projection": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈjek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/projec06.mp3"
+      }
+    ]
+  },
+  "proletarian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprō-lə-ˈter-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prolet01.mp3"
+      }
+    ]
+  },
+  "prolific": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈli-fik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prolif07.mp3"
+      }
+    ]
+  },
+  "prolix": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈliks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prolix02.mp3"
+      }
+    ]
+  },
+  "prologue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-ˌlȯg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prolog03.mp3"
+      }
+    ]
+  },
+  "prolong": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈlȯŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prolon01.mp3"
+      }
+    ]
+  },
+  "promenade": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprä-mə-ˈnād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promen02.mp3"
+      }
+    ]
+  },
+  "prominence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-mə-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promin01.mp3"
+      }
+    ]
+  },
+  "prominent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-mə-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promin02.mp3"
+      }
+    ]
+  },
+  "promiscuous": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈmi-skyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promis02.mp3"
+      }
+    ]
+  },
+  "promissory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-mə-ˌsȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promis09.mp3"
+      }
+    ]
+  },
+  "promontory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-mən-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promon01.mp3"
+      }
+    ]
+  },
+  "promoter": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈmō-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promot04.mp3"
+      }
+    ]
+  },
+  "promulgate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-məl-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/promul02.mp3"
+      }
+    ]
+  },
+  "propaganda": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprä-pə-ˈgan-də",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propag01.mp3"
+      }
+    ]
+  },
+  "propagate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-pə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propag07.mp3"
+      }
+    ]
+  },
+  "propel": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈpel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propel01.mp3"
+      }
+    ]
+  },
+  "propellant": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈpe-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propel02.mp3"
+      }
+    ]
+  },
+  "propeller": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈpe-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propel03.mp3"
+      }
+    ]
+  },
+  "prophecy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-fə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prophe01.mp3"
+      }
+    ]
+  },
+  "prophesy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-fə-ˌsī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prophe02.mp3"
+      }
+    ]
+  },
+  "propitious": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈpi-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propit05.mp3"
+      }
+    ]
+  },
+  "proportionate": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈpȯr-sh(ə-)nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propor08.mp3"
+      }
+    ]
+  },
+  "propriety": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈprī-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propri06.mp3"
+      }
+    ]
+  },
+  "propulsion": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈpəl-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/propul01.mp3"
+      }
+    ]
+  },
+  "prosaic": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈzā-ik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prosai01.mp3"
+      }
+    ]
+  },
+  "proscenium": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈsē-nē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prosce01.mp3"
+      }
+    ]
+  },
+  "proscribe": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈskrīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proscr01.mp3"
+      }
+    ]
+  },
+  "proscription": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈskrip-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proscr02.mp3"
+      }
+    ]
+  },
+  "proselyte": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-sə-ˌlīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prosel01.mp3"
+      }
+    ]
+  },
+  "prosody": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-sə-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prosod05.mp3"
+      }
+    ]
+  },
+  "prospectus": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈspek-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prospe05.mp3"
+      }
+    ]
+  },
+  "prostrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-ˌstrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prostr01.mp3"
+      }
+    ]
+  },
+  "protagonist": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈta-gə-nist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protag01.mp3"
+      }
+    ]
+  },
+  "protection": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈtek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protec04.mp3"
+      }
+    ]
+  },
+  "protector": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈtek-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protec07.mp3"
+      }
+    ]
+  },
+  "protege": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-tə-ˌzhā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proteg01.mp3"
+      }
+    ]
+  },
+  "protestant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-tə-stənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protes05.mp3"
+      }
+    ]
+  },
+  "protocol": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-tə-ˌkȯl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protoc01.mp3"
+      }
+    ]
+  },
+  "protomartyr": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-tō-ˌmär-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protom01.mp3"
+      }
+    ]
+  },
+  "protoplasm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-tə-ˌpla-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protop05.mp3"
+      }
+    ]
+  },
+  "prototype": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprō-tə-ˌtīp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protot05.mp3"
+      }
+    ]
+  },
+  "protract": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈtrakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protra01.mp3"
+      }
+    ]
+  },
+  "protrude": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈtrüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protru01.mp3"
+      }
+    ]
+  },
+  "protrusion": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈtrü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protru03.mp3"
+      }
+    ]
+  },
+  "protuberance": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈtü-b(ə-)rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protub01.mp3"
+      }
+    ]
+  },
+  "protuberant": {
+    "pronunciations": [
+      {
+        "syllables": "prō-ˈtü-b(ə-)rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/protub02.mp3"
+      }
+    ]
+  },
+  "proverb": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-ˌvərb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prover01.mp3"
+      }
+    ]
+  },
+  "provident": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprä-və-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/provid03.mp3"
+      }
+    ]
+  },
+  "providential": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprä-və-ˈden(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/provid04.mp3"
+      }
+    ]
+  },
+  "provincial": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈvin(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/provin02.mp3"
+      }
+    ]
+  },
+  "proviso": {
+    "pronunciations": [
+      {
+        "syllables": "prə-ˈvī-(ˌ)zō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/provis06.mp3"
+      }
+    ]
+  },
+  "provocation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌprä-və-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/provoc02.mp3"
+      }
+    ]
+  },
+  "prowess": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprau̇-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prowes01.mp3"
+      }
+    ]
+  },
+  "proxy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpräk-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/proxy001.mp3"
+      }
+    ]
+  },
+  "prudence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprü-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pruden01.mp3"
+      }
+    ]
+  },
+  "prudential": {
+    "pronunciations": [
+      {
+        "syllables": "prü-ˈden(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pruden03.mp3"
+      }
+    ]
+  },
+  "prudery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈprü-d(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pruder01.mp3"
+      }
+    ]
+  },
+  "prurient": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpru̇r-ē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/prurie03.mp3"
+      }
+    ]
+  },
+  "pseudonym": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsü-də-ˌnim",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pseudo16.mp3"
+      }
+    ]
+  },
+  "pseudonymity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌsü-də-ˈni-mə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pseudo17.mp3"
+      }
+    ]
+  },
+  "psychiatry": {
+    "pronunciations": [
+      {
+        "syllables": "sə-ˈkī-ə-trē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/psychi01.mp3"
+      }
+    ]
+  },
+  "psychic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈsī-kik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/psychi05.mp3"
+      }
+    ]
+  },
+  "psychopathic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌsī-kə-ˈpa-thik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/psycho55.mp3"
+      }
+    ]
+  },
+  "psychotherapy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌsī-kō-ˈther-ə-pē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/psycho91.mp3"
+      }
+    ]
+  },
+  "pudgy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pudgy001.mp3"
+      }
+    ]
+  },
+  "puerile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpyu̇(-ə)r-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pueril01.mp3"
+      }
+    ]
+  },
+  "pugnacious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpəg-ˈnā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pugnac01.mp3"
+      }
+    ]
+  },
+  "puissant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpwi-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/puissa03.mp3"
+      }
+    ]
+  },
+  "pulmonary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpu̇l-mə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pulmon02.mp3"
+      }
+    ]
+  },
+  "punctilious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpəŋk-ˈti-lē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/puncti02.mp3"
+      }
+    ]
+  },
+  "punctual": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpəŋk-chə-wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/punctu01.mp3"
+      }
+    ]
+  },
+  "pungency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpən-jən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pungen01.mp3"
+      }
+    ]
+  },
+  "pungent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpən-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pungen02.mp3"
+      }
+    ]
+  },
+  "punitive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpyü-nə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/puniti02.mp3"
+      }
+    ]
+  },
+  "pupilage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpyü-pə-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pupila01.mp3"
+      }
+    ]
+  },
+  "purgatory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər-gə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/purgat04.mp3"
+      }
+    ]
+  },
+  "purl": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpər(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/purl0001.mp3"
+      }
+    ]
+  },
+  "purloin": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)pər-ˈlȯin",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/purloi01.mp3"
+      }
+    ]
+  },
+  "purport": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)pər-ˈpȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/purpor02.mp3"
+      }
+    ]
+  },
+  "purveyor": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)pər-ˈvā-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/purvey03.mp3"
+      }
+    ]
+  },
+  "pusillanimous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpyü-sə-ˈla-nə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pusill02.mp3"
+      }
+    ]
+  },
+  "putrescent": {
+    "pronunciations": [
+      {
+        "syllables": "pyü-ˈtre-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/putres02.mp3"
+      }
+    ]
+  },
+  "pyre": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pyre0001.mp3"
+      }
+    ]
+  },
+  "pyromania": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpī-rō-ˈmā-nē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pyroma02.mp3"
+      }
+    ]
+  },
+  "pyrotechnic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌpī-rə-ˈtek-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pyrote01.mp3"
+      }
+    ]
+  },
+  "pyx": {
+    "pronunciations": [
+      {
+        "syllables": "ˈpiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/p/pyx00001.mp3"
+      }
+    ]
+  }
+}

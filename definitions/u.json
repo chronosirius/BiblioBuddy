@@ -2,38 +2,86 @@
   "ubiquitous": {
     "def": [
       {
-        "definition": "Being present everywhere.",
+        "definition": "existing or being everywhere at the same time constantly",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ubiquitous",
+      "ubiquitously",
+      "ubiquitousness",
+      "ubiquitousnesses"
+    ]
   },
   "ulterior": {
     "def": [
       {
-        "definition": "Not so pertinent as something else to the matter spoken of.",
+        "definition": "going beyond what is openly said or shown and especially what is proper",
+        "type": "adj."
+      },
+      {
+        "definition": "more distant",
+        "type": "adj."
+      },
+      {
+        "definition": "situated on the farther side",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ulterior",
+      "ulteriorly"
+    ]
   },
   "ultimate": {
     "def": [
       {
-        "definition": "Beyond which there is nothing else.",
+        "definition": "last in a progression or series",
         "type": "adj."
+      },
+      {
+        "definition": "the best or most extreme of its kind",
+        "type": "adj."
+      },
+      {
+        "definition": "most remote in space or time",
+        "type": "adj."
+      },
+      {
+        "definition": "arrived at as the last result",
+        "type": "adj."
+      },
+      {
+        "definition": "incapable of further analysis, division, or separation",
+        "type": "adj."
+      },
+      {
+        "definition": "something ultimate",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ultimate",
+      "ultimateness",
+      "ultimatenesses",
+      "Ultimate",
+      "ultimates",
+      "ultimated",
+      "ultimating"
+    ]
   },
   "ultimatum": {
     "def": [
       {
-        "definition": "A final statement or proposal, as concerning terms or conditions.",
+        "definition": "a final proposition, condition, or demand",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ultimata",
+      "ultimatum",
+      "ultimatums"
+    ]
   },
   "ultramundane": {
     "def": [
@@ -42,178 +90,333 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ultramundane"
+    ]
   },
   "ultramontane": {
     "def": [
       {
-        "definition": "Beyond the mountains, especially beyond the Alps (that is, on their",
+        "definition": "of or relating to countries or peoples beyond the mountains (such as the Alps)",
+        "type": "adj."
+      },
+      {
+        "definition": "favoring greater or absolute supremacy of papal over national or diocesan authority in the Roman Catholic Church",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Ultramontane",
+      "Ultramontanes",
+      "ultramontane",
+      "ultramontanes",
+      "ultramontanism",
+      "ultramontanisms"
+    ]
   },
   "umbrage": {
     "def": [
       {
-        "definition": "A sense of injury.",
+        "definition": "a feeling of pique or resentment at some often fancied slight or insult",
+        "type": "n."
+      },
+      {
+        "definition": "shady branches",
+        "type": "n."
+      },
+      {
+        "definition": "an indistinct indication vague suggestion",
+        "type": "n."
+      },
+      {
+        "definition": "a reason for doubt",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "umbrage",
+      "umbrages"
+    ]
   },
   "unaccountable": {
     "def": [
       {
-        "definition": "Inexplicable.",
+        "definition": "not to be accounted for ,",
+        "type": "adj."
+      },
+      {
+        "definition": "not to be called to account not responsible",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unaccountabilities",
+      "unaccountability",
+      "unaccountable"
+    ]
   },
   "unaffected": {
     "def": [
       {
-        "definition": "Sincere.",
+        "definition": "not influenced or changed mentally, physically, or chemically",
+        "type": "adj."
+      },
+      {
+        "definition": "free from affectation",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unaffected",
+      "unaffectedly",
+      "unaffectedness",
+      "unaffectednesses"
+    ]
   },
   "unanimous": {
     "def": [
       {
-        "definition": "Sharing the same views or sentiments.",
+        "definition": "formed with or indicating unanimity having the agreement and consent of all",
+        "type": "adj."
+      },
+      {
+        "definition": "being of one mind",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unanimous",
+      "unanimously"
+    ]
   },
   "unanimity": {
     "def": [
       {
-        "definition": "The state or quality of being of one mind.",
+        "definition": "the quality or state of being unanimous",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "unanimities",
+      "unanimity"
+    ]
   },
   "unavoidable": {
     "def": [
       {
-        "definition": "Inevitable.",
+        "definition": "not avoidable",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unavoidable",
+      "unavoidably"
+    ]
   },
   "unbearable": {
     "def": [
       {
-        "definition": "Unendurable.",
+        "definition": "not bearable",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unbearable",
+      "unbearably"
+    ]
   },
   "unbecoming": {
     "def": [
       {
-        "definition": "Unsuited to the wearer, place, or surroundings.",
+        "definition": "not becoming",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unbecoming",
+      "unbecomingly",
+      "unbecomingness",
+      "unbecomingnesses"
+    ]
   },
   "unbelief": {
     "def": [
       {
-        "definition": "Doubt.",
+        "definition": "incredulity or skepticism especially in matters of religious faith",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "unbelief",
+      "unbeliefs"
+    ]
   },
   "unbiased": {
     "def": [
       {
-        "definition": "Impartial, as judgment.",
+        "definition": "free from bias",
+        "type": "adj."
+      },
+      {
+        "definition": "having an expected value equal to a population parameter being estimated",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unbiased",
+      "unbiasedness",
+      "unbiasednesses"
+    ]
   },
   "unbridled": {
     "def": [
       {
-        "definition": "Being without restraint.",
+        "definition": "not confined by a bridle",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unbridled"
+    ]
   },
   "uncommon": {
     "def": [
       {
-        "definition": "Rare.",
+        "definition": "not ordinarily encountered",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "uncommon",
+      "uncommonly",
+      "uncommonness",
+      "uncommonnesses"
+    ]
   },
   "unconscionable": {
     "def": [
       {
-        "definition": "Ridiculously or unjustly excessive.",
+        "definition": "shockingly unfair or unjust",
+        "type": "adj."
+      },
+      {
+        "definition": "not guided or controlled by conscience",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unconscionabilities",
+      "unconscionability",
+      "unconscionable",
+      "unconscionableness",
+      "unconscionablenesses",
+      "unconscionably"
+    ]
   },
   "unconscious": {
     "def": [
       {
-        "definition": "Not cognizant of objects, actions, etc.",
+        "definition": "having lost consciousness",
         "type": "adj."
+      },
+      {
+        "definition": "not possessing mind or consciousness",
+        "type": "adj."
+      },
+      {
+        "definition": "not knowing or perceiving not aware",
+        "type": "adj."
+      },
+      {
+        "definition": "free from self-awareness",
+        "type": "adj."
+      },
+      {
+        "definition": "not consciously held or deliberately planned or carried out",
+        "type": "adj."
+      },
+      {
+        "definition": "the part of mental life that does not ordinarily enter the individual's awareness yet may influence behavior and perception or be revealed (as in slips of the tongue or in dreams)",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "unconscious",
+      "unconsciously",
+      "unconsciousness",
+      "unconsciousnesses",
+      "unconsciouses"
+    ]
   },
   "unction": {
     "def": [
       {
-        "definition": "The art of anointing as with oil.",
+        "definition": "the act of anointing as a rite of consecration or healing",
+        "type": "n."
+      },
+      {
+        "definition": "something used for anointing ,",
+        "type": "n."
+      },
+      {
+        "definition": "religious or spiritual fervor or the expression of such fervor",
+        "type": "n."
+      },
+      {
+        "definition": "exaggerated, assumed, or superficial earnestness of language or manner",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "unction",
+      "unctions"
+    ]
   },
   "unctuous": {
     "def": [
       {
-        "definition": "Oily.",
+        "definition": "having, revealing, or marked by a smug, ingratiating, and false earnestness or spirituality",
+        "type": "adj."
+      },
+      {
+        "definition": "smooth and greasy in texture or appearance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unctuous",
+      "unctuously",
+      "unctuousness",
+      "unctuousnesses"
+    ]
   },
   "undeceive": {
     "def": [
       {
-        "definition": "To free from deception, as by apprising of the real state of affairs.",
+        "definition": "to free from deception, illusion, or error",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "undeceive",
+      "undeceived",
+      "undeceives",
+      "undeceiving"
+    ]
   },
   "undercharge": {
     "def": [
       {
-        "definition": "To make an inadequate charge for.",
+        "definition": "to charge too little",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "undercharge",
+      "undercharged",
+      "undercharges",
+      "undercharging"
+    ]
   },
   "underexposed": {
     "def": [
@@ -222,16 +425,21 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "underexposed"
+    ]
   },
   "undergarment": {
     "def": [
       {
-        "definition": "A garment to be worn under the ordinary outer garments.",
+        "definition": "a garment to be worn under another",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "undergarment",
+      "undergarments"
+    ]
   },
   "underman": {
     "def": [
@@ -240,124 +448,272 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "underman"
+    ]
   },
   "undersell": {
     "def": [
       {
-        "definition": "To sell at a lower price than.",
+        "definition": "to sell articles cheaper than",
+        "type": "v."
+      },
+      {
+        "definition": "to sell cheaper than",
+        "type": "v."
+      },
+      {
+        "definition": "to present or speak of (something or someone) as having a lower value or less importance than is actual or deserved",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "undersell",
+      "underselling",
+      "undersells",
+      "undersold"
+    ]
   },
   "undersized": {
     "def": [
       {
-        "definition": "Of less than the customary size.",
+        "definition": "of a size less than is common, proper, normal, or average",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "undersize",
+      "undersized"
+    ]
   },
   "underhanded": {
     "def": [
       {
-        "definition": "Clandestinely carried on.",
+        "definition": "marked by secrecy, chicanery, and deception not honest and aboveboard",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "underhanded",
+      "underhandedly",
+      "underhandedness",
+      "underhandednesses"
+    ]
   },
   "underlie": {
     "def": [
       {
-        "definition": "To be the ground or support of.",
+        "definition": "to lie or be situated under",
+        "type": "v."
+      },
+      {
+        "definition": "to be at the basis of form the foundation of",
+        "type": "v."
+      },
+      {
+        "definition": "to exist as a claim or security superior and prior to (another)",
+        "type": "v."
+      },
+      {
+        "definition": "to be subject or amenable to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "underlain",
+      "underlay",
+      "underlie",
+      "underlies",
+      "underlying"
+    ]
   },
   "underling": {
     "def": [
       {
-        "definition": "A subordinate.",
+        "definition": "one who is under the orders of another ,",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "underling",
+      "underlings"
+    ]
   },
   "undermine": {
     "def": [
       {
-        "definition": "To subvert in an underhand way.",
+        "definition": "to subvert or weaken insidiously or secretly",
+        "type": "v."
+      },
+      {
+        "definition": "to weaken or ruin by degrees",
+        "type": "v."
+      },
+      {
+        "definition": "to wash away supporting material from under",
+        "type": "v."
+      },
+      {
+        "definition": "to excavate the earth beneath form a mine under",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "undermine",
+      "undermined",
+      "undermines",
+      "undermining"
+    ]
   },
   "underrate": {
     "def": [
       {
-        "definition": "To undervalue.",
+        "definition": "to rate or value (something or someone) too low  {dx}see also",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "underrate",
+      "underrated",
+      "underrates",
+      "underrating"
+    ]
   },
   "understate": {
     "def": [
       {
-        "definition": "To fail to put strongly enough, as a case.",
+        "definition": "to represent as less than is the case",
+        "type": "v."
+      },
+      {
+        "definition": "to state or present with restraint especially for effect",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "understate",
+      "understated",
+      "understates",
+      "understating"
+    ]
   },
   "undervalue": {
     "def": [
       {
-        "definition": "To underestimate.",
+        "definition": "to value, rate, or estimate below the real worth",
+        "type": "v."
+      },
+      {
+        "definition": "to treat as having little value",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "undervalue",
+      "undervalued",
+      "undervalues",
+      "undervaluing"
+    ]
   },
   "underworld": {
     "def": [
       {
-        "definition": "Hades.",
+        "definition": "the place of departed souls",
+        "type": "n."
+      },
+      {
+        "definition": "the side of the earth opposite to one",
+        "type": "n."
+      },
+      {
+        "definition": "a social sphere below the level of ordinary life",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "underworld",
+      "underworlds"
+    ]
   },
   "underwrite": {
     "def": [
       {
-        "definition": "To issue or be party to the issue of a",
+        "definition": "to write under or at the end of something else",
+        "type": "v."
+      },
+      {
+        "definition": "to set one's name to (an insurance policy) for the purpose of thereby becoming answerable for a designated loss or damage on consideration of receiving a premium percent insure on life or property",
+        "type": "v."
+      },
+      {
+        "definition": "to subscribe to agree to",
+        "type": "v."
+      },
+      {
+        "definition": "to agree to purchase (something, such as security issue) usually on a fixed date at a fixed price with a view to public distribution",
+        "type": "v."
+      },
+      {
+        "definition": "to guarantee financial support of",
+        "type": "v."
+      },
+      {
+        "definition": "to work as an underwriter",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "underwrite",
+      "underwrites",
+      "underwriting",
+      "underwritten",
+      "underwrote"
+    ]
   },
   "undue": {
     "def": [
       {
-        "definition": "More than sufficient.",
+        "definition": "not due not yet payable",
+        "type": "adj."
+      },
+      {
+        "definition": "exceeding or violating propriety or fitness more than is reasonable or necessary",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "undue"
+    ]
   },
   "undulate": {
     "def": [
       {
-        "definition": "To move like a wave or in waves.",
+        "definition": "having a wavy surface, edge, or markings",
+        "type": "adj."
+      },
+      {
+        "definition": "to form or move in waves",
+        "type": "v."
+      },
+      {
+        "definition": "to rise and fall in volume, pitch, or cadence",
+        "type": "v."
+      },
+      {
+        "definition": "to present a wavy appearance",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to move in a wavy, sinuous, or flowing manner",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "undulate",
+      "undulated",
+      "undulates",
+      "undulating"
+    ]
   },
   "undulous": {
     "def": [
@@ -366,43 +722,77 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "undulous"
+    ]
   },
   "unfavorable": {
     "def": [
       {
-        "definition": "Adverse.",
+        "definition": "expressing disapproval",
+        "type": "adj."
+      },
+      {
+        "definition": "not propitious",
+        "type": "adj."
+      },
+      {
+        "definition": "not pleasing",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unfavorable",
+      "unfavorableness",
+      "unfavorablenesses",
+      "unfavorably"
+    ]
   },
   "ungainly": {
     "def": [
       {
-        "definition": "Clumsy.",
+        "definition": "lacking in smoothness or dexterity",
+        "type": "adj."
+      },
+      {
+        "definition": "hard to handle",
+        "type": "adj."
+      },
+      {
+        "definition": "having an awkward appearance",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "ungainlier",
+      "ungainliest",
+      "ungainliness",
+      "ungainlinesses",
+      "ungainly"
+    ]
   },
   "unguent": {
     "def": [
       {
-        "definition": "Any ointment or lubricant for local application.",
+        "definition": "a soothing or healing salve",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "unguent",
+      "unguents"
+    ]
   },
   "unicellular": {
     "def": [
       {
-        "definition": "Consisting of a single cell.",
+        "definition": "having or consisting of a single cell",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unicellular"
+    ]
   },
   "univalence": {
     "def": [
@@ -411,34 +801,90 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "univalence"
+    ]
   },
   "unify": {
     "def": [
       {
-        "definition": "To cause to be one.",
+        "definition": "to make into a unit or a coherent whole",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "unifiable",
+      "unified",
+      "unifier",
+      "unifiers",
+      "unifies",
+      "unify",
+      "unifying"
+    ]
   },
   "unique": {
     "def": [
       {
-        "definition": "Being the only one of its kind.",
+        "definition": "being the only one",
+        "type": "adj."
+      },
+      {
+        "definition": "being without a  or equal unlike anything or anyone else",
+        "type": "adj."
+      },
+      {
+        "definition": "distinctively",
+        "type": "adj."
+      },
+      {
+        "definition": "able to be distinguished from all others of its class or type",
+        "type": "adj."
+      },
+      {
+        "definition": "very special or notable",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unique",
+      "uniquely",
+      "uniqueness",
+      "uniquenesses",
+      "uniquer",
+      "uniquest"
+    ]
   },
   "unison": {
     "def": [
       {
-        "definition": "A condition of perfect agreement and accord.",
+        "definition": "identity in musical pitch",
         "type": "n."
+      },
+      {
+        "definition": "the state of being so tuned or sounded",
+        "type": "n."
+      },
+      {
+        "definition": "the writing, playing, or singing of parts in a musical passage at the same pitch or in octaves",
+        "type": "n."
+      },
+      {
+        "definition": "a harmonious agreement or union",
+        "type": "n."
+      },
+      {
+        "definition": "identical in musical pitch",
+        "type": "adj."
+      },
+      {
+        "definition": "producing pitches ordinarily associated with the keys played",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unison",
+      "unisons"
+    ]
   },
   "unisonant": {
     "def": [
@@ -447,133 +893,274 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unisonant"
+    ]
   },
   "unitarian": {
     "def": [
       {
-        "definition": "Pertaining to a religious body that rejects the doctrine of the Trinity.",
-        "type": "adj."
+        "definition": "one who believes that the deity exists only in one person",
+        "type": "n."
+      },
+      {
+        "definition": "a member of a denomination that stresses individual freedom of belief, the free use of reason in religion, a united world community, and liberal social action",
+        "type": "n."
+      },
+      {
+        "definition": "an advocate of unity or a unitary system",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Unitarian",
+      "Unitarianism",
+      "Unitarianisms",
+      "Unitarians",
+      "unitarian",
+      "unitarianism",
+      "unitarianisms",
+      "unitarians"
+    ]
   },
   "unlawful": {
     "def": [
       {
-        "definition": "Illegal.",
+        "definition": "not lawful",
+        "type": "adj."
+      },
+      {
+        "definition": "acting contrary to or in defiance of the law",
+        "type": "adj."
+      },
+      {
+        "definition": "not morally right or conventional",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unlawful",
+      "unlawfully",
+      "unlawfulness",
+      "unlawfulnesses"
+    ]
   },
   "unlimited": {
     "def": [
       {
-        "definition": "Unconstrained.",
+        "definition": "lacking any controls",
+        "type": "adj."
+      },
+      {
+        "definition": "not bounded by exceptions",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unlimited",
+      "unlimitedly"
+    ]
   },
   "unnatural": {
     "def": [
       {
-        "definition": "Artificial.",
+        "definition": "not being in accordance with nature or consistent with a normal course of events",
+        "type": "adj."
+      },
+      {
+        "definition": "not being in accordance with normal human feelings or behavior",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking ease and naturalness",
+        "type": "adj."
+      },
+      {
+        "definition": "inconsistent with what is reasonable or expected",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unnatural",
+      "unnaturally",
+      "unnaturalness",
+      "unnaturalnesses"
+    ]
   },
   "unnecessary": {
     "def": [
       {
-        "definition": "Not essential under the circumstances.",
+        "definition": "not necessary",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unnecessary"
+    ]
   },
   "unsettle": {
     "def": [
       {
-        "definition": "To put into confusion.",
+        "definition": "to loosen or move from a settled state or condition make unstable",
+        "type": "v."
+      },
+      {
+        "definition": "to perturb or agitate mentally or emotionally",
+        "type": "v."
+      },
+      {
+        "definition": "to become unsettled",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "unsettle",
+      "unsettled",
+      "unsettles",
+      "unsettling"
+    ]
   },
   "unsophisticated": {
     "def": [
       {
-        "definition": "Showing inexperience.",
+        "definition": "not changed or corrupted",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unsophisticated"
+    ]
   },
   "unspeakable": {
     "def": [
       {
-        "definition": "Abominable.",
+        "definition": "incapable of being expressed in words",
+        "type": "adj."
+      },
+      {
+        "definition": "inexpressibly bad",
+        "type": "adj."
+      },
+      {
+        "definition": "that may not or cannot be spoken",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unspeakable",
+      "unspeakably"
+    ]
   },
   "untimely": {
     "def": [
       {
-        "definition": "Unseasonable.",
+        "definition": "at an inopportune time",
+        "type": "adv."
+      },
+      {
+        "definition": "before the due, natural, or proper time",
+        "type": "adv."
+      },
+      {
+        "definition": "occurring or done before the due, natural, or proper time too early",
+        "type": "adj."
+      },
+      {
+        "definition": "not made, done, or submitted within a set time period",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "untimely",
+      "untimeliness",
+      "untimelinesses"
+    ]
   },
   "untoward": {
     "def": [
       {
-        "definition": "Causing annoyance or hindrance.",
+        "definition": "difficult to guide, manage, or work with ,",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by trouble or unhappiness",
+        "type": "adj."
+      },
+      {
+        "definition": "not favorable ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "untoward",
+      "untowardly",
+      "untowardness",
+      "untowardnesses"
+    ]
   },
   "unutterable": {
     "def": [
       {
-        "definition": "Inexpressible.",
+        "definition": "being beyond the powers of description",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unutterable",
+      "unutterably"
+    ]
   },
   "unwieldy": {
     "def": [
       {
-        "definition": "Moved or managed with difficulty, as from great size or awkward shape.",
+        "definition": "not easily managed, handled, or used (as because of bulk, weight, complexity, or awkwardness)",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unwieldily",
+      "unwieldiness",
+      "unwieldinesses",
+      "unwieldy"
+    ]
   },
   "unwise": {
     "def": [
       {
-        "definition": "Foolish.",
+        "definition": "lacking wisdom or good sense ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "unwise",
+      "unwisely"
+    ]
   },
   "unyoke": {
     "def": [
       {
-        "definition": "To separate.",
+        "definition": "to free from a yoke or harness",
+        "type": "v."
+      },
+      {
+        "definition": "to take apart",
+        "type": "v."
+      },
+      {
+        "definition": "to unharness a draft animal",
+        "type": "v."
+      },
+      {
+        "definition": "to cease from work",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "unyoke",
+      "unyoked",
+      "unyokes",
+      "unyoking"
+    ]
   },
   "up-keep": {
     "def": [
@@ -582,177 +1169,391 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "up-keep"
+    ]
   },
   "upbraid": {
     "def": [
       {
-        "definition": "To reproach as deserving blame.",
+        "definition": "to criticize severely find fault with",
+        "type": "v."
+      },
+      {
+        "definition": "to reproach severely scold vehemently",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "upbraid",
+      "upbraided",
+      "upbraider",
+      "upbraiders",
+      "upbraiding",
+      "upbraids"
+    ]
   },
   "upcast": {
     "def": [
       {
-        "definition": "A throwing upward.",
+        "definition": "something cast up",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "upcast",
+      "upcasts"
+    ]
   },
   "upheaval": {
     "def": [
       {
-        "definition": "Overthrow or violent disturbance of established order or condition.",
+        "definition": "the action or an instance of upheaving especially of part of the earth's crust",
+        "type": "n."
+      },
+      {
+        "definition": "extreme agitation or disorder radical change",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "upheaval",
+      "upheavals"
+    ]
   },
   "upheave": {
     "def": [
       {
-        "definition": "To raise or lift with effort.",
+        "definition": "to heave up",
+        "type": "v."
+      },
+      {
+        "definition": "to move upward especially with power",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "upheave",
+      "upheaved",
+      "upheaver",
+      "upheavers",
+      "upheaves",
+      "upheaving",
+      "uphove"
+    ]
   },
   "uppermost": {
     "def": [
       {
-        "definition": "First in order of precedence.",
+        "definition": "situated in the highest or most prominent position",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "uppermost"
+    ]
   },
   "uproarious": {
     "def": [
       {
-        "definition": "Noisy.",
+        "definition": "marked by uproar",
+        "type": "adj."
+      },
+      {
+        "definition": "very noisy and full",
+        "type": "adj."
+      },
+      {
+        "definition": "extremely funny",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "uproarious",
+      "uproariously",
+      "uproariousness",
+      "uproariousnesses"
+    ]
   },
   "uproot": {
     "def": [
       {
-        "definition": "To eradicate.",
+        "definition": "to remove as if by pulling up",
+        "type": "v."
+      },
+      {
+        "definition": "to pull up by the roots",
+        "type": "v."
+      },
+      {
+        "definition": "to displace from a country or traditional habitat",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "uproot",
+      "uprooted",
+      "uprootedness",
+      "uprootednesses",
+      "uprooter",
+      "uprooters",
+      "uprooting",
+      "uproots"
+    ]
   },
   "upturn": {
     "def": [
       {
-        "definition": "To throw into confusion.",
+        "definition": "to turn up or over",
         "type": "v."
+      },
+      {
+        "definition": "to direct upward",
+        "type": "v."
+      },
+      {
+        "definition": "to turn upward",
+        "type": "v."
+      },
+      {
+        "definition": "an upward turn especially toward better conditions or higher prices",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "upturn",
+      "upturned",
+      "upturning",
+      "upturns"
+    ]
   },
   "urban": {
     "def": [
       {
-        "definition": "Of, or pertaining to, or like a city.",
+        "definition": "of, relating to, characteristic of, or constituting a city",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "urban"
+    ]
   },
   "urbanity": {
     "def": [
       {
-        "definition": "Refined or elegant courtesy.",
+        "definition": "the quality or state of being urbane",
+        "type": "n."
+      },
+      {
+        "definition": "urbane acts or conduct",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "urbanities",
+      "urbanity"
+    ]
   },
   "urchin": {
     "def": [
       {
-        "definition": "A roguish, mischievous boy.",
+        "definition": "a mischievous and often poor and raggedly clothed youngster",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "urchin",
+      "urchins"
+    ]
   },
   "urgency": {
     "def": [
       {
-        "definition": "The pressure of necessity.",
+        "definition": "the quality or state of being urgent",
+        "type": "n."
+      },
+      {
+        "definition": "a force or impulse that impels or constrains",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "urgencies",
+      "urgency"
+    ]
   },
   "usage": {
     "def": [
       {
-        "definition": "Treatment.",
+        "definition": "firmly established and generally accepted practice or procedure",
+        "type": "n."
+      },
+      {
+        "definition": "a uniform certain reasonable lawful practice existing in a particular locality or occupation and binding persons entering into transactions chiefly on the basis of presumed familiarity",
+        "type": "n."
+      },
+      {
+        "definition": "the way in which words and phrases are actually used (as in a particular form or sense) in a language community",
+        "type": "n."
+      },
+      {
+        "definition": "the action, amount, or mode of using",
+        "type": "n."
+      },
+      {
+        "definition": "manner of treating",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "usage",
+      "usages"
+    ]
   },
   "usurious": {
     "def": [
       {
-        "definition": "Taking unlawful or exorbitant interest on money loaned.",
+        "definition": "practicing usury",
+        "type": "adj."
+      },
+      {
+        "definition": "involving usury of the character of usury",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "usurious",
+      "usuriously",
+      "usuriousness",
+      "usuriousnesses"
+    ]
   },
   "usurp": {
     "def": [
       {
-        "definition": "To take possession of by force.",
+        "definition": "to seize and hold (office, place, functions, powers, etc.) in possession by force or without right",
+        "type": "v."
+      },
+      {
+        "definition": "to take or make use of without right",
+        "type": "v."
+      },
+      {
+        "definition": "to take the place of by or as if by force",
+        "type": "v."
+      },
+      {
+        "definition": "to seize or exercise authority or possession wrongfully",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "usurp",
+      "usurpation",
+      "usurpations",
+      "usurped",
+      "usurping",
+      "usurps"
+    ]
   },
   "usury": {
     "def": [
       {
-        "definition": "The demanding for the use of money as a loan, a rate of interest beyond what is",
+        "definition": "the lending of money with an interest charge for its use",
+        "type": "n."
+      },
+      {
+        "definition": "an unconscionable or exorbitant rate or amount of interest",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "usuries",
+      "usury"
+    ]
   },
   "utilitarianism": {
     "def": [
       {
-        "definition": "The ethical doctrine that actions are right because they are useful or",
+        "definition": "a doctrine that the useful is the good and that the determining consideration of right conduct should be the usefulness of its consequences",
+        "type": "n."
+      },
+      {
+        "definition": "utilitarian character, spirit, or quality",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "utilitarianism",
+      "utilitarianisms"
+    ]
   },
   "utility": {
     "def": [
       {
-        "definition": "Fitness for some desirable practical purpose.",
+        "definition": "fitness for some purpose or worth to some end",
         "type": "n."
+      },
+      {
+        "definition": "something useful or designed for use",
+        "type": "n."
+      },
+      {
+        "definition": "a program or routine designed to perform or facilitate especially routine operations (such as copying files or editing text) on a computer",
+        "type": "n."
+      },
+      {
+        "definition": "capable of serving as a substitute in various roles or positions",
+        "type": "adj."
+      },
+      {
+        "definition": "kept to provide a useful product or service rather than for show or as a pet",
+        "type": "adj."
+      },
+      {
+        "definition": "being of a usable but inferior grade",
+        "type": "adj."
+      },
+      {
+        "definition": "serving primarily for utility rather than beauty",
+        "type": "adj."
+      },
+      {
+        "definition": "designed or adapted for general use",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a utility",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "utilities",
+      "utility"
+    ]
   },
   "utmost": {
     "def": [
       {
-        "definition": "The greatest possible extent.",
+        "definition": "situated at the farthest or most distant point",
+        "type": "adj."
+      },
+      {
+        "definition": "of the greatest or highest degree, quantity, number, or amount",
+        "type": "adj."
+      },
+      {
+        "definition": "the most possible the extreme limit the highest attainable point or degree",
+        "type": "n."
+      },
+      {
+        "definition": "the highest, greatest, or best of one's abilities, powers, and resources",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "utmost",
+      "utmosts"
+    ]
   }
 }

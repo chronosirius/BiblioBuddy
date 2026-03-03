@@ -2,8 +2,8 @@
   "baconian": {
     "def": [
       {
-        "definition": "of, relating to, or characteristic of Francis Bacon or his doctrines",
-        "type": "v."
+        "definition": "of, relating to, or characteristic of Francis  or his doctrines",
+        "type": "adj."
       },
       {
         "definition": "of or relating to those who believe that Francis Bacon wrote the works usually attributed to Shakespeare",
@@ -12,7 +12,8 @@
     ],
     "forms": [
       "Baconian",
-      "Baconians"
+      "Baconians",
+      "baconian"
     ]
   },
   "bacterium": {
@@ -30,34 +31,44 @@
   "badger": {
     "def": [
       {
-        "definition": "any of various burrowing mammals (especially Taxidea taxus and Meles meles) of the weasel family that are widely distributed in the northern hemisphere",
-        "type": "v."
+        "definition": "any of various burrowing mammals (especially Taxidea taxus and Meles meles) of the  family that are widely distributed in the northern hemisphere",
+        "type": "n."
       },
       {
         "definition": "the pelt or fur of a badger",
-        "type": "v."
+        "type": "n."
       },
       {
-        "definition": "a native or resident of Wisconsin —used as a nickname",
-        "type": "adj."
+        "definition": "a native or resident of Wisconsin",
+        "type": "n."
+      },
+      {
+        "definition": "to harass or annoy persistently",
+        "type": "v."
       }
     ],
     "forms": [
       "Badger",
       "Badgers",
       "badger",
-      "badgers"
+      "badgers",
+      "badgered",
+      "badgering"
     ]
   },
   "baffle": {
     "def": [
       {
-        "definition": "to defeat or check (someone) by confusing or puzzling : to confuse or frustrate completely : disconcert",
+        "definition": "to defeat or check (someone) by confusing or puzzling to confuse or frustrate completely",
         "type": "v."
       },
       {
-        "definition": "to check or break the force or flow of by or as if by a baffle",
+        "definition": "to check or break the force or flow of by or as if by a baffle {dx_def}see {/dx_def}",
         "type": "v."
+      },
+      {
+        "definition": "a device (such as a plate, wall, or screen) to deflect, check, or regulate flow or passage (as of a fluid, light, or sound)",
+        "type": "n."
       }
     ],
     "forms": [
@@ -113,25 +124,33 @@
         "type": "n."
       },
       {
-        "definition": "woe, sorrow",
+        "definition": "a large bundle of goods",
         "type": "n."
+      },
+      {
+        "definition": "to make up into a",
+        "type": "v."
       }
     ],
     "forms": [
       "bail",
       "bale",
-      "bales"
+      "bales",
+      "baled",
+      "baler",
+      "balers",
+      "baling"
     ]
   },
   "baleful": {
     "def": [
       {
-        "definition": "deadly or pernicious in influence",
-        "type": "adv."
+        "definition": "deadly or  in influence",
+        "type": "adj."
       },
       {
         "definition": "foreboding or threatening evil",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -147,14 +166,18 @@
     "def": [
       {
         "definition": "a narrative composition in rhythmic verse suitable for singing",
-        "type": "adj."
-      },
-      {
-        "definition": "an art song accompanying a traditional ballad",
         "type": "n."
       },
       {
-        "definition": "a simple song : air",
+        "definition": "an  accompanying a traditional ballad",
+        "type": "n."
+      },
+      {
+        "definition": "a simple song",
+        "type": "n."
+      },
+      {
+        "definition": "a popular song",
         "type": "n."
       }
     ],
@@ -167,15 +190,15 @@
   "balsam": {
     "def": [
       {
-        "definition": "an aromatic and usually oily and resinous substance flowing from various plants; especially : any of several resinous substances containing benzoic or cinnamic acid and used especially in medicine",
+        "definition": "an aromatic and usually oily and resinous substance flowing from various plants",
         "type": "n."
       },
       {
         "definition": "a preparation containing resinous substances and having a balsamic odor",
-        "type": "adj."
+        "type": "n."
       },
       {
-        "definition": "a balsam-yielding tree; especially : balsam fir",
+        "definition": "a balsam-yielding tree",
         "type": "n."
       }
     ],
@@ -203,8 +226,8 @@
   "barcarole": {
     "def": [
       {
-        "definition": "a Venetian boat song usually in 6/8 or 12/8 time characterized by the alternation of a strong and weak beat that suggests a rowing rhythm",
-        "type": "adj."
+        "definition": "a Venetian boat song usually in ⁶/₈ or ¹²/₈ time characterized by the alternation of a strong and weak beat that suggests a rowing rhythm",
+        "type": "n."
       },
       {
         "definition": "music imitating a barcarole",
@@ -221,7 +244,7 @@
   "barograph": {
     "def": [
       {
-        "definition": "a recording {a_link|barometer}",
+        "definition": "a recording barometer",
         "type": "n."
       }
     ],
@@ -234,16 +257,12 @@
   "barometer": {
     "def": [
       {
-        "definition": "an instrument for determining the pressure of the atmosphere and hence for assisting in forecasting weather and for determining altitude",
-        "type": "adv."
+        "definition": "an instrument for determining the pressure of the atmosphere and hence for assisting in forecasting weather and for determining altitude {dx_def}see {/dx_def}",
+        "type": "n."
       },
       {
         "definition": "something that indicates fluctuations (as in public opinion)",
-        "type": "adv."
-      },
-      {
-        "definition": "standard, test",
-        "type": "adv."
+        "type": "n."
       }
     ],
     "forms": [
@@ -269,11 +288,15 @@
   "baritone": {
     "def": [
       {
-        "definition": "a male singing voice of medium compass between bass and tenor; also : a person having this voice",
-        "type": "adj."
+        "definition": "a male singing voice of medium compass between bass and tenor",
+        "type": "n."
       },
       {
-        "definition": "a member of a family of instruments having a range between tenor and bass; especially : the baritone saxhorn or baritone saxophone",
+        "definition": "a member of a family of instruments having a range between tenor and bass",
+        "type": "n."
+      },
+      {
+        "definition": "relating to or having the range or part of a baritone",
         "type": "adj."
       }
     ],
@@ -312,6 +335,42 @@
       {
         "definition": "any of numerous edible marine or freshwater bony fishes (especially families Centrarchidae, Serranidae, and Percichthyidae of the order Perciformes)",
         "type": "n."
+      },
+      {
+        "definition": "deep or grave in tone",
+        "type": "adj."
+      },
+      {
+        "definition": "of low pitch",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or having the range or part of a bass",
+        "type": "adj."
+      },
+      {
+        "definition": "the lowest voice part in a 4-part chorus",
+        "type": "n."
+      },
+      {
+        "definition": "the lower half of the whole vocal or instrumental tonal range {dx}compare",
+        "type": "n."
+      },
+      {
+        "definition": "the lowest adult male singing voice",
+        "type": "n."
+      },
+      {
+        "definition": "a member of a family of instruments having the lowest range",
+        "type": "n."
+      },
+      {
+        "definition": "a deep or grave tone a low-pitched sound",
+        "type": "n."
+      },
+      {
+        "definition": "a coarse tough fiber from palms",
+        "type": "n."
       }
     ],
     "forms": [
@@ -323,6 +382,18 @@
     "def": [
       {
         "definition": "to sew with long loose stitches in order to hold something in place temporarily",
+        "type": "v."
+      },
+      {
+        "definition": "to moisten (foods, especially meat) at intervals with a liquid (such as melted butter, fat, or pan drippings) especially during the cooking process to prevent drying and add flavor",
+        "type": "v."
+      },
+      {
+        "definition": "to beat severely or soundly",
+        "type": "v."
+      },
+      {
+        "definition": "to scold vigorously",
         "type": "v."
       }
     ],
@@ -338,15 +409,27 @@
   "baton": {
     "def": [
       {
-        "definition": "cudgel, truncheon; specifically : billy club",
-        "type": "n."
-      },
-      {
         "definition": "a staff borne as a symbol of office",
         "type": "n."
       },
       {
         "definition": "a narrow heraldic bend",
+        "type": "n."
+      },
+      {
+        "definition": "a slender rod with which a leader directs a band or orchestra",
+        "type": "n."
+      },
+      {
+        "definition": "a hollow cylinder carried by each member of a relay team and passed to the succeeding runner",
+        "type": "n."
+      },
+      {
+        "definition": "a hollow metal rod with a weighted bulb at one or both ends that is flourished by a drum major or drum majorette",
+        "type": "n."
+      },
+      {
+        "definition": "a piece of food that has been cut into a narrow strip that is thicker than a  piece of food",
         "type": "n."
       }
     ],
@@ -358,7 +441,7 @@
   "battalion": {
     "def": [
       {
-        "definition": "a considerable body of troops organized to act together : army",
+        "definition": "a considerable body of troops organized to act together",
         "type": "n."
       },
       {
@@ -386,7 +469,31 @@
         "type": "v."
       },
       {
-        "definition": "to grow prosperous especially at the expense of another —usually used with on",
+        "definition": "to grow prosperous especially at the expense of another",
+        "type": "v."
+      },
+      {
+        "definition": "a piece of lumber used especially for flooring",
+        "type": "n."
+      },
+      {
+        "definition": "a thin narrow strip of lumber used especially to seal or reinforce a joint",
+        "type": "n."
+      },
+      {
+        "definition": "a strip, bar, or support resembling or used similarly to a batten (as in a sail)",
+        "type": "n."
+      },
+      {
+        "definition": "to furnish with battens",
+        "type": "v."
+      },
+      {
+        "definition": "to fasten with or as if with battens",
+        "type": "v."
+      },
+      {
+        "definition": "to make one secure by or as if by battens",
         "type": "v."
       }
     ],
@@ -404,12 +511,52 @@
         "type": "v."
       },
       {
-        "definition": "bombard",
+        "definition": "to commit  against (someone) to offensively touch or use force on (a person) without the person's consent",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to strong, overwhelming, or repeated attack",
+        "type": "v."
+      },
+      {
+        "definition": "to wear or damage by hard usage or blows",
+        "type": "v."
+      },
+      {
+        "definition": "to strike something heavily and repeatedly ,",
+        "type": "v."
+      },
+      {
+        "definition": "to commit  against another to offensively touch or use force on a person without the person's consent",
+        "type": "v."
+      },
+      {
+        "definition": "a mixture consisting chiefly of flour, egg, and milk or water and being thin enough to pour or drop from a spoon",
         "type": "n."
       },
       {
-        "definition": "to commit battery against (someone) : to offensively touch or use force on (a person) without the person's consent",
+        "definition": "a mixture (as of flour and egg) used as a coating for food that is to be fried",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of battering {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "to coat with a mixture (as of flour and egg) for frying to coat (food) with batter {dx_def}see {/dx_def}",
         "type": "v."
+      },
+      {
+        "definition": "a receding upward slope of the outer face of a wall or other structure",
+        "type": "n."
+      },
+      {
+        "definition": "to give a receding upward slope to (something, such as a wall)",
+        "type": "v."
+      },
+      {
+        "definition": "one that strikes or hits a ball with a bat",
+        "type": "n."
       }
     ],
     "forms": [
@@ -424,15 +571,11 @@
   "bauble": {
     "def": [
       {
-        "definition": "trinket",
+        "definition": "a  of a fool {dx_def}see {/dx_def}",
         "type": "n."
       },
       {
-        "definition": "a scepter of a fool",
-        "type": "n."
-      },
-      {
-        "definition": "something of trifling appeal",
+        "definition": "something of  appeal",
         "type": "n."
       }
     ],
@@ -448,12 +591,16 @@
         "type": "v."
       },
       {
-        "definition": "to cry loudly : wail",
+        "definition": "to cry loudly",
         "type": "v."
       },
       {
         "definition": "to cry out at the top of one's voice",
         "type": "v."
+      },
+      {
+        "definition": "a loud prolonged cry",
+        "type": "n."
       }
     ],
     "forms": [
@@ -492,11 +639,7 @@
         "type": "n."
       },
       {
-        "definition": "—used as a title for a primate especially of an Eastern church",
-        "type": "adj."
-      },
-      {
-        "definition": "any of the declarations made in the Sermon on the Mount (Matthew 5:3—11) beginning in the King James Version \"Blessed are\"",
+        "definition": "any of the declarations made in the  (Matthew 5:3–11) beginning in the  \"Blessed are\"",
         "type": "n."
       }
     ],
@@ -508,18 +651,27 @@
   "beau": {
     "def": [
       {
-        "definition": "dandy",
+        "definition": "a graceful or magnanimous gesture",
         "type": "n."
       },
       {
-        "definition": "boyfriend",
+        "definition": "an ingratiating conciliatory gesture",
+        "type": "n."
+      },
+      {
+        "definition": "the perfect type or model",
+        "type": "n."
+      },
+      {
+        "definition": "the world of high society and fashion",
         "type": "n."
       }
     ],
     "forms": [
       "beau",
       "beaus",
-      "beaux"
+      "beaux",
+      "Brummell"
     ]
   },
   "becalm": {
@@ -533,7 +685,7 @@
         "type": "v."
       },
       {
-        "definition": "to make calm : soothe",
+        "definition": "to make calm",
         "type": "v."
       }
     ],
@@ -547,8 +699,8 @@
   "beck": {
     "def": [
       {
-        "definition": "beckon",
-        "type": "v."
+        "definition": "a beckoning gesture",
+        "type": "n."
       }
     ],
     "forms": [
@@ -561,7 +713,7 @@
   "bedaub": {
     "def": [
       {
-        "definition": "to daub over : besmear",
+        "definition": "to daub over",
         "type": "v."
       },
       {
@@ -579,11 +731,7 @@
   "bedeck": {
     "def": [
       {
-        "definition": "to clothe with finery : deck",
-        "type": "v."
-      },
-      {
-        "definition": "decorate",
+        "definition": "to clothe with finery",
         "type": "v."
       }
     ],
@@ -603,10 +751,6 @@
       {
         "definition": "an asylum for the mentally ill",
         "type": "n."
-      },
-      {
-        "definition": "madman, lunatic",
-        "type": "n."
       }
     ],
     "forms": [
@@ -616,16 +760,7 @@
     ]
   },
   "befog": {
-    "def": [
-      {
-        "definition": "confuse",
-        "type": "v."
-      },
-      {
-        "definition": "fog, obscure",
-        "type": "v."
-      }
-    ],
+    "def": [],
     "forms": [
       "befog",
       "befogged",
@@ -650,7 +785,7 @@
   "beget": {
     "def": [
       {
-        "definition": "to procreate as the father : sire",
+        "definition": "to procreate as the father",
         "type": "v."
       },
       {
@@ -697,21 +832,43 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "belate"
+    ]
   },
   "belay": {
     "def": [
       {
-        "definition": "to secure (a rope or cable) by turns around a cleat, pin, or bitt",
+        "definition": "to secure (a rope or cable) by turns around a cleat {dx_def}see {/dx_def}, pin, or",
         "type": "v."
       },
       {
-        "definition": "to make fast : to fasten down",
+        "definition": "to make fast to fasten down",
         "type": "v."
       },
       {
-        "definition": "stop, cancel",
+        "definition": "to secure (a person) at the end of a rope",
         "type": "v."
+      },
+      {
+        "definition": "to secure (a rope) to a person or object",
+        "type": "v."
+      },
+      {
+        "definition": "to be made fast",
+        "type": "v."
+      },
+      {
+        "definition": "to make a line {dx_def}see {/dx_def} fast by turns around a cleat, pin, or bitt",
+        "type": "v."
+      },
+      {
+        "definition": "the securing of a person or a safety rope to an anchor point (as during mountain climbing)",
+        "type": "n."
+      },
+      {
+        "definition": "something (such as a projection of rock) to which a person or rope is anchored",
+        "type": "n."
       }
     ],
     "forms": [
@@ -736,6 +893,10 @@
       {
         "definition": "to show (something) to be false or wrong",
         "type": "v."
+      },
+      {
+        "definition": "to run counter to",
+        "type": "v."
       }
     ],
     "forms": [
@@ -750,15 +911,31 @@
   "believe": {
     "def": [
       {
-        "definition": "to consider to be true or honest —often used for emphasis",
+        "definition": "to consider to be true or honest",
         "type": "v."
       },
       {
-        "definition": "to accept the word or evidence of —often used for emphasis",
+        "definition": "to accept the word or evidence of",
         "type": "v."
       },
       {
-        "definition": "to hold as an opinion : suppose",
+        "definition": "to hold as an opinion",
+        "type": "v."
+      },
+      {
+        "definition": "to accept something as true, , or real",
+        "type": "v."
+      },
+      {
+        "definition": "to have a firm or wholehearted religious conviction or persuasion to regard the existence of God or a deity as a fact",
+        "type": "v."
+      },
+      {
+        "definition": "to have a firm conviction as to the goodness, , or ability of someone or something",
+        "type": "v."
+      },
+      {
+        "definition": "to hold an opinion",
         "type": "v."
       }
     ],
@@ -768,14 +945,13 @@
       "believer",
       "believers",
       "believes",
-      "believing",
-      "led to believe"
+      "believing"
     ]
   },
   "belittle": {
     "def": [
       {
-        "definition": "to speak slightingly of : disparage",
+        "definition": "to speak slightingly of",
         "type": "v."
       },
       {
@@ -823,11 +999,11 @@
     "def": [
       {
         "definition": "inclined to or exhibiting assertiveness, hostility, or combativeness",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "waging war; specifically : belonging to or recognized as a state at war and protected by and subject to the laws of war",
-        "type": "adv."
+        "definition": "waging war",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -857,15 +1033,19 @@
   "benediction": {
     "def": [
       {
-        "definition": "the invocation of a blessing; especially : the short blessing with which public worship is concluded",
+        "definition": "the invocation {dx_def}see {/dx_def} of a blessing",
         "type": "n."
       },
       {
         "definition": "something that promotes goodness or well-being",
-        "type": "adj."
+        "type": "n."
       },
       {
-        "definition": "a Roman Catholic or Anglo-Catholic devotion including the exposition of the eucharistic Host in the monstrance and the blessing of the people with it",
+        "definition": "a Roman Catholic or Anglo-Catholic devotion {dx_def}see {/dx_def} including the exposition of the eucharistic  in the  and the blessing of the people with it",
+        "type": "n."
+      },
+      {
+        "definition": "an expression of good wishes",
         "type": "n."
       }
     ],
@@ -879,7 +1059,7 @@
   "benefactor": {
     "def": [
       {
-        "definition": "someone or something that provides help or an advantage one that confers a {a_link|benefit}",
+        "definition": "someone or something that provides help or an advantage one that confers a benefit",
         "type": "n."
       }
     ],
@@ -895,7 +1075,7 @@
         "type": "n."
       },
       {
-        "definition": "a feudal estate in lands : fief",
+        "definition": "a feudal estate in lands",
         "type": "n."
       }
     ],
@@ -909,12 +1089,8 @@
   "beneficent": {
     "def": [
       {
-        "definition": "doing or producing good; especially : performing acts of kindness and charity",
-        "type": "adv."
-      },
-      {
-        "definition": "beneficial",
-        "type": "adv."
+        "definition": "doing or producing good",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -925,12 +1101,12 @@
   "beneficial": {
     "def": [
       {
-        "definition": "producing good results or helpful effects : conferring benefits",
-        "type": "adv."
+        "definition": "producing good results or helpful effects conferring benefits {dx_def}see {/dx_def}",
+        "type": "adj."
       },
       {
         "definition": "receiving or entitling one to receive advantage, use, or benefit",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -943,15 +1119,19 @@
   "beneficiary": {
     "def": [
       {
-        "definition": "a person or thing that receives help or an advantage from something : one that benefits from something",
-        "type": "n."
-      },
-      {
-        "definition": "a person or entity (as a charity or estate) designated usually in a legal instrument to receive money or property: such as",
+        "definition": "a person or thing that receives help or an advantage from something one that  from something",
         "type": "n."
       },
       {
         "definition": "a person or entity named in a will to receive the proceeds of an estate upon the death of the testator",
+        "type": "n."
+      },
+      {
+        "definition": "a person or entity named to receive the principal or income or both from a trust",
+        "type": "n."
+      },
+      {
+        "definition": "a person or entity named in an insurance policy to receive proceeds or benefits {dx_def}see {/dx_def}",
         "type": "n."
       }
     ],
@@ -963,21 +1143,51 @@
   "benefit": {
     "def": [
       {
-        "definition": "something that produces good or helpful results or effects or that promotes well-being : advantage",
-        "type": "adj."
+        "definition": "something that produces good or helpful results or effects or that promotes well-being",
+        "type": "n."
       },
       {
-        "definition": "useful aid : help",
+        "definition": "useful aid",
         "type": "n."
       },
       {
         "definition": "financial help in time of sickness, old age, or unemployment",
         "type": "n."
+      },
+      {
+        "definition": "a payment or service provided for under an annuity, pension plan, or insurance policy",
+        "type": "n."
+      },
+      {
+        "definition": "a service (such as health insurance) or right (as to take vacation time) provided by an employer in addition to wages or salary",
+        "type": "n."
+      },
+      {
+        "definition": "an entertainment or social event to raise funds for a person or cause",
+        "type": "n."
+      },
+      {
+        "definition": "an act of kindness",
+        "type": "n."
+      },
+      {
+        "definition": "to be useful or profitable to",
+        "type": "v."
+      },
+      {
+        "definition": "to receive help or an advantage to receive",
+        "type": "v."
       }
     ],
     "forms": [
       "benefit",
-      "benefits"
+      "benefits",
+      "benefited",
+      "benefiter",
+      "benefiters",
+      "benefiting",
+      "benefitted",
+      "benefitting"
     ]
   },
   "benevolence": {
@@ -993,6 +1203,10 @@
       {
         "definition": "a generous gift",
         "type": "n."
+      },
+      {
+        "definition": "a compulsory contribution or tax levied by certain English kings with no other authority than the claim of prerogative {dx_def}see {/dx_def}",
+        "type": "n."
       }
     ],
     "forms": [
@@ -1003,16 +1217,16 @@
   "benevolent": {
     "def": [
       {
-        "definition": "marked by kindness or generosity : disposed to doing good",
-        "type": "adv."
+        "definition": "marked by kindness or generosity disposed to doing good",
+        "type": "adj."
       },
       {
         "definition": "organized for the purpose of doing good",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "marked by or suggestive of goodwill",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1025,16 +1239,20 @@
   "benign": {
     "def": [
       {
-        "definition": "of a mild type or character that does not threaten health or life; especially : not becoming cancerous",
-        "type": "adv."
+        "definition": "of a mild type or character that does not threaten health or life",
+        "type": "adj."
       },
       {
-        "definition": "having no significant effect : harmless",
-        "type": "adv."
+        "definition": "having no significant effect",
+        "type": "adj."
       },
       {
-        "definition": "of a gentle disposition : gracious",
-        "type": "adv."
+        "definition": "of a gentle disposition",
+        "type": "adj."
+      },
+      {
+        "definition": "showing kindness and gentleness",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1047,12 +1265,8 @@
   "benignant": {
     "def": [
       {
-        "definition": "serenely mild and kindly : benign",
-        "type": "adv."
-      },
-      {
-        "definition": "favorable, beneficial",
-        "type": "adv."
+        "definition": "serenely mild and kindly",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1063,16 +1277,20 @@
   "benignity": {
     "def": [
       {
-        "definition": "of a mild type or character that does not threaten health or life; especially : not becoming cancerous",
-        "type": "adv."
+        "definition": "of a mild type or character that does not threaten health or life",
+        "type": "adj."
       },
       {
-        "definition": "having no significant effect : harmless",
-        "type": "adv."
+        "definition": "having no significant effect",
+        "type": "adj."
       },
       {
-        "definition": "of a gentle disposition : gracious",
-        "type": "adv."
+        "definition": "of a gentle disposition",
+        "type": "adj."
+      },
+      {
+        "definition": "showing kindness and gentleness",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1083,12 +1301,7 @@
     ]
   },
   "benison": {
-    "def": [
-      {
-        "definition": ",",
-        "type": "n."
-      }
-    ],
+    "def": [],
     "forms": [
       "benison",
       "benisons"
@@ -1097,11 +1310,11 @@
   "bequeath": {
     "def": [
       {
-        "definition": "to give or leave by will —used especially of personal property",
+        "definition": "to give or leave by will {dx_def}see {/dx_def}",
         "type": "v."
       },
       {
-        "definition": "to hand down : transmit",
+        "definition": "to hand down",
         "type": "v."
       }
     ],
@@ -1117,7 +1330,7 @@
   "bereave": {
     "def": [
       {
-        "definition": "to deprive of something —usually used with of",
+        "definition": "to deprive of something",
         "type": "v."
       },
       {
@@ -1147,11 +1360,41 @@
       {
         "definition": "the place where a ship lies when at anchor or at a wharf",
         "type": "n."
+      },
+      {
+        "definition": "a space for an automotive vehicle at rest",
+        "type": "n."
+      },
+      {
+        "definition": "a place to sit or sleep especially on a ship or vehicle",
+        "type": "n."
+      },
+      {
+        "definition": "a billet {dx_def}see {/dx_def} on a ship",
+        "type": "n."
+      },
+      {
+        "definition": ", ,",
+        "type": "n."
+      },
+      {
+        "definition": "to bring (something, such as a ship or automotive vehicle) into a berth",
+        "type": "v."
+      },
+      {
+        "definition": "to allot quarters or accommodations to to allot a berth to",
+        "type": "v."
+      },
+      {
+        "definition": "to come into a berth",
+        "type": "v."
       }
     ],
     "forms": [
       "berth",
-      "berths"
+      "berths",
+      "berthed",
+      "berthing"
     ]
   },
   "beseech": {
@@ -1161,7 +1404,7 @@
         "type": "v."
       },
       {
-        "definition": "to request earnestly : implore",
+        "definition": "to request earnestly",
         "type": "v."
       },
       {
@@ -1181,15 +1424,15 @@
   "beset": {
     "def": [
       {
-        "definition": "to set or stud with or as if with ornaments",
+        "definition": "to set or  with or as if with ornaments",
         "type": "v."
       },
       {
-        "definition": "trouble, harass",
+        "definition": "to set upon",
         "type": "v."
       },
       {
-        "definition": "to set upon : assail",
+        "definition": "to hem in",
         "type": "v."
       }
     ],
@@ -1218,16 +1461,20 @@
   "bestial": {
     "def": [
       {
-        "definition": "of or relating to beasts",
-        "type": "adv."
+        "definition": "of or relating to",
+        "type": "adj."
       },
       {
         "definition": "resembling a beast",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "lacking intelligence or reason",
-        "type": "adv."
+        "type": "adj."
+      },
+      {
+        "definition": "marked by base {dx_def}see {/dx_def} or  instincts or desires",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1241,10 +1488,6 @@
   },
   "bestrew": {
     "def": [
-      {
-        "definition": "strew",
-        "type": "v."
-      },
       {
         "definition": "to lie scattered over",
         "type": "v."
@@ -1265,11 +1508,11 @@
   "bestride": {
     "def": [
       {
-        "definition": "to ride, sit, or stand astride : straddle",
+        "definition": "to ride, sit, or stand astride",
         "type": "v."
       },
       {
-        "definition": "to tower over : dominate",
+        "definition": "to tower over",
         "type": "v."
       },
       {
@@ -1288,10 +1531,6 @@
   },
   "bethink": {
     "def": [
-      {
-        "definition": "remember, recall",
-        "type": "v."
-      },
       {
         "definition": "to cause (oneself) to be reminded",
         "type": "v."
@@ -1315,7 +1554,7 @@
         "type": "v."
       },
       {
-        "definition": "to happen to : befall —used chiefly in the phrase woe betide",
+        "definition": "to happen to",
         "type": "v."
       }
     ],
@@ -1329,15 +1568,15 @@
   "betimes": {
     "def": [
       {
-        "definition": "in good time : early",
+        "definition": "in good time",
         "type": "adv."
       },
       {
-        "definition": "in a short time : speedily",
+        "definition": "in a short time",
         "type": "adv."
       },
       {
-        "definition": "at times : occasionally",
+        "definition": "at times",
         "type": "adv."
       }
     ],
@@ -1367,7 +1606,7 @@
     "def": [
       {
         "definition": "the act of betrothing or fact of being betrothed",
-        "type": "adj."
+        "type": "n."
       },
       {
         "definition": "a mutual promise or contract for a future marriage",
@@ -1382,18 +1621,43 @@
   "bevel": {
     "def": [
       {
-        "definition": ",",
-        "type": "adj."
+        "definition": "an instrument consisting of two rules or arms jointed together and opening to any angle for drawing angles or adjusting surfaces to be cut at an angle",
+        "type": "n."
+      },
+      {
+        "definition": "the angle that one surface or line makes with another when they are not at right angles",
+        "type": "n."
+      },
+      {
+        "definition": "the slant of such a surface or line",
+        "type": "n."
+      },
+      {
+        "definition": "the surface or line at such a slant or inclination",
+        "type": "n."
+      },
+      {
+        "definition": "the part of printing type extending from face to shoulder",
+        "type": "n."
+      },
+      {
+        "definition": "to cut or shape to a bevel",
+        "type": "v."
       }
     ],
     "forms": [
-      "bevel"
+      "bevel",
+      "bevels",
+      "beveled",
+      "beveling",
+      "bevelled",
+      "bevelling"
     ]
   },
   "bewilder": {
     "def": [
       {
-        "definition": "to cause to lose one's bearings",
+        "definition": "to cause to lose one's bearings {dx_def}see {/dx_def}",
         "type": "v."
       },
       {
@@ -1431,15 +1695,19 @@
     "def": [
       {
         "definition": "the history, identification, or description of writings or publications",
-        "type": "adv."
+        "type": "n."
       },
       {
         "definition": "a list often with descriptive or critical notes of writings relating to a particular subject, period, or author",
-        "type": "adv."
+        "type": "n."
       },
       {
         "definition": "a list of works written by an author or printed by a publishing house",
-        "type": "adv."
+        "type": "n."
+      },
+      {
+        "definition": "the works or a list of the works referred to in a text or consulted by the author in its production",
+        "type": "n."
       }
     ],
     "forms": [
@@ -1471,15 +1739,15 @@
     "def": [
       {
         "definition": "highly absorbent",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "fond of alcoholic beverages",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "of, relating to, or marked by the consumption of alcoholic beverages",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1492,29 +1760,33 @@
   "bide": {
     "def": [
       {
-        "definition": "to wait for —used chiefly in the phrase bide one's time",
+        "definition": "to wait for",
         "type": "v."
       },
       {
-        "definition": "withstand",
+        "definition": "to put up with",
         "type": "v."
       },
       {
-        "definition": "to put up with : tolerate",
+        "definition": "to continue in a state or condition",
+        "type": "v."
+      },
+      {
+        "definition": "to wait awhile",
+        "type": "v."
+      },
+      {
+        "definition": "to continue in a place",
         "type": "v."
       }
     ],
     "forms": [
       "bide",
-      "bide one's time",
       "bided",
-      "bided one's time",
       "bider",
       "biders",
       "bides",
-      "bides one's time",
       "biding",
-      "biding one's time",
       "bode"
     ]
   },
@@ -1522,11 +1794,11 @@
     "def": [
       {
         "definition": "occurring every two years",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "continuing or lasting for two years; specifically, of a plant : growing vegetatively during the first year and fruiting and dying during the second",
-        "type": "adv."
+        "definition": "continuing or lasting for two years",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1538,7 +1810,7 @@
   "bier": {
     "def": [
       {
-        "definition": "a stand on which a corpse or coffin is placed; also : a coffin together with its stand",
+        "definition": "a stand on which a corpse or coffin is placed",
         "type": "n."
       },
       {
@@ -1582,8 +1854,8 @@
   "bight": {
     "def": [
       {
-        "definition": "a bend in a coast forming an open bay; also : a bay formed by such a bend",
-        "type": "adj."
+        "definition": "a bend in a coast forming an open bay",
+        "type": "n."
       },
       {
         "definition": "a slack part or loop in a rope",
@@ -1599,15 +1871,19 @@
     "def": [
       {
         "definition": "affecting reciprocally two nations or parties",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "having two sides",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "of, relating to, or affecting the right and left sides of the body or the right and left members of paired organs",
-        "type": "adv."
+        "type": "adj."
+      },
+      {
+        "definition": "having",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1621,15 +1897,15 @@
     "def": [
       {
         "definition": "having or expressed in two languages",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "using or able to use two languages especially with equal fluency",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "of or relating to bilingual education",
-        "type": "adv."
+        "definition": "of or relating to",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1645,7 +1921,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "biograph"
+    ]
   },
   "biography": {
     "def": [
@@ -1678,7 +1956,7 @@
         "type": "n."
       },
       {
-        "definition": "the life processes especially of an organism or group; broadly : ecology",
+        "definition": "the life processes especially of an organism or group",
         "type": "n."
       }
     ],
@@ -1706,7 +1984,7 @@
   "birthright": {
     "def": [
       {
-        "definition": "a right, privilege, or possession to which a person is entitled by {a_link|birth}{dx}see also",
+        "definition": "a right, privilege, or possession to which a person is entitled by birth{dx}see also",
         "type": "n."
       }
     ],
@@ -1718,16 +1996,36 @@
   "bitterness": {
     "def": [
       {
-        "definition": "being, inducing, or marked by the one of the five basic taste sensations that is peculiarly acrid, astringent, and often disagreeable and characteristic of citrus peels, unsweetened cocoa, black coffee, mature leafy greens (such as kale or mustard), or ale",
-        "type": "adv."
+        "definition": "being, inducing, or marked by the one of the five basic taste sensations that is peculiarly , , and often disagreeable and characteristic of citrus peels, unsweetened cocoa, black coffee, mature leafy greens (such as kale or mustard), or ale  {dx}compare , , ,",
+        "type": "adj."
       },
       {
-        "definition": "distasteful or distressing to the mind : galling",
-        "type": "adv."
+        "definition": "distasteful or distressing to the mind",
+        "type": "adj."
       },
       {
-        "definition": "marked by intensity or severity:",
-        "type": "adv."
+        "definition": "accompanied by severe pain or suffering",
+        "type": "adj."
+      },
+      {
+        "definition": "being relentlessly determined",
+        "type": "adj."
+      },
+      {
+        "definition": "exhibiting intense",
+        "type": "adj."
+      },
+      {
+        "definition": "intensely unpleasant especially in coldness or rawness",
+        "type": "adj."
+      },
+      {
+        "definition": "caused by or expressive of severe pain, grief, or regret",
+        "type": "adj."
+      },
+      {
+        "definition": "a unit of measurement used to assess the concentration of a bitter compound found in  in order to provide information about how bitter a beer is",
+        "type": "n."
       }
     ],
     "forms": [
@@ -1743,15 +2041,7 @@
   "blase": {
     "def": [
       {
-        "definition": "apathetic to pleasure or excitement as a result of excessive indulgence or enjoyment : world-weary",
-        "type": "adj."
-      },
-      {
-        "definition": "sophisticated, worldly-wise",
-        "type": "adj."
-      },
-      {
-        "definition": "unconcerned",
+        "definition": "to pleasure or excitement as a result of excessive indulgence or enjoyment",
         "type": "adj."
       }
     ],
@@ -1762,15 +2052,11 @@
   "blaspheme": {
     "def": [
       {
-        "definition": "to speak in a way that shows irreverence for God or something sacred : to utter blasphemy",
+        "definition": "to speak in a way that shows irreverence for God or something sacred to utter",
         "type": "v."
       },
       {
         "definition": "to speak of or address with irreverence",
-        "type": "v."
-      },
-      {
-        "definition": "revile, abuse",
         "type": "v."
       }
     ],
@@ -1786,12 +2072,12 @@
   "blatant": {
     "def": [
       {
-        "definition": "noisy especially in a vulgar or offensive manner : clamorous",
-        "type": "adv."
+        "definition": "noisy especially in a  or offensive manner",
+        "type": "adj."
       },
       {
-        "definition": "completely obvious, conspicuous, or obtrusive especially in a crass or offensive manner : brazen",
-        "type": "adv."
+        "definition": "completely obvious, , or  especially in a crass or offensive manner",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1810,48 +2096,123 @@
         "type": "n."
       },
       {
-        "definition": "an active burning; especially : a sudden bursting forth of flame",
+        "definition": "an active burning",
         "type": "n."
+      },
+      {
+        "definition": "a dazzling display",
+        "type": "n."
+      },
+      {
+        "definition": "a sudden outburst",
+        "type": "n."
+      },
+      {
+        "definition": "to burn brightly",
+        "type": "v."
+      },
+      {
+        "definition": "to flare up",
+        "type": "v."
+      },
+      {
+        "definition": "to be conspicuously brilliant or resplendent",
+        "type": "v."
+      },
+      {
+        "definition": "to shoot rapidly and repeatedly",
+        "type": "v."
+      },
+      {
+        "definition": "to proceed extremely rapidly",
+        "type": "v."
+      },
+      {
+        "definition": "to make public or conspicuous",
+        "type": "v."
+      },
+      {
+        "definition": "a usually white stripe down the center of the face of an animal",
+        "type": "n."
+      },
+      {
+        "definition": "a white or gray streak in the hair of the head",
+        "type": "n."
+      },
+      {
+        "definition": "a trail marker",
+        "type": "n."
+      },
+      {
+        "definition": "to mark (a trail) with blazes {dx_def}see {/dx_def}",
+        "type": "v."
+      },
+      {
+        "definition": "to lead in some direction or activity",
+        "type": "v."
       }
     ],
     "forms": [
       "blaze",
-      "blazes"
+      "blazes",
+      "blazed",
+      "blazing"
     ]
   },
   "blazon": {
     "def": [
       {
-        "definition": "armorial bearings : coat of arms",
-        "type": "v."
+        "definition": "armorial bearings",
+        "type": "n."
       },
       {
         "definition": "the proper description or representation of heraldic or armorial bearings",
-        "type": "v."
+        "type": "n."
       },
       {
         "definition": "ostentatious display",
+        "type": "n."
+      },
+      {
+        "definition": "to publish widely",
+        "type": "v."
+      },
+      {
+        "definition": "to describe (heraldic or armorial bearings) in technical terms",
+        "type": "v."
+      },
+      {
+        "definition": "to represent (armorial bearings) in drawing or engraving",
         "type": "v."
       }
     ],
     "forms": [
       "blazon",
-      "blazons"
+      "blazons",
+      "blazoned",
+      "blazoner",
+      "blazoners",
+      "blazoning",
+      "blazonings"
     ]
   },
   "bleak": {
     "def": [
       {
         "definition": "exposed and barren and often windswept",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "cold, raw",
-        "type": "adv."
+        "definition": "lacking in warmth, life, or kindliness",
+        "type": "adj."
       },
       {
-        "definition": "lacking in warmth, life, or kindliness : grim",
-        "type": "adv."
+        "definition": "not hopeful or encouraging",
+        "type": "adj."
+      },
+      {
+        "definition": "severely simple or austere",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1869,6 +2230,10 @@
       {
         "definition": "to spoil by a flaw",
         "type": "v."
+      },
+      {
+        "definition": "a noticeable imperfection",
+        "type": "n."
       }
     ],
     "forms": [
@@ -1882,12 +2247,12 @@
   "blithe": {
     "def": [
       {
-        "definition": "lacking due thought or consideration : casual, heedless",
-        "type": "adv."
+        "definition": "lacking due thought or consideration ,",
+        "type": "adj."
       },
       {
         "definition": "of a happy lighthearted character or disposition",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -1898,12 +2263,7 @@
     ]
   },
   "blithesome": {
-    "def": [
-      {
-        "definition": ",",
-        "type": "adj."
-      }
-    ],
+    "def": [],
     "forms": [
       "blithesome",
       "blithesomely"
@@ -1916,7 +2276,15 @@
         "type": "v."
       },
       {
-        "definition": "block, obstruct",
+        "definition": "the isolation by a warring nation of an enemy area (such as a harbor) by troops or warships to prevent passage of persons or supplies",
+        "type": "n."
+      },
+      {
+        "definition": "something that blocks",
+        "type": "n."
+      },
+      {
+        "definition": "interruption of normal physiological function (such as transmission of nerve impulses) of a cellular receptor, tissue, or organ",
         "type": "n."
       }
     ],
@@ -1933,7 +2301,7 @@
     "def": [
       {
         "definition": "a petty officer on a merchant ship having charge of hull maintenance and related work",
-        "type": "adj."
+        "type": "n."
       },
       {
         "definition": "a naval warrant officer in charge of the hull and all related equipment",
@@ -1958,10 +2326,6 @@
       {
         "definition": "the upper part of a woman's dress",
         "type": "n."
-      },
-      {
-        "definition": "corset, stays",
-        "type": "n."
       }
     ],
     "forms": [
@@ -1972,11 +2336,23 @@
   "bodily": {
     "def": [
       {
-        "definition": "having a body : physical",
-        "type": "adv."
+        "definition": "having a body",
+        "type": "adj."
       },
       {
         "definition": "of or relating to the body",
+        "type": "adj."
+      },
+      {
+        "definition": "in the flesh",
+        "type": "adv."
+      },
+      {
+        "definition": "in a manner that involves physically moving someone's body",
+        "type": "adv."
+      },
+      {
+        "definition": "as a whole",
         "type": "adv."
       }
     ],
@@ -1987,16 +2363,12 @@
   "boisterous": {
     "def": [
       {
-        "definition": "noisily turbulent : rowdy",
-        "type": "adv."
+        "definition": "noisily turbulent",
+        "type": "adj."
       },
       {
-        "definition": "marked by or expressive of exuberance and high spirits",
-        "type": "adv."
-      },
-      {
-        "definition": "stormy, tumultuous",
-        "type": "adv."
+        "definition": "marked by or expressive of  and high spirits",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -2009,20 +2381,45 @@
   "bole": {
     "def": [
       {
-        "definition": "trunk",
+        "definition": "the main stem of a tree apart from limbs and roots",
+        "type": "n."
+      },
+      {
+        "definition": "the central part of anything",
+        "type": "n."
+      },
+      {
+        "definition": "men's shorts worn chiefly for sports",
+        "type": "n."
+      },
+      {
+        "definition": "a usually major channel or passage (such as a chute or shaft)",
+        "type": "n."
+      },
+      {
+        "definition": "a circuit between two telephone exchanges for making connections between subscribers",
+        "type": "n."
+      },
+      {
+        "definition": "the principal channel or main body of a system or part that divides into branches",
         "type": "n."
       }
     ],
     "forms": [
       "bole",
-      "boles"
+      "boles",
+      "trunk",
+      "trunkful",
+      "trunkfuls",
+      "trunks",
+      "trunksful"
     ]
   },
   "bolero": {
     "def": [
       {
-        "definition": "a Spanish dance characterized by sharp turns, stamping of the feet, and sudden pauses in a position with one arm arched over the head; also : music in 3/4 time for a bolero",
-        "type": "adj."
+        "definition": "a Spanish dance characterized by sharp turns, stamping of the feet, and sudden pauses in a position with one arm arched over the head",
+        "type": "n."
       },
       {
         "definition": "a loose waist-length jacket open at the front",
@@ -2050,16 +2447,28 @@
     "def": [
       {
         "definition": "a long pillow or cushion",
+        "type": "n."
+      },
+      {
+        "definition": "a structural part designed to eliminate friction or provide support or bearing {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "to support with or as if with a",
         "type": "v."
       },
       {
-        "definition": "a structural part designed to eliminate friction or provide support or bearing",
+        "definition": "to give a boost to",
         "type": "v."
       }
     ],
     "forms": [
       "bolster",
-      "bolsters"
+      "bolsters",
+      "bolstered",
+      "bolsterer",
+      "bolsterers",
+      "bolstering"
     ]
   },
   "bomb": {
@@ -2069,17 +2478,80 @@
         "type": "n."
       },
       {
-        "definition": "atomic bomb; also : nuclear weapons in general —usually used with the",
+        "definition": "a pressure vessel for conducting chemical experiments",
         "type": "n."
       },
       {
-        "definition": "a vessel for compressed gases: such as",
+        "definition": "a container for an aerosol (such as an insecticide)",
         "type": "n."
+      },
+      {
+        "definition": "a rounded mass of lava exploded from a volcano",
+        "type": "n."
+      },
+      {
+        "definition": "a lead-lined container for radioactive material",
+        "type": "n."
+      },
+      {
+        "definition": "a large sum of money",
+        "type": "n."
+      },
+      {
+        "definition": "a great success",
+        "type": "n."
+      },
+      {
+        "definition": "one that is striking or extraordinary",
+        "type": "n."
+      },
+      {
+        "definition": "a long pass in football",
+        "type": "n."
+      },
+      {
+        "definition": "a very long shot (as in basketball)",
+        "type": "n."
+      },
+      {
+        "definition": "something unexpected and unpleasant",
+        "type": "n."
+      },
+      {
+        "definition": "to attack with or as if with bombs",
+        "type": "v."
+      },
+      {
+        "definition": "to defeat decisively",
+        "type": "v."
+      },
+      {
+        "definition": "to score many runs against (a pitcher)",
+        "type": "v."
+      },
+      {
+        "definition": "to hit (a ball, puck, or shot) very hard",
+        "type": "v."
+      },
+      {
+        "definition": "to fail (a test)",
+        "type": "v."
+      },
+      {
+        "definition": "to fall flat to fail completely",
+        "type": "v."
+      },
+      {
+        "definition": "to move rapidly",
+        "type": "v."
       }
     ],
     "forms": [
       "bomb",
-      "bombs"
+      "bombs",
+      "bombed",
+      "bombing",
+      "bombings"
     ]
   },
   "bombard": {
@@ -2087,19 +2559,31 @@
       {
         "definition": "a late medieval cannon used to hurl large stones",
         "type": "n."
+      },
+      {
+        "definition": "to attack especially with artillery or bombers",
+        "type": "v."
+      },
+      {
+        "definition": "to assail vigorously or persistently (as with questions)",
+        "type": "v."
+      },
+      {
+        "definition": "to subject to the impact of rapidly moving particles (such as electrons)",
+        "type": "v."
       }
     ],
     "forms": [
       "bombard",
-      "bombards"
+      "bombards",
+      "bombarded",
+      "bombarding",
+      "bombardment",
+      "bombardments"
     ]
   },
   "bombardier": {
     "def": [
-      {
-        "definition": "artilleryman",
-        "type": "n."
-      },
       {
         "definition": "a noncommissioned officer in the British artillery",
         "type": "n."
@@ -2153,13 +2637,62 @@
       {
         "definition": "to make a hole by or as if by boring",
         "type": "v."
+      },
+      {
+        "definition": "to sink a mine shaft or well",
+        "type": "v."
+      },
+      {
+        "definition": "to make one's way steadily especially against resistance",
+        "type": "v."
+      },
+      {
+        "definition": "a usually cylindrical hole made by or as if by the turning or twisting movement of a tool a hole made by or as if by boring {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a  drilled especially to make an",
+        "type": "n."
+      },
+      {
+        "definition": "the long usually cylindrical hollow part of something (such as a tube or gun barrel)",
+        "type": "n."
+      },
+      {
+        "definition": "the inner surface of a hollow cylindrical object",
+        "type": "n."
+      },
+      {
+        "definition": "the interior  of a gun barrel",
+        "type": "n."
+      },
+      {
+        "definition": "the diameter of an engine cylinder",
+        "type": "n."
+      },
+      {
+        "definition": "a tidal flood with a high abrupt front",
+        "type": "n."
+      },
+      {
+        "definition": "a dull or tiresome person",
+        "type": "n."
+      },
+      {
+        "definition": "something that is devoid of interest",
+        "type": "n."
+      },
+      {
+        "definition": "to cause to feel weariness and restlessness through lack of interest to cause to feel boredom",
+        "type": "v."
       }
     ],
     "forms": [
       "bore",
       "bored",
       "bores",
-      "boring"
+      "boring",
+      "bear"
     ]
   },
   "borough": {
@@ -2175,6 +2708,18 @@
       {
         "definition": "an urban area in Great Britain incorporated for purposes of self-government",
         "type": "n."
+      },
+      {
+        "definition": "a municipal corporation proper in some states (such as New Jersey and Minnesota) corresponding to the incorporated town or village of the other states",
+        "type": "n."
+      },
+      {
+        "definition": "one of the five constituent political divisions of New York City",
+        "type": "n."
+      },
+      {
+        "definition": "a civil division of the state of Alaska corresponding to a county in most other states",
+        "type": "n."
       }
     ],
     "forms": [
@@ -2189,43 +2734,70 @@
         "type": "n."
       },
       {
-        "definition": "a woman's breasts regarded especially as a single feature; also : breast",
+        "definition": "a woman's breasts regarded especially as a single feature",
         "type": "n."
       },
       {
         "definition": "the chest conceived of as the seat of the emotions and intimate feelings",
         "type": "n."
+      },
+      {
+        "definition": "the security and intimacy of or like that of being hugged to someone's bosom",
+        "type": "n."
+      },
+      {
+        "definition": "the part of a garment that covers the chest or the breasts",
+        "type": "n."
+      },
+      {
+        "definition": "to enclose in or as if in an embrace",
+        "type": "v."
+      },
+      {
+        "definition": "to enclose or carry in the bosom {dx_def}see {/dx_def}",
+        "type": "v."
       }
     ],
     "forms": [
       "bosom",
-      "bosoms"
+      "bosoms",
+      "bosomed",
+      "bosoming"
     ]
   },
   "botanical": {
     "def": [
       {
         "definition": "of or relating to plants or botany",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "derived from plants",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "species",
-        "type": "adv."
+        "definition": "a plant part or extract used especially in skin and hair care products",
+        "type": "n."
+      },
+      {
+        "definition": "a medicinal preparation derived from a plant",
+        "type": "n."
+      },
+      {
+        "definition": "plant material used as a flavoring agent (as in gin)",
+        "type": "n."
       }
     ],
     "forms": [
       "botanical",
-      "botanically"
+      "botanically",
+      "botanicals"
     ]
   },
   "botanize": {
     "def": [
       {
-        "definition": "to collect plants for botanical investigation : to study plants in their natural habitat",
+        "definition": "to collect plants for botanical investigation to study plants in their natural habitat",
         "type": "v."
       },
       {
@@ -2255,6 +2827,10 @@
       {
         "definition": "the properties and life phenomena exhibited by a plant, plant type, or plant group",
         "type": "n."
+      },
+      {
+        "definition": "a botanical treatise or study",
+        "type": "n."
       }
     ],
     "forms": [
@@ -2268,11 +2844,11 @@
     "def": [
       {
         "definition": "liberal or generous in bestowing gifts or favors",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "given or provided abundantly",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -2285,11 +2861,11 @@
   "bowdlerize": {
     "def": [
       {
-        "definition": "to expurgate (something, such as a book) by omitting or modifying parts considered vulgar",
+        "definition": "to  (something, such as a book) by omitting or modifying parts considered vulgar",
         "type": "v."
       },
       {
-        "definition": "to modify by abridging, simplifying, or distorting in style or content",
+        "definition": "to modify by , simplifying, or distorting in style or content",
         "type": "v."
       }
     ],
@@ -2307,7 +2883,7 @@
   "bowler": {
     "def": [
       {
-        "definition": "a person who {a_link|bowls}",
+        "definition": "a person who bowls",
         "type": "n."
       }
     ],
@@ -2364,8 +2940,12 @@
         "type": "v."
       },
       {
-        "definition": "to exhibit in an ostentatious or aggressive manner",
+        "definition": "to exhibit in an  or aggressive manner",
         "type": "v."
+      },
+      {
+        "definition": "an act or instance of waving something menacingly or exhibiting something ostentatiously or aggressively an act or instance of",
+        "type": "n."
       }
     ],
     "forms": [
@@ -2378,7 +2958,7 @@
   "bravado": {
     "def": [
       {
-        "definition": "blustering swaggering conduct",
+        "definition": "blustering  conduct",
         "type": "n."
       },
       {
@@ -2386,8 +2966,8 @@
         "type": "n."
       },
       {
-        "definition": "the quality or state of being foolhardy",
-        "type": "adj."
+        "definition": "the quality or state of being",
+        "type": "n."
       }
     ],
     "forms": [
@@ -2399,25 +2979,40 @@
   "bravo": {
     "def": [
       {
-        "definition": ",",
+        "definition": "a shout of approval",
         "type": "n."
+      },
+      {
+        "definition": "to applaud by shouts of bravo",
+        "type": "v."
       }
     ],
     "forms": [
       "bravi",
       "bravo",
       "bravoes",
-      "bravos"
+      "bravos",
+      "bravoed",
+      "bravoing",
+      "Bravo"
     ]
   },
   "bray": {
     "def": [
       {
-        "definition": "to utter the characteristic loud harsh cry of a donkey; also : to utter a sound like a donkey's",
+        "definition": "to utter the characteristic loud harsh cry of a donkey",
         "type": "v."
       },
       {
         "definition": "to utter or play loudly or harshly",
+        "type": "v."
+      },
+      {
+        "definition": "to crush or grind fine",
+        "type": "v."
+      },
+      {
+        "definition": "to spread thin",
         "type": "v."
       }
     ],
@@ -2431,7 +3026,7 @@
   "braze": {
     "def": [
       {
-        "definition": "harden",
+        "definition": "to solder with a nonferrous alloy having a lower melting point than the metals being joined",
         "type": "v."
       }
     ],
@@ -2448,6 +3043,14 @@
     "def": [
       {
         "definition": "one who works in brass",
+        "type": "n."
+      },
+      {
+        "definition": "a pan for holding burning coals",
+        "type": "n."
+      },
+      {
+        "definition": "a utensil in which food is exposed to heat through a wire grill",
         "type": "n."
       }
     ],
@@ -2469,17 +3072,39 @@
       {
         "definition": "a gap (as in a wall) made by battering",
         "type": "n."
+      },
+      {
+        "definition": "a break in accustomed friendly relations",
+        "type": "n."
+      },
+      {
+        "definition": "a temporary gap in continuity",
+        "type": "n."
+      },
+      {
+        "definition": "a leap especially of a whale out of water",
+        "type": "n."
+      },
+      {
+        "definition": "to make a gap in by battering to make a breach {dx_def}see {/dx_def} in",
+        "type": "v."
+      },
+      {
+        "definition": "to leap out of water",
+        "type": "v."
       }
     ],
     "forms": [
       "breach",
-      "breaches"
+      "breaches",
+      "breached",
+      "breaching"
     ]
   },
   "breaker": {
     "def": [
       {
-        "definition": "someone or something that breaks something",
+        "definition": "someone or something that  something",
         "type": "n."
       },
       {
@@ -2488,6 +3113,22 @@
       },
       {
         "definition": "someone who breaks up ships or cars for salvage",
+        "type": "n."
+      },
+      {
+        "definition": "a device for opening a circuit",
+        "type": "n."
+      },
+      {
+        "definition": "a wave breaking into foam (as against the shore)",
+        "type": "n."
+      },
+      {
+        "definition": "someone who",
+        "type": "n."
+      },
+      {
+        "definition": "a small water cask",
         "type": "n."
       }
     ],
@@ -2503,11 +3144,11 @@
         "type": "n."
       },
       {
-        "definition": "pants",
+        "definition": "the hind end of the body",
         "type": "n."
       },
       {
-        "definition": "the hind end of the body : buttocks",
+        "definition": "the part of a firearm at the rear of the barrel {dx_def}see {/dx_def}",
         "type": "n."
       }
     ],
@@ -2519,13 +3160,14 @@
   "brethren": {
     "def": [
       {
-        "definition": "—used chiefly in formal or solemn address or in referring to the members of a profession, society, or religious denomination",
-        "type": "n."
+        "definition": "members of various sects originating chiefly in 18th century German",
+        "type": "n. pl."
       }
     ],
     "forms": [
       "brethren",
-      "brother"
+      "brother",
+      "Brethren"
     ]
   },
   "brevity": {
@@ -2543,7 +3185,7 @@
   "bric-a-brac": {
     "def": [
       {
-        "definition": "a miscellaneous collection of small articles commonly of ornamental or sentimental value : curios",
+        "definition": "a miscellaneous collection of small articles commonly of ornamental or sentimental value",
         "type": "n."
       },
       {
@@ -2559,21 +3201,31 @@
   "bridle": {
     "def": [
       {
-        "definition": "the headgear with which a horse is governed and which carries a bit and reins",
+        "definition": "the  with which a horse is governed and which carries a bit {dx_def}see {/dx_def} and reins",
         "type": "n."
       },
       {
-        "definition": "a length of line or cable attached to two parts of something (such as a ship) to spread the force of a pull; especially : rigging on a kite for attaching line",
+        "definition": "a length of line or cable attached to two parts of something (such as a ship) to spread the force of a pull",
         "type": "n."
       },
       {
-        "definition": "curb, restraint",
-        "type": "n."
+        "definition": "to put a harness with which a horse is governed on the head of to put a bridle {dx_def}see {/dx_def} on",
+        "type": "v."
+      },
+      {
+        "definition": "to restrain, check, or control with or as if with a bridle",
+        "type": "v."
+      },
+      {
+        "definition": "to show hostility or resentment (as to an affront to one's pride or dignity) especially by drawing back the head and chin",
+        "type": "v."
       }
     ],
     "forms": [
       "bridle",
-      "bridles"
+      "bridles",
+      "bridled",
+      "bridling"
     ]
   },
   "brigade": {
@@ -2589,21 +3241,23 @@
       {
         "definition": "a group of people organized for special activity",
         "type": "n."
+      },
+      {
+        "definition": "to form or unite into a brigade",
+        "type": "v."
       }
     ],
     "forms": [
       "brigade",
-      "brigades"
+      "brigades",
+      "brigaded",
+      "brigading"
     ]
   },
   "brigadier": {
     "def": [
       {
         "definition": "an officer in the British army commanding a brigade and ranking immediately below a major general",
-        "type": "n."
-      },
-      {
-        "definition": "brigadier general",
         "type": "n."
       }
     ],
@@ -2629,13 +3283,14 @@
   "brimstone": {
     "def": [
       {
-        "definition": "sulfur",
+        "definition": "the torments suffered by sinners in hell",
         "type": "n."
       }
     ],
     "forms": [
       "brimstone",
-      "brimstones"
+      "brimstones",
+      "fire-and-brimstone"
     ]
   },
   "brine": {
@@ -2651,11 +3306,19 @@
       {
         "definition": "the water of a sea or salt lake",
         "type": "n."
+      },
+      {
+        "definition": "to treat (as by steeping) with brine",
+        "type": "v."
       }
     ],
     "forms": [
       "brine",
-      "brines"
+      "brines",
+      "brined",
+      "briner",
+      "briners",
+      "brining"
     ]
   },
   "bristle": {
@@ -2663,59 +3326,95 @@
       {
         "definition": "a short stiff coarse hair or",
         "type": "n."
+      },
+      {
+        "definition": "to furnish with short stiff coarse hairs or filaments to furnish with",
+        "type": "v."
+      },
+      {
+        "definition": "to make aggressive or angry to make",
+        "type": "v."
+      },
+      {
+        "definition": "to rise and stand stiffly erect",
+        "type": "v."
+      },
+      {
+        "definition": "to raise the bristles (as in anger)",
+        "type": "v."
+      },
+      {
+        "definition": "to take on an aggressively defensive attitude (as in response to a slight or criticism)",
+        "type": "v."
+      },
+      {
+        "definition": "to be full of or covered with especially something suggestive of bristles",
+        "type": "v."
+      },
+      {
+        "definition": "to be full of something specified",
+        "type": "v."
       }
     ],
     "forms": [
       "bristle",
       "bristlelike",
-      "bristles"
+      "bristles",
+      "bristled",
+      "bristling"
     ]
   },
   "britannia": {
     "def": [
       {
-        "definition": "the island of Great Britain",
-        "type": "n."
-      },
-      {
-        "definition": "united kingdom",
-        "type": "n."
-      },
-      {
-        "definition": "commonwealth of nations",
+        "definition": "a silver-white alloy largely of tin, antimony, and copper that is similar to pewter",
         "type": "n."
       }
     ],
     "forms": [
       "Britain",
-      "Britannia"
+      "Britannia",
+      "britannia"
     ]
   },
   "briticism": {
     "def": [
       {
-        "definition": "a characteristic feature of {a_link|British} English",
+        "definition": "a characteristic feature of British English",
         "type": "n."
       }
     ],
     "forms": [
       "Briticism",
-      "Briticisms"
+      "Briticisms",
+      "briticism"
     ]
   },
   "brittle": {
     "def": [
       {
         "definition": "easily broken, cracked, or snapped",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "easily disrupted, overthrown, or damaged : frail",
-        "type": "adv."
+        "definition": "easily disrupted, overthrown, or damaged",
+        "type": "adj."
       },
       {
-        "definition": "perishable, mortal",
-        "type": "adv."
+        "definition": "easily hurt or offended",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking warmth, depth, or generosity of spirit",
+        "type": "adj."
+      },
+      {
+        "definition": "affected with or being a form of  characterized by large and unpredictable fluctuations in blood glucose level",
+        "type": "adj."
+      },
+      {
+        "definition": "a candy made with caramelized sugar and nuts spread in thin sheets",
+        "type": "n."
       }
     ],
     "forms": [
@@ -2724,7 +3423,8 @@
       "brittleness",
       "brittlenesses",
       "brittler",
-      "brittlest"
+      "brittlest",
+      "brittles"
     ]
   },
   "broach": {
@@ -2738,7 +3438,35 @@
         "type": "v."
       },
       {
-        "definition": "to pierce (something, such as a cask) in order to draw the contents; also : to open for the first time",
+        "definition": "to pierce (something, such as a cask) in order to draw the contents",
+        "type": "v."
+      },
+      {
+        "definition": "to open up or break into (a mine, stores, etc.)",
+        "type": "v."
+      },
+      {
+        "definition": "to shape or enlarge (a hole) with a broach {dx_def}see {/dx_def}",
+        "type": "v."
+      },
+      {
+        "definition": "to break the surface from below",
+        "type": "v."
+      },
+      {
+        "definition": "a  for roasting meat",
+        "type": "n."
+      },
+      {
+        "definition": "a tool for tapping",
+        "type": "n."
+      },
+      {
+        "definition": "a cutting tool for removing material from metal or plastic to shape an outside surface or a hole",
+        "type": "n."
+      },
+      {
+        "definition": "to veer or  dangerously so as to lie  to the waves",
         "type": "v."
       }
     ],
@@ -2764,6 +3492,42 @@
       {
         "definition": "to send out or transmit (something, such as a program) by means of radio or television or by streaming over the Internet",
         "type": "v."
+      },
+      {
+        "definition": "to transmit a broadcast",
+        "type": "v."
+      },
+      {
+        "definition": "to speak or perform on a broadcast program",
+        "type": "v."
+      },
+      {
+        "definition": "a program that is broadcast on radio or television or over the Internet",
+        "type": "n."
+      },
+      {
+        "definition": "the act of transmitting sound or images by radio or television",
+        "type": "n."
+      },
+      {
+        "definition": "a casting or scattering in all directions (as of seed from the hand in sowing)",
+        "type": "n."
+      },
+      {
+        "definition": "cast or scattered in all directions",
+        "type": "adj."
+      },
+      {
+        "definition": "made public by means of radio or television",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to radio or television broadcasting",
+        "type": "adj."
+      },
+      {
+        "definition": "to or over a broad area",
+        "type": "adv."
       }
     ],
     "forms": [
@@ -2794,11 +3558,15 @@
         "type": "n."
       },
       {
-        "definition": "a heavy shoe often with a hobnailed sole : brogan",
+        "definition": "a heavy shoe often with a hobnailed sole",
         "type": "n."
       },
       {
         "definition": "a stout oxford shoe with perforations and usually a wing tip",
+        "type": "n."
+      },
+      {
+        "definition": "a dialect or regional pronunciation",
         "type": "n."
       }
     ],
@@ -2810,7 +3578,7 @@
   "brokerage": {
     "def": [
       {
-        "definition": "the business or establishment of a broker",
+        "definition": "the business or establishment of a",
         "type": "n."
       },
       {
@@ -2838,7 +3606,7 @@
   "bronchitis": {
     "def": [
       {
-        "definition": "acute or chronic inflammation of the {a_link|bronchial} tubes",
+        "definition": "acute or chronic inflammation of the bronchial tubes",
         "type": "n."
       }
     ],
@@ -2877,14 +3645,14 @@
     "def": [
       {
         "definition": "the quality or state of being brothers",
-        "type": "adj."
-      },
-      {
-        "definition": "fellowship, alliance",
         "type": "n."
       },
       {
         "definition": "an association (such as a labor union or monastic society) for a particular purpose",
+        "type": "n."
+      },
+      {
+        "definition": "the whole body of persons engaged in a business or profession",
         "type": "n."
       }
     ],
@@ -2912,11 +3680,11 @@
     "def": [
       {
         "definition": "markedly short and abrupt",
-        "type": "adv."
+        "type": "adj."
       },
       {
         "definition": "blunt in manner or speech often to the point of ungracious harshness",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -2936,7 +3704,7 @@
   "buffoon": {
     "def": [
       {
-        "definition": "a ludicrous figure : clown",
+        "definition": "a  figure",
         "type": "n."
       },
       {
@@ -2965,12 +3733,12 @@
   "bulbous": {
     "def": [
       {
-        "definition": "having a bulb : growing from or bearing bulbs",
-        "type": "adv."
+        "definition": "having a bulb growing from or bearing bulbs",
+        "type": "adj."
       },
       {
         "definition": "resembling a bulb especially in roundness",
-        "type": "adv."
+        "type": "adj."
       }
     ],
     "forms": [
@@ -2985,7 +3753,7 @@
         "type": "n."
       },
       {
-        "definition": "a castrated bull : steer",
+        "definition": "a castrated bull",
         "type": "n."
       }
     ],
@@ -2997,10 +3765,6 @@
   },
   "bulrush": {
     "def": [
-      {
-        "definition": "any of several large rushes or sedges growing in wetlands: such as",
-        "type": "n."
-      },
       {
         "definition": "any of various annual or perennial sedges (genera Scirpus and Schoenoplectus) that bear solitary or much-clustered spikelets containing perfect flowers with a perianth of six bristles",
         "type": "n."
@@ -3020,21 +3784,27 @@
   "bulwark": {
     "def": [
       {
-        "definition": "a solid wall-like structure raised for defense : rampart",
-        "type": "n."
-      },
-      {
-        "definition": "breakwater, seawall",
+        "definition": "a solid wall-like structure raised for defense",
         "type": "n."
       },
       {
         "definition": "a strong support or protection",
         "type": "n."
+      },
+      {
+        "definition": "the side of a ship above the upper deck",
+        "type": "n."
+      },
+      {
+        "definition": "to fortify or safeguard with a",
+        "type": "v."
       }
     ],
     "forms": [
       "bulwark",
-      "bulwarks"
+      "bulwarks",
+      "bulwarked",
+      "bulwarking"
     ]
   },
   "bumper": {
@@ -3045,6 +3815,22 @@
       },
       {
         "definition": "something unusually large",
+        "type": "n."
+      },
+      {
+        "definition": "unusually large",
+        "type": "adj."
+      },
+      {
+        "definition": "a device for absorbing shock or preventing damage (as in collision)",
+        "type": "n."
+      },
+      {
+        "definition": "one that bumps",
+        "type": "n."
+      },
+      {
+        "definition": "a brief interval on radio or television filled with music, video shots, or voice-overs that marks a break between a program and a commercial",
         "type": "n."
       }
     ],
@@ -3072,10 +3858,6 @@
       {
         "definition": "to act or work clumsily and awkwardly",
         "type": "v."
-      },
-      {
-        "definition": "mishandle, botch",
-        "type": "adv."
       }
     ],
     "forms": [
@@ -3095,11 +3877,15 @@
         "type": "n."
       },
       {
-        "definition": "the power of a fluid to exert an upward force on a body placed in it; also : the upward force exerted",
+        "definition": "the power of a fluid to exert an upward force on a body placed in it",
         "type": "n."
       },
       {
-        "definition": "the ability to recover quickly from depression or discouragement : resilience",
+        "definition": "the ability to recover quickly from depression or discouragement",
+        "type": "n."
+      },
+      {
+        "definition": "the property of maintaining a satisfactorily high level (as of prices or economic activity)",
         "type": "n."
       }
     ],
@@ -3111,16 +3897,12 @@
   "buoyant": {
     "def": [
       {
-        "definition": "having buoyancy : such as",
-        "type": "adv."
-      },
-      {
         "definition": "capable of floating",
-        "type": "adv."
+        "type": "adj."
       },
       {
-        "definition": "cheerful, gay",
-        "type": "adv."
+        "definition": "capable of maintaining a satisfactorily high level",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -3131,15 +3913,19 @@
   "bureau": {
     "def": [
       {
-        "definition": "writing desk; especially : one having drawers and a slant top",
-        "type": "adj."
-      },
-      {
         "definition": "a low chest of drawers for use in a bedroom",
         "type": "n."
       },
       {
-        "definition": "a specialized administrative unit; especially : a subdivision of an executive department of a government",
+        "definition": "a specialized administrative unit",
+        "type": "n."
+      },
+      {
+        "definition": "a branch of a newspaper, newsmagazine, or wire service in an important news center",
+        "type": "n."
+      },
+      {
+        "definition": "a usually commercial agency that serves as an intermediary especially for exchanging information or coordinating activities",
         "type": "n."
       }
     ],
@@ -3160,8 +3946,12 @@
         "type": "n."
       },
       {
-        "definition": "government characterized by specialization of functions, adherence to fixed rules, and a hierarchy of authority",
-        "type": "v."
+        "definition": "government characterized by specialization of functions, adherence to fixed rules, and a  of authority",
+        "type": "n."
+      },
+      {
+        "definition": "a system of administration marked by , , and proliferation",
+        "type": "n."
       }
     ],
     "forms": [
@@ -3196,7 +3986,7 @@
         "type": "n."
       },
       {
-        "definition": "a member of the middle class : a prosperous solid citizen",
+        "definition": "a member of the middle class a prosperous solid citizen",
         "type": "n."
       }
     ],
@@ -3209,10 +3999,6 @@
     "def": [
       {
         "definition": "to make shiny or lustrous especially by rubbing",
-        "type": "v."
-      },
-      {
-        "definition": "polish",
         "type": "v."
       },
       {
@@ -3248,8 +4034,16 @@
         "type": "v."
       },
       {
-        "definition": "to be busily astir : teem",
+        "definition": "to be busily astir",
         "type": "v."
+      },
+      {
+        "definition": "noisy, energetic, and often  activity",
+        "type": "n."
+      },
+      {
+        "definition": "a pad or framework expanding and supporting the fullness and drapery of the back of a woman's skirt or dress",
+        "type": "n."
       }
     ],
     "forms": [
@@ -3263,21 +4057,75 @@
   "butt": {
     "def": [
       {
-        "definition": "buttocks —often used as a euphemism for ass in idiomatic expressions",
-        "type": "adj."
-      },
-      {
-        "definition": "the large or thicker end part of something:",
+        "definition": "the thicker or handle end of a tool or weapon",
         "type": "n."
       },
       {
-        "definition": "the thicker or handle end of a tool or weapon",
+        "definition": "a  upper cut of the pork shoulder",
+        "type": "n."
+      },
+      {
+        "definition": "the base of a plant from which the roots spring",
+        "type": "n."
+      },
+      {
+        "definition": "an unused remainder (as of a cigarette or cigar)",
+        "type": "n."
+      },
+      {
+        "definition": "the part of a  or skin corresponding to the animal's back and sides",
+        "type": "n."
+      },
+      {
+        "definition": "an object of abuse or ridicule",
+        "type": "n."
+      },
+      {
+        "definition": "a blind for shooting birds",
+        "type": "n."
+      },
+      {
+        "definition": "a  (such as a mound or bank) for catching missiles shot at a target",
+        "type": "n."
+      },
+      {
+        "definition": "to strike or shove with the head or horns",
         "type": "v."
+      },
+      {
+        "definition": "to thrust or push headfirst strike with the head or horns",
+        "type": "v."
+      },
+      {
+        "definition": "a blow or thrust usually with the head or horns",
+        "type": "n."
+      },
+      {
+        "definition": "to place end to end or side to side without overlapping",
+        "type": "v."
+      },
+      {
+        "definition": "to trim or square off (something, such as a log) at the end",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce (something, such as a cigarette) to an unused remainder by stubbing or stamping to reduce to a butt {dx_def}see {/dx_def}",
+        "type": "v."
+      },
+      {
+        "definition": "a large  especially for wine, beer, or water",
+        "type": "n."
+      },
+      {
+        "definition": "any of various units of liquid capacity",
+        "type": "n."
       }
     ],
     "forms": [
       "butt",
-      "butts"
+      "butts",
+      "butted",
+      "butting"
     ]
   },
   "butte": {
@@ -3299,18 +4147,31 @@
         "type": "n."
       },
       {
-        "definition": "something that resembles a buttress: such as",
+        "definition": "a projecting part of a mountain or hill",
         "type": "n."
       },
       {
-        "definition": "a projecting part of a mountain or hill",
+        "definition": "a horny protuberance on a horse's hoof at the heel {dx}see",
         "type": "n."
+      },
+      {
+        "definition": "the broadened base of a tree trunk or a thickened vertical part of it",
+        "type": "n."
+      },
+      {
+        "definition": "something that supports or strengthens",
+        "type": "n."
+      },
+      {
+        "definition": "to give support or stability to (a wall or building) with a projecting structure of masonry or wood to furnish or shore up with a buttress {dx_def}see {/dx_def}",
+        "type": "v."
       }
     ],
     "forms": [
       "buttress",
       "buttressed",
-      "buttresses"
+      "buttresses",
+      "buttressing"
     ]
   },
   "by-law": {
@@ -3328,7 +4189,8 @@
       "byelaw",
       "byelaws",
       "bylaw",
-      "bylaws"
+      "bylaws",
+      "by-law"
     ]
   }
 }

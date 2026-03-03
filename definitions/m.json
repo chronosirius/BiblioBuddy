@@ -2,317 +2,676 @@
   "macadamize": {
     "def": [
       {
-        "definition": "To cover or pave, as a path or roadway, with small broken stone.",
+        "definition": "to construct or finish (a road) by compacting into a solid mass a layer of small broken stone on a convex well-drained roadbed and using a binder (such as cement or asphalt) for the mass",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "macadamize",
+      "macadamized",
+      "macadamizes",
+      "macadamizing"
+    ]
   },
   "machinery": {
     "def": [
       {
-        "definition": "The parts of a machine or engine, taken collectively.",
+        "definition": "machines in general or as a functioning unit",
+        "type": "n."
+      },
+      {
+        "definition": "the working parts of a machine",
+        "type": "n."
+      },
+      {
+        "definition": "the means or system by which something is kept in action or a desired result is obtained",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "machineries",
+      "machinery"
+    ]
   },
   "machinist": {
     "def": [
       {
-        "definition": "One who makes or repairs machines, or uses metal-working tools.",
+        "definition": "a worker who fabricates, assembles, or repairs machinery",
+        "type": "n."
+      },
+      {
+        "definition": "a craftsman skilled in the use of machine tools",
+        "type": "n."
+      },
+      {
+        "definition": "one who operates a machine",
+        "type": "n."
+      },
+      {
+        "definition": "a person in charge of the mechanical aspects of a theatrical production",
+        "type": "n."
+      },
+      {
+        "definition": "a warrant officer who supervises machinery and engine operation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "machinist",
+      "machinists"
+    ]
   },
   "macrocosm": {
     "def": [
       {
-        "definition": "The whole of any sphere or department of nature or knowledge to which man is",
+        "definition": "the great world",
+        "type": "n."
+      },
+      {
+        "definition": "a complex that is a large-scale reproduction of one of its constituents",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "macrocosm",
+      "macrocosmic",
+      "macrocosmically",
+      "macrocosms"
+    ]
   },
   "madden": {
     "def": [
       {
-        "definition": "To inflame with passion.",
+        "definition": "to become or act as if mad",
+        "type": "v."
+      },
+      {
+        "definition": "to disturb or drive mad",
+        "type": "v."
+      },
+      {
+        "definition": "to make intensely angry",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "madden",
+      "maddened",
+      "maddening",
+      "maddens"
+    ]
   },
   "madonna": {
     "def": [
       {
-        "definition": "A painted or sculptured representation of the Virgin, usually with the infant",
+        "definition": "an Italian lady",
+        "type": "n."
+      },
+      {
+        "definition": "an artistic depiction (such as a painting or statue) of the Virgin Mary",
+        "type": "n."
+      },
+      {
+        "definition": "a morally pure and chaste woman",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Madonna",
+      "Madonnas",
+      "madonna"
+    ]
   },
   "magician": {
     "def": [
       {
-        "definition": "A sorcerer.",
+        "definition": "one skilled in magic",
+        "type": "n."
+      },
+      {
+        "definition": "one who performs tricks of illusion and sleight of hand",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "magician",
+      "magicians"
+    ]
   },
   "magisterial": {
     "def": [
       {
-        "definition": "Having an air of authority.",
+        "definition": "of, relating to, or required for a master's degree",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a magistrate or a magistrate's office or duties",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "magisterial",
+      "magisterially"
+    ]
   },
   "magistracy": {
     "def": [
       {
-        "definition": "The office or dignity of a magistrate.",
+        "definition": "the state of being a magistrate",
+        "type": "n."
+      },
+      {
+        "definition": "the office, power, or dignity of a magistrate",
+        "type": "n."
+      },
+      {
+        "definition": "a body of magistrates",
+        "type": "n."
+      },
+      {
+        "definition": "the district under a magistrate",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "magistracies",
+      "magistracy"
+    ]
   },
   "magnanimous": {
     "def": [
       {
-        "definition": "Generous in treating or judging others.",
+        "definition": "showing or suggesting a generous and kind nature",
+        "type": "adj."
+      },
+      {
+        "definition": "showing or suggesting a  and courageous spirit",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnanimous",
+      "magnanimously",
+      "magnanimousness",
+      "magnanimousnesses"
+    ]
   },
   "magnate": {
     "def": [
       {
-        "definition": "A person of rank or importance.",
+        "definition": "a person of rank, power, influence, or distinction often in a specified area",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnate",
+      "magnates"
+    ]
   },
   "magnet": {
     "def": [
       {
-        "definition": "A body possessing that peculiar form of polarity found in nature in the",
+        "definition": "a body having the property of attracting iron and producing a magnetic field external to itself",
+        "type": "n."
+      },
+      {
+        "definition": "something that attracts",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnet",
+      "magnets"
+    ]
   },
   "magnetize": {
     "def": [
       {
-        "definition": "To make a magnet of, permanently, or temporarily.",
+        "definition": "to induce magnetic properties in",
+        "type": "v."
+      },
+      {
+        "definition": "to attract like a magnet",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnetizable",
+      "magnetize",
+      "magnetized",
+      "magnetizer",
+      "magnetizers",
+      "magnetizes",
+      "magnetizing"
+    ]
   },
   "magnificence": {
     "def": [
       {
-        "definition": "The exhibition of greatness of action, character, intellect, wealth, or",
+        "definition": "the quality or state of being magnificent",
+        "type": "n."
+      },
+      {
+        "definition": "splendor of surroundings",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnificence",
+      "magnificences"
+    ]
   },
   "magnificent": {
     "def": [
       {
-        "definition": "Grand or majestic in appearance, quality, or action.",
+        "definition": "great in deed or exalted in place",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by stately  and lavishness",
+        "type": "adj."
+      },
+      {
+        "definition": "in structure and adornment",
+        "type": "adj."
+      },
+      {
+        "definition": "impressive to the mind or spirit",
+        "type": "adj."
+      },
+      {
+        "definition": "exceptionally fine",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnificent",
+      "magnificently"
+    ]
   },
   "magnitude": {
     "def": [
       {
-        "definition": "Importance.",
+        "definition": "great size or extent",
+        "type": "n."
+      },
+      {
+        "definition": "the importance, quality, or caliber of something",
+        "type": "n."
+      },
+      {
+        "definition": "a number representing the intrinsic {dx_def}see {/dx_def} or apparent brightness of a celestial {dx_def}see {/dx_def} body on a logarithmic scale in which an increase of one unit corresponds to a reduction in the brightness of light by a factor of 2.512",
+        "type": "n."
+      },
+      {
+        "definition": "a numerical quantitative measure expressed usually as a multiple of a standard unit",
+        "type": "n."
+      },
+      {
+        "definition": "the intensity of an earthquake represented by a number on an arbitrary scale",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "magnitude",
+      "magnitudes"
+    ]
   },
   "maharaja": {
     "def": [
       {
-        "definition": "A great Hindu prince.",
+        "definition": "a Hindu prince ranking above a raja",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maharaja",
+      "maharajah",
+      "maharajahs",
+      "maharajas"
+    ]
   },
   "maidenhood": {
     "def": [
       {
-        "definition": "Virginity.",
+        "definition": "the quality, state, or time of being a maiden",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maidenhood",
+      "maidenhoods"
+    ]
   },
   "maintain": {
     "def": [
       {
-        "definition": "To hold or preserve in any particular state or condition.",
+        "definition": "to keep in an existing state (as of repair, efficiency, or validity) preserve from failure or decline",
+        "type": "v."
+      },
+      {
+        "definition": "to sustain against opposition or danger uphold and defend",
+        "type": "v."
+      },
+      {
+        "definition": "to continue or  in ,",
+        "type": "v."
+      },
+      {
+        "definition": "to support or provide for",
+        "type": "v."
+      },
+      {
+        "definition": "to affirm in or as if in argument",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "maintain",
+      "maintainabilities",
+      "maintainability",
+      "maintainable",
+      "maintained",
+      "maintainer",
+      "maintainers",
+      "maintaining",
+      "maintains"
+    ]
   },
   "maintenance": {
     "def": [
       {
-        "definition": "That which supports or sustains.",
+        "definition": "the act of  the state of being maintained",
+        "type": "n."
+      },
+      {
+        "definition": "something that maintains",
+        "type": "n."
+      },
+      {
+        "definition": "the upkeep of property or equipment",
+        "type": "n."
+      },
+      {
+        "definition": "an officious or unlawful  in a legal suit by assisting either party with means to carry it on",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maintenance",
+      "maintenances"
+    ]
   },
   "maize": {
     "def": [
       {
-        "definition": "Indian corn: usually in the United States called simply corn.",
+        "definition": "a tall annual cereal grass (Zea mays) originally domesticated in Mexico and widely grown for its large elongated ears of starchy seeds",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maize",
+      "maizes"
+    ]
   },
   "makeup": {
     "def": [
       {
-        "definition": "The arrangements or combination of the parts of which anything is composed.",
+        "definition": "the way in which the parts or ingredients of something are put together",
+        "type": "n."
+      },
+      {
+        "definition": "physical, mental, and moral constitution",
+        "type": "n."
+      },
+      {
+        "definition": "the operation of making up especially pages for printing",
+        "type": "n."
+      },
+      {
+        "definition": "design or layout of printed matter",
+        "type": "n."
+      },
+      {
+        "definition": "materials (such as wigs and cosmetics) used in making up or in special costuming (as for a play)",
+        "type": "n."
+      },
+      {
+        "definition": "something that makes up for a previous postponement, omission, failure, or",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "make-up",
+      "make-ups",
+      "makeup",
+      "makeups"
+    ]
   },
   "malady": {
     "def": [
       {
-        "definition": "Any physical disease or disorder, especially a chronic or deep-seated one.",
+        "definition": "a disease or disorder of the animal body",
+        "type": "n."
+      },
+      {
+        "definition": "an  or disordered condition",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maladies",
+      "malady"
+    ]
   },
   "malaria": {
     "def": [
       {
-        "definition": "A fever characterized by alternating chills, fever, and sweating.",
+        "definition": "a human disease that is caused by sporozoan parasites (genus Plasmodium) in the red blood cells, is transmitted by the bite of anopheline mosquitoes, and is characterized by periodic attacks of chills and fever",
+        "type": "n."
+      },
+      {
+        "definition": "any of various diseases of birds and mammals caused by blood protozoans",
+        "type": "n."
+      },
+      {
+        "definition": "air infected with a noxious substance capable of causing disease",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "malaria",
+      "malarial",
+      "malarias",
+      "malarious"
+    ]
   },
   "malcontent": {
     "def": [
       {
-        "definition": "One who is dissatisfied with the existing state of affairs.",
+        "definition": "one who bears a grudge from a sense of grievance or thwarted ambition",
         "type": "n."
+      },
+      {
+        "definition": "one who is in active opposition to an established order or government",
+        "type": "n."
+      },
+      {
+        "definition": "dissatisfied with the existing state of affairs",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "malcontent",
+      "malcontents"
+    ]
   },
   "malediction": {
-    "def": [
-      {
-        "definition": "The calling down of a curse or curses.",
-        "type": "n."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "malediction",
+      "maledictions",
+      "maledictory"
+    ]
   },
   "malefactor": {
     "def": [
       {
-        "definition": "One who injures another.",
+        "definition": "one who commits an offense against the law",
+        "type": "n."
+      },
+      {
+        "definition": "one who does ill toward another",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "malefactor",
+      "malefactors"
+    ]
   },
   "maleficent": {
     "def": [
       {
-        "definition": "Mischievous.",
+        "definition": "working or productive of harm or evil",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "maleficent"
+    ]
   },
   "malevolence": {
     "def": [
       {
-        "definition": "Ill will.",
+        "definition": "the quality or state of being",
+        "type": "n."
+      },
+      {
+        "definition": "behavior",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "malevolence",
+      "malevolences"
+    ]
   },
   "malevolent": {
     "def": [
       {
-        "definition": "Wishing evil to others.",
+        "definition": "having, showing, or coming from intense often vicious ill will, , or hatred",
+        "type": "adj."
+      },
+      {
+        "definition": "of harm or evil",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "malevolent",
+      "malevolently"
+    ]
   },
   "malign": {
     "def": [
       {
-        "definition": "To speak evil of, especially to do so falsely and severely.",
+        "definition": "evil in nature, influence, or effect",
+        "type": "adj."
+      },
+      {
+        "definition": "having or showing intense often vicious ill will",
+        "type": "adj."
+      },
+      {
+        "definition": "to utter injuriously misleading or false reports about speak evil of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "malign",
+      "malignly",
+      "maligned",
+      "maligning",
+      "maligns"
+    ]
   },
   "malignant": {
     "def": [
       {
-        "definition": "Evil in nature or tending to do great harm or mischief.",
+        "definition": "tending to produce death or",
+        "type": "adj."
+      },
+      {
+        "definition": "evil in nature, influence, or effect",
+        "type": "adj."
+      },
+      {
+        "definition": "passionately and relentlessly malevolent aggressively malicious",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "malignant",
+      "malignantly"
+    ]
   },
   "malleable": {
     "def": [
       {
-        "definition": "Pliant.",
+        "definition": "capable of being  or shaped by beating with a hammer or by the pressure of rollers",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being altered or controlled by outside forces or influences",
+        "type": "adj."
+      },
+      {
+        "definition": "having a capacity for  change",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "malleable"
+    ]
   },
   "mallet": {
     "def": [
       {
-        "definition": "A wooden hammer.",
+        "definition": "a tool with a large head for driving another tool or for striking a surface without marring it",
+        "type": "n."
+      },
+      {
+        "definition": "a long-handled wooden implement used for striking a ball (as in polo or croquet)",
+        "type": "n."
+      },
+      {
+        "definition": "a light hammer with a small rounded or spherical usually padded head used in playing certain musical instruments (such as a vibraphone)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mallet",
+      "mallets"
+    ]
   },
   "maltreat": {
     "def": [
       {
-        "definition": "To treat ill, unkindly, roughly, or abusively.",
+        "definition": "to treat cruelly or roughly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "maltreat",
+      "maltreated",
+      "maltreater",
+      "maltreaters",
+      "maltreating",
+      "maltreatment",
+      "maltreatments",
+      "maltreats"
+    ]
   },
   "man-trap": {
     "def": [
@@ -321,79 +680,224 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "man-trap"
+    ]
   },
   "mandate": {
     "def": [
       {
-        "definition": "A command.",
+        "definition": "an authoritative command",
         "type": "n."
+      },
+      {
+        "definition": "an authorization to act given to a representative",
+        "type": "n."
+      },
+      {
+        "definition": "an order or  granted by the League of Nations to a member nation for the establishment of a responsible government over a former German colony or other conquered territory",
+        "type": "n."
+      },
+      {
+        "definition": "a mandated territory",
+        "type": "n."
+      },
+      {
+        "definition": "to officially require (something) make (something) mandatory",
+        "type": "v."
+      },
+      {
+        "definition": "to administer or assign (something, such as a territory) under a",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mandate",
+      "mandates",
+      "mandated",
+      "mandating"
+    ]
   },
   "mandatory": {
     "def": [
       {
-        "definition": "Expressive of positive command, as distinguished from merely directory.",
+        "definition": "required by a law or rule",
         "type": "adj."
+      },
+      {
+        "definition": "of, by, relating to, or holding a League of Nations",
+        "type": "adj."
+      },
+      {
+        "definition": "one given a",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mandatorily",
+      "mandatory",
+      "mandatories"
+    ]
   },
   "mane": {
     "def": [
       {
-        "definition": "The long hair growing upon and about the neck of certain animals, as the horse and",
+        "definition": "long and heavy hair growing about the neck and head of some mammals (such as horses and lions)",
+        "type": "n."
+      },
+      {
+        "definition": "long heavy hair on a person's head",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mane",
+      "maned",
+      "manes"
+    ]
   },
   "man-eater": {
     "def": [
       {
-        "definition": "An animal that devours human beings.",
+        "definition": "a large feline (such as a lion or tiger) that has acquired the habit of feeding on human flesh",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "man-eater",
+      "man-eaters",
+      "man-eating"
+    ]
   },
   "maneuver": {
     "def": [
       {
-        "definition": "To make adroit or artful moves: manage affairs by strategy.",
+        "definition": "a military or naval movement",
+        "type": "n."
+      },
+      {
+        "definition": "an armed forces training exercise",
+        "type": "n."
+      },
+      {
+        "definition": "a procedure or method of working usually involving expert physical movement",
+        "type": "n."
+      },
+      {
+        "definition": "an intended and controlled variation from a straight and level flight path in the operation of an airplane",
+        "type": "n."
+      },
+      {
+        "definition": "an action taken to gain a tactical end",
+        "type": "n."
+      },
+      {
+        "definition": "an adroit and clever management of affairs often using trickery and deception",
+        "type": "n."
+      },
+      {
+        "definition": "to perform a movement in military or naval tactics in order to secure an advantage",
+        "type": "v."
+      },
+      {
+        "definition": "to make a series of changes in direction and position for a specific purpose",
+        "type": "v."
+      },
+      {
+        "definition": "to use stratagems",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to execute  movements",
+        "type": "v."
+      },
+      {
+        "definition": "to manage into or out of a position or condition",
+        "type": "v."
+      },
+      {
+        "definition": "to guide with adroitness and design",
+        "type": "v."
+      },
+      {
+        "definition": "to bring about or secure as a result of skillful management",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "maneuver",
+      "maneuvers",
+      "maneuverabilities",
+      "maneuverability",
+      "maneuverable",
+      "maneuvered",
+      "maneuverer",
+      "maneuverers",
+      "maneuvering"
+    ]
   },
   "mania": {
     "def": [
       {
-        "definition": "Insanity.",
+        "definition": "excitement manifested by mental and physical , disorganization of behavior, and elevation of mood",
+        "type": "n."
+      },
+      {
+        "definition": "excessive or unreasonable enthusiasm",
+        "type": "n."
+      },
+      {
+        "definition": "the object of such enthusiasm",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mania",
+      "manias"
+    ]
   },
   "maniac": {
     "def": [
       {
-        "definition": "a person raving with madness.",
+        "definition": "someone who is or acts mentally unsound",
         "type": "n."
+      },
+      {
+        "definition": "a person who is extremely enthusiastic about something",
+        "type": "n."
+      },
+      {
+        "definition": "affected with or suggestive of madness",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by  excitement or frenzy",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "maniac",
+      "maniacs"
+    ]
   },
   "manifesto": {
     "def": [
       {
-        "definition": "A public declaration, making announcement, explanation or defense of",
+        "definition": "a written statement declaring publicly the intentions, motives, or views of its issuer",
         "type": "n."
+      },
+      {
+        "definition": "to issue a manifesto",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "manifesto",
+      "manifestoes",
+      "manifestos",
+      "manifestoed",
+      "manifestoing"
+    ]
   },
   "manlike": {
     "def": [
@@ -402,259 +906,698 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "manlike"
+    ]
   },
   "manliness": {
     "def": [
       {
-        "definition": "The qualities characteristic of a true man, as bravery, resolution, etc.",
+        "definition": "the quality or state of being  (as by having qualities such as strength or virility that are traditionally associated with men)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "manliness",
+      "manlinesses"
+    ]
   },
   "mannerism": {
     "def": [
       {
-        "definition": "Constant or excessive adherence to one manner, style, or peculiarity, as of",
+        "definition": "exaggerated or affected {dx_def}see {/dx_def} adherence to a particular style or manner ,",
+        "type": "n."
+      },
+      {
+        "definition": "an art style in late 16th century Europe characterized by spatial incongruity and excessive elongation of the human figures",
+        "type": "n."
+      },
+      {
+        "definition": "a characteristic and often unconscious mode or peculiarity of action, bearing, or treatment",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Mannerism",
+      "Mannerisms",
+      "mannerism",
+      "mannerisms",
+      "mannerist",
+      "manneristic",
+      "mannerists"
+    ]
   },
   "manor": {
     "def": [
       {
-        "definition": "The landed estate of a lord or nobleman.",
+        "definition": "the house or hall of an estate",
+        "type": "n."
+      },
+      {
+        "definition": "a  estate",
+        "type": "n."
+      },
+      {
+        "definition": "a unit of English rural territorial organization",
+        "type": "n."
+      },
+      {
+        "definition": "a tract of land in North America occupied by tenants who pay a fixed rent in money or kind to the proprietor",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "manor",
+      "manorial",
+      "manors"
+    ]
   },
   "mantel": {
     "def": [
       {
-        "definition": "The facing, sometimes richly ornamented, about a fireplace, including the usual",
+        "definition": "a beam, stone, or arch serving as a lintel to support the masonry above a fireplace",
+        "type": "n."
+      },
+      {
+        "definition": "the finish around a fireplace",
+        "type": "n."
+      },
+      {
+        "definition": "a shelf above a fireplace",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mantel",
+      "mantels"
+    ]
   },
   "mantle": {
     "def": [
       {
-        "definition": "A cloak.",
+        "definition": "a loose sleeveless garment worn over other clothes",
         "type": "n."
+      },
+      {
+        "definition": "a figurative cloak symbolizing  or authority",
+        "type": "n."
+      },
+      {
+        "definition": "something that covers, enfolds, or envelops {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "the outer wall and casing of a blast furnace above the hearth {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "the upper back of a bird",
+        "type": "n."
+      },
+      {
+        "definition": "a lacy hood or sheath of some refractory {dx_def}see {/dx_def} material that gives light by  when placed over a flame",
+        "type": "n."
+      },
+      {
+        "definition": "the part of the interior of a terrestrial {dx_def}see {/dx_def} planet and especially the earth that lies beneath the crust and above the central core",
+        "type": "n."
+      },
+      {
+        "definition": "to cover with or as if with a mantle",
+        "type": "v."
+      },
+      {
+        "definition": "to become covered with a coating",
+        "type": "v."
+      },
+      {
+        "definition": "to spread over a surface",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mantle",
+      "mantles",
+      "mantled",
+      "mantling"
+    ]
   },
   "manufacturer": {
     "def": [
       {
-        "definition": "A person engaged in manufacturing as a business.",
+        "definition": "one that manufactures",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "manufacturer",
+      "manufacturers"
+    ]
   },
   "manumission": {
     "def": [
       {
-        "definition": "Emancipation.",
+        "definition": "the act or process of manumitting",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "manumission",
+      "manumissions"
+    ]
   },
   "manumit": {
     "def": [
       {
-        "definition": "To set free from bondage.",
+        "definition": "to release from slavery",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "manumit",
+      "manumits",
+      "manumitted",
+      "manumitting"
+    ]
   },
   "marine": {
     "def": [
       {
-        "definition": "Of or pertaining to the sea or matters connected with the sea.",
+        "definition": "of or relating to the sea",
         "type": "adj."
+      },
+      {
+        "definition": "of or relating to the act or practice of sailing over the sea",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the commerce {dx_def}see {/dx_def} of the sea",
+        "type": "adj."
+      },
+      {
+        "definition": "depicting the sea, seashore, or ships",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to marines {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "the mercantile and naval shipping of a country",
+        "type": "n."
+      },
+      {
+        "definition": "seagoing ships especially in relation to nationality or class",
+        "type": "n."
+      },
+      {
+        "definition": "one of a class of armed services personnel serving on shipboard or in close association with a naval force",
+        "type": "n."
+      },
+      {
+        "definition": "an executive department (as in France) having charge of naval affairs",
+        "type": "n."
+      },
+      {
+        "definition": "a marine picture",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "marine",
+      "marines"
+    ]
   },
   "maritime": {
     "def": [
       {
-        "definition": "Situated on or near the sea.",
+        "definition": "of, relating to, or bordering on the sea",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to navigation or commerce on the sea",
+        "type": "adj."
+      },
+      {
+        "definition": "having the characteristics of a mariner",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "maritime"
+    ]
   },
   "maroon": {
     "def": [
       {
-        "definition": "To put ashore and abandon (a person) on a desolate coast or island.",
+        "definition": "a dark red",
+        "type": "n."
+      },
+      {
+        "definition": "to put ashore on a desolate island or coast and leave to one's fate",
         "type": "v."
+      },
+      {
+        "definition": "to place or leave in isolation or without hope of ready escape",
+        "type": "v."
+      },
+      {
+        "definition": "a person who is",
+        "type": "n."
+      },
+      {
+        "definition": "a Black person of the Americas who escaped slavery and formed or joined a free and often secluded settlement or a descendant of such a person",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maroon",
+      "maroons",
+      "marooned",
+      "marooning",
+      "Maroon",
+      "Maroons"
+    ]
   },
   "martial": {
     "def": [
       {
-        "definition": "Pertaining to war or military operations.",
+        "definition": "of, relating to, or suited for war or a warrior",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to an army or to military life",
+        "type": "adj."
+      },
+      {
+        "definition": "experienced in or inclined to war",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "martial",
+      "martially"
+    ]
   },
   "martian": {
     "def": [
       {
-        "definition": "Pertaining to Mars, either the Roman god of war or the planet.",
+        "definition": "of or relating to the planet Mars or its hypothetical inhabitants",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Martian",
+      "Martians",
+      "martian",
+      "martians"
+    ]
   },
   "martyrdom": {
     "def": [
       {
-        "definition": "Submission to death or persecution for the sake of faith or principle.",
+        "definition": "the suffering of death on account of adherence to a cause and especially to one's religious faith",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "martyrdom",
+      "martyrdoms"
+    ]
   },
   "marvel": {
     "def": [
       {
-        "definition": "To be astonished and perplexed because of (something).",
+        "definition": "one that causes wonder or astonishment",
+        "type": "n."
+      },
+      {
+        "definition": "intense surprise or interest",
+        "type": "n."
+      },
+      {
+        "definition": "to become filled with surprise, wonder, or amazed curiosity",
+        "type": "v."
+      },
+      {
+        "definition": "to feel astonishment or perplexity at or about",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "marvel",
+      "marvels",
+      "marveled",
+      "marveling",
+      "marvelled",
+      "marvelling"
+    ]
   },
   "masonry": {
     "def": [
       {
-        "definition": "The art or work of constructing, as buildings, walls, etc., with regularly",
+        "definition": "something constructed of materials used by masons",
+        "type": "n."
+      },
+      {
+        "definition": "the art, trade, or occupation of a mason",
+        "type": "n."
+      },
+      {
+        "definition": "work done by a mason",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Masonries",
+      "Masonry",
+      "masonries",
+      "masonry"
+    ]
   },
   "masquerade": {
     "def": [
       {
-        "definition": "A social party composed of persons masked and costumed so as to be",
+        "definition": "a social gathering of persons wearing masks and often fantastic costumes",
         "type": "n."
+      },
+      {
+        "definition": "a costume for wear at such a gathering",
+        "type": "n."
+      },
+      {
+        "definition": "an action or appearance that is mere disguise or show",
+        "type": "n."
+      },
+      {
+        "definition": "to disguise oneself",
+        "type": "v."
+      },
+      {
+        "definition": "to take part in a masquerade",
+        "type": "v."
+      },
+      {
+        "definition": "to assume the appearance of something one is not",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "masquerade",
+      "masquerades",
+      "masqueraded",
+      "masquerader",
+      "masqueraders",
+      "masquerading"
+    ]
   },
   "massacre": {
     "def": [
       {
-        "definition": "The unnecessary and indiscriminate killing of human beings.",
+        "definition": "the act or an instance of killing a number of usually helpless or unresisting human beings under circumstances of  or cruelty",
         "type": "n."
+      },
+      {
+        "definition": "a cruel or wanton {dx_def}see {/dx_def} murder",
+        "type": "n."
+      },
+      {
+        "definition": "a wholesale slaughter of animals",
+        "type": "n."
+      },
+      {
+        "definition": "an act of complete destruction",
+        "type": "n."
+      },
+      {
+        "definition": "to kill by massacre",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "massacre",
+      "massacres",
+      "massacred",
+      "massacrer",
+      "massacrers",
+      "massacring"
+    ]
   },
   "massive": {
     "def": [
       {
-        "definition": "Of considerable bulk and weight.",
+        "definition": "impressively large or ponderous",
+        "type": "adj."
+      },
+      {
+        "definition": "having no regular form but not necessarily lacking crystalline structure",
+        "type": "adj."
+      },
+      {
+        "definition": "large, solid, or heavy in structure",
+        "type": "adj."
+      },
+      {
+        "definition": "large in scope or degree",
+        "type": "adj."
+      },
+      {
+        "definition": "having mass {dx_def}see {/dx_def}",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "massive",
+      "massively",
+      "massiveness",
+      "massivenesses"
+    ]
   },
   "masterpiece": {
     "def": [
       {
-        "definition": "A superior production.",
+        "definition": "a work done with extraordinary skill",
+        "type": "n."
+      },
+      {
+        "definition": "a piece of work presented to a medieval guild as evidence of qualification for the rank of master",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "masterpiece",
+      "masterpieces"
+    ]
   },
   "mastery": {
     "def": [
       {
-        "definition": "The attainment of superior skill.",
+        "definition": "the authority of a master",
+        "type": "n."
+      },
+      {
+        "definition": "the upper hand in a contest or competition ,",
+        "type": "n."
+      },
+      {
+        "definition": "possession or display of great skill or technique",
+        "type": "n."
+      },
+      {
+        "definition": "skill or knowledge that makes one master of a subject",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "masteries",
+      "mastery"
+    ]
   },
   "material": {
     "def": [
       {
-        "definition": "That of which anything is composed or may be constructed.",
+        "definition": "having real importance or great consequences",
+        "type": "adj."
+      },
+      {
+        "definition": "being of a physical or worldly nature",
+        "type": "adj."
+      },
+      {
+        "definition": "relating to or concerned with physical rather than spiritual or intellectual things",
+        "type": "adj."
+      },
+      {
+        "definition": "a person potentially suited to some pursuit",
+        "type": "n."
+      },
+      {
+        "definition": "apparatus necessary for doing or making something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "material",
+      "materially",
+      "materialness",
+      "materialnesses",
+      "materials"
+    ]
   },
   "materialize": {
     "def": [
       {
-        "definition": "To take perceptible or substantial form.",
+        "definition": "to make material",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to appear in bodily form",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to be materialistic",
+        "type": "v."
+      },
+      {
+        "definition": "to assume bodily form",
+        "type": "v."
+      },
+      {
+        "definition": "to appear especially suddenly",
+        "type": "v."
+      },
+      {
+        "definition": "to come into existence",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "materialize",
+      "materialized",
+      "materializer",
+      "materializers",
+      "materializes",
+      "materializing"
+    ]
   },
   "maternal": {
     "def": [
       {
-        "definition": "Pertaining or peculiar to a mother or to motherhood.",
+        "definition": "of, relating to, belonging to, or characteristic of a mother",
+        "type": "adj."
+      },
+      {
+        "definition": "related through a mother",
+        "type": "adj."
+      },
+      {
+        "definition": "inherited or derived from the female parent",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "maternal",
+      "maternally"
+    ]
   },
   "matinee": {
     "def": [
       {
-        "definition": "An entertainment (especially theatrical) held in the daytime.",
+        "definition": "a musical or dramatic performance or social or public event held in the daytime and especially the afternoon",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "matinee",
+      "matinees",
+      "matinée"
+    ]
   },
   "matricide": {
     "def": [
       {
-        "definition": "The killing, especially the murdering, of one's mother.",
+        "definition": "murder of a mother by her child",
+        "type": "n."
+      },
+      {
+        "definition": "one who commits matricide",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "matricidal",
+      "matricide",
+      "matricides"
+    ]
   },
   "matrimony": {
     "def": [
       {
-        "definition": "The union of a man and a woman in marriage.",
+        "definition": "the state of being married",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "matrimonies",
+      "matrimony"
+    ]
   },
   "matrix": {
     "def": [
       {
-        "definition": "That which contains and gives shape or form to anything.",
+        "definition": "something within or from which something else originates, develops, or takes form",
+        "type": "n."
+      },
+      {
+        "definition": "a mold from which a relief {dx_def}see {/dx_def} surface (such as a piece of type) is made",
+        "type": "n."
+      },
+      {
+        "definition": "an engraved or inscribed die {dx_def}see {/dx_def} or stamp",
+        "type": "n."
+      },
+      {
+        "definition": "an  impression of a  record used for mass-producing duplicates of the original",
+        "type": "n."
+      },
+      {
+        "definition": "the natural material (such as soil or rock) in which something (such as a fossil or crystal) is embedded",
+        "type": "n."
+      },
+      {
+        "definition": "material in which something is enclosed or embedded (as for protection or study)",
+        "type": "n."
+      },
+      {
+        "definition": "the  substance in which tissue cells (as of ) are embedded",
+        "type": "n."
+      },
+      {
+        "definition": "the thickened  at the base of a fingernail or toenail from which new nail substance develops",
+        "type": "n."
+      },
+      {
+        "definition": "a rectangular array {dx_def}see {/dx_def} of mathematical elements (such as the coefficients {dx_def}see {/dx_def} of simultaneous {dx_def}see {/dx_def} ) that can be combined to form sums and products with similar arrays having an appropriate number of rows and columns",
+        "type": "n."
+      },
+      {
+        "definition": "something resembling a mathematical matrix especially in rectangular arrangement of elements into rows and columns",
+        "type": "n."
+      },
+      {
+        "definition": "an array of circuit elements (such as  and ) for performing a specific function",
+        "type": "n."
+      },
+      {
+        "definition": "a main {dx_def}see {/dx_def} clause that contains a subordinate {dx_def}see {/dx_def} clause",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "matrices",
+      "matrix",
+      "matrixes"
+    ]
   },
   "matter of fact": {
     "def": [
@@ -663,70 +1606,133 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "matter of fact"
+    ]
   },
   "maudlin": {
     "def": [
       {
-        "definition": "Foolishly and tearfully affectionate.",
+        "definition": "drunk enough to be emotionally silly",
+        "type": "adj."
+      },
+      {
+        "definition": "weakly and effusively sentimental",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "maudlin"
+    ]
   },
   "mausoleum": {
     "def": [
       {
-        "definition": "A tomb of more than ordinary size or architectural pretensions.",
+        "definition": "a large tomb",
+        "type": "n."
+      },
+      {
+        "definition": "a large gloomy building or room",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mausolea",
+      "mausoleum",
+      "mausoleums"
+    ]
   },
   "mawkish": {
     "def": [
       {
-        "definition": "Sickening or insipid.",
+        "definition": "lacking flavor or having an unpleasant taste",
+        "type": "adj."
+      },
+      {
+        "definition": "exaggeratedly or childishly emotional",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mawkish",
+      "mawkishly",
+      "mawkishness",
+      "mawkishnesses"
+    ]
   },
   "maxim": {
     "def": [
       {
-        "definition": "A principle accepted as true and acted on as a rule or guide.",
+        "definition": "a general truth, fundamental principle, or rule of conduct",
+        "type": "n."
+      },
+      {
+        "definition": "a proverbial saying",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maxim",
+      "maxims"
+    ]
   },
   "maze": {
     "def": [
       {
-        "definition": "A labyrinth.",
+        "definition": "a confusing intricate network of passages",
+        "type": "n."
+      },
+      {
+        "definition": "something confusingly elaborate or complicated",
+        "type": "n."
+      },
+      {
+        "definition": "a state of bewilderment",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "maze",
+      "mazed",
+      "mazes",
+      "mazing",
+      "mazelike"
+    ]
   },
   "mead": {
     "def": [
       {
-        "definition": "A meadow.",
+        "definition": "a fermented beverage made of water and honey, malt, and yeast",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mead",
+      "meads"
+    ]
   },
   "meager": {
     "def": [
       {
-        "definition": "scanty.",
+        "definition": "having little flesh",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking desirable qualities (such as richness or strength)",
+        "type": "adj."
+      },
+      {
+        "definition": "in quality or quantity",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "meager",
+      "meagerly",
+      "meagerness",
+      "meagernesses",
+      "meagre"
+    ]
   },
   "mealy-mouthed": {
     "def": [
@@ -735,106 +1741,270 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mealy-mouthed"
+    ]
   },
   "meander": {
     "def": [
       {
-        "definition": "To wind and turn while proceeding in a course.",
+        "definition": "a winding path or course",
+        "type": "n."
+      },
+      {
+        "definition": "a turn or winding of a stream",
+        "type": "n."
+      },
+      {
+        "definition": "to follow a winding or intricate course",
+        "type": "v."
+      },
+      {
+        "definition": "to wander aimlessly or casually without urgent destination",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "meander",
+      "meanders",
+      "meandrous",
+      "meandered",
+      "meandering"
+    ]
   },
   "mechanics": {
     "def": [
       {
-        "definition": "The branch of physics that treats the phenomena caused by the action of",
+        "definition": "a branch of physical science that deals with energy and forces and their effect on bodies",
+        "type": "n."
+      },
+      {
+        "definition": "the practical application of mechanics to the design, construction, or operation of machines or tools",
+        "type": "n."
+      },
+      {
+        "definition": "mechanical or functional details or procedure",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mechanics"
+    ]
   },
   "medallion": {
     "def": [
       {
-        "definition": "A large medal.",
+        "definition": "a large medal",
+        "type": "n."
+      },
+      {
+        "definition": "something resembling a large medal",
+        "type": "n."
+      },
+      {
+        "definition": "a small, round or oval serving (as of meat or fish)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "medaillon",
+      "medaillons",
+      "medallion",
+      "medallions"
+    ]
   },
   "meddlesome": {
     "def": [
       {
-        "definition": "Interfering.",
+        "definition": "having a tendency to",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "meddlesome",
+      "meddlesomeness",
+      "meddlesomenesses"
+    ]
   },
   "medial": {
     "def": [
       {
-        "definition": "Of or pertaining to the middle.",
+        "definition": "being or occurring in the middle",
+        "type": "adj."
+      },
+      {
+        "definition": "extending toward the middle",
+        "type": "adj."
+      },
+      {
+        "definition": "situated between the extremes of initial and final in a word or morpheme",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "medial",
+      "medially",
+      "medials"
+    ]
   },
   "mediate": {
     "def": [
       {
-        "definition": "To effect by negotiating as an agent between parties.",
+        "definition": "occupying a middle position",
+        "type": "adj."
+      },
+      {
+        "definition": "acting through an  agency",
+        "type": "adj."
+      },
+      {
+        "definition": "exhibiting indirect causation, connection, or relation",
+        "type": "adj."
+      },
+      {
+        "definition": "to bring accord out of by action as an intermediary {dx_def}see {/dx_def}",
+        "type": "v."
+      },
+      {
+        "definition": "to effect by action as an intermediary {dx_def}see {/dx_def}",
+        "type": "v."
+      },
+      {
+        "definition": "to act as intermediary {dx_def}see {/dx_def} agent in bringing, effecting, or communicating",
+        "type": "v."
+      },
+      {
+        "definition": "to transmit as intermediate mechanism or agency",
+        "type": "v."
+      },
+      {
+        "definition": "to  between parties in order to reconcile {dx_def}see {/dx_def} them",
+        "type": "v."
+      },
+      {
+        "definition": "to reconcile {dx_def}see {/dx_def} differences",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mediacies",
+      "mediacy",
+      "mediate",
+      "mediately",
+      "mediated",
+      "mediates",
+      "mediating",
+      "mediative",
+      "mediatory"
+    ]
   },
   "medicine": {
     "def": [
       {
-        "definition": "A substance possessing or reputed to possess curative or remedial properties.",
+        "definition": "a substance or preparation used in treating disease",
+        "type": "n."
+      },
+      {
+        "definition": "something that affects well-being",
+        "type": "n."
+      },
+      {
+        "definition": "the science and art dealing with the maintenance of health and the prevention, alleviation, or cure of disease",
+        "type": "n."
+      },
+      {
+        "definition": "the branch of medicine concerned with the nonsurgical treatment of disease",
+        "type": "n."
+      },
+      {
+        "definition": "a substance (such as a drug or potion) used to treat something other than disease",
+        "type": "n."
+      },
+      {
+        "definition": "an object (such as a stone, animal bone, or plant root) which in some Indigenous American traditions is held to give control over natural or magical forces",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "medicine",
+      "medicined",
+      "medicines",
+      "medicining"
+    ]
   },
   "medieval": {
     "def": [
       {
-        "definition": "Belonging or relating to or descriptive of the middle ages.",
+        "definition": "of, relating to, or characteristic of the",
         "type": "adj."
+      },
+      {
+        "definition": "having a quality (such as cruelty) associated with the Middle Ages",
+        "type": "adj."
+      },
+      {
+        "definition": "extremely outmoded or antiquated",
+        "type": "adj."
+      },
+      {
+        "definition": "a person of the Middle Ages",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mediaeval",
+      "medieval",
+      "medievally",
+      "mediaevals",
+      "medievals"
+    ]
   },
   "mediocre": {
     "def": [
       {
-        "definition": "Ordinary.",
+        "definition": "of moderate or low quality, value, ability, or  ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mediocre"
+    ]
   },
   "meditation": {
     "def": [
       {
-        "definition": "The turning or revolving of a subject in the mind.",
+        "definition": "a  intended to express its author's reflections or to guide others in",
+        "type": "n."
+      },
+      {
+        "definition": "the act or process of",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "meditation",
+      "meditations"
+    ]
   },
   "medley": {
     "def": [
       {
-        "definition": "A composition of different songs or parts of songs arranged to run as a",
+        "definition": "a musical composition made up of a series of songs or short pieces",
+        "type": "n."
+      },
+      {
+        "definition": "a diverse assortment or mixture",
+        "type": "n."
+      },
+      {
+        "definition": "a race in swimming in which swimmers use a different stroke for each different part of the race",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "medley",
+      "medleys"
+    ]
   },
   "meliorate": {
     "def": [
@@ -843,160 +2013,339 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "meliorate"
+    ]
   },
   "mellifluous": {
     "def": [
       {
-        "definition": "Sweetly or smoothly flowing.",
+        "definition": "having a smooth rich flow",
+        "type": "adj."
+      },
+      {
+        "definition": "filled with something (such as honey) that sweetens",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mellifluous",
+      "mellifluously",
+      "mellifluousness",
+      "mellifluousnesses"
+    ]
   },
   "melodious": {
     "def": [
       {
-        "definition": "Characterized by a sweet succession of sounds.",
+        "definition": "having a pleasing melody",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or producing melody",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "melodious",
+      "melodiously",
+      "melodiousness",
+      "melodiousnesses"
+    ]
   },
   "melodrama": {
     "def": [
       {
-        "definition": "A drama with a romantic story or plot and sensational situation and",
+        "definition": "a work (such as a movie or play) characterized by extravagant theatricality and by the predominance of plot and physical action over characterization",
+        "type": "n."
+      },
+      {
+        "definition": "the genre {dx_def}see {/dx_def} of dramatic literature constituted by such works",
+        "type": "n."
+      },
+      {
+        "definition": "something resembling a melodrama especially in having a sensational or theatrical quality",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "melodrama",
+      "melodramas",
+      "melodramatist",
+      "melodramatists"
+    ]
   },
   "memento": {
     "def": [
       {
-        "definition": "A souvenir.",
+        "definition": "something that serves to warn or remind",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "memento",
+      "mementoes",
+      "mementos"
+    ]
   },
   "memorable": {
     "def": [
       {
-        "definition": "Noteworthy.",
+        "definition": "worth remembering",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "memorable",
+      "memorableness",
+      "memorablenesses",
+      "memorably"
+    ]
   },
   "menace": {
     "def": [
       {
-        "definition": "A threat.",
+        "definition": "a show of intention to inflict harm",
         "type": "n."
+      },
+      {
+        "definition": "a dangerous or threatening quality",
+        "type": "n."
+      },
+      {
+        "definition": "one that represents a threat",
+        "type": "n."
+      },
+      {
+        "definition": "an annoying person",
+        "type": "n."
+      },
+      {
+        "definition": "to make a show of intention to harm",
+        "type": "v."
+      },
+      {
+        "definition": "to represent or pose a threat to",
+        "type": "v."
+      },
+      {
+        "definition": "to act in a threatening manner",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "menace",
+      "menaces",
+      "menaced",
+      "menacing"
+    ]
   },
   "menagerie": {
     "def": [
       {
-        "definition": "A collection of wild animals, especially when kept for exhibition.",
+        "definition": "a place where animals are kept and trained especially for exhibition",
+        "type": "n."
+      },
+      {
+        "definition": "a collection of wild or foreign animals kept especially for exhibition",
+        "type": "n."
+      },
+      {
+        "definition": "a varied mixture",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "menagerie",
+      "menageries"
+    ]
   },
   "mendacious": {
     "def": [
       {
-        "definition": "Untrue.",
+        "definition": "given to or characterized by deception or falsehood or divergence from absolute truth",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mendacious",
+      "mendaciously",
+      "mendaciousness",
+      "mendaciousnesses"
+    ]
   },
   "mendicant": {
     "def": [
       {
-        "definition": "A beggar.",
+        "definition": "one who begs",
         "type": "n."
+      },
+      {
+        "definition": "a member of a religious order (such as the Franciscans) combining  life and outside religious activity and originally owning neither personal nor community property",
+        "type": "n."
+      },
+      {
+        "definition": "practicing beggary engaged in begging",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, belonging to, or constituting a religious order combining monastic life and outside religious activity and originally owning neither personal nor community property",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Mendicant",
+      "Mendicants",
+      "mendicant",
+      "mendicants"
+    ]
   },
   "mentality": {
     "def": [
       {
-        "definition": "Intellectuality.",
+        "definition": "mental power or capacity",
+        "type": "n."
+      },
+      {
+        "definition": "mode or way of thought",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mentalities",
+      "mentality"
+    ]
   },
   "mentor": {
     "def": [
       {
-        "definition": "A wise and faithful teacher, guide, and friend.",
+        "definition": "a person who gives help and advice to a less experienced and often younger person especially in a professional or academic context",
         "type": "n."
+      },
+      {
+        "definition": "a teacher, tutor, or coach",
+        "type": "n."
+      },
+      {
+        "definition": "a friend of Odysseus entrusted with the education of Odysseus' son Telemachus",
+        "type": "n."
+      },
+      {
+        "definition": "to teach or give advice or guidance to (someone less experienced) to act as a mentor for",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "Mentor",
+      "Mentors",
+      "mentor",
+      "mentors",
+      "mentored",
+      "mentoring"
+    ]
   },
   "mercantile": {
     "def": [
       {
-        "definition": "Conducted or acting on business principles; commercial.",
+        "definition": "of or relating to merchants or trading",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or having the characteristics of",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mercantile"
+    ]
   },
   "mercenary": {
     "def": [
       {
-        "definition": "Greedy",
+        "definition": "one that serves merely for wages",
+        "type": "n."
+      },
+      {
+        "definition": "serving merely for pay or sordid advantage",
+        "type": "adj."
+      },
+      {
+        "definition": "hired for service in the army of a foreign country",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mercenaries",
+      "mercenary",
+      "mercenarily",
+      "mercenariness",
+      "mercenarinesses"
+    ]
   },
   "merciful": {
     "def": [
       {
-        "definition": "Disposed to pity and forgive.",
+        "definition": "full of mercy",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "merciful",
+      "mercifulness",
+      "mercifulnesses"
+    ]
   },
   "merciless": {
     "def": [
       {
-        "definition": "Cruel.",
+        "definition": "having or showing no mercy",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "merciless",
+      "mercilessly",
+      "mercilessness",
+      "mercilessnesses"
+    ]
   },
   "meretricious": {
     "def": [
       {
-        "definition": "Alluring by false or gaudy show.",
+        "definition": "tastelessly showy and falsely attractive",
+        "type": "adj."
+      },
+      {
+        "definition": "superficially {dx_def}see {/dx_def} significant",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a person who engages in sex acts and especially sexual intercourse in exchange for pay",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "meretricious",
+      "meretriciously",
+      "meretriciousness",
+      "meretriciousnesses"
+    ]
   },
   "mesmerize": {
     "def": [
       {
-        "definition": "To hypnotize.",
+        "definition": "to subject to",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mesmerize",
+      "mesmerized",
+      "mesmerizer",
+      "mesmerizers",
+      "mesmerizes",
+      "mesmerizing"
+    ]
   },
   "messieurs": {
     "def": [
@@ -1005,754 +2354,1643 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "messieurs"
+    ]
   },
   "metal": {
     "def": [
       {
-        "definition": "An element that forms a base by combining with oxygen, is usually hard, heavy,",
+        "definition": "any of various opaque, fusible, ductile, and typically lustrous substances that are good conductors of electricity and heat, form cations by loss of electrons, and yield basic oxides and hydroxides",
         "type": "n."
+      },
+      {
+        "definition": "the substance out of which a person or thing is made",
+        "type": "n."
+      },
+      {
+        "definition": "glass in its molten state",
+        "type": "n."
+      },
+      {
+        "definition": "printing type metal",
+        "type": "n."
+      },
+      {
+        "definition": "matter set in metal type",
+        "type": "n."
+      },
+      {
+        "definition": "to cover or furnish with metal",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "metal",
+      "metals",
+      "metaled",
+      "metaling",
+      "metalled",
+      "metalling"
+    ]
   },
   "metallurgy": {
     "def": [
       {
-        "definition": "The art or science of extracting a metal from ores, as by smelting.",
+        "definition": "the science and technology of metals",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metallurgical",
+      "metallurgically",
+      "metallurgies",
+      "metallurgist",
+      "metallurgists",
+      "metallurgy"
+    ]
   },
   "metamorphosis": {
     "def": [
       {
-        "definition": "A passing from one form or shape into another.",
+        "definition": "change of physical form, structure, or substance especially by  means",
+        "type": "n."
+      },
+      {
+        "definition": "a striking alteration in appearance, character, or circumstances",
+        "type": "n."
+      },
+      {
+        "definition": "a typically marked and more or less abrupt developmental change in the form or structure of an animal (such as a butterfly or a frog) occurring subsequent to birth or hatching",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metamorphoses",
+      "metamorphosis"
+    ]
   },
   "metaphor": {
     "def": [
       {
-        "definition": "A figure of speech in which one object is likened to another, by speaking as",
+        "definition": "a  in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or  between them (as in swimming in paperwork)",
+        "type": "n."
+      },
+      {
+        "definition": "an object, activity, or idea treated as a metaphor",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metaphor",
+      "metaphoric",
+      "metaphorical",
+      "metaphors"
+    ]
   },
   "metaphysical": {
     "def": [
       {
-        "definition": "Philosophical.",
+        "definition": "of or relating to",
         "type": "adj."
+      },
+      {
+        "definition": "of or relating to the transcendent {dx_def}see {/dx_def} or to a reality beyond what is perceptible to the senses",
+        "type": "adj."
+      },
+      {
+        "definition": "highly abstract or abstruse",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to poetry especially of the early 17th century that is highly intellectual and philosophical and marked by unconventional figurative language",
+        "type": "adj."
+      },
+      {
+        "definition": "a metaphysical poet of the 17th century",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Metaphysical",
+      "metaphysical",
+      "metaphysically",
+      "Metaphysicals"
+    ]
   },
   "metaphysician": {
     "def": [
       {
-        "definition": "One skilled in metaphysics.",
+        "definition": "a student of or specialist in metaphysics",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metaphysician",
+      "metaphysicians"
+    ]
   },
   "metaphysics": {
     "def": [
       {
-        "definition": "The principles of philosophy as applied to explain the methods of any",
+        "definition": "abstract philosophical studies a study of what is outside objective experience",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metaphysics"
+    ]
   },
   "mete": {
     "def": [
       {
-        "definition": "To apportion.",
+        "definition": "to give out by measure",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mete",
+      "meted",
+      "metes",
+      "meting"
+    ]
   },
   "metempsychosis": {
     "def": [
       {
-        "definition": "Transition of the soul of a human being at death into another body,",
+        "definition": "the passing of the soul at death into another body either human or animal",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metempsychoses",
+      "metempsychosis"
+    ]
   },
   "meticulous": {
     "def": [
       {
-        "definition": "Over-cautious.",
+        "definition": "very careful about doing something in an extremely accurate and exact way",
+        "type": "adj."
+      },
+      {
+        "definition": "showing or requiring extreme care and attention to detail",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "meticulosities",
+      "meticulosity",
+      "meticulous",
+      "meticulously",
+      "meticulousness",
+      "meticulousnesses"
+    ]
   },
   "metonymy": {
     "def": [
       {
-        "definition": "A figure of speech that consists in the naming of a thing by one of its",
+        "definition": "a  consisting of the use of the name of one thing for that of another of which it is an attribute or with which it is associated (such as \"crown\" in \"lands belonging to the crown\")",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metonymic",
+      "metonymical",
+      "metonymies",
+      "metonymy"
+    ]
   },
   "metric": {
     "def": [
       {
-        "definition": "Relating to measurement.",
+        "definition": "a part of  that deals with metrical {dx_def}see {/dx_def} structure",
+        "type": "n."
+      },
+      {
+        "definition": "a standard of measurement",
+        "type": "n."
+      },
+      {
+        "definition": "a mathematical function that associates a real nonnegative number analogous to distance with each pair of elements in a set such that the number is zero only if the two elements are identical, the number is the same regardless of the order in which the two elements are taken, and the number associated with one pair of elements plus that associated with one member of the pair and a third element is equal to or greater than the number associated with the other member of the pair and the third element",
+        "type": "n."
+      },
+      {
+        "definition": "of, relating to, or using the metric system",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "metric",
+      "metrics"
+    ]
   },
   "metronome": {
     "def": [
       {
-        "definition": "An instrument for indicating and marking exact time in music.",
+        "definition": "something (such as a device or app) designed to mark an exact tempo or rhythm by regularly repeated sounds or flashes",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metronome",
+      "metronomes"
+    ]
   },
   "metropolis": {
     "def": [
       {
-        "definition": "A chief city, either the capital or the largest or most important city of a",
+        "definition": "the chief or capital city of a country, state, or region",
+        "type": "n."
+      },
+      {
+        "definition": "the city or state of origin of a colony (as of ancient Greece)",
+        "type": "n."
+      },
+      {
+        "definition": "a city regarded as a center of a specified activity",
+        "type": "n."
+      },
+      {
+        "definition": "a large important city",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "metropolis",
+      "metropolises"
+    ]
   },
   "metropolitan": {
     "def": [
       {
-        "definition": "Pertaining to a chief city.",
+        "definition": "the primate of an ecclesiastical province",
+        "type": "n."
+      },
+      {
+        "definition": "one who lives in a metropolis or displays metropolitan manners or customs",
+        "type": "n."
+      },
+      {
+        "definition": "of or constituting a metropolitan or his see",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of a metropolis and sometimes including its suburbs",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or constituting a mother country as distinguished from a colony",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "metropolitan",
+      "metropolitans"
+    ]
   },
   "mettle": {
     "def": [
       {
-        "definition": "Courage.",
+        "definition": "vigor and strength of spirit or temperament {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "staying quality",
+        "type": "n."
+      },
+      {
+        "definition": "quality of temperament or disposition",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mettle",
+      "mettled",
+      "mettles"
+    ]
   },
   "mettlesome": {
     "def": [
       {
-        "definition": "Having courage or spirit.",
+        "definition": "full of mettle",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mettlesome"
+    ]
   },
   "microcosm": {
     "def": [
       {
-        "definition": "The world or universe on a small scale.",
+        "definition": "a little world",
+        "type": "n."
+      },
+      {
+        "definition": "a community or other unity that is an epitome {dx_def}see {/dx_def} of a larger unity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "microcosm",
+      "microcosmic",
+      "microcosmically",
+      "microcosms"
+    ]
   },
   "micrometer": {
     "def": [
       {
-        "definition": "An instrument for measuring very small angles or dimensions.",
+        "definition": "an instrument used with a telescope or microscope for measuring minute distances",
+        "type": "n."
+      },
+      {
+        "definition": "a caliper for making precise measurements that has a spindle moved by a finely threaded screw",
+        "type": "n."
+      },
+      {
+        "definition": "a unit of length equal to one millionth of a meter  {dx}see",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "micrometer",
+      "micrometers",
+      "micron"
+    ]
   },
   "microphone": {
     "def": [
       {
-        "definition": "An apparatus for magnifying faint sounds.",
+        "definition": "an instrument whereby sound waves are caused to generate or modulate an electric current usually for the purpose of transmitting or recording sound (such as speech or music)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "microphone",
+      "microphones",
+      "microphonic"
+    ]
   },
   "microscope": {
     "def": [
       {
-        "definition": "An instrument for assisting the eye in the vision of minute objects or",
+        "definition": "an optical instrument consisting of a lens or combination of lenses for making enlarged images of minute objects",
+        "type": "n."
+      },
+      {
+        "definition": "a non-optical instrument (such as one using radiations other than light or using vibrations) for making enlarged images of minute objects",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "microscope",
+      "microscopes"
+    ]
   },
   "microscopic": {
     "def": [
       {
-        "definition": "Adapted to or characterized by minute observation.",
+        "definition": "resembling a microscope especially in perception",
+        "type": "adj."
+      },
+      {
+        "definition": "invisible or indistinguishable without the use of a microscope",
+        "type": "adj."
+      },
+      {
+        "definition": "very small or fine or precise",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or conducted with the microscope or microscopy",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "microscopic",
+      "microscopical",
+      "microscopically"
+    ]
   },
   "microscopy": {
     "def": [
       {
-        "definition": "The art of examing objects with the microscope.",
+        "definition": "the use of or investigation with a microscope",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "microscopies",
+      "microscopist",
+      "microscopists",
+      "microscopy"
+    ]
   },
   "midsummer": {
     "def": [
       {
-        "definition": "The middle of the summer.",
+        "definition": "the middle of summer",
+        "type": "n."
+      },
+      {
+        "definition": "the summer solstice",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "midsummer",
+      "midsummers"
+    ]
   },
   "midwife": {
     "def": [
       {
-        "definition": "A woman who makes a business of assisting at childbirth.",
+        "definition": "a person who assists women in childbirth {dx}compare",
         "type": "n."
+      },
+      {
+        "definition": "one that helps to produce or bring forth something",
+        "type": "n."
+      },
+      {
+        "definition": "to assist in producing, bringing forth, or bringing about",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "midwife",
+      "midwives",
+      "midwifed",
+      "midwifes",
+      "midwifing",
+      "midwived",
+      "midwiving"
+    ]
   },
   "mien": {
     "def": [
       {
-        "definition": "The external appearance or manner of a person.",
+        "definition": "air {dx_def}see {/dx_def} or bearing especially as expressive of attitude or personality",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mien",
+      "miens"
+    ]
   },
   "migrant": {
     "def": [
       {
-        "definition": "Wandering.",
-        "type": "adj."
+        "definition": "a person who moves regularly in order to find work especially in harvesting crops",
+        "type": "n."
+      },
+      {
+        "definition": "an animal (such as a gray whale, monarch butterfly, leatherback sea turtle, or Canada goose) that moves usually long distances from one habitat or geographic region to another",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "migrant",
+      "migrants"
+    ]
   },
   "migrate": {
     "def": [
       {
-        "definition": "To remove or pass from one country, region, or habitat to another.",
-        "type": "v."
+        "definition": "to move from one country, place, or locality to another",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to pass usually periodically from one region or climate to another for feeding or breeding",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to relocate (information) from storage or operation on one computer or computer system to another",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to change position or location in an organism or substance",
+        "type": "transitive + intransitive"
       }
     ],
-    "forms": []
+    "forms": [
+      "migratable",
+      "migrate",
+      "migrated",
+      "migrates",
+      "migrating",
+      "migration",
+      "migrational",
+      "migrations",
+      "migrator",
+      "migrators"
+    ]
   },
   "migratory": {
     "def": [
       {
-        "definition": "Wandering.",
+        "definition": "of, relating to, or characterized by migration",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "migratory"
+    ]
   },
   "mileage": {
     "def": [
       {
-        "definition": "A distance in miles.",
+        "definition": "an allowance for traveling expenses at a certain rate per mile",
+        "type": "n."
+      },
+      {
+        "definition": "the total miles traveled especially in a given period of time",
+        "type": "n."
+      },
+      {
+        "definition": "the amount of service that something will yield especially as expressed in terms of miles of travel",
+        "type": "n."
+      },
+      {
+        "definition": "the average number of miles a motor vehicle will travel on a gallon of gasoline that is used as a measure of fuel economy",
+        "type": "n."
+      },
+      {
+        "definition": "benefit derived from something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mileage",
+      "mileages"
+    ]
   },
   "militant": {
     "def": [
       {
-        "definition": "Of a warlike or combative disposition or tendency.",
+        "definition": "engaged in warfare or combat",
+        "type": "adj."
+      },
+      {
+        "definition": "aggressively active (as in a cause)",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "militant",
+      "militantly",
+      "militantness",
+      "militantnesses",
+      "militants"
+    ]
   },
   "militarism": {
     "def": [
       {
-        "definition": "A policy of maintaining great standing armies.",
+        "definition": "predominance of the military class or its ideals",
+        "type": "n."
+      },
+      {
+        "definition": "exaltation of military virtues and ideals",
+        "type": "n."
+      },
+      {
+        "definition": "a policy of aggressive military preparedness",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "militarism",
+      "militarisms",
+      "militarist",
+      "militaristic",
+      "militaristically",
+      "militarists"
+    ]
   },
   "militate": {
     "def": [
       {
-        "definition": "To have weight or influence (in determining a question).",
+        "definition": "to have weight or effect",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "militate",
+      "militated",
+      "militates",
+      "militating"
+    ]
   },
   "militia": {
     "def": [
       {
-        "definition": "Those citizens, collectively, who are enrolled and drilled in temporary",
+        "definition": "a part of the organized  of a country liable to call only in emergency",
+        "type": "n."
+      },
+      {
+        "definition": "a body of citizens organized for military service",
+        "type": "n."
+      },
+      {
+        "definition": "the whole body of  male citizens declared by law as being subject to call to military service",
+        "type": "n."
+      },
+      {
+        "definition": "a private group of armed individuals that operates as a paramilitary force and is typically motivated by a political or religious ideology",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "militia",
+      "militias"
+    ]
   },
   "milky way": {
     "def": [
       {
-        "definition": "The galaxy.",
+        "definition": "a broad luminous irregular band of light that stretches completely around the celestial sphere and is caused by the light of myriads of faint stars",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "milky way"
+    ]
   },
   "millet": {
     "def": [
       {
-        "definition": "A grass cultivated for forage and cereal.",
+        "definition": "a Eurasian grass (Panicum miliaceum) cultivated for its grain which is used for food",
+        "type": "n."
+      },
+      {
+        "definition": "any of several grasses related to common millet",
+        "type": "n."
+      },
+      {
+        "definition": "the seed of a millet",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "millet",
+      "millets"
+    ]
   },
   "mimic": {
     "def": [
       {
-        "definition": "To imitate the speech or actions of.",
+        "definition": "one that",
+        "type": "n."
+      },
+      {
+        "definition": "of or relating to mime or mimicry",
+        "type": "adj."
+      },
+      {
+        "definition": "to imitate closely",
+        "type": "v."
+      },
+      {
+        "definition": "to ridicule by imitation",
+        "type": "v."
+      },
+      {
+        "definition": "to resemble by biological mimicry",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mimic",
+      "mimics",
+      "mimicked",
+      "mimicking"
+    ]
   },
   "miniature": {
     "def": [
       {
-        "definition": "Much smaller than reality or that the normal size.",
+        "definition": "a copy on a much reduced scale",
+        "type": "n."
+      },
+      {
+        "definition": "something small of its kind",
+        "type": "n."
+      },
+      {
+        "definition": "a painting in an illuminated {dx_def}see {/dx_def} book or manuscript",
+        "type": "n."
+      },
+      {
+        "definition": "the art of painting miniatures",
+        "type": "n."
+      },
+      {
+        "definition": "a very small portrait or other painting (as on ivory or metal)",
+        "type": "n."
+      },
+      {
+        "definition": "being or represented on a small scale",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "miniature",
+      "miniatures",
+      "miniaturist",
+      "miniaturistic",
+      "miniaturists"
+    ]
   },
   "minimize": {
     "def": [
       {
-        "definition": "To reduce to the smallest possible amount or degree.",
+        "definition": "to reduce or keep to a minimum",
+        "type": "v."
+      },
+      {
+        "definition": "to underestimate intentionally ,",
+        "type": "v."
+      },
+      {
+        "definition": "to replace (a window) on a computer display with a small button or icon which will restore the window when selected",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "minimization",
+      "minimizations",
+      "minimize",
+      "minimized",
+      "minimizer",
+      "minimizers",
+      "minimizes",
+      "minimizing"
+    ]
   },
   "minion": {
     "def": [
       {
-        "definition": "A servile favorite.",
+        "definition": "a  dependent, follower, or underling",
+        "type": "n."
+      },
+      {
+        "definition": "one highly favored",
+        "type": "n."
+      },
+      {
+        "definition": "a subordinate {dx_def}see {/dx_def} or petty official",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "minion",
+      "minions",
+      "munnion"
+    ]
   },
   "ministration": {
     "def": [
       {
-        "definition": "Any religious ceremonial.",
+        "definition": "the act or process of ministering",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "ministration",
+      "ministrations"
+    ]
   },
   "ministry": {
     "def": [
       {
-        "definition": "A service.",
+        "definition": "the office, duties, or functions of a minister",
+        "type": "n."
+      },
+      {
+        "definition": "the body of ministers of religion",
+        "type": "n."
+      },
+      {
+        "definition": "a person or thing through which something is accomplished ,",
+        "type": "n."
+      },
+      {
+        "definition": "the period of service or office of a minister or ministry",
+        "type": "n."
+      },
+      {
+        "definition": "the body of ministers governing a nation or state from which a smaller cabinet {dx_def}see {/dx_def} is sometimes selected",
+        "type": "n."
+      },
+      {
+        "definition": "the group of ministers constituting a cabinet",
+        "type": "n."
+      },
+      {
+        "definition": "a government department presided over by a minister",
+        "type": "n."
+      },
+      {
+        "definition": "the building in which the business of a ministry is transacted",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Ministries",
+      "Ministry",
+      "ministries",
+      "ministry"
+    ]
   },
   "minority": {
     "def": [
       {
-        "definition": "The smaller in number of two portions into which a number or a group is",
+        "definition": "the smaller in number of two groups constituting a whole  a number or percentage equaling less than half of a total",
+        "type": "n."
+      },
+      {
+        "definition": "the smaller quantity or share",
+        "type": "n."
+      },
+      {
+        "definition": "the group or political party having the smaller number of votes",
+        "type": "n."
+      },
+      {
+        "definition": "a part of a population thought of as differing from the rest of the population in some characteristics and often subjected to differential treatment",
+        "type": "n."
+      },
+      {
+        "definition": "a member of a minority group",
+        "type": "n."
+      },
+      {
+        "definition": "the period before a person reaches the age of majority {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being a legal",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "minorities",
+      "minority"
+    ]
   },
   "minute": {
     "def": [
       {
-        "definition": "Exceedingly small in extent or quantity.",
+        "definition": "the 60th part of an hour of time 60 seconds",
+        "type": "n."
+      },
+      {
+        "definition": "the 60th part of a degree of angular measure",
+        "type": "n."
+      },
+      {
+        "definition": "the distance one can traverse in a minute",
+        "type": "n."
+      },
+      {
+        "definition": "a short space of time",
+        "type": "n."
+      },
+      {
+        "definition": "a brief note (as of summary or recommendation)",
+        "type": "n."
+      },
+      {
+        "definition": "the official record of the proceedings of a meeting",
+        "type": "n."
+      },
+      {
+        "definition": "very small",
         "type": "adj."
+      },
+      {
+        "definition": "of small importance",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by close attention to details",
+        "type": "adj."
+      },
+      {
+        "definition": "to make notes or a brief summary of",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "minute",
+      "minutes",
+      "minuteness",
+      "minutenesses",
+      "minuter",
+      "minutest",
+      "minuted",
+      "minuting"
+    ]
   },
   "minutia": {
     "def": [
       {
-        "definition": "A small or unimportant particular or detail.",
+        "definition": "a  or minor detail",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "minutia",
+      "minutiae"
+    ]
   },
   "mirage": {
     "def": [
       {
-        "definition": "An optical effect looking like a sheet of water in the desert.",
+        "definition": "an optical {dx_def}see {/dx_def} effect that is sometimes seen at sea, in the desert, or over a hot pavement, that may have the appearance of a pool of water or a mirror in which distant objects are seen inverted, and that is caused by the bending or reflection of rays of light by a layer of heated air of varying density",
+        "type": "n."
+      },
+      {
+        "definition": "something  and unattainable like a mirage",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mirage",
+      "mirages"
+    ]
   },
   "misadventure": {
-    "def": [
-      {
-        "definition": "An unlucky accident.",
-        "type": "n."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "misadventure",
+      "misadventures"
+    ]
   },
   "misanthropic": {
     "def": [
       {
-        "definition": "Hating mankind.",
+        "definition": "of, relating to, or characteristic of a",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by a hatred or contempt for",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "misanthropic",
+      "misanthropically"
+    ]
   },
   "misanthropy": {
     "def": [
       {
-        "definition": "Hatred of mankind.",
+        "definition": "a hatred or distrust of humankind",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misanthropies",
+      "misanthropy"
+    ]
   },
   "misapprehend": {
     "def": [
       {
-        "definition": "To misunderstand.",
+        "definition": "to apprehend wrongly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "misapprehend",
+      "misapprehended",
+      "misapprehending",
+      "misapprehends",
+      "misapprehension",
+      "misapprehensions"
+    ]
   },
   "misbehave": {
     "def": [
       {
-        "definition": "To behave ill.",
-        "type": "v."
+        "definition": "to conduct (oneself) badly or improperly",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to behave with poor manners or a lack of courtesy",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to behave with disregard for accepted  standards especially in sexual matters",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to behave before or in the presence of the enemy in a way that does not conform to military standards or practice",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "to behave in an unexpected or unwelcome way",
+        "type": "transitive + intransitive"
       }
     ],
-    "forms": []
+    "forms": [
+      "misbehave",
+      "misbehaved",
+      "misbehaver",
+      "misbehavers",
+      "misbehaves",
+      "misbehaving"
+    ]
   },
   "misbehavior": {
     "def": [
       {
-        "definition": "Ill or improper behavior.",
+        "definition": "bad, improper, or rude  ill conduct",
+        "type": "n."
+      },
+      {
+        "definition": "any conduct by a member of the armed forces before or in the presence of the enemy that does not conform to military standards or practice for such a situation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misbehavior",
+      "misbehaviors"
+    ]
   },
   "mischievous": {
     "def": [
       {
-        "definition": "Fond of tricks.",
+        "definition": "able or tending to cause annoyance, trouble, or minor injury",
+        "type": "adj."
+      },
+      {
+        "definition": "showing a playful desire to cause trouble",
+        "type": "adj."
+      },
+      {
+        "definition": "intended to harm someone or someone's reputation ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mischievous",
+      "mischievously",
+      "mischievousness",
+      "mischievousnesses"
+    ]
   },
   "miscount": {
     "def": [
       {
-        "definition": "To make a mistake in counting.",
-        "type": "v."
+        "definition": "to make a mistake in  (something) to count (something) incorrectly",
+        "type": "transitive + intransitive"
+      },
+      {
+        "definition": "an incorrect",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "miscount",
+      "miscounted",
+      "miscounting",
+      "miscounts"
+    ]
   },
   "miscreant": {
     "def": [
       {
-        "definition": "A villain.",
+        "definition": "one who behaves criminally or viciously",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "miscreant",
+      "miscreants"
+    ]
   },
   "misdeed": {
     "def": [
       {
-        "definition": "A wrong or improper act.",
+        "definition": "a wrong deed",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misdeed",
+      "misdeeds"
+    ]
   },
   "misdemeanor": {
     "def": [
       {
-        "definition": "Evil conduct, small crime.",
+        "definition": "a crime less serious than a felony {dx_def}see {/dx_def}",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misdemeanor",
+      "misdemeanors"
+    ]
   },
   "miser": {
     "def": [
       {
-        "definition": "A person given to saving and hoarding unduly.",
+        "definition": "a mean grasping person",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "miser",
+      "misers"
+    ]
   },
   "mishap": {
     "def": [
       {
-        "definition": "Misfortune.",
+        "definition": "an unfortunate accident",
+        "type": "n."
+      },
+      {
+        "definition": "bad luck",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mishap",
+      "mishaps"
+    ]
   },
   "misinterpret": {
     "def": [
       {
-        "definition": "To misunderstand.",
+        "definition": "to explain wrongly",
+        "type": "v."
+      },
+      {
+        "definition": "to understand wrongly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "misinterpret",
+      "misinterpreted",
+      "misinterpreting",
+      "misinterprets"
+    ]
   },
   "mislay": {
     "def": [
       {
-        "definition": "To misplace.",
+        "definition": "to put in an unremembered place",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mislaid",
+      "mislay",
+      "mislaying",
+      "mislays"
+    ]
   },
   "mismanage": {
     "def": [
       {
-        "definition": "To manage badly, improperly, or unskillfully.",
+        "definition": "to manage (something) wrongly or poorly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mismanage",
+      "mismanaged",
+      "mismanagement",
+      "mismanagements",
+      "mismanages",
+      "mismanaging"
+    ]
   },
   "misnomer": {
     "def": [
       {
-        "definition": "A name wrongly or mistakenly applied.",
+        "definition": "the misnaming of a person in a legal instrument",
+        "type": "n."
+      },
+      {
+        "definition": "a use of a wrong or inappropriate name",
+        "type": "n."
+      },
+      {
+        "definition": "a wrong name or inappropriate designation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misnomer",
+      "misnomered",
+      "misnomers"
+    ]
   },
   "misogamy": {
     "def": [
       {
-        "definition": "Hatred of marriage.",
+        "definition": "a hatred of marriage",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misogamies",
+      "misogamist",
+      "misogamists",
+      "misogamy"
+    ]
   },
   "misogyny": {
     "def": [
       {
-        "definition": "Hatred of women.",
+        "definition": "hatred of, aversion to, or prejudice against women",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misogynies",
+      "misogyny"
+    ]
   },
   "misplace": {
     "def": [
       {
-        "definition": "To put into a wrong place.",
+        "definition": "to put in a wrong or inappropriate place",
+        "type": "v."
+      },
+      {
+        "definition": "to set on a wrong object or eventuality",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "misplace",
+      "misplaced",
+      "misplacement",
+      "misplacements",
+      "misplaces",
+      "misplacing"
+    ]
   },
   "misrepresent": {
     "def": [
       {
-        "definition": "To give a wrong impression.",
+        "definition": "to give a false or misleading representation of usually with an intent to deceive or be unfair",
+        "type": "v."
+      },
+      {
+        "definition": "to serve badly or improperly as a representative of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "misrepresent",
+      "misrepresentation",
+      "misrepresentations",
+      "misrepresentative",
+      "misrepresented",
+      "misrepresenting",
+      "misrepresents"
+    ]
   },
   "misrule": {
     "def": [
       {
-        "definition": "To misgovern.",
+        "definition": "to rule incompetently",
         "type": "v."
+      },
+      {
+        "definition": "the action of misruling the condition of being misruled",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misrule",
+      "misruled",
+      "misrules",
+      "misruling"
+    ]
   },
   "missal": {
     "def": [
       {
-        "definition": "The book containing the service for the celebration of mass.",
+        "definition": "a book containing all that is said or sung at mass during the entire year",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "missal",
+      "missals"
+    ]
   },
   "missile": {
     "def": [
       {
-        "definition": "Any object, especially a weapon, thrown or intended to be thrown.",
-        "type": "n."
+        "definition": "capable of being thrown or projected to strike a distant object",
+        "type": "adj."
+      },
+      {
+        "definition": "adapted for throwing or hurling missiles",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "missile",
+      "missiles"
+    ]
   },
   "missive": {
     "def": [
       {
-        "definition": "A message in writing.",
+        "definition": "a written communication",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "missive",
+      "missives"
+    ]
   },
   "mistrust": {
     "def": [
       {
-        "definition": "To regard with suspicion or jealousy.",
+        "definition": "a lack of confidence",
+        "type": "n."
+      },
+      {
+        "definition": "to have no trust or confidence in",
+        "type": "v."
+      },
+      {
+        "definition": "to doubt the truth, validity, or effectiveness of",
+        "type": "v."
+      },
+      {
+        "definition": "to be suspicious",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mistrust",
+      "mistrustful",
+      "mistrustfully",
+      "mistrustfulness",
+      "mistrustfulnesses",
+      "mistrusts",
+      "mistrusted",
+      "mistrusting"
+    ]
   },
   "misty": {
     "def": [
       {
-        "definition": "Lacking clearness",
+        "definition": "obscured by mist",
+        "type": "adj."
+      },
+      {
+        "definition": "consisting of or marked by mist",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mistier",
+      "mistiest",
+      "mistily",
+      "mistiness",
+      "mistinesses",
+      "misty"
+    ]
   },
   "misunderstand": {
     "def": [
       {
-        "definition": "To Take in a wrong sense.",
+        "definition": "to fail to understand",
+        "type": "v."
+      },
+      {
+        "definition": "to interpret incorrectly",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "misunderstand",
+      "misunderstanding",
+      "misunderstands",
+      "misunderstood"
+    ]
   },
   "misuse": {
     "def": [
       {
-        "definition": "To maltreat.",
+        "definition": "to use incorrectly",
         "type": "v."
+      },
+      {
+        "definition": "incorrect or improper use",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "misuse",
+      "misused",
+      "misuser",
+      "misusers",
+      "misuses",
+      "misusing"
+    ]
   },
   "mite": {
     "def": [
       {
-        "definition": "A very small amount, portion, or particle.",
+        "definition": "any of numerous small acarid arachnids that often infest animals, plants, and stored foods and include important disease vectors",
+        "type": "n."
+      },
+      {
+        "definition": "a small coin or sum of money",
+        "type": "n."
+      },
+      {
+        "definition": "a very little",
+        "type": "n."
+      },
+      {
+        "definition": "a very small object or creature",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mite",
+      "mites"
+    ]
   },
   "miter": {
     "def": [
       {
-        "definition": "The junction of two bodies at an equally divided angle.",
+        "definition": "a surface forming a beveled end or edge where a joint is made by cutting two pieces of material (such as wood) at an angle and fitting them together",
         "type": "n."
+      },
+      {
+        "definition": "to match or fit together in a",
+        "type": "v."
+      },
+      {
+        "definition": "to bevel the ends of for making a",
+        "type": "v."
+      },
+      {
+        "definition": "a liturgical headdress worn by bishops and abbots",
+        "type": "n."
+      },
+      {
+        "definition": "to raise (someone) to a rank that is allowed to wear a miter {dx_def}see {/dx_def}",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "miter",
+      "miters",
+      "mitre",
+      "mitres",
+      "mitered",
+      "miterer",
+      "miterers",
+      "mitering",
+      "mitred",
+      "mitring"
+    ]
   },
   "mitigate": {
     "def": [
       {
-        "definition": "To make milder or more endurable.",
+        "definition": "to cause to become less harsh or",
+        "type": "v."
+      },
+      {
+        "definition": "to make (something) less severe, painful, or intense",
+        "type": "v."
+      },
+      {
+        "definition": "to make something (as damage or loss) less severe, harmful, or extensive",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mitigate",
+      "mitigated",
+      "mitigates",
+      "mitigating",
+      "mitigative",
+      "mitigator",
+      "mitigators",
+      "mitigatory"
+    ]
   },
   "mnemonics": {
     "def": [
       {
-        "definition": "A system of principles and formulas designed to assist the recollection in",
+        "definition": "a technique of improving the memory",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mnemonics"
+    ]
   },
   "moat": {
     "def": [
       {
-        "definition": "A ditch on the outside of a fortress wall.",
+        "definition": "a deep and wide trench around the  of a fortified place (such as a castle) that is usually filled with water",
+        "type": "n."
+      },
+      {
+        "definition": "a channel resembling a moat (as about a  or for confinement of animals in a zoo)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moat",
+      "moated",
+      "moatlike",
+      "moats"
+    ]
   },
   "mobocracy": {
     "def": [
       {
-        "definition": "Lawless control of public affairs by the mob or populace.",
+        "definition": "rule by the mob",
+        "type": "n."
+      },
+      {
+        "definition": "the mob as a ruling class",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mobocracies",
+      "mobocracy",
+      "mobocrat",
+      "mobocratic",
+      "mobocrats"
+    ]
   },
   "moccasin": {
     "def": [
       {
-        "definition": "A foot-covering made of soft leather or buckskin.",
+        "definition": "a soft leather heelless shoe or boot with the sole brought up the sides of the foot and over the toes where it is joined with a puckered seam to a U-shaped piece lying on top of the foot",
+        "type": "n."
+      },
+      {
+        "definition": "a regular shoe having a seam on the forepart of the vamp imitating the seam of a moccasin",
+        "type": "n."
+      },
+      {
+        "definition": "a snake (as of the genus Gloydius) resembling a water moccasin",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moccasin",
+      "moccasined",
+      "moccasins"
+    ]
   },
   "mockery": {
     "def": [
       {
-        "definition": "Ridicule.",
+        "definition": "insulting or  action or speech",
+        "type": "n."
+      },
+      {
+        "definition": "a subject of laughter, , or sport",
+        "type": "n."
+      },
+      {
+        "definition": "a  appearance",
+        "type": "n."
+      },
+      {
+        "definition": "an insincere, contemptible, or impertinent {dx_def}see {/dx_def} imitation",
+        "type": "n."
+      },
+      {
+        "definition": "something ridiculously or impudently {dx_def}see {/dx_def} unsuitable",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mockeries",
+      "mockery"
+    ]
   },
   "moderation": {
     "def": [
@@ -1761,358 +3999,836 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moderation"
+    ]
   },
   "moderator": {
     "def": [
       {
-        "definition": "The presiding officer of a meeting.",
+        "definition": "the chairperson of a discussion group",
+        "type": "n."
+      },
+      {
+        "definition": "a person who administers an online forum, chat room, or group",
+        "type": "n."
+      },
+      {
+        "definition": "the nonpartisan presiding officer of a town meeting",
+        "type": "n."
+      },
+      {
+        "definition": "the presiding officer of a Presbyterian governing body",
+        "type": "n."
+      },
+      {
+        "definition": "one who arbitrates",
+        "type": "n."
+      },
+      {
+        "definition": "a substance (such as graphite) used for slowing neutrons in a nuclear reactor",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moderator",
+      "moderators",
+      "moderatorship",
+      "moderatorships"
+    ]
   },
   "modernity": {
     "def": [
       {
-        "definition": "The state or character of being modern.",
+        "definition": "the quality or state of being or appearing to be modern",
+        "type": "n."
+      },
+      {
+        "definition": "the modern era or world and especially the ideas and attitudes associated with the modern world",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "modernities",
+      "modernity"
+    ]
   },
   "modernize": {
     "def": [
       {
-        "definition": "To make characteristic of the present or of recent times.",
+        "definition": "to make modern (as in taste, style, or usage)",
+        "type": "v."
+      },
+      {
+        "definition": "to adopt modern ways",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "modernize",
+      "modernized",
+      "modernizer",
+      "modernizers",
+      "modernizes",
+      "modernizing"
+    ]
   },
   "modification": {
     "def": [
       {
-        "definition": "A change.",
+        "definition": "the limiting of a statement",
+        "type": "n."
+      },
+      {
+        "definition": "the making of a limited change in something",
+        "type": "n."
+      },
+      {
+        "definition": "a change in an organism caused by environmental factors",
+        "type": "n."
+      },
+      {
+        "definition": "a limitation or qualification {dx_def}see {/dx_def} of the meaning of a word by another word, by an affix, or by internal change",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "modification",
+      "modifications"
+    ]
   },
   "modify": {
     "def": [
       {
-        "definition": "To make somewhat different.",
+        "definition": "to make less extreme",
+        "type": "v."
+      },
+      {
+        "definition": "to limit or restrict the meaning of especially in a grammatical construction",
+        "type": "v."
+      },
+      {
+        "definition": "to change (a vowel) by umlaut",
+        "type": "v."
+      },
+      {
+        "definition": "to make minor changes in",
+        "type": "v."
+      },
+      {
+        "definition": "to make basic or fundamental changes in often to give a new orientation to or to serve a new end",
+        "type": "v."
+      },
+      {
+        "definition": "to undergo change",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "modifiabilities",
+      "modifiability",
+      "modifiable",
+      "modified",
+      "modifies",
+      "modify",
+      "modifying"
+    ]
   },
   "modish": {
-    "def": [
-      {
-        "definition": "Fashionable.",
-        "type": "adj."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "modish",
+      "modishly",
+      "modishness",
+      "modishnesses"
+    ]
   },
   "modulate": {
     "def": [
       {
-        "definition": "To vary in tone, inflection, pitch or other quality of sound.",
+        "definition": "to tune to a key or pitch",
+        "type": "v."
+      },
+      {
+        "definition": "to adjust to or keep in proper measure or proportion",
+        "type": "v."
+      },
+      {
+        "definition": "to change the sound of (the voice) by making it quieter, lower, higher, etc.",
+        "type": "v."
+      },
+      {
+        "definition": "to vary the amplitude, frequency, or phase of (a carrier wave or a light wave) for the transmission of information (as by radio)",
+        "type": "v."
+      },
+      {
+        "definition": "to play or sing with modulation",
+        "type": "v."
+      },
+      {
+        "definition": "to pass from one musical key into another by means of intermediary chords or notes that have some relation to both keys",
+        "type": "v."
+      },
+      {
+        "definition": "to pass gradually from one state to another",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "modulate",
+      "modulated",
+      "modulates",
+      "modulating",
+      "modulator",
+      "modulators",
+      "modulatory"
+    ]
   },
   "mollify": {
     "def": [
       {
-        "definition": "To soothe.",
+        "definition": "to soothe in temper or disposition",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce the rigidity of",
+        "type": "v."
+      },
+      {
+        "definition": "to reduce in intensity ,",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mollification",
+      "mollifications",
+      "mollified",
+      "mollifies",
+      "mollify",
+      "mollifying"
+    ]
   },
   "molt": {
     "def": [
       {
-        "definition": "To cast off, as hair, feathers, etc.",
+        "definition": "to shed hair, feathers, shell, horns, or an outer layer periodically",
         "type": "v."
+      },
+      {
+        "definition": "to cast off (an outer covering) periodically",
+        "type": "v."
+      },
+      {
+        "definition": "the act or process of molting",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "molt",
+      "molted",
+      "molter",
+      "molters",
+      "molting",
+      "molts"
+    ]
   },
   "momentary": {
     "def": [
       {
-        "definition": "Lasting but a short time.",
+        "definition": "continuing only a moment",
+        "type": "adj."
+      },
+      {
+        "definition": "having a very brief life",
+        "type": "adj."
+      },
+      {
+        "definition": "operative or recurring at every moment",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "momentariness",
+      "momentarinesses",
+      "momentary"
+    ]
   },
   "momentous": {
     "def": [
       {
-        "definition": "Very significant.",
+        "definition": "having great or lasting importance ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "momentous",
+      "momentously",
+      "momentousness",
+      "momentousnesses"
+    ]
   },
   "momentum": {
     "def": [
       {
-        "definition": "An impetus.",
+        "definition": "a property {dx_def}see {/dx_def} of a moving body that the body has by virtue of its mass {dx_def}see {/dx_def} and motion and that is equal to the product of the body's mass and velocity",
+        "type": "n."
+      },
+      {
+        "definition": "strength or force gained by motion or by a series of events",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "momenta",
+      "momentum",
+      "momentums"
+    ]
   },
   "monarchy": {
     "def": [
       {
-        "definition": "Government by a single, sovereign ruler.",
+        "definition": "undivided rule or absolute  by a single person",
+        "type": "n."
+      },
+      {
+        "definition": "a nation or state having a monarchical government",
+        "type": "n."
+      },
+      {
+        "definition": "a government having a hereditary chief of state with life tenure and powers varying from nominal to absolute",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monarchies",
+      "monarchy"
+    ]
   },
   "monastery": {
     "def": [
       {
-        "definition": "A dwelling-place occupied in common by persons under religious vows of",
+        "definition": "a house for persons under religious vows",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monasteries",
+      "monastery"
+    ]
   },
   "monetary": {
     "def": [
       {
-        "definition": "Financial.",
+        "definition": "of or relating to money or to the mechanisms by which it is supplied to and circulates in the economy",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "monetarily",
+      "monetary"
+    ]
   },
   "mongrel": {
     "def": [
       {
-        "definition": "The progeny resulting from the crossing of different breeds or varieties.",
+        "definition": "an individual resulting from the interbreeding of diverse breeds {dx_def}see {/dx_def} or strains {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a cross between types of persons or things",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mongrel",
+      "mongrelization",
+      "mongrelizations",
+      "mongrelize",
+      "mongrelized",
+      "mongrelizes",
+      "mongrelizing",
+      "mongrels"
+    ]
   },
   "monition": {
     "def": [
       {
-        "definition": "Friendly counsel given by way of warning and implying caution or reproof.",
+        "definition": "an intimation of danger",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monition",
+      "monitions"
+    ]
   },
   "monitory": {
     "def": [
       {
-        "definition": "Admonition or warning.",
+        "definition": "giving admonition",
+        "type": "adj."
+      },
+      {
+        "definition": "a letter giving admonition or warning",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monitory",
+      "monitories"
+    ]
   },
   "monocracy": {
     "def": [
       {
-        "definition": "Government by a single person.",
+        "definition": "government by a single person",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monocracies",
+      "monocracy",
+      "monocrat",
+      "monocratic",
+      "monocrats"
+    ]
   },
   "monogamy": {
     "def": [
       {
-        "definition": "The habit of pairing, or having but one mate.",
+        "definition": "the state or practice of having only one sexual partner at a time",
+        "type": "n."
+      },
+      {
+        "definition": "the state or custom of being married to only one person at a time",
+        "type": "n."
+      },
+      {
+        "definition": "the condition or practice of having a single mate during a period of time",
+        "type": "n."
+      },
+      {
+        "definition": "the practice of marrying only once during a lifetime",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monogamies",
+      "monogamy"
+    ]
   },
   "monogram": {
     "def": [
       {
-        "definition": "A character consisting of two or more letters interwoven into one, usually",
+        "definition": "a sign of identity usually formed of the combined initials of a name",
         "type": "n."
+      },
+      {
+        "definition": "to mark with a monogram",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "monogram",
+      "monogrammatic",
+      "monograms",
+      "monogrammed",
+      "monogrammer",
+      "monogrammers",
+      "monogramming"
+    ]
   },
   "monograph": {
     "def": [
       {
-        "definition": "A treatise discussing a single subject or branch of a subject.",
+        "definition": "a learned  on a small area of learning",
         "type": "n."
+      },
+      {
+        "definition": "to write a monograph on",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "monograph",
+      "monographic",
+      "monographs",
+      "monographed",
+      "monographing"
+    ]
   },
   "monolith": {
     "def": [
       {
-        "definition": "Any structure or sculpture in stone formed of a single piece.",
+        "definition": "a single great stone often in the form of an obelisk or column",
+        "type": "n."
+      },
+      {
+        "definition": "a massive structure",
+        "type": "n."
+      },
+      {
+        "definition": "an organized whole that acts as a single unified powerful or influential force",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monolith",
+      "monoliths"
+    ]
   },
   "monologue": {
     "def": [
       {
-        "definition": "A story or drama told or performed by one person.",
+        "definition": "a dramatic sketch performed by one actor",
+        "type": "n."
+      },
+      {
+        "definition": "the routine of a stand-up comic",
+        "type": "n."
+      },
+      {
+        "definition": "a literary composition written in the form of a soliloquy",
+        "type": "n."
+      },
+      {
+        "definition": "a long speech monopolizing conversation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monolog",
+      "monologist",
+      "monologists",
+      "monologs",
+      "monologue",
+      "monologues",
+      "monologuist",
+      "monologuists"
+    ]
   },
   "monomania": {
     "def": [
       {
-        "definition": "The unreasonable pursuit of one idea.",
+        "definition": "mental illness especially when limited in expression to one idea or area of thought",
+        "type": "n."
+      },
+      {
+        "definition": "excessive concentration on a single object or idea",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monomania",
+      "monomaniac",
+      "monomaniacal",
+      "monomaniacally",
+      "monomaniacs",
+      "monomanias"
+    ]
   },
   "monopoly": {
     "def": [
       {
-        "definition": "The control of a thing, as a commodity, to enable a person to raise its price.",
+        "definition": "exclusive ownership through legal privilege, command of supply, or concerted action",
+        "type": "n."
+      },
+      {
+        "definition": "exclusive possession or control",
+        "type": "n."
+      },
+      {
+        "definition": "a commodity controlled by one party",
+        "type": "n."
+      },
+      {
+        "definition": "one that has a monopoly",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monopolies",
+      "monopoly"
+    ]
   },
   "monosyllable": {
     "def": [
       {
-        "definition": "A word of one syllable.",
+        "definition": "a word of one syllable",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monosyllable",
+      "monosyllables"
+    ]
   },
   "monotone": {
     "def": [
       {
-        "definition": "The sameness or monotony of utterance.",
+        "definition": "a succession of syllables, words, or sentences in one unvaried key or pitch",
         "type": "n."
+      },
+      {
+        "definition": "a single unvaried musical tone",
+        "type": "n."
+      },
+      {
+        "definition": "a tedious sameness or reiteration",
+        "type": "n."
+      },
+      {
+        "definition": "a person unable to produce or to distinguish between musical intervals",
+        "type": "n."
+      },
+      {
+        "definition": "having a uniform color",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "monotone",
+      "monotones"
+    ]
   },
   "monotonous": {
     "def": [
       {
-        "definition": "Unchanging and tedious.",
+        "definition": "uttered or sounded in one unvarying tone marked by a sameness of  and intensity",
+        "type": "adj."
+      },
+      {
+        "definition": "tediously  or unvarying",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "monotonous",
+      "monotonously",
+      "monotonousness",
+      "monotonousnesses"
+    ]
   },
   "monotony": {
     "def": [
       {
-        "definition": "A lack of variety.",
+        "definition": "tedious sameness",
+        "type": "n."
+      },
+      {
+        "definition": "sameness of tone or sound",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monotonies",
+      "monotony"
+    ]
   },
   "monsieur": {
     "def": [
       {
-        "definition": "A French title of respect, equivalent to Mr. and sir.",
+        "definition": "a Frenchman of high rank or station",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "messieurs",
+      "monsieur"
+    ]
   },
   "monstrosity": {
     "def": [
       {
-        "definition": "Anything unnaturally huge or distorted.",
+        "definition": "a malformation of a plant or animal",
+        "type": "n."
+      },
+      {
+        "definition": "something deviating from the normal",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being monstrous",
+        "type": "n."
+      },
+      {
+        "definition": "an object of great and often frightening size, force, or complexity",
+        "type": "n."
+      },
+      {
+        "definition": "an excessively bad or shocking example",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "monstrosities",
+      "monstrosity"
+    ]
   },
   "moonbeam": {
     "def": [
       {
-        "definition": "A ray of moonlight.",
+        "definition": "a ray of light from the moon",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moonbeam",
+      "moonbeams"
+    ]
   },
   "morale": {
     "def": [
       {
-        "definition": "A state of mind with reference to confidence, courage, zeal, and the like.",
+        "definition": "moral principles, teachings, or conduct",
+        "type": "n."
+      },
+      {
+        "definition": "the mental and emotional condition (as of enthusiasm, confidence, or loyalty) of an individual or group with regard to the function or tasks at hand",
+        "type": "n."
+      },
+      {
+        "definition": "a sense of common purpose with respect to a group",
+        "type": "n."
+      },
+      {
+        "definition": "the level of individual psychological well-being based on such factors as a sense of purpose and confidence in the future",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "morale",
+      "morales"
+    ]
   },
   "moralist": {
     "def": [
       {
-        "definition": "A writer on ethics.",
+        "definition": "one who leads a moral life",
+        "type": "n."
+      },
+      {
+        "definition": "a philosopher or writer concerned with moral principles and problems",
+        "type": "n."
+      },
+      {
+        "definition": "one concerned with regulating the morals of others",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moralist",
+      "moralists"
+    ]
   },
   "morality": {
     "def": [
       {
-        "definition": "Virtue.",
+        "definition": "a doctrine or system of moral conduct",
+        "type": "n."
+      },
+      {
+        "definition": "particular moral principles or rules of conduct",
+        "type": "n."
+      },
+      {
+        "definition": "conformity to ideals of right human conduct",
+        "type": "n."
+      },
+      {
+        "definition": "moral conduct",
+        "type": "n."
+      },
+      {
+        "definition": "a moral discourse, statement, or lesson",
+        "type": "n."
+      },
+      {
+        "definition": "a literary or other imaginative work teaching a moral lesson",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moralities",
+      "morality"
+    ]
   },
   "moralize": {
     "def": [
       {
-        "definition": "To render virtuous.",
+        "definition": "to explain or interpret morally",
+        "type": "v."
+      },
+      {
+        "definition": "to give a moral quality or direction to",
+        "type": "v."
+      },
+      {
+        "definition": "to improve the morals of",
+        "type": "v."
+      },
+      {
+        "definition": "to express beliefs and opinions about moral behavior",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "moralization",
+      "moralizations",
+      "moralize",
+      "moralized",
+      "moralizer",
+      "moralizers",
+      "moralizes",
+      "moralizing"
+    ]
   },
   "moratorium": {
     "def": [
       {
-        "definition": "An emergency legislation authorizing a government suspend some action",
+        "definition": "a legally authorized period of delay in the  of a legal obligation or the payment of a debt",
+        "type": "n."
+      },
+      {
+        "definition": "a waiting period set by an authority",
+        "type": "n."
+      },
+      {
+        "definition": "a  of activity",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "moratoria",
+      "moratorium",
+      "moratoriums"
+    ]
   },
   "morbid": {
     "def": [
       {
-        "definition": "Caused by or denoting a diseased or unsound condition of body or mind.",
+        "definition": "of, relating to, or characteristic of disease",
+        "type": "adj."
+      },
+      {
+        "definition": "affected with or  by disease",
+        "type": "adj."
+      },
+      {
+        "definition": "of disease",
+        "type": "adj."
+      },
+      {
+        "definition": "abnormally susceptible to or characterized by gloomy or  feelings",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "morbid",
+      "morbidly",
+      "morbidness",
+      "morbidnesses"
+    ]
   },
   "mordacious": {
     "def": [
@@ -2121,169 +4837,419 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mordacious"
+    ]
   },
   "mordant": {
     "def": [
       {
-        "definition": "Biting.",
+        "definition": "biting and caustic in thought, manner, or style",
         "type": "adj."
+      },
+      {
+        "definition": "acting as a  (as in dyeing)",
+        "type": "adj."
+      },
+      {
+        "definition": "a chemical that fixes a dye in or on a substance by combining with the dye to form an insoluble compound",
+        "type": "n."
+      },
+      {
+        "definition": "a corroding substance used in etching",
+        "type": "n."
+      },
+      {
+        "definition": "to treat with a mordant",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mordant",
+      "mordantly",
+      "mordants",
+      "mordent",
+      "mordanted",
+      "mordanting"
+    ]
   },
   "moribund": {
     "def": [
       {
-        "definition": "On the point of dying.",
+        "definition": "being in the state of dying approaching death",
+        "type": "adj."
+      },
+      {
+        "definition": "being in a state of inactivity or obsolescence",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "moribund",
+      "moribundities",
+      "moribundity"
+    ]
   },
   "morose": {
     "def": [
       {
-        "definition": "Gloomy.",
+        "definition": "having a sullen and gloomy",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by or expressive of",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "morose",
+      "morosely",
+      "moroseness",
+      "morosenesses",
+      "morosities",
+      "morosity"
+    ]
   },
   "morphology": {
     "def": [
       {
-        "definition": "the science of organic forms.",
+        "definition": "a branch of biology that deals with the form and structure of animals and plants",
+        "type": "n."
+      },
+      {
+        "definition": "the form and structure of an organism or any of its parts",
+        "type": "n."
+      },
+      {
+        "definition": "a study and description of word formation (such as inflection, derivation, and compounding) in language",
+        "type": "n."
+      },
+      {
+        "definition": "the system of word-forming elements and processes in a language",
+        "type": "n."
+      },
+      {
+        "definition": "a study of structure or form",
+        "type": "n."
+      },
+      {
+        "definition": "the external structure of rocks in relation to the development of erosional forms or  features",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "morphologic",
+      "morphological",
+      "morphologically",
+      "morphologies",
+      "morphologist",
+      "morphologists",
+      "morphology"
+    ]
   },
   "motley": {
     "def": [
       {
-        "definition": "Composed of heterogeneous or inharmonious elements.",
+        "definition": "in color",
         "type": "adj."
+      },
+      {
+        "definition": "made up of many different people or things",
+        "type": "adj."
+      },
+      {
+        "definition": "a woolen fabric of mixed colors made in England between the 14th and 17th centuries",
+        "type": "n."
+      },
+      {
+        "definition": "a garment made of motley",
+        "type": "n."
+      },
+      {
+        "definition": "a mixture especially of incongruous elements",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "motley",
+      "motleyer",
+      "motleyest",
+      "motlier",
+      "motliest",
+      "motleys"
+    ]
   },
   "motto": {
     "def": [
       {
-        "definition": "An expressive word or pithy sentence enunciating some guiding rule of life, or",
+        "definition": "a sentence, phrase, or word inscribed on something as appropriate to or indicative of its character or use",
+        "type": "n."
+      },
+      {
+        "definition": "a short expression of a guiding principle",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "motto",
+      "mottoes",
+      "mottos"
+    ]
   },
   "mountaineer": {
     "def": [
       {
-        "definition": "One who travels among or climbs mountains for pleasure or exercise.",
+        "definition": "a native or inhabitant of a mountainous region",
+        "type": "n."
+      },
+      {
+        "definition": "a person who climbs mountains for sport",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mountaineer",
+      "mountaineers"
+    ]
   },
   "mountainous": {
     "def": [
       {
-        "definition": "Full of or abounding in mountains.",
+        "definition": "containing many mountains",
+        "type": "adj."
+      },
+      {
+        "definition": "resembling a mountain",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mountainous",
+      "mountainously",
+      "mountainousness",
+      "mountainousnesses"
+    ]
   },
   "mouthful": {
     "def": [
       {
-        "definition": "As much as can be or is usually put into the or exercise.",
+        "definition": "as much as a mouth will hold",
+        "type": "n."
+      },
+      {
+        "definition": "the quantity usually taken into the mouth at one time",
+        "type": "n."
+      },
+      {
+        "definition": "a small quantity",
+        "type": "n."
+      },
+      {
+        "definition": "a very long word or phrase",
+        "type": "n."
+      },
+      {
+        "definition": "a comment or a statement rich in meaning or substance",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mouthful",
+      "mouthfuls"
+    ]
   },
   "muddle": {
     "def": [
       {
-        "definition": "To confuse or becloud, especially with or as with drink.",
+        "definition": "to make  or muddy",
         "type": "v."
+      },
+      {
+        "definition": "to befog or stupefy {dx_def}see {/dx_def} especially with liquor",
+        "type": "v."
+      },
+      {
+        "definition": "to mix confusedly",
+        "type": "v."
+      },
+      {
+        "definition": "to make a mess of",
+        "type": "v."
+      },
+      {
+        "definition": "to think or act in a confused aimless way",
+        "type": "v."
+      },
+      {
+        "definition": "a state of especially mental confusion",
+        "type": "n."
+      },
+      {
+        "definition": "a confused mess",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "muddle",
+      "muddled",
+      "muddler",
+      "muddlers",
+      "muddles",
+      "muddling",
+      "muddly"
+    ]
   },
   "muffle": {
     "def": [
       {
-        "definition": "To deaden the sound of, as by wraps.",
+        "definition": "to wrap up so as to conceal or protect",
+        "type": "v."
+      },
+      {
+        "definition": "to wrap or pad with something to dull the sound",
+        "type": "v."
+      },
+      {
+        "definition": "to deaden the sound of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "muffle",
+      "muffled",
+      "muffles",
+      "muffling"
+    ]
   },
   "mulatto": {
     "def": [
       {
-        "definition": "The offspring of a white person and a black person.",
+        "definition": "the first-generation offspring of a Black person and a white person",
+        "type": "n."
+      },
+      {
+        "definition": "a person of mixed white and Black ancestry",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mulatto",
+      "mulattoes",
+      "mulattos"
+    ]
   },
   "muleteer": {
     "def": [
       {
-        "definition": "A mule-driver.",
+        "definition": "one who drives mules",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "muleteer",
+      "muleteers"
+    ]
   },
   "multiform": {
     "def": [
       {
-        "definition": "Having many shapes, or appearances.",
+        "definition": "having many forms or appearances",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "multiform",
+      "multiformities",
+      "multiformity"
+    ]
   },
   "multiplicity": {
     "def": [
       {
-        "definition": "the condition of being manifold or very various.",
+        "definition": "the quality or state of being multiple or various",
+        "type": "n."
+      },
+      {
+        "definition": "the number of components in a system (such as a multiplet or a group of energy levels)",
+        "type": "n."
+      },
+      {
+        "definition": "a great number",
+        "type": "n."
+      },
+      {
+        "definition": "the number of times a root of an equation or zero of a function occurs when there is more than one root or zero",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "multiplicities",
+      "multiplicity"
+    ]
   },
   "mundane": {
     "def": [
       {
-        "definition": "Worldly, as opposed to spiritual or celestial.",
+        "definition": "characterized by the practical, temporary, and ordinary",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of life on Earth rather than spiritual things",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "mundane",
+      "mundanely",
+      "mundaneness",
+      "mundanenesses",
+      "mundanities",
+      "mundanity"
+    ]
   },
   "municipal": {
     "def": [
       {
-        "definition": "Of or pertaining to a town or city, or to its corporate or local",
+        "definition": "of or relating to the internal affairs of a major political unit (such as a nation)",
         "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or characteristic of a",
+        "type": "adj."
+      },
+      {
+        "definition": "having local self-government",
+        "type": "adj."
+      },
+      {
+        "definition": "restricted to one locality",
+        "type": "adj."
+      },
+      {
+        "definition": "a security issued by a state or local government or by an authority set up by such a government",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "municipal",
+      "municipals"
+    ]
   },
   "municipality": {
     "def": [
       {
-        "definition": "A district enjoying municipal government.",
+        "definition": "a primarily urban political unit (such as a city or town) having corporate {dx_def}see {/dx_def} status and usually powers of self-government",
+        "type": "n."
+      },
+      {
+        "definition": "the governing body of a municipality",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "municipalities",
+      "municipality"
+    ]
   },
   "munificence": {
     "def": [
@@ -2292,96 +5258,272 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "munificence"
+    ]
   },
   "munificent": {
     "def": [
       {
-        "definition": "Extraordinarily generous.",
+        "definition": "very liberal in giving or bestowing {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by great  or generosity",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "munificence",
+      "munificences",
+      "munificent",
+      "munificently"
+    ]
   },
   "muster": {
     "def": [
       {
-        "definition": "An assemblage or review of troops for parade or inspection, or for numbering",
+        "definition": "a representative specimen {dx_def}see {/dx_def}",
         "type": "n."
+      },
+      {
+        "definition": "an act of assembling",
+        "type": "n."
+      },
+      {
+        "definition": "critical examination",
+        "type": "n."
+      },
+      {
+        "definition": "an assembled group",
+        "type": "n."
+      },
+      {
+        "definition": "to cause to gather",
+        "type": "v."
+      },
+      {
+        "definition": "to enroll formally",
+        "type": "v."
+      },
+      {
+        "definition": "to call the roll of",
+        "type": "v."
+      },
+      {
+        "definition": "to bring together",
+        "type": "v."
+      },
+      {
+        "definition": "to call forth",
+        "type": "v."
+      },
+      {
+        "definition": "to amount to",
+        "type": "v."
+      },
+      {
+        "definition": "to come together",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "muster",
+      "musters",
+      "mustered",
+      "mustering"
+    ]
   },
   "mutation": {
     "def": [
       {
-        "definition": "The act or process of change.",
+        "definition": "a significant and basic alteration",
+        "type": "n."
+      },
+      {
+        "definition": "a relatively permanent change in hereditary material that involves either a change in chromosome structure or number (as in , deletion, duplication, or polyploidy) or a change in the nucleotide sequence of a gene's  (as in  or  errors) and that occurs either in germ cells or in somatic cells but with only those in germ cells being capable of perpetuation by sexual reproduction",
+        "type": "n."
+      },
+      {
+        "definition": "an individual, strain, or trait resulting from mutation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mutation",
+      "mutational",
+      "mutationally",
+      "mutations"
+    ]
   },
   "mutilate": {
     "def": [
       {
-        "definition": "To disfigure.",
+        "definition": "to cut up or alter radically so as to make imperfect",
+        "type": "v."
+      },
+      {
+        "definition": "to cut off or cause severe damage to a limb or essential part of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mutilate",
+      "mutilated",
+      "mutilates",
+      "mutilating",
+      "mutilator",
+      "mutilators"
+    ]
   },
   "mutiny": {
     "def": [
       {
-        "definition": "Rebellion against lawful or constituted authority.",
+        "definition": "forcible or passive resistance to lawful authority",
         "type": "n."
+      },
+      {
+        "definition": "to rise against or refuse to obey or observe authority",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "mutinies",
+      "mutiny",
+      "mutinied",
+      "mutinying"
+    ]
   },
   "myriad": {
     "def": [
       {
-        "definition": "A vast indefinite number.",
+        "definition": "a very large number",
         "type": "n."
+      },
+      {
+        "definition": "ten thousand",
+        "type": "n."
+      },
+      {
+        "definition": "having innumerable aspects or",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "myriad",
+      "myriads"
+    ]
   },
   "mystic": {
     "def": [
       {
-        "definition": "One who professes direct divine illumination, or relies upon meditation to",
+        "definition": "of or relating to mysteries or esoteric rites",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to mysticism or mystics",
+        "type": "adj."
+      },
+      {
+        "definition": "inducing a feeling of awe or wonder",
+        "type": "adj."
+      },
+      {
+        "definition": "having magical properties",
+        "type": "adj."
+      },
+      {
+        "definition": "a follower of a mystical way of life",
+        "type": "n."
+      },
+      {
+        "definition": "an advocate of a theory of mysticism",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mystic",
+      "mystics"
+    ]
   },
   "mystification": {
     "def": [
       {
-        "definition": "The act of artfully perplexing.",
+        "definition": "an act or instance of mystifying",
+        "type": "n."
+      },
+      {
+        "definition": "an obscuring especially of capitalist or social dynamics (as by making them equivalent to natural laws) that is seen in Marxist thought as an impediment to critical consciousness",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being mystified",
+        "type": "n."
+      },
+      {
+        "definition": "something designed to mystify",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mystification",
+      "mystifications"
+    ]
   },
   "myth": {
     "def": [
       {
-        "definition": "A fictitious narrative presented as historical, but without any basis of fact.",
+        "definition": "a usually traditional story of  historical events that serves to unfold part of the worldview of a people or explain a practice, belief, or natural phenomenon",
+        "type": "n."
+      },
+      {
+        "definition": "a popular belief or tradition that has grown up around something or someone",
+        "type": "n."
+      },
+      {
+        "definition": "an unfounded or false notion",
+        "type": "n."
+      },
+      {
+        "definition": "a person or thing having only an imaginary or unverifiable existence",
+        "type": "n."
+      },
+      {
+        "definition": "the whole body of myths",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "myth",
+      "myths"
+    ]
   },
   "mythology": {
     "def": [
       {
-        "definition": "The whole body of legends cherished by a race concerning gods and heroes.",
+        "definition": "an allegorical narrative",
+        "type": "n."
+      },
+      {
+        "definition": "the myths dealing with the gods, demigods, and legendary heroes of a particular people",
+        "type": "n."
+      },
+      {
+        "definition": "a branch of knowledge that deals with myth",
+        "type": "n."
+      },
+      {
+        "definition": "a popular belief or assumption that has grown up around someone or something",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "mythologer",
+      "mythologers",
+      "mythologies",
+      "mythologist",
+      "mythologists",
+      "mythology"
+    ]
   }
 }

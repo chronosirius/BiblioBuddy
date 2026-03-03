@@ -1,1 +1,2050 @@
-{}
+{
+  "macadamize": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈka-də-ˌmīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/macada03.mp3"
+      }
+    ]
+  },
+  "machinery": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈshē-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/machin10.mp3"
+      }
+    ]
+  },
+  "machinist": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈshē-nist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/machin11.mp3"
+      }
+    ]
+  },
+  "macrocosm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-krə-ˌkä-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/macroc01.mp3"
+      }
+    ]
+  },
+  "madden": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-dᵊn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/madden01.mp3"
+      }
+    ]
+  },
+  "madonna": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈdä-nə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/madonn01.mp3"
+      }
+    ]
+  },
+  "magician": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈji-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magici01.mp3"
+      }
+    ]
+  },
+  "magisterial": {
+    "pronunciations": [
+      {
+        "syllables": "ˌma-jə-ˈstir-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magist01.mp3"
+      }
+    ]
+  },
+  "magistracy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-jə-strə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magist04.mp3"
+      }
+    ]
+  },
+  "magnanimous": {
+    "pronunciations": [
+      {
+        "syllables": "mag-ˈna-nə-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnan02.mp3"
+      }
+    ]
+  },
+  "magnate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmag-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnat01.mp3"
+      }
+    ]
+  },
+  "magnet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmag-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnet01.mp3"
+      }
+    ]
+  },
+  "magnetize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmag-nə-ˌtīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnet07.mp3"
+      }
+    ]
+  },
+  "magnificence": {
+    "pronunciations": [
+      {
+        "syllables": "mag-ˈni-fə-sən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnif07.mp3"
+      }
+    ]
+  },
+  "magnificent": {
+    "pronunciations": [
+      {
+        "syllables": "mag-ˈni-fə-sənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnif08.mp3"
+      }
+    ]
+  },
+  "magnitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmag-nə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/magnit01.mp3"
+      }
+    ]
+  },
+  "maharaja": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmä-hə-ˈrä-jə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mahara01.mp3"
+      }
+    ]
+  },
+  "maidenhood": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmā-dᵊn-ˌhu̇d",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maiden04.mp3"
+      }
+    ]
+  },
+  "maintain": {
+    "pronunciations": [
+      {
+        "syllables": "mān-ˈtān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mainta01.mp3"
+      }
+    ]
+  },
+  "maintenance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmānt-nən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mainte01.mp3"
+      }
+    ]
+  },
+  "maize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmāz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maize001.mp3"
+      }
+    ]
+  },
+  "makeup": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmāk-ˌəp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/makeup01.mp3"
+      }
+    ]
+  },
+  "malady": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-lə-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malady01.mp3"
+      }
+    ]
+  },
+  "malaria": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈler-ē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malari01.mp3"
+      }
+    ]
+  },
+  "malcontent": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmal-kən-ˈtent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malcon01.mp3"
+      }
+    ]
+  },
+  "malediction": {
+    "pronunciations": [
+      {
+        "syllables": "ˌma-lə-ˈdik-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maledi02.mp3"
+      }
+    ]
+  },
+  "malefactor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-lə-ˌfak-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malefa02.mp3"
+      }
+    ]
+  },
+  "maleficent": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈle-fə-sənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malefi03.mp3"
+      }
+    ]
+  },
+  "malevolence": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈle-və-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malevo01.mp3"
+      }
+    ]
+  },
+  "malevolent": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈle-və-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malevo02.mp3"
+      }
+    ]
+  },
+  "malign": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈlīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malign01.mp3"
+      }
+    ]
+  },
+  "malignant": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈlig-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/malign04.mp3"
+      }
+    ]
+  },
+  "malleable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-lē-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mallea01.mp3"
+      }
+    ]
+  },
+  "mallet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mallet01.mp3"
+      }
+    ]
+  },
+  "maltreat": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmal-ˈtrēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maltre01.mp3"
+      }
+    ]
+  },
+  "man-eater": {
+    "pronunciations": [
+      {
+        "syllables": "ˈman-ˌē-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maneat01.mp3"
+      }
+    ]
+  },
+  "mandate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈman-ˌdāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mandat02.mp3"
+      }
+    ]
+  },
+  "mandatory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈman-də-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mandat04.mp3"
+      }
+    ]
+  },
+  "mane": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mane0001.mp3"
+      }
+    ]
+  },
+  "maneuver": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnü-vər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maneuv01.mp3"
+      }
+    ]
+  },
+  "mania": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmā-nē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mania001.mp3"
+      }
+    ]
+  },
+  "maniac": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmā-nē-ˌak",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maniac01.mp3"
+      }
+    ]
+  },
+  "manifesto": {
+    "pronunciations": [
+      {
+        "syllables": "ˌma-nə-ˈfe-(ˌ)stō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manife04.mp3"
+      }
+    ]
+  },
+  "manliness": {
+    "pronunciations": [
+      {
+        "syllables": "ˈman-lē-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manliness.mp3"
+      }
+    ]
+  },
+  "mannerism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-nə-ˌri-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manner04.mp3"
+      }
+    ]
+  },
+  "manor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-nər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manor001.mp3"
+      }
+    ]
+  },
+  "mantel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈman-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mantel01.mp3"
+      }
+    ]
+  },
+  "mantle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈman-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mantle01.mp3"
+      }
+    ]
+  },
+  "manufacturer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌman-yə-ˈfak-chər-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manufa04.mp3"
+      }
+    ]
+  },
+  "manumission": {
+    "pronunciations": [
+      {
+        "syllables": "ˌman-yə-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manumi01.mp3"
+      }
+    ]
+  },
+  "manumit": {
+    "pronunciations": [
+      {
+        "syllables": "ˌman-yə-ˈmit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/manumi02.mp3"
+      }
+    ]
+  },
+  "marine": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈrēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/marine01.mp3"
+      }
+    ]
+  },
+  "maritime": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmer-ə-ˌtīm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mariti01.mp3"
+      }
+    ]
+  },
+  "maroon": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈrün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maroon01.mp3"
+      }
+    ]
+  },
+  "martial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmär-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/martia01.mp3"
+      }
+    ]
+  },
+  "martian": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmär-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/martia03.mp3"
+      }
+    ]
+  },
+  "martyrdom": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmär-tər-dəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/martyr04.mp3"
+      }
+    ]
+  },
+  "marvel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmär-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/marvel01.mp3"
+      }
+    ]
+  },
+  "masonry": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmā-sᵊn-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/masonr01.mp3"
+      }
+    ]
+  },
+  "masquerade": {
+    "pronunciations": [
+      {
+        "syllables": "ˌma-skə-ˈrād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/masque03.mp3"
+      }
+    ]
+  },
+  "massacre": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-si-kər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/massac02.mp3"
+      }
+    ]
+  },
+  "massive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/massiv01.mp3"
+      }
+    ]
+  },
+  "masterpiece": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-stər-ˌpēs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/master08.mp3"
+      }
+    ]
+  },
+  "mastery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-st(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/master12.mp3"
+      }
+    ]
+  },
+  "material": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈtir-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/materi01.mp3"
+      }
+    ]
+  },
+  "materialize": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈtir-ē-ə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/materi09.mp3"
+      }
+    ]
+  },
+  "maternal": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈtər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/matern01.mp3"
+      }
+    ]
+  },
+  "matinee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌma-tə-ˈnā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/matine01.mp3"
+      }
+    ]
+  },
+  "matricide": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-trə-ˌsīd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/matric02.mp3"
+      }
+    ]
+  },
+  "matrimony": {
+    "pronunciations": [
+      {
+        "syllables": "ˈma-trə-ˌmō-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/matrim02.mp3"
+      }
+    ]
+  },
+  "matrix": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmā-triks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/matrix01.mp3"
+      }
+    ]
+  },
+  "maudlin": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯd-lən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maudli01.mp3"
+      }
+    ]
+  },
+  "mausoleum": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmȯ-sə-ˈlē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mausol02.mp3"
+      }
+    ]
+  },
+  "mawkish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯ-kish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mawkis01.mp3"
+      }
+    ]
+  },
+  "maxim": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmak-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maxim001.mp3"
+      }
+    ]
+  },
+  "maze": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmāz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/maze0001.mp3"
+      }
+    ]
+  },
+  "mead": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mead0001.mp3"
+      }
+    ]
+  },
+  "meager": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmē-gər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/meager01.mp3"
+      }
+    ]
+  },
+  "meander": {
+    "pronunciations": [
+      {
+        "syllables": "mē-ˈan-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/meande01.mp3"
+      }
+    ]
+  },
+  "mechanics": {
+    "pronunciations": [
+      {
+        "syllables": "mi-ˈka-niks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mechan05.mp3"
+      }
+    ]
+  },
+  "medallion": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈdal-yən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/medall02.mp3"
+      }
+    ]
+  },
+  "meddlesome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-dᵊl-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/meddle04.mp3"
+      }
+    ]
+  },
+  "medial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmē-dē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/medial01.mp3"
+      }
+    ]
+  },
+  "mediate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmē-dē-ət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mediat01.mp3"
+      }
+    ]
+  },
+  "medicine": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-di-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/medici03.mp3"
+      }
+    ]
+  },
+  "medieval": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmē-ˈdē-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mediev01.mp3"
+      }
+    ]
+  },
+  "mediocre": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmē-dē-ˈō-kər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/medioc01.mp3"
+      }
+    ]
+  },
+  "meditation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌme-də-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/medita03.mp3"
+      }
+    ]
+  },
+  "medley": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmed-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/medley01.mp3"
+      }
+    ]
+  },
+  "meliorate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmēl-yə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/melior01.mp3"
+      }
+    ]
+  },
+  "mellifluous": {
+    "pronunciations": [
+      {
+        "syllables": "me-ˈli-flə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mellif02.mp3"
+      }
+    ]
+  },
+  "melodious": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈlō-dē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/melodi03.mp3"
+      }
+    ]
+  },
+  "melodrama": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-lə-ˌdrä-mə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/melodr01.mp3"
+      }
+    ]
+  },
+  "memento": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈmen-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mement02.mp3"
+      }
+    ]
+  },
+  "memorable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmem-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/memora03.mp3"
+      }
+    ]
+  },
+  "menace": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/menace01.mp3"
+      }
+    ]
+  },
+  "menagerie": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnaj-rē",
+        "audio": null
+      }
+    ]
+  },
+  "mendacious": {
+    "pronunciations": [
+      {
+        "syllables": "men-ˈdā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mendac01.mp3"
+      }
+    ]
+  },
+  "mendicant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmen-di-kənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mendic02.mp3"
+      }
+    ]
+  },
+  "mentality": {
+    "pronunciations": [
+      {
+        "syllables": "men-ˈta-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mental06.mp3"
+      }
+    ]
+  },
+  "mentor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmen-ˌtȯr",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mentor01.mp3"
+      }
+    ]
+  },
+  "mercantile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmər-kən-ˌtēl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mercan01.mp3"
+      }
+    ]
+  },
+  "mercenary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmər-sə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mercen01.mp3"
+      }
+    ]
+  },
+  "merciful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmər-si-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mercif01.mp3"
+      }
+    ]
+  },
+  "merciless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmər-si-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mercil01.mp3"
+      }
+    ]
+  },
+  "meretricious": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmer-ə-ˈtri-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/meretr01.mp3"
+      }
+    ]
+  },
+  "mesmerize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmez-mə-ˌrīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mesmer05.mp3"
+      }
+    ]
+  },
+  "metal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metal001.mp3"
+      }
+    ]
+  },
+  "metallurgy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-tə-ˌlər-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metall13.mp3"
+      }
+    ]
+  },
+  "metamorphosis": {
+    "pronunciations": [
+      {
+        "syllables": "ˌme-tə-ˈmȯr-fə-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metamo05.mp3"
+      }
+    ]
+  },
+  "metaphor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-tə-ˌfȯr",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metaph02.mp3"
+      }
+    ]
+  },
+  "metaphysical": {
+    "pronunciations": [
+      {
+        "syllables": "ˌme-tə-ˈfi-zi-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metaph10.mp3"
+      }
+    ]
+  },
+  "metaphysician": {
+    "pronunciations": [
+      {
+        "syllables": "ˌme-tə-fə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metaph12.mp3"
+      }
+    ]
+  },
+  "metaphysics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌme-tə-ˈfi-ziks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metaph13.mp3"
+      }
+    ]
+  },
+  "mete": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmēt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mete0001.mp3"
+      }
+    ]
+  },
+  "metempsychosis": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˌtem(p)-si-ˈkō-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metemp02.mp3"
+      }
+    ]
+  },
+  "meticulous": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈti-kyə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/meticu01.mp3"
+      }
+    ]
+  },
+  "metonymy": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈtä-nə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metony02.mp3"
+      }
+    ]
+  },
+  "metric": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-trik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metric01.mp3"
+      }
+    ]
+  },
+  "metronome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-trə-ˌnōm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metron02.mp3"
+      }
+    ]
+  },
+  "metropolis": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈträ-p(ə-)ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metrop01.mp3"
+      }
+    ]
+  },
+  "metropolitan": {
+    "pronunciations": [
+      {
+        "syllables": "ˌme-trə-ˈpä-lə-tən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/metrop02.mp3"
+      }
+    ]
+  },
+  "mettle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mettle01.mp3"
+      }
+    ]
+  },
+  "mettlesome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈme-tᵊl-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mettle03.mp3"
+      }
+    ]
+  },
+  "microcosm": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-krə-ˌkä-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/microc22.mp3"
+      }
+    ]
+  },
+  "micrometer": {
+    "pronunciations": [
+      {
+        "syllables": "mī-ˈkrä-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/microm13.mp3"
+      }
+    ]
+  },
+  "microphone": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-krə-ˌfōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/microp07.mp3"
+      }
+    ]
+  },
+  "microscope": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-krə-ˌskōp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/micros02.mp3"
+      }
+    ]
+  },
+  "microscopic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmī-krə-ˈskä-pik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/micros03.mp3"
+      }
+    ]
+  },
+  "microscopy": {
+    "pronunciations": [
+      {
+        "syllables": "mī-ˈkrä-skə-pē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/micros06.mp3"
+      }
+    ]
+  },
+  "midsummer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmid-ˈsə-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/midsum01.mp3"
+      }
+    ]
+  },
+  "midwife": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmid-ˌwīf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/midwif01.mp3"
+      }
+    ]
+  },
+  "mien": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mien0001.mp3"
+      }
+    ]
+  },
+  "migrant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-grənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/migran01.mp3"
+      }
+    ]
+  },
+  "migrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-ˌgrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/migrat02.mp3"
+      }
+    ]
+  },
+  "migratory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-grə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/migrat06.mp3"
+      }
+    ]
+  },
+  "mileage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mileag01.mp3"
+      }
+    ]
+  },
+  "militant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-lə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/milita03.mp3"
+      }
+    ]
+  },
+  "militarism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-lə-tə-ˌri-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/milita06.mp3"
+      }
+    ]
+  },
+  "militate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-lə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/milita13.mp3"
+      }
+    ]
+  },
+  "militia": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈli-shə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/militi01.mp3"
+      }
+    ]
+  },
+  "millet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-lət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/millet01.mp3"
+      }
+    ]
+  },
+  "mimic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mimic001.mp3"
+      }
+    ]
+  },
+  "miniature": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-nē-ə-ˌchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/miniat01.mp3"
+      }
+    ]
+  },
+  "minimize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-nə-ˌmīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minimi02.mp3"
+      }
+    ]
+  },
+  "minion": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmin-yən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minion01.mp3"
+      }
+    ]
+  },
+  "ministration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmi-nə-ˈstrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minist07.mp3"
+      }
+    ]
+  },
+  "ministry": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-nə-strē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minist08.mp3"
+      }
+    ]
+  },
+  "minority": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnȯr-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minori02.mp3"
+      }
+    ]
+  },
+  "minute": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minute01.mp3"
+      }
+    ]
+  },
+  "minutia": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnü-sh(ē-)ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/minuti01.mp3"
+      }
+    ]
+  },
+  "mirage": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈräzh",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mirage01.mp3"
+      }
+    ]
+  },
+  "misadventure": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmi-səd-ˈven-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misadv01.mp3"
+      }
+    ]
+  },
+  "misanthropic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmi-sᵊn-ˈthrä-pik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misant02.mp3"
+      }
+    ]
+  },
+  "misanthropy": {
+    "pronunciations": [
+      {
+        "syllables": "mi-ˈsan(t)-thrə-pē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misant04.mp3"
+      }
+    ]
+  },
+  "misapprehend": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)mis-ˌa-pri-ˈhend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misapp01.mp3"
+      }
+    ]
+  },
+  "misbehave": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-bi-ˈhāv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misbe1s3.mp3"
+      }
+    ]
+  },
+  "misbehavior": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-bi-ˈhā-vyər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misbe2s3.mp3"
+      }
+    ]
+  },
+  "mischievous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmis-chə-vəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mischi02.mp3"
+      }
+    ]
+  },
+  "miscount": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈkau̇nt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/miscou01.mp3"
+      }
+    ]
+  },
+  "miscreant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmis-krē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/miscre01.mp3"
+      }
+    ]
+  },
+  "misdeed": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈdēd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misdee01.mp3"
+      }
+    ]
+  },
+  "misdemeanor": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-di-ˈmē-nər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misdem02.mp3"
+      }
+    ]
+  },
+  "miser": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-zər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/miser001.mp3"
+      }
+    ]
+  },
+  "mishap": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmis-ˌhap",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mishap01.mp3"
+      }
+    ]
+  },
+  "misinterpret": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmi-sᵊn-ˈtər-prət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misint01.mp3"
+      }
+    ]
+  },
+  "mislay": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈlā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mislay01.mp3"
+      }
+    ]
+  },
+  "mismanage": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈma-nij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misma1s3.mp3"
+      }
+    ]
+  },
+  "misnomer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈnō-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misnom01.mp3"
+      }
+    ]
+  },
+  "misogamy": {
+    "pronunciations": [
+      {
+        "syllables": "mi-ˈsä-gə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misoga01.mp3"
+      }
+    ]
+  },
+  "misogyny": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈsä-jə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misogy01.mp3"
+      }
+    ]
+  },
+  "misplace": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈplās",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mispla01.mp3"
+      }
+    ]
+  },
+  "misrepresent": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)mis-ˌre-pri-ˈzent",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misrep01.mp3"
+      }
+    ]
+  },
+  "misrule": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈrül",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misrul01.mp3"
+      }
+    ]
+  },
+  "missal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/missal01.mp3"
+      }
+    ]
+  },
+  "missile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/missil02.mp3"
+      }
+    ]
+  },
+  "missive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-siv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/missiv01.mp3"
+      }
+    ]
+  },
+  "mistrust": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈtrəst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mistru01.mp3"
+      }
+    ]
+  },
+  "misty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-stē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misty001.mp3"
+      }
+    ]
+  },
+  "misunderstand": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)mi-ˌsən-dər-ˈstand",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misund01.mp3"
+      }
+    ]
+  },
+  "misuse": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmis-ˈyüz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/misuse01.mp3"
+      }
+    ]
+  },
+  "mite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mite0001.mp3"
+      }
+    ]
+  },
+  "miter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmī-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/miter001.mp3"
+      }
+    ]
+  },
+  "mitigate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-tə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mitiga01.mp3"
+      }
+    ]
+  },
+  "mnemonics": {
+    "pronunciations": [
+      {
+        "syllables": "ni-ˈmä-niks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mnemon03.mp3"
+      }
+    ]
+  },
+  "moat": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmōt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moat0001.mp3"
+      }
+    ]
+  },
+  "mobocracy": {
+    "pronunciations": [
+      {
+        "syllables": "mä-ˈbä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mobocr01.mp3"
+      }
+    ]
+  },
+  "moccasin": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-kə-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moccas01.mp3"
+      }
+    ]
+  },
+  "mockery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-k(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mocker01.mp3"
+      }
+    ]
+  },
+  "moderator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-də-ˌrā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modera06.mp3"
+      }
+    ]
+  },
+  "modernity": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈdər-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modern03.mp3"
+      }
+    ]
+  },
+  "modernize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-dər-ˌnīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modern11.mp3"
+      }
+    ]
+  },
+  "modification": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmä-də-fə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modifi01.mp3"
+      }
+    ]
+  },
+  "modify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-də-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modify01.mp3"
+      }
+    ]
+  },
+  "modish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmō-dish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modish01.mp3"
+      }
+    ]
+  },
+  "modulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-jə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/modula06.mp3"
+      }
+    ]
+  },
+  "mollify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-lə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mollif01.mp3"
+      }
+    ]
+  },
+  "molt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmōlt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/molt0001.mp3"
+      }
+    ]
+  },
+  "momentary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmō-mən-ˌter-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moment03.mp3"
+      }
+    ]
+  },
+  "momentous": {
+    "pronunciations": [
+      {
+        "syllables": "mō-ˈmen-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moment05.mp3"
+      }
+    ]
+  },
+  "momentum": {
+    "pronunciations": [
+      {
+        "syllables": "mō-ˈmen-təm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moment06.mp3"
+      }
+    ]
+  },
+  "monarchy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nər-kē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monarc11.mp3"
+      }
+    ]
+  },
+  "monastery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌster-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monast01.mp3"
+      }
+    ]
+  },
+  "monetary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌter-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moneta03.mp3"
+      }
+    ]
+  },
+  "mongrel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmäŋ-grəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mongre02.mp3"
+      }
+    ]
+  },
+  "monition": {
+    "pronunciations": [
+      {
+        "syllables": "mō-ˈni-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moniti01.mp3"
+      }
+    ]
+  },
+  "monitory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monito05.mp3"
+      }
+    ]
+  },
+  "monocracy": {
+    "pronunciations": [
+      {
+        "syllables": "mä-ˈnä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monocr01.mp3"
+      }
+    ]
+  },
+  "monogamy": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnä-gə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoga02.mp3"
+      }
+    ]
+  },
+  "monogram": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌgram",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monogr01.mp3"
+      }
+    ]
+  },
+  "monograph": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌgraf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monogr04.mp3"
+      }
+    ]
+  },
+  "monolith": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌlith",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoli02.mp3"
+      }
+    ]
+  },
+  "monologue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌlȯg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monolo01.mp3"
+      }
+    ]
+  },
+  "monomania": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmä-nə-ˈmā-nē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoma01.mp3"
+      }
+    ]
+  },
+  "monopoly": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnä-p(ə-)lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monopo10.mp3"
+      }
+    ]
+  },
+  "monosyllable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌsi-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monosy04.mp3"
+      }
+    ]
+  },
+  "monotone": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-nə-ˌtōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoto01.mp3"
+      }
+    ]
+  },
+  "monotonous": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnä-tə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoto05.mp3"
+      }
+    ]
+  },
+  "monotony": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈnä-tə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoto06.mp3"
+      }
+    ]
+  },
+  "monsieur": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈsyər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monsie01.mp3"
+      }
+    ]
+  },
+  "monstrosity": {
+    "pronunciations": [
+      {
+        "syllables": "män-ˈsträ-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monstr02.mp3"
+      }
+    ]
+  },
+  "moonbeam": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmün-ˌbēm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moonbe01.mp3"
+      }
+    ]
+  },
+  "morale": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈral",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morale01.mp3"
+      }
+    ]
+  },
+  "moralist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯr-ə-list",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morali02.mp3"
+      }
+    ]
+  },
+  "morality": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈra-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morali05.mp3"
+      }
+    ]
+  },
+  "moralize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯr-ə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morali06.mp3"
+      }
+    ]
+  },
+  "moratorium": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmȯr-ə-ˈtȯr-ē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morato01.mp3"
+      }
+    ]
+  },
+  "morbid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯr-bəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morbid01.mp3"
+      }
+    ]
+  },
+  "mordant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯr-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mordan02.mp3"
+      }
+    ]
+  },
+  "moribund": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmȯr-ə-(ˌ)bənd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/moribu01.mp3"
+      }
+    ]
+  },
+  "morose": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈrōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morose01.mp3"
+      }
+    ]
+  },
+  "morphology": {
+    "pronunciations": [
+      {
+        "syllables": "mȯr-ˈfä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/morpho07.mp3"
+      }
+    ]
+  },
+  "motley": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmät-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/motley01.mp3"
+      }
+    ]
+  },
+  "motto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmä-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/motto001.mp3"
+      }
+    ]
+  },
+  "mountaineer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmau̇n-tə-ˈnir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mounta02.mp3"
+      }
+    ]
+  },
+  "mountainous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmau̇n-tə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mounta03.mp3"
+      }
+    ]
+  },
+  "mouthful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmau̇th-ˌfu̇l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mouthf01.mp3"
+      }
+    ]
+  },
+  "muddle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmə-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/muddle01.mp3"
+      }
+    ]
+  },
+  "muffle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmə-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/muffle01.mp3"
+      }
+    ]
+  },
+  "mulatto": {
+    "pronunciations": [
+      {
+        "syllables": "mə-ˈlä-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mulatt01.mp3"
+      }
+    ]
+  },
+  "muleteer": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmyü-lə-ˈtir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mulete01.mp3"
+      }
+    ]
+  },
+  "multiform": {
+    "pronunciations": [
+      {
+        "syllables": "ˈməl-ti-ˌfȯrm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/multif07.mp3"
+      }
+    ]
+  },
+  "multiplicity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌməl-tə-ˈpli-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/multip11.mp3"
+      }
+    ]
+  },
+  "mundane": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmən-ˈdān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mundan01.mp3"
+      }
+    ]
+  },
+  "municipal": {
+    "pronunciations": [
+      {
+        "syllables": "myu̇-ˈni-s(ə-)pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/munici01.mp3"
+      }
+    ]
+  },
+  "municipality": {
+    "pronunciations": [
+      {
+        "syllables": "myu̇-ˌni-sə-ˈpa-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/munici02.mp3"
+      }
+    ]
+  },
+  "munificent": {
+    "pronunciations": [
+      {
+        "syllables": "myu̇-ˈni-fə-sənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/munifi01.mp3"
+      }
+    ]
+  },
+  "muster": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmə-stər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/muster01.mp3"
+      }
+    ]
+  },
+  "mutation": {
+    "pronunciations": [
+      {
+        "syllables": "myü-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mutati01.mp3"
+      }
+    ]
+  },
+  "mutilate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmyü-tə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mutila01.mp3"
+      }
+    ]
+  },
+  "mutiny": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmyü-tə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mutiny01.mp3"
+      }
+    ]
+  },
+  "myriad": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmir-ē-əd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/myriad01.mp3"
+      }
+    ]
+  },
+  "mystic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmi-stik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mystic01.mp3"
+      }
+    ]
+  },
+  "mystification": {
+    "pronunciations": [
+      {
+        "syllables": "ˌmi-stə-fə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mystif01.mp3"
+      }
+    ]
+  },
+  "myth": {
+    "pronunciations": [
+      {
+        "syllables": "ˈmith",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/myth0001.mp3"
+      }
+    ]
+  },
+  "mythology": {
+    "pronunciations": [
+      {
+        "syllables": "mi-ˈthä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/mythol05.mp3"
+      }
+    ]
+  }
+}

@@ -2,271 +2,732 @@
   "jargon": {
     "def": [
       {
-        "definition": "Confused, unintelligible speech or highly technical speech.",
+        "definition": "the technical terminology or characteristic idiom of a special activity or group",
+        "type": "n."
+      },
+      {
+        "definition": "obscure and often pretentious language marked by  and long words",
+        "type": "n."
+      },
+      {
+        "definition": "confused unintelligible language",
+        "type": "n."
+      },
+      {
+        "definition": "a strange, outlandish, or barbarous language or dialect",
+        "type": "n."
+      },
+      {
+        "definition": "a hybrid language or dialect simplified in vocabulary and grammar and used for communication between peoples of different speech",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "jargon",
+      "jargons",
+      "jargony",
+      "jargoon",
+      "jargoned",
+      "jargoning"
+    ]
   },
   "jaundice": {
     "def": [
       {
-        "definition": "A morbid condition, due to obstructed excretion of bile or characterized by",
+        "definition": "yellowish pigmentation of the skin, tissues, and body fluids caused by the deposition of bile pigments",
+        "type": "n."
+      },
+      {
+        "definition": "a disease or abnormal condition characterized by jaundice",
+        "type": "n."
+      },
+      {
+        "definition": "a state or attitude characterized by distaste or hostility",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "jaundice",
+      "jaundices"
+    ]
   },
   "jeopardize": {
     "def": [
       {
-        "definition": "To imperil.",
+        "definition": "to expose to danger or risk",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "jeopardize",
+      "jeopardized",
+      "jeopardizes",
+      "jeopardizing"
+    ]
   },
   "jingo": {
     "def": [
       {
-        "definition": "One of a party in Great Britain in favor of spirited and demonstrative foreign",
+        "definition": "one characterized by",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "jingo",
+      "jingoes",
+      "jingoish"
+    ]
   },
   "jocose": {
     "def": [
       {
-        "definition": "Done or made in jest.",
+        "definition": "given to joking",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by joking",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "jocose",
+      "jocosely",
+      "jocoseness",
+      "jocosenesses",
+      "jocosities",
+      "jocosity"
+    ]
   },
   "jocular": {
     "def": [
       {
-        "definition": "Inclined to joke.",
+        "definition": "said or done as a joke characterized by jesting",
+        "type": "adj."
+      },
+      {
+        "definition": "given to jesting habitually jolly or",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "jocular",
+      "jocularities",
+      "jocularity",
+      "jocularly"
+    ]
   },
   "joggle": {
     "def": [
       {
-        "definition": "A sudden irregular shake or a push causing such a shake.",
+        "definition": "to shake slightly",
+        "type": "v."
+      },
+      {
+        "definition": "to move shakily or jerkily",
+        "type": "v."
+      },
+      {
+        "definition": "a notch or tooth in a joining surface (as of a piece of building material) to prevent slipping",
         "type": "n."
+      },
+      {
+        "definition": "a dowel for joining two adjacent blocks of masonry",
+        "type": "n."
+      },
+      {
+        "definition": "to join by means of a joggle so as to prevent sliding apart",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "joggle",
+      "joggled",
+      "joggler",
+      "jogglers",
+      "joggles",
+      "joggling"
+    ]
   },
   "journalize": {
     "def": [
       {
-        "definition": "To keep a diary.",
+        "definition": "to record in a journal",
+        "type": "v."
+      },
+      {
+        "definition": "to keep a journal in accounting",
+        "type": "v."
+      },
+      {
+        "definition": "to keep a personal journal",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "journalize",
+      "journalized",
+      "journalizer",
+      "journalizers",
+      "journalizes",
+      "journalizing"
+    ]
   },
   "jovial": {
     "def": [
       {
-        "definition": "Merry.",
+        "definition": "characterized by good-humored cheerfulness and conviviality",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Jovial",
+      "Jovials",
+      "jovial",
+      "jovialities",
+      "joviality",
+      "jovially"
+    ]
   },
   "jubilation": {
     "def": [
       {
-        "definition": "Exultation.",
+        "definition": "an act of rejoicing the state of being",
+        "type": "n."
+      },
+      {
+        "definition": "an expression of great joy",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "jubilation",
+      "jubilations"
+    ]
   },
   "judgment": {
     "def": [
       {
-        "definition": "The faculty by the exercise of which a deliberate conclusion is reached.",
+        "definition": "the act or process of forming an opinion or evaluation by  and comparing",
+        "type": "n."
+      },
+      {
+        "definition": "an opinion or decision that is based on careful thought",
+        "type": "n."
+      },
+      {
+        "definition": "the capacity for judging",
+        "type": "n."
+      },
+      {
+        "definition": "the exercise of this capacity",
+        "type": "n."
+      },
+      {
+        "definition": "a formal utterance of an authoritative opinion",
+        "type": "n."
+      },
+      {
+        "definition": "an opinion so pronounced",
+        "type": "n."
+      },
+      {
+        "definition": "a formal decision given by a court  {dx}see also",
+        "type": "n."
+      },
+      {
+        "definition": "the final judging of humankind by God",
+        "type": "n."
+      },
+      {
+        "definition": "a divine sentence or decision",
+        "type": "n."
+      },
+      {
+        "definition": "a proposition stating something believed or asserted",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Judgement",
+      "Judgements",
+      "Judgment",
+      "Judgments",
+      "judgement",
+      "judgements",
+      "judgment",
+      "judgments"
+    ]
   },
   "judicature": {
     "def": [
       {
-        "definition": "Distribution and administration of justice by trial and judgment.",
+        "definition": "the action of judging the administration of justice",
+        "type": "n."
+      },
+      {
+        "definition": "a court of justice",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "judicature",
+      "judicatures"
+    ]
   },
   "judicial": {
     "def": [
       {
-        "definition": "Pertaining to the administration of justice.",
+        "definition": "of or relating to a judgment, the function of judging, the administration of justice, or the",
+        "type": "adj."
+      },
+      {
+        "definition": "belonging to the branch of government that is charged with trying all cases that involve the government and with the administration of justice within its  {dx}compare ,",
+        "type": "adj."
+      },
+      {
+        "definition": "ordered or enforced by a court",
+        "type": "adj."
+      },
+      {
+        "definition": "belonging or appropriate to a judge or the judiciary",
+        "type": "adj."
+      },
+      {
+        "definition": "of, characterized by, or expressing",
+        "type": "adj."
+      },
+      {
+        "definition": "arising from a judgment of God",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "judicial",
+      "judicially"
+    ]
   },
   "judiciary": {
     "def": [
       {
-        "definition": "That department of government which administers the law relating to civil and",
+        "definition": "a system of courts of law",
+        "type": "n."
+      },
+      {
+        "definition": "the judges of these courts",
+        "type": "n."
+      },
+      {
+        "definition": "a branch of government in which judicial power is vested",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "judiciaries",
+      "judiciary"
+    ]
   },
   "judicious": {
     "def": [
       {
-        "definition": "Prudent.",
+        "definition": "having, exercising, or characterized by sound judgment",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "judicious",
+      "judiciously",
+      "judiciousness",
+      "judiciousnesses"
+    ]
   },
   "juggle": {
     "def": [
       {
-        "definition": "To play tricks of sleight of hand.",
+        "definition": "to perform the tricks of a juggler",
         "type": "v."
+      },
+      {
+        "definition": "to engage in manipulation especially in order to achieve a desired end",
+        "type": "v."
+      },
+      {
+        "definition": "to handle or deal with usually several things (such as obligations) at one time so as to satisfy often competing requirements",
+        "type": "v."
+      },
+      {
+        "definition": "to practice deceit or trickery on",
+        "type": "v."
+      },
+      {
+        "definition": "to manipulate or rearrange especially in order to achieve a desired end",
+        "type": "v."
+      },
+      {
+        "definition": "to toss in the manner of a juggler",
+        "type": "v."
+      },
+      {
+        "definition": "to hold or balance precariously",
+        "type": "v."
+      },
+      {
+        "definition": "a trick of magic",
+        "type": "n."
+      },
+      {
+        "definition": "a show of manual dexterity",
+        "type": "n."
+      },
+      {
+        "definition": "an act of manipulation especially to achieve a desired end",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "juggle",
+      "juggled",
+      "juggles",
+      "juggling"
+    ]
   },
   "jugglery": {
     "def": [
       {
-        "definition": "The art or practice of sleight of hand.",
+        "definition": "the art or practice of a juggler",
+        "type": "n."
+      },
+      {
+        "definition": "manipulation or trickery especially to achieve a desired end",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "juggleries",
+      "jugglery"
+    ]
   },
   "jugular": {
     "def": [
       {
-        "definition": "Pertaining to the throat.",
+        "definition": "the most vital or vulnerable part of something",
+        "type": "n."
+      },
+      {
+        "definition": "of or relating to the throat or neck",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the jugular vein",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "jugular",
+      "jugulars"
+    ]
   },
   "juicy": {
     "def": [
       {
-        "definition": "Succulent.",
+        "definition": "having much juice",
+        "type": "adj."
+      },
+      {
+        "definition": "rewarding or profitable especially financially",
+        "type": "adj."
+      },
+      {
+        "definition": "rich in interest",
+        "type": "adj."
+      },
+      {
+        "definition": "full of vitality",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "juicier",
+      "juiciest",
+      "juicily",
+      "juiciness",
+      "juicinesses",
+      "juicy"
+    ]
   },
   "junction": {
     "def": [
       {
-        "definition": "The condition of being joined.",
+        "definition": "an act of joining the state of being joined",
+        "type": "n."
+      },
+      {
+        "definition": "a place or point of meeting",
+        "type": "n."
+      },
+      {
+        "definition": "an intersection of roads especially where one terminates",
+        "type": "n."
+      },
+      {
+        "definition": "a point (as in a thermocouple) at which dissimilar metals make contact",
+        "type": "n."
+      },
+      {
+        "definition": "an interface in a semiconductor device between regions with different electrical characteristics",
+        "type": "n."
+      },
+      {
+        "definition": "something that joins",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "junction",
+      "junctional",
+      "junctions"
+    ]
   },
   "juncture": {
     "def": [
       {
-        "definition": "An articulation, joint, or seam.",
+        "definition": "a point of time",
+        "type": "n."
+      },
+      {
+        "definition": "the manner of transition or mode of relationship between two consecutive sounds in speech",
+        "type": "n."
+      },
+      {
+        "definition": "an instance of joining",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "juncture",
+      "junctures"
+    ]
   },
   "junta": {
     "def": [
       {
-        "definition": "A council or assembly that deliberates in secret upon the affairs of government.",
+        "definition": "a council or committee for political or governmental purposes",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "junta",
+      "juntas"
+    ]
   },
   "juridical": {
     "def": [
       {
-        "definition": "Assumed by law to exist.",
+        "definition": "of or relating to the administration of justice or the office of a judge",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to law or jurisprudence",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "juridic",
+      "juridical",
+      "juridically"
+    ]
   },
   "jurisdiction": {
     "def": [
       {
-        "definition": "Lawful power or right to exercise official authority.",
+        "definition": "the power, right, or authority to interpret and apply the law",
+        "type": "n."
+      },
+      {
+        "definition": "the authority of a sovereign power to govern or legislate",
+        "type": "n."
+      },
+      {
+        "definition": "the power or right to exercise authority",
+        "type": "n."
+      },
+      {
+        "definition": "the limits or territory within which authority may be exercised",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "jurisdiction",
+      "jurisdictional",
+      "jurisdictionally",
+      "jurisdictions"
+    ]
   },
   "jurisprudence": {
     "def": [
       {
-        "definition": "The science of rights in accordance with positive law.",
+        "definition": "the science or philosophy of law",
+        "type": "n."
+      },
+      {
+        "definition": "a system or body of law",
+        "type": "n."
+      },
+      {
+        "definition": "the course of court decisions as distinguished from legislation and doctrine",
+        "type": "n."
+      },
+      {
+        "definition": "a department of law",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "jurisprudence",
+      "jurisprudences",
+      "jurisprudential",
+      "jurisprudentially"
+    ]
   },
   "juror": {
     "def": [
       {
-        "definition": "One who serves on a jury or is sworn in for jury duty in a court of justice.",
+        "definition": "a member of a jury",
+        "type": "n."
+      },
+      {
+        "definition": "a person summoned to serve on a jury",
+        "type": "n."
+      },
+      {
+        "definition": "a person who takes an oath (as of allegiance)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "juror",
+      "jurors"
+    ]
   },
   "joust": {
     "def": [
       {
-        "definition": "To engage in a tilt with lances on horseback.",
+        "definition": "to fight on horseback as a knight or man-at-arms",
         "type": "v."
+      },
+      {
+        "definition": "to engage in combat with lances on horseback",
+        "type": "v."
+      },
+      {
+        "definition": "to engage in combat or competition as if in a joust",
+        "type": "v."
+      },
+      {
+        "definition": "a combat on horseback between two knights with lances especially as part of a tournament",
+        "type": "n."
+      },
+      {
+        "definition": "a personal combat or competition",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "joust",
+      "jousted",
+      "jouster",
+      "jousters",
+      "jousting",
+      "jousts"
+    ]
   },
   "justification": {
     "def": [
       {
-        "definition": "Vindication.",
+        "definition": "the act or an instance of  something",
+        "type": "n."
+      },
+      {
+        "definition": "an acceptable reason for doing something something that justifies an act or way of behaving",
+        "type": "n."
+      },
+      {
+        "definition": "the act, process, or state of being justified by God {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "the process or result of justifying lines of text {dx_def}see {/dx_def}",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "justification",
+      "justifications"
+    ]
   },
   "juvenile": {
     "def": [
       {
-        "definition": "Characteristic of youth.",
+        "definition": "physiologically  or undeveloped",
         "type": "adj."
+      },
+      {
+        "definition": "of, relating to, characteristic of, or suitable for children or young people",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to young people who have committed or are accused of committing a criminal offense",
+        "type": "adj."
+      },
+      {
+        "definition": "reflecting psychological or intellectual immaturity",
+        "type": "adj."
+      },
+      {
+        "definition": "derived from sources within the earth and coming to the surface for the first time",
+        "type": "adj."
+      },
+      {
+        "definition": "a young person",
+        "type": "n."
+      },
+      {
+        "definition": "a book for children or young people",
+        "type": "n."
+      },
+      {
+        "definition": "a fledged bird not yet in adult plumage",
+        "type": "n."
+      },
+      {
+        "definition": "a 2-year-old racehorse",
+        "type": "n."
+      },
+      {
+        "definition": "an actor or actress who plays youthful parts",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "juvenile",
+      "juveniles"
+    ]
   },
   "juxtapose": {
     "def": [
       {
-        "definition": "To place close together.",
+        "definition": "to place (different things) side by side (as to compare them or contrast them or to create an interesting effect)",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "juxtapose",
+      "juxtaposed",
+      "juxtaposes",
+      "juxtaposing"
+    ]
   }
 }

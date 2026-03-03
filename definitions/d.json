@@ -4,13 +4,18 @@
       {
         "definition": "venturesomely bold in action or thought",
         "type": "adj."
+      },
+      {
+        "definition": "venturesome boldness",
+        "type": "n."
       }
     ],
     "forms": [
       "daring",
       "daringly",
       "daringness",
-      "daringnesses"
+      "daringnesses",
+      "darings"
     ]
   },
   "darkling": {
@@ -18,6 +23,10 @@
       {
         "definition": "in the dark",
         "type": "adv."
+      },
+      {
+        "definition": "done or taking place in the dark",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -39,7 +48,8 @@
       "Darwinism",
       "Darwinisms",
       "Darwinist",
-      "Darwinists"
+      "Darwinists",
+      "darwinism"
     ]
   },
   "dastard": {
@@ -92,7 +102,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "day-man"
+    ]
   },
   "dead-heat": {
     "def": [
@@ -102,8 +114,7 @@
       }
     ],
     "forms": [
-      "dead heat",
-      "dead heats"
+      "dead-heat"
     ]
   },
   "dearth": {
@@ -159,11 +170,11 @@
         "type": "adj."
       },
       {
-        "definition": "open to {a_link|debate}",
+        "definition": "open to debate",
         "type": "adj."
       },
       {
-        "definition": "capable of being {a_link|debated}",
+        "definition": "capable of being debated",
         "type": "adj."
       }
     ],
@@ -173,20 +184,7 @@
     ]
   },
   "debonair": {
-    "def": [
-      {
-        "definition": ",",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
-      }
-    ],
+    "def": [],
     "forms": [
       "debonair",
       "debonairly",
@@ -203,12 +201,22 @@
       {
         "definition": "a formal entrance into society",
         "type": "n."
+      },
+      {
+        "definition": "to make a first appearance or a formal entrance into society to make a",
+        "type": "v."
+      },
+      {
+        "definition": "to present to the public for the first time",
+        "type": "v."
       }
     ],
     "forms": [
       "debut",
       "debuts",
-      "début"
+      "début",
+      "debuted",
+      "debuting"
     ]
   },
   "decagon": {
@@ -230,7 +238,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "decagram"
+    ]
   },
   "decaliter": {
     "def": [
@@ -239,7 +249,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "decaliter"
+    ]
   },
   "decalogue": {
     "def": [
@@ -262,16 +274,21 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "decameron"
+    ]
   },
   "decameter": {
     "def": [
       {
-        "definition": "A length of ten meters.",
+        "definition": "a line of verse consisting of 10 metrical feet",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "decameter",
+      "decameters"
+    ]
   },
   "decamp": {
     "def": [
@@ -370,10 +387,6 @@
       {
         "definition": "not honest",
         "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
       }
     ],
     "forms": [
@@ -419,7 +432,7 @@
   "decency": {
     "def": [
       {
-        "definition": "the quality or state of being {a_link|decent}",
+        "definition": "the quality or state of being decent",
         "type": "n."
       },
       {
@@ -508,11 +521,16 @@
       {
         "definition": "subdivided into 10th or 100th units",
         "type": "adj."
+      },
+      {
+        "definition": "any real number expressed in base 10",
+        "type": "n."
       }
     ],
     "forms": [
       "decimal",
-      "decimally"
+      "decimally",
+      "decimals"
     ]
   },
   "decimate": {
@@ -571,14 +589,6 @@
       {
         "definition": "having the power or quality of",
         "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
       }
     ],
     "forms": [
@@ -611,7 +621,7 @@
   "declamatory": {
     "def": [
       {
-        "definition": "of, relating to, or marked by {a_link|declamation} or rhetorical display",
+        "definition": "of, relating to, or marked by declamation or rhetorical display",
         "type": "adj."
       }
     ],
@@ -622,7 +632,7 @@
   "declarative": {
     "def": [
       {
-        "definition": "making a {a_link|declaration}",
+        "definition": "making a declaration",
         "type": "adj."
       }
     ],
@@ -643,10 +653,6 @@
       },
       {
         "definition": "a falling off or away",
-        "type": "n."
-      },
-      {
-        "definition": ",",
         "type": "n."
       }
     ],
@@ -709,11 +715,17 @@
       {
         "definition": "someone or something used to draw attention away from another",
         "type": "n."
+      },
+      {
+        "definition": "to lure by or as if by a",
+        "type": "v."
       }
     ],
     "forms": [
       "decoy",
-      "decoys"
+      "decoys",
+      "decoyed",
+      "decoying"
     ]
   },
   "decrepit": {
@@ -728,10 +740,6 @@
       },
       {
         "definition": "fallen into ruin or disrepair",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       }
     ],
@@ -809,10 +817,6 @@
   "defalcate": {
     "def": [
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
         "definition": "to intentionally or recklessly misuse funds in violation of a fiduciary duty",
         "type": "v."
       }
@@ -880,11 +884,39 @@
       {
         "definition": "a selection automatically used by a program in the absence of a choice made by the user",
         "type": "n."
+      },
+      {
+        "definition": "to fail to meet a financial obligation",
+        "type": "v."
+      },
+      {
+        "definition": "to fail to appear in court",
+        "type": "v."
+      },
+      {
+        "definition": "to fail to compete in or to finish an appointed contest",
+        "type": "v."
+      },
+      {
+        "definition": "to make a selection automatically in the absence of a choice made by the user",
+        "type": "v."
+      },
+      {
+        "definition": "to fail to perform, pay, or make good",
+        "type": "v."
+      },
+      {
+        "definition": "to exclude (a player or a team) from a contest by default",
+        "type": "v."
       }
     ],
     "forms": [
       "default",
-      "defaults"
+      "defaults",
+      "defaulted",
+      "defaulter",
+      "defaulters",
+      "defaulting"
     ]
   },
   "defendant": {
@@ -892,6 +924,10 @@
       {
         "definition": "a person or group against whom a criminal or civil action is brought someone who is being sued or accused of committing a crime  {dx}compare",
         "type": "n."
+      },
+      {
+        "definition": "being on the",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -902,7 +938,7 @@
   "defensible": {
     "def": [
       {
-        "definition": "capable of being {a_link|defended}",
+        "definition": "capable of being defended",
         "type": "adj."
       }
     ],
@@ -934,23 +970,32 @@
       {
         "definition": "designed to keep an opponent from being the highest bidder",
         "type": "adj."
+      },
+      {
+        "definition": "a position serving to protect or  a  position",
+        "type": "n."
       }
     ],
     "forms": [
       "defensive",
       "defensively",
       "defensiveness",
-      "defensivenesses"
+      "defensivenesses",
+      "defensives"
     ]
   },
   "defer": {
     "def": [
       {
-        "definition": ",",
+        "definition": "to postpone  of (a person) into military service",
         "type": "v."
       },
       {
-        "definition": "to postpone  of (a person) into military service",
+        "definition": "to  to another",
+        "type": "v."
+      },
+      {
+        "definition": "to submit to another's wishes, opinion, or governance usually through deference or respect",
         "type": "v."
       }
     ],
@@ -1011,21 +1056,22 @@
       {
         "definition": "not up to a normal standard or complement {dx_def}see {/dx_def}",
         "type": "adj."
+      },
+      {
+        "definition": "a person or thing that is",
+        "type": "n."
       }
     ],
     "forms": [
       "deficient",
-      "deficiently"
+      "deficiently",
+      "deficients"
     ]
   },
   "definite": {
     "def": [
       {
         "definition": "free of all ambiguity, uncertainty, or obscurity",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       },
       {
@@ -1121,7 +1167,7 @@
   "deformity": {
     "def": [
       {
-        "definition": "the state of being {a_link|deformed}",
+        "definition": "the state of being deformed",
         "type": "n."
       },
       {
@@ -1178,7 +1224,7 @@
   "degeneracy": {
     "def": [
       {
-        "definition": "the state of being {a_link|degenerate}",
+        "definition": "the state of being degenerate",
         "type": "n."
       },
       {
@@ -1224,13 +1270,52 @@
       {
         "definition": "having more than one  representing an",
         "type": "adj."
+      },
+      {
+        "definition": "to pass from a higher to a lower type or condition",
+        "type": "v."
+      },
+      {
+        "definition": "to sink into a low intellectual or moral state",
+        "type": "v."
+      },
+      {
+        "definition": "to decline in quality",
+        "type": "v."
+      },
+      {
+        "definition": "to decline from a condition or from the standards of a species, race, or breed",
+        "type": "v."
+      },
+      {
+        "definition": "to evolve or develop into a less autonomous {dx_def}see {/dx_def} or less functionally active form",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to degenerate",
+        "type": "v."
+      },
+      {
+        "definition": "one whose behavior is not morally right or socially acceptable",
+        "type": "n."
+      },
+      {
+        "definition": "a sexual pervert",
+        "type": "n."
+      },
+      {
+        "definition": "one showing signs of reversion {dx_def}see {/dx_def} to an earlier culture stage",
+        "type": "n."
       }
     ],
     "forms": [
       "degenerate",
       "degenerately",
       "degenerateness",
-      "degeneratenesses"
+      "degeneratenesses",
+      "degenerated",
+      "degenerates",
+      "degenerating"
     ]
   },
   "degradation": {
@@ -1410,10 +1495,6 @@
         "type": "n."
       },
       {
-        "definition": ",",
-        "type": "n."
-      },
-      {
         "definition": "a god {dx_def}see {/dx_def} or goddess",
         "type": "n."
       },
@@ -1432,11 +1513,16 @@
   "deject": {
     "def": [
       {
-        "definition": "To dishearten.",
+        "definition": "to make gloomy",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "deject",
+      "dejected",
+      "dejecting",
+      "dejects"
+    ]
   },
   "dejection": {
     "def": [
@@ -1455,22 +1541,22 @@
       {
         "definition": "highly pleasing",
         "type": "adj."
+      },
+      {
+        "definition": "something that is highly pleasing or delicious",
+        "type": "n."
       }
     ],
     "forms": [
       "delectabilities",
       "delectability",
       "delectable",
-      "delectably"
+      "delectably",
+      "delectables"
     ]
   },
   "delectation": {
-    "def": [
-      {
-        "definition": ",",
-        "type": "n."
-      }
-    ],
+    "def": [],
     "forms": [
       "delectation",
       "delectations"
@@ -1599,14 +1685,6 @@
       {
         "definition": "to mislead the mind or judgment of ,",
         "type": "v."
-      },
-      {
-        "definition": ",",
-        "type": "v."
-      },
-      {
-        "definition": ",",
-        "type": "v."
       }
     ],
     "forms": [
@@ -1631,11 +1709,17 @@
       {
         "definition": "an overwhelming amount or number",
         "type": "n."
+      },
+      {
+        "definition": "to overflow with water",
+        "type": "v."
       }
     ],
     "forms": [
       "deluge",
-      "deluges"
+      "deluges",
+      "deluged",
+      "deluging"
     ]
   },
   "delusion": {
@@ -1687,6 +1771,14 @@
       {
         "definition": "a leader in ancient times who  the cause of the common people",
         "type": "n."
+      },
+      {
+        "definition": "to behave like a demagogue",
+        "type": "v."
+      },
+      {
+        "definition": "to treat (something, such as an issue) in the manner of a",
+        "type": "v."
       }
     ],
     "forms": [
@@ -1697,7 +1789,11 @@
       "demagogueries",
       "demagoguery",
       "demagogues",
-      "demagogy"
+      "demagogy",
+      "demagoged",
+      "demagoging",
+      "demagogued",
+      "demagoguing"
     ]
   },
   "demeanor": {
@@ -1719,7 +1815,7 @@
         "type": "adj."
       },
       {
-        "definition": "affected by or exhibiting cognitive {a_link|dementia}",
+        "definition": "affected by or exhibiting cognitive dementia",
         "type": "adj."
       }
     ],
@@ -1767,11 +1863,25 @@
       {
         "definition": "transfer of the  to a successor",
         "type": "n."
+      },
+      {
+        "definition": "to  by will or lease",
+        "type": "v."
+      },
+      {
+        "definition": "to transmit by  or inheritance",
+        "type": "v."
+      },
+      {
+        "definition": "to pass by descent or",
+        "type": "v."
       }
     ],
     "forms": [
       "demise",
-      "demises"
+      "demises",
+      "demised",
+      "demising"
     ]
   },
   "demobilize": {
@@ -1792,10 +1902,6 @@
   },
   "demolish": {
     "def": [
-      {
-        "definition": ",",
-        "type": "v."
-      },
       {
         "definition": "to break to pieces",
         "type": "v."
@@ -1831,11 +1937,7 @@
   "demonstrable": {
     "def": [
       {
-        "definition": "capable of being {a_link|demonstrated}",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
+        "definition": "capable of being demonstrated",
         "type": "adj."
       }
     ],
@@ -1897,23 +1999,28 @@
       {
         "definition": "inclined to display feelings openly",
         "type": "adj."
+      },
+      {
+        "definition": "a word or  pointing out the one referred to and distinguishing it from others of the same class a demonstrative {dx_def}see {/dx_def} word or morpheme",
+        "type": "n."
       }
     ],
     "forms": [
       "demonstrative",
       "demonstratively",
       "demonstrativeness",
-      "demonstrativenesses"
+      "demonstrativenesses",
+      "demonstratives"
     ]
   },
   "demonstrator": {
     "def": [
       {
-        "definition": "a product (such as an automobile) used to {a_link|demonstrate} performance or merits to prospective buyers",
+        "definition": "a product (such as an automobile) used to demonstrate performance or merits to prospective buyers",
         "type": "n."
       },
       {
-        "definition": "a person who engages in a public {a_link|demonstration}",
+        "definition": "a person who engages in a public demonstration",
         "type": "n."
       }
     ],
@@ -1925,11 +2032,14 @@
   "demulcent": {
     "def": [
       {
-        "definition": "Any application soothing to an irritable surface",
+        "definition": "a usually mucilaginous or oily substance (such as tragacanth) that can soothe or protect an abraded mucous membrane",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "demulcent",
+      "demulcents"
+    ]
   },
   "demurrage": {
     "def": [
@@ -1997,7 +2107,7 @@
         "type": "v."
       },
       {
-        "definition": "to express or designate in some {a_link|denomination}",
+        "definition": "to express or designate in some denomination",
         "type": "v."
       }
     ],
@@ -2016,10 +2126,6 @@
       },
       {
         "definition": "a value or size of a series of values or sizes",
-        "type": "n."
-      },
-      {
-        "definition": ",",
         "type": "n."
       },
       {
@@ -2258,10 +2364,19 @@
       {
         "definition": "occurring with passive or middle voice forms but with active voice meaning",
         "type": "adj."
+      },
+      {
+        "definition": "a deponent verb",
+        "type": "n."
+      },
+      {
+        "definition": "one who gives evidence especially at a deposition",
+        "type": "n."
       }
     ],
     "forms": [
-      "deponent"
+      "deponent",
+      "deponents"
     ]
   },
   "depopulate": {
@@ -2414,10 +2529,6 @@
         "type": "v."
       },
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
         "definition": "to withdraw official support for or discourage the use of (something, such as a software product) in favor of a newer or better alternative",
         "type": "v."
       },
@@ -2490,10 +2601,6 @@
   "depress": {
     "def": [
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
         "definition": "to press down",
         "type": "v."
       },
@@ -2503,10 +2610,6 @@
       },
       {
         "definition": "to lessen the activity or strength of",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       },
       {
@@ -2551,8 +2654,7 @@
     ],
     "forms": [
       "depression",
-      "depressions",
-      "the Depression"
+      "depressions"
     ]
   },
   "depth": {
@@ -2589,8 +2691,7 @@
     "forms": [
       "depth",
       "depthless",
-      "depths",
-      "sunk to new depths"
+      "depths"
     ]
   },
   "derelict": {
@@ -2602,10 +2703,23 @@
       {
         "definition": "failing to do what should be done",
         "type": "adj."
+      },
+      {
+        "definition": "a person who has no established residence and who wanders from place to place without lawful or visible means of support",
+        "type": "n."
+      },
+      {
+        "definition": "something voluntarily abandoned",
+        "type": "n."
+      },
+      {
+        "definition": "a tract of land left dry by receding water",
+        "type": "n."
       }
     ],
     "forms": [
-      "derelict"
+      "derelict",
+      "derelicts"
     ]
   },
   "deride": {
@@ -2636,7 +2750,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "derisible"
+    ]
   },
   "derision": {
     "def": [
@@ -2662,14 +2778,6 @@
     "def": [
       {
         "definition": "the relation of a word to its base or root {dx_def}see {/dx_def}",
-        "type": "n."
-      },
-      {
-        "definition": ",",
-        "type": "n."
-      },
-      {
-        "definition": ",",
         "type": "n."
       },
       {
@@ -2717,11 +2825,26 @@
       {
         "definition": "a contract or security {dx_def}see {/dx_def} that  its value from that of an underlying asset (such as another security) or from the value of a rate (as of interest or currency exchange) or index {dx_def}see {/dx_def} of asset value (such as a stock index)",
         "type": "n."
+      },
+      {
+        "definition": "formed from another word or base formed by",
+        "type": "adj."
+      },
+      {
+        "definition": "having parts that originate from another source made up of or marked by  elements",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking originality",
+        "type": "adj."
       }
     ],
     "forms": [
       "derivative",
-      "derivatives"
+      "derivatives",
+      "derivatively",
+      "derivativeness",
+      "derivativenesses"
     ]
   },
   "derive": {
@@ -2732,10 +2855,6 @@
       },
       {
         "definition": "to obtain (a chemical substance) actually or theoretically from a parent substance",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       },
       {
@@ -2797,11 +2916,21 @@
       {
         "definition": "proceeding from an ancestor or source",
         "type": "adj."
+      },
+      {
+        "definition": "one originating or coming from an ancestral stock or source one  from another",
+        "type": "n."
+      },
+      {
+        "definition": "one deriving directly from a precursor or prototype",
+        "type": "n."
       }
     ],
     "forms": [
       "descendant",
-      "descendent"
+      "descendent",
+      "descendants",
+      "descendents"
     ]
   },
   "descendent": {
@@ -2827,7 +2956,7 @@
         "type": "n."
       },
       {
-        "definition": "transmission or  of an estate {dx_def}see {/dx_def} by inheritance usually in the {a_link|descending} line",
+        "definition": "transmission or  of an estate {dx_def}see {/dx_def} by inheritance usually in the descending line",
         "type": "n."
       },
       {
@@ -2851,15 +2980,11 @@
         "type": "n."
       },
       {
-        "definition": "a way (such as a downgrade or stairway) that {a_link|descends} or leads downward",
+        "definition": "a way (such as a downgrade or stairway) that descends or leads downward",
         "type": "n."
       },
       {
         "definition": "the lowest part",
-        "type": "n."
-      },
-      {
-        "definition": ",",
         "type": "n."
       },
       {
@@ -2883,12 +3008,12 @@
         "type": "v."
       },
       {
-        "definition": ",",
+        "definition": "to make known",
         "type": "v."
       },
       {
-        "definition": "to make known",
-        "type": "v."
+        "definition": "discovery or view from afar",
+        "type": "n."
       }
     ],
     "forms": [
@@ -2915,13 +3040,51 @@
       {
         "definition": "a wild uninhabited and uncultivated tract",
         "type": "n."
+      },
+      {
+        "definition": "remote and uninhabited or only sparsely inhabited",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a desert {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "to  from or leave usually without intent to return",
+        "type": "v."
+      },
+      {
+        "definition": "to leave and stop helping or supporting (someone)",
+        "type": "v."
+      },
+      {
+        "definition": "to fail to remain with (someone) in a time of need",
+        "type": "v."
+      },
+      {
+        "definition": "to abandon (military service) without leave",
+        "type": "v."
+      },
+      {
+        "definition": "to quit one's post, , or service without leave or justification",
+        "type": "v."
+      },
+      {
+        "definition": "deserved reward or punishment",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or fact of  reward or punishment",
+        "type": "n."
       }
     ],
     "forms": [
       "desert",
       "desertic",
       "desertlike",
-      "deserts"
+      "deserts",
+      "deserted",
+      "deserting"
     ]
   },
   "desiccant": {
@@ -2951,12 +3114,12 @@
         "type": "v."
       },
       {
-        "definition": ",",
+        "definition": "to call by a distinctive title, term, or expression",
         "type": "v."
       },
       {
-        "definition": "to call by a distinctive title, term, or expression",
-        "type": "v."
+        "definition": "chosen but not yet installed {dx_def}see {/dx_def}",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -3015,15 +3178,23 @@
       {
         "definition": "a cause of hopelessness",
         "type": "n."
+      },
+      {
+        "definition": "to lose all  or confidence",
+        "type": "v."
+      },
+      {
+        "definition": "to lose hope for",
+        "type": "v."
       }
     ],
     "forms": [
-      "(much) to the despair of",
       "despair",
       "despairs",
-      "in despair",
-      "much to the despair of",
-      "to the despair of"
+      "despaired",
+      "despairer",
+      "despairers",
+      "despairing"
     ]
   },
   "desperado": {
@@ -3068,10 +3239,6 @@
       {
         "definition": "of extreme intensity",
         "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
       }
     ],
     "forms": [
@@ -3099,16 +3266,35 @@
       {
         "definition": "in spite of",
         "type": "prep."
+      },
+      {
+        "definition": "the feeling or attitude of  someone or something",
+        "type": "n."
+      },
+      {
+        "definition": "an act showing  or",
+        "type": "n."
+      },
+      {
+        "definition": "to treat with",
+        "type": "v."
+      },
+      {
+        "definition": "to  to anger",
+        "type": "v."
       }
     ],
     "forms": [
-      "despite"
+      "despite",
+      "despites",
+      "despited",
+      "despiting"
     ]
   },
   "despond": {
     "def": [
       {
-        "definition": "to become {a_link|despondent}",
+        "definition": "to become despondent",
         "type": "v."
       }
     ],
@@ -3360,10 +3546,6 @@
       {
         "definition": "to feel intense and often violent  toward",
         "type": "v."
-      },
-      {
-        "definition": ",",
-        "type": "v."
       }
     ],
     "forms": [
@@ -3402,19 +3584,13 @@
   "detriment": {
     "def": [
       {
-        "definition": ",",
-        "type": "n."
-      },
-      {
         "definition": "a cause of injury or damage",
         "type": "n."
       }
     ],
     "forms": [
       "detriment",
-      "detriments",
-      "to the detriment of",
-      "to the detriment of "
+      "detriments"
     ]
   },
   "detrude": {
@@ -3424,7 +3600,9 @@
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "detrude"
+    ]
   },
   "deviate": {
     "def": [
@@ -3439,6 +3617,18 @@
       {
         "definition": "to cause to turn out of a previous course",
         "type": "v."
+      },
+      {
+        "definition": "one that  from a",
+        "type": "n."
+      },
+      {
+        "definition": "a statistical variable that gives the deviation {dx_def}see {/dx_def} of another variable from a fixed value (such as the )",
+        "type": "n."
+      },
+      {
+        "definition": "departing significantly from the behavioral norms {dx_def}see {/dx_def} of a particular society",
+        "type": "adj."
       }
     ],
     "forms": [
@@ -3454,7 +3644,7 @@
   "devilry": {
     "def": [
       {
-        "definition": "action performed with the help of the {a_link|devil}",
+        "definition": "action performed with the help of the devil",
         "type": "n."
       },
       {
@@ -3472,7 +3662,7 @@
   "deviltry": {
     "def": [
       {
-        "definition": "action performed with the help of the {a_link|devil}",
+        "definition": "action performed with the help of the devil",
         "type": "n."
       },
       {
@@ -3490,7 +3680,7 @@
   "devious": {
     "def": [
       {
-        "definition": "{a_link|deviating} from a right, accepted, or common course",
+        "definition": "deviating from a right, accepted, or common course",
         "type": "adj."
       },
       {
@@ -3498,15 +3688,7 @@
         "type": "adj."
       },
       {
-        "definition": ",",
-        "type": "adj."
-      },
-      {
         "definition": "moving without a fixed course",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       }
     ],
@@ -3524,16 +3706,24 @@
         "type": "v."
       },
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
         "definition": "to plan to obtain or bring about",
         "type": "v."
       },
       {
         "definition": "to give (real property) by will {dx_def}see {/dx_def} {dx}compare",
         "type": "v."
+      },
+      {
+        "definition": "the act of giving or disposing of real {dx_def}see {/dx_def} property by will {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a will or clause of a will disposing of real property",
+        "type": "n."
+      },
+      {
+        "definition": "property devised by will",
+        "type": "n."
       }
     ],
     "forms": [
@@ -3543,7 +3733,8 @@
       "deviser",
       "devisers",
       "devises",
-      "devising"
+      "devising",
+      "devisen"
     ]
   },
   "devout": {
@@ -3606,7 +3797,7 @@
   "diacritical": {
     "def": [
       {
-        "definition": "serving as a {a_link|diacritic}",
+        "definition": "serving as a diacritic",
         "type": "adj."
       },
       {
@@ -3712,11 +3903,11 @@
   "dialectician": {
     "def": [
       {
-        "definition": "one who is skilled in or practices {a_link|dialectic}",
+        "definition": "one who is skilled in or practices dialectic",
         "type": "n."
       },
       {
-        "definition": "a student of {a_link|dialects}",
+        "definition": "a student of dialects",
         "type": "n."
       }
     ],
@@ -3750,13 +3941,23 @@
       {
         "definition": "a musical composition for two or more parts suggestive of a conversation",
         "type": "n."
+      },
+      {
+        "definition": "to express in",
+        "type": "v."
+      },
+      {
+        "definition": "to take part in a dialogue",
+        "type": "v."
       }
     ],
     "forms": [
       "dialog",
       "dialogs",
       "dialogue",
-      "dialogues"
+      "dialogues",
+      "dialogued",
+      "dialoguing"
     ]
   },
   "diaphanous": {
@@ -3767,10 +3968,6 @@
       },
       {
         "definition": "characterized by extreme delicacy of form",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       }
     ],
@@ -3898,10 +4095,8 @@
     "forms": [
       "difference",
       "differences",
-      "tell the difference",
-      "telling the difference",
-      "tells the difference",
-      "told the difference"
+      "differenced",
+      "differencing"
     ]
   },
   "differentia": {
@@ -3945,11 +4140,32 @@
       {
         "definition": "producing effects by reason of quantitative differences",
         "type": "adj."
+      },
+      {
+        "definition": "the product {dx_def}see {/dx_def} of the derivative of a function of one variable by the increment of the",
+        "type": "n."
+      },
+      {
+        "definition": "a sum of products in which each product consists of a  of a given function of several variables multiplied by the corresponding increment and which contains as many products as there are independent variables in the function",
+        "type": "n."
+      },
+      {
+        "definition": "a  between comparable individuals or classes",
+        "type": "n."
+      },
+      {
+        "definition": "a  gear assembly connecting two  shafts or axles (such as those of the rear wheels of an automobile) and permitting one shaft to revolve faster than the other",
+        "type": "n."
+      },
+      {
+        "definition": "a case covering such an assembly",
+        "type": "n."
       }
     ],
     "forms": [
       "differential",
-      "differentially"
+      "differentially",
+      "differentials"
     ]
   },
   "differentiate": {
@@ -4014,10 +4230,6 @@
       {
         "definition": "in acting or speaking through lack of",
         "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
       }
     ],
     "forms": [
@@ -4029,10 +4241,6 @@
     "def": [
       {
         "definition": "to pour out and permit or cause to spread freely",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       },
       {
@@ -4067,10 +4275,6 @@
         "type": "n."
       },
       {
-        "definition": ",",
-        "type": "n."
-      },
-      {
         "definition": "the process whereby particles of liquids, gases, or solids intermingle as the result of their spontaneous movement caused by thermal {dx_def}see {/dx_def} agitation and in dissolved substances move from a region of higher to one of lower concentration",
         "type": "n."
       },
@@ -4092,7 +4296,7 @@
   "dignitary": {
     "def": [
       {
-        "definition": "one who possesses exalted rank or holds a position of {a_link|dignity} or honor",
+        "definition": "one who possesses exalted rank or holds a position of dignity or honor",
         "type": "n."
       }
     ],
@@ -4257,10 +4461,6 @@
         "type": "n."
       },
       {
-        "definition": ",",
-        "type": "n."
-      },
-      {
         "definition": "the attention, effort, and care legally expected or required of a person (such as a party to a contract) {dx}see also",
         "type": "n."
       }
@@ -4294,7 +4494,9 @@
       "diluting",
       "dilutive",
       "dilutor",
-      "dilutors"
+      "dilutors",
+      "diluteness",
+      "dilutenesses"
     ]
   },
   "diminution": {
@@ -4313,10 +4515,6 @@
     "def": [
       {
         "definition": "or having a limited or insufficient amount of light",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       },
       {
@@ -4351,11 +4549,7 @@
       "dimmer",
       "dimmest",
       "dimness",
-      "dimnesses",
-      "take a dim view of",
-      "takes a dim view of",
-      "taking a dim view of",
-      "took a dim view of"
+      "dimnesses"
     ]
   },
   "diphthong": {
@@ -4430,7 +4624,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "diplomatist"
+    ]
   },
   "disagree": {
     "def": [
@@ -4509,7 +4705,7 @@
         "type": "v."
       },
       {
-        "definition": "to fail to meet a hope or expectation to cause {a_link|disappointment}",
+        "definition": "to fail to meet a hope or expectation to cause disappointment",
         "type": "v."
       }
     ],
@@ -4531,7 +4727,7 @@
         "type": "v."
       },
       {
-        "definition": "to feel or express {a_link|disapproval}",
+        "definition": "to feel or express disapproval",
         "type": "v."
       }
     ],
@@ -4718,6 +4914,18 @@
       {
         "definition": "to discard a playing card",
         "type": "v."
+      },
+      {
+        "definition": "the act of removing a playing card from one's hand the act of discarding {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a card discarded",
+        "type": "n."
+      },
+      {
+        "definition": "one that is cast off or rejected",
+        "type": "n."
       }
     ],
     "forms": [
@@ -4771,7 +4979,7 @@
   "disciplinary": {
     "def": [
       {
-        "definition": "of or relating to {a_link|discipline}",
+        "definition": "of or relating to discipline",
         "type": "adj."
       },
       {
@@ -4811,18 +5019,38 @@
       {
         "definition": "a rule or system of rules  conduct or activity",
         "type": "n."
+      },
+      {
+        "definition": "to punish or  as a means of enforcing obedience and perfecting moral character",
+        "type": "v."
+      },
+      {
+        "definition": "to train or develop by instruction and exercise especially in",
+        "type": "v."
+      },
+      {
+        "definition": "to bring (a group) under control",
+        "type": "v."
+      },
+      {
+        "definition": "to  order upon",
+        "type": "v."
       }
     ],
     "forms": [
       "disciplinal",
       "discipline",
-      "disciplines"
+      "disciplines",
+      "disciplined",
+      "discipliner",
+      "discipliners",
+      "disciplining"
     ]
   },
   "disclaim": {
     "def": [
       {
-        "definition": "to make a {a_link|disclaimer}",
+        "definition": "to make a disclaimer",
         "type": "v."
       },
       {
@@ -4835,10 +5063,6 @@
       },
       {
         "definition": "to renounce a legal claim to",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       }
     ],
@@ -4880,6 +5104,10 @@
       {
         "definition": "to defeat in battle",
         "type": "v."
+      },
+      {
+        "definition": "the state of being confused, embarrassed, or upset",
+        "type": "n."
       }
     ],
     "forms": [
@@ -4897,13 +5125,16 @@
         "type": "n."
       },
       {
-        "definition": ",",
-        "type": "n."
+        "definition": "to make uncomfortable or uneasy",
+        "type": "v."
       }
     ],
     "forms": [
       "discomfort",
-      "discomforts"
+      "discomforts",
+      "discomfortable",
+      "discomforted",
+      "discomforting"
     ]
   },
   "disconnect": {
@@ -4919,6 +5150,10 @@
       {
         "definition": "to become detached or withdrawn",
         "type": "v."
+      },
+      {
+        "definition": "a lack of or a break in connection, consistency, or agreement",
+        "type": "n."
       }
     ],
     "forms": [
@@ -4931,12 +5166,7 @@
     ]
   },
   "disconsolate": {
-    "def": [
-      {
-        "definition": ",",
-        "type": "adj."
-      }
-    ],
+    "def": [],
     "forms": [
       "disconsolate",
       "disconsolately",
@@ -4949,7 +5179,7 @@
   "discontinuance": {
     "def": [
       {
-        "definition": "the act or an instance of {a_link|discontinuing}",
+        "definition": "the act or an instance of discontinuing",
         "type": "n."
       },
       {
@@ -4979,17 +5209,15 @@
     ],
     "forms": [
       "discord",
-      "discords"
+      "discords",
+      "discorded",
+      "discording"
     ]
   },
   "discountenance": {
     "def": [
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
-        "definition": "to look with disfavor on {a_link|discourage} by evidence of disapproval",
+        "definition": "to look with disfavor on discourage by evidence of disapproval",
         "type": "v."
       }
     ],
@@ -5038,6 +5266,14 @@
       {
         "definition": "to deprive of good",
         "type": "v."
+      },
+      {
+        "definition": "loss of credit {dx_def}see {/dx_def} or reputation",
+        "type": "n."
+      },
+      {
+        "definition": "lack or loss of belief or confidence",
+        "type": "n."
       }
     ],
     "forms": [
@@ -5051,14 +5287,6 @@
     "def": [
       {
         "definition": "having or showing  or good judgment in  and especially in speech",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       }
     ],
@@ -5099,10 +5327,6 @@
       },
       {
         "definition": "to mark or perceive the distinguishing or peculiar features of",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       },
       {
@@ -5198,17 +5422,19 @@
   "disfavor": {
     "def": [
       {
-        "definition": ",",
+        "definition": "the state or fact of being no longer favored",
         "type": "n."
       },
       {
-        "definition": "the state or fact of being no longer favored",
-        "type": "n."
+        "definition": "to withhold or withdraw favor from",
+        "type": "v."
       }
     ],
     "forms": [
       "disfavor",
-      "disfavors"
+      "disfavors",
+      "disfavored",
+      "disfavoring"
     ]
   },
   "disfigure": {
@@ -5248,10 +5474,6 @@
   "dishonest": {
     "def": [
       {
-        "definition": ",",
-        "type": "adj."
-      },
-      {
         "definition": "characterized by lack of truth, honesty, or trustworthiness ,",
         "type": "adj."
       }
@@ -5266,11 +5488,19 @@
       {
         "definition": "the condition of being disenchanted the condition of being dissatisfied or defeated in expectation or hope",
         "type": "n."
+      },
+      {
+        "definition": "to free from illusion",
+        "type": "v."
       }
     ],
     "forms": [
       "disillusion",
-      "disillusions"
+      "disillusions",
+      "disillusioned",
+      "disillusioning",
+      "disillusionment",
+      "disillusionments"
     ]
   },
   "disinfect": {
@@ -5346,7 +5576,7 @@
   "disjunctive": {
     "def": [
       {
-        "definition": "relating to, being, or forming a logical {a_link|disjunction}",
+        "definition": "relating to, being, or forming a logical disjunction",
         "type": "adj."
       },
       {
@@ -5364,11 +5594,16 @@
       {
         "definition": "stressed and not attached to the verb as an enclitic or proclitic",
         "type": "adj."
+      },
+      {
+        "definition": "a disjunctive conjunction",
+        "type": "n."
       }
     ],
     "forms": [
       "disjunctive",
-      "disjunctively"
+      "disjunctively",
+      "disjunctives"
     ]
   },
   "dislocate": {
@@ -5392,7 +5627,7 @@
   "dismissal": {
     "def": [
       {
-        "definition": "the act of {a_link|dismissing} the fact or state of being {a_link|dismissed}",
+        "definition": "the act of dismissing the fact or state of being dismissed",
         "type": "n."
       }
     ],
@@ -5410,6 +5645,10 @@
       {
         "definition": "to alight from an elevated position (as on a horse)",
         "type": "v."
+      },
+      {
+        "definition": "the act of dismounting",
+        "type": "n."
       }
     ],
     "forms": [
@@ -5600,7 +5839,7 @@
   "disputation": {
     "def": [
       {
-        "definition": "the action of {a_link|disputing} verbal controversy",
+        "definition": "the action of disputing verbal controversy",
         "type": "n."
       },
       {
@@ -5640,6 +5879,10 @@
       {
         "definition": "to take away the peace or tranquility of ,",
         "type": "v."
+      },
+      {
+        "definition": "lack of peace or tranquility",
+        "type": "n."
       }
     ],
     "forms": [
@@ -5647,7 +5890,8 @@
       "disquieted",
       "disquieting",
       "disquietingly",
-      "disquiets"
+      "disquiets",
+      "disquietly"
     ]
   },
   "disregard": {
@@ -5655,13 +5899,18 @@
       {
         "definition": "to pay no attention to treat as unworthy of regard or notice",
         "type": "v."
+      },
+      {
+        "definition": "the act of treating someone or something as unworthy of regard or notice the state of being disregarded {dx_def}see {/dx_def}",
+        "type": "n."
       }
     ],
     "forms": [
       "disregard",
       "disregarded",
       "disregarding",
-      "disregards"
+      "disregards",
+      "disregardful"
     ]
   },
   "disreputable": {
@@ -5781,7 +6030,7 @@
   "dissection": {
     "def": [
       {
-        "definition": "the act or process of {a_link|dissecting} the state of being {a_link|dissected}",
+        "definition": "the act or process of dissecting the state of being dissected",
         "type": "n."
       },
       {
@@ -5845,7 +6094,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "dissension"
+    ]
   },
   "dissent": {
     "def": [
@@ -5856,6 +6107,18 @@
       {
         "definition": "to differ in opinion",
         "type": "v."
+      },
+      {
+        "definition": "religious",
+        "type": "n."
+      },
+      {
+        "definition": "a judge's or justice's nonconcurrence with a decision of the majority",
+        "type": "n."
+      },
+      {
+        "definition": "political opposition to a government or its policies",
+        "type": "n."
       }
     ],
     "forms": [
@@ -5868,7 +6131,7 @@
   "dissentient": {
     "def": [
       {
-        "definition": "expressing {a_link|dissent}",
+        "definition": "expressing dissent",
         "type": "adj."
       }
     ],
@@ -5880,7 +6143,7 @@
   "dissentious": {
     "def": [
       {
-        "definition": "characterized by {a_link|dissension} or {a_link|dissent}",
+        "definition": "characterized by dissension or dissent",
         "type": "adj."
       }
     ],
@@ -5915,10 +6178,6 @@
   },
   "dissever": {
     "def": [
-      {
-        "definition": ",",
-        "type": "v."
-      },
       {
         "definition": "to come apart",
         "type": "v."
@@ -5985,14 +6244,6 @@
   },
   "dissipation": {
     "def": [
-      {
-        "definition": ",",
-        "type": "n."
-      },
-      {
-        "definition": ",",
-        "type": "n."
-      },
       {
         "definition": "wasteful expenditure",
         "type": "n."
@@ -6068,10 +6319,6 @@
         "type": "v."
       },
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
         "definition": "to cause to be emotionally moved {dx_def}see {/dx_def}",
         "type": "v."
       },
@@ -6080,19 +6327,11 @@
         "type": "v."
       },
       {
-        "definition": ",",
-        "type": "v."
-      },
-      {
         "definition": "to clear up to find a solution, explanation, or answer for",
         "type": "v."
       },
       {
         "definition": "to become dissipated {dx_def}see {/dx_def} or decomposed",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       },
       {
@@ -6118,6 +6357,10 @@
       {
         "definition": "to change by a dissolve",
         "type": "v."
+      },
+      {
+        "definition": "a gradual  of one video, film, or television shot upon another on a screen",
+        "type": "n."
       }
     ],
     "forms": [
@@ -6155,7 +6398,7 @@
   "dissonant": {
     "def": [
       {
-        "definition": "marked by {a_link|dissonance}",
+        "definition": "marked by dissonance",
         "type": "adj."
       },
       {
@@ -6195,7 +6438,7 @@
   "dissuasion": {
     "def": [
       {
-        "definition": "the action of {a_link|dissuading}",
+        "definition": "the action of dissuading",
         "type": "n."
       }
     ],
@@ -6226,7 +6469,31 @@
         "type": "v."
       },
       {
-        "definition": ",",
+        "definition": "bad humor or temper",
+        "type": "n."
+      },
+      {
+        "definition": "a highly contagious viral disease of canines and especially of dogs that is caused by a  (Morbillivirus canis) and is marked by fever, , and respiratory, gastrointestinal, and neurological symptoms",
+        "type": "n."
+      },
+      {
+        "definition": "a process of painting in which the pigments are mixed with an emulsion of egg yolk, with size, or with white of egg as a vehicle and which is used for painting scenery and murals",
+        "type": "n."
+      },
+      {
+        "definition": "the paint or the prepared ground used in the distemper process",
+        "type": "n."
+      },
+      {
+        "definition": "a painting done in distemper",
+        "type": "n."
+      },
+      {
+        "definition": "any of various water-based paints",
+        "type": "n."
+      },
+      {
+        "definition": "to paint in or with distemper",
         "type": "v."
       }
     ],
@@ -6234,7 +6501,8 @@
       "distemper",
       "distempered",
       "distempering",
-      "distempers"
+      "distempers",
+      "distemperate"
     ]
   },
   "distend": {
@@ -6258,7 +6526,7 @@
   "distensible": {
     "def": [
       {
-        "definition": "capable of being {a_link|distended}",
+        "definition": "capable of being distended",
         "type": "adj."
       }
     ],
@@ -6271,7 +6539,7 @@
   "distention": {
     "def": [
       {
-        "definition": "the act of {a_link|distending} or the state of being {a_link|distended} especially unduly or abnormally",
+        "definition": "the act of distending or the state of being distended especially unduly or abnormally",
         "type": "n."
       }
     ],
@@ -6336,7 +6604,7 @@
         "type": "n."
       },
       {
-        "definition": "something {a_link|distilled}",
+        "definition": "something distilled",
         "type": "n."
       }
     ],
@@ -6348,7 +6616,7 @@
   "distiller": {
     "def": [
       {
-        "definition": "one that {a_link|distills} especially alcoholic liquors",
+        "definition": "one that distills especially alcoholic liquors",
         "type": "n."
       }
     ],
@@ -6417,7 +6685,7 @@
   "distrain": {
     "def": [
       {
-        "definition": "to force or compel to satisfy an obligation by means of a {a_link|distress}",
+        "definition": "to force or compel to satisfy an obligation by means of a distress",
         "type": "v."
       },
       {
@@ -6444,7 +6712,7 @@
   "distrainor": {
     "def": [
       {
-        "definition": "to force or compel to satisfy an obligation by means of a {a_link|distress}",
+        "definition": "to force or compel to satisfy an obligation by means of a distress",
         "type": "v."
       },
       {
@@ -6489,11 +6757,17 @@
       {
         "definition": "the lack or absence of trust",
         "type": "n."
+      },
+      {
+        "definition": "to have no trust or confidence in",
+        "type": "v."
       }
     ],
     "forms": [
       "distrust",
-      "distrusts"
+      "distrusts",
+      "distrusted",
+      "distrusting"
     ]
   },
   "disunion": {
@@ -6535,7 +6809,8 @@
     ],
     "forms": [
       "diurnal",
-      "diurnally"
+      "diurnally",
+      "diurnals"
     ]
   },
   "divagation": {
@@ -6669,7 +6944,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "divertible"
+    ]
   },
   "divest": {
     "def": [
@@ -6683,10 +6960,6 @@
       },
       {
         "definition": "to undress or strip especially of clothing, ornament, or equipment",
-        "type": "v."
-      },
-      {
-        "definition": ",",
         "type": "v."
       }
     ],
@@ -6719,7 +6992,7 @@
   "divinity": {
     "def": [
       {
-        "definition": "the quality or state of being {a_link|divine}",
+        "definition": "the quality or state of being divine",
         "type": "n."
       },
       {
@@ -6750,7 +7023,7 @@
   "divisor": {
     "def": [
       {
-        "definition": "the number by which a {a_link|dividend} is {a_link|divided}",
+        "definition": "the number by which a dividend is divided",
         "type": "n."
       }
     ],
@@ -6826,11 +7099,25 @@
       {
         "definition": "an identifying statement about a document placed on its outer surface or cover",
         "type": "n."
+      },
+      {
+        "definition": "to place on the docket for legal action",
+        "type": "v."
+      },
+      {
+        "definition": "to make a brief abstract of (something, such as a legal matter) and inscribe it in a list",
+        "type": "v."
+      },
+      {
+        "definition": "to inscribe (something, such as a document) with an identifying statement",
+        "type": "v."
       }
     ],
     "forms": [
       "docket",
-      "dockets"
+      "dockets",
+      "docketed",
+      "docketing"
     ]
   },
   "doe": {
@@ -6838,11 +7125,20 @@
       {
         "definition": "the adult female of various mammals (such as a deer, rabbit, or kangaroo) of which the male is called buck",
         "type": "n."
+      },
+      {
+        "definition": "Department of Energy",
+        "type": "abbreviation"
+      },
+      {
+        "definition": "depends on experience",
+        "type": "abbreviation"
       }
     ],
     "forms": [
       "doe",
-      "does"
+      "does",
+      "DOE"
     ]
   },
   "dogma": {
@@ -6892,11 +7188,11 @@
   "dogmatize": {
     "def": [
       {
-        "definition": "to speak or write {a_link|dogmatically}",
+        "definition": "to speak or write dogmatically",
         "type": "v."
       },
       {
-        "definition": "to state as a {a_link|dogma} or in a {a_link|dogmatic} manner",
+        "definition": "to state as a dogma or in a dogmatic manner",
         "type": "v."
       }
     ],
@@ -6942,7 +7238,9 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "dolesome"
+    ]
   },
   "dolor": {
     "def": [
@@ -7021,7 +7319,7 @@
   "domesticity": {
     "def": [
       {
-        "definition": "the quality or state of being {a_link|domestic} or {a_link|domesticated}",
+        "definition": "the quality or state of being domestic or domesticated",
         "type": "n."
       },
       {
@@ -7047,13 +7345,19 @@
       {
         "definition": "a person's fixed, permanent, and principal home for legal purposes",
         "type": "n."
+      },
+      {
+        "definition": "to establish in or provide with a",
+        "type": "v."
       }
     ],
     "forms": [
       "domicil",
       "domicile",
       "domiciles",
-      "domicils"
+      "domicils",
+      "domiciled",
+      "domiciling"
     ]
   },
   "dominance": {
@@ -7101,19 +7405,32 @@
       {
         "definition": "being the one of a pair of bodily structures that is the more effective or predominant in action",
         "type": "adj."
+      },
+      {
+        "definition": "the fifth tone of a major or minor scale {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a character or factor that exerts genetic dominance {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "any of one or more kinds of organism (such as a species) in an ecological community that exerts a controlling influence on the environment and thereby largely determines what other kinds of organisms are present",
+        "type": "n."
+      },
+      {
+        "definition": "an individual having a controlling, prevailing, or powerful position in a social hierarchy a dominant {dx_def}see {/dx_def} individual in a social hierarchy",
+        "type": "n."
       }
     ],
     "forms": [
       "dominant",
-      "dominantly"
+      "dominantly",
+      "dominants"
     ]
   },
   "dominate": {
     "def": [
-      {
-        "definition": ",",
-        "type": "v."
-      },
       {
         "definition": "to exert the supreme determining or guiding influence on",
         "type": "v."
@@ -7198,7 +7515,7 @@
         "type": "v."
       },
       {
-        "definition": "to make a {a_link|donation}",
+        "definition": "to make a donation",
         "type": "v."
       }
     ],
@@ -7216,7 +7533,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "donator"
+    ]
   },
   "donee": {
     "def": [
@@ -7266,10 +7585,6 @@
       },
       {
         "definition": "temporarily in  yet capable of being activated",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       },
       {
@@ -7408,11 +7723,21 @@
       {
         "definition": "a member of a European military unit formerly composed of heavily armed mounted troops",
         "type": "n."
+      },
+      {
+        "definition": "to subjugate or persecute by harsh use of troops",
+        "type": "v."
+      },
+      {
+        "definition": "to force into submission or compliance especially by violent measures",
+        "type": "v."
       }
     ],
     "forms": [
       "dragoon",
-      "dragoons"
+      "dragoons",
+      "dragooned",
+      "dragooning"
     ]
   },
   "drainage": {
@@ -7442,7 +7767,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "dramatist"
+    ]
   },
   "dramatize": {
     "def": [
@@ -7451,15 +7778,15 @@
         "type": "v."
       },
       {
-        "definition": "to present or represent in a {a_link|dramatic} manner",
+        "definition": "to present or represent in a dramatic manner",
         "type": "v."
       },
       {
-        "definition": "to be suitable for {a_link|dramatization}",
+        "definition": "to be suitable for dramatization",
         "type": "v."
       },
       {
-        "definition": "to behave {a_link|dramatically}",
+        "definition": "to behave dramatically",
         "type": "v."
       }
     ],
@@ -7517,10 +7844,6 @@
       },
       {
         "definition": "inducing or tending to  sleep",
-        "type": "adj."
-      },
-      {
-        "definition": ",",
         "type": "adj."
       },
       {
@@ -7607,11 +7930,19 @@
       {
         "definition": "a composition for two performers",
         "type": "n."
+      },
+      {
+        "definition": "to perform a duet",
+        "type": "v."
       }
     ],
     "forms": [
       "duet",
-      "duets"
+      "duets",
+      "dueted",
+      "dueting",
+      "duetted",
+      "duetting"
     ]
   },
   "dun": {
@@ -7627,6 +7958,30 @@
       {
         "definition": "marked by dullness and drabness",
         "type": "adj."
+      },
+      {
+        "definition": "a horse with a grayish-yellow coat and a black mane and tail a dun horse",
+        "type": "n."
+      },
+      {
+        "definition": "a variable color averaging a nearly neutral slightly brownish dark gray",
+        "type": "n."
+      },
+      {
+        "definition": "a subadult",
+        "type": "n."
+      },
+      {
+        "definition": "to make persistent demands upon for payment",
+        "type": "v."
+      },
+      {
+        "definition": "someone who makes persistent demands upon people for payment a person who duns {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "an urgent request",
+        "type": "n."
       }
     ],
     "forms": [
@@ -7634,7 +7989,10 @@
       "dunner",
       "dunness",
       "dunnesses",
-      "dunnest"
+      "dunnest",
+      "duns",
+      "dunned",
+      "dunning"
     ]
   },
   "duplex": {
@@ -7650,10 +8008,25 @@
       {
         "definition": "allowing telecommunication in opposite directions simultaneously",
         "type": "adj."
+      },
+      {
+        "definition": "to make duplex",
+        "type": "v."
+      },
+      {
+        "definition": "a 2-family house",
+        "type": "n."
+      },
+      {
+        "definition": "a duplex molecule of DNA or of RNA and DNA",
+        "type": "n."
       }
     ],
     "forms": [
-      "duplex"
+      "duplex",
+      "duplexed",
+      "duplexes",
+      "duplexing"
     ]
   },
   "duplicity": {
@@ -7705,12 +8078,7 @@
     ]
   },
   "duteous": {
-    "def": [
-      {
-        "definition": ",",
-        "type": "adj."
-      }
-    ],
+    "def": [],
     "forms": [
       "duteous"
     ]

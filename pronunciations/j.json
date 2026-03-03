@@ -1,1 +1,242 @@
-{}
+{
+  "jargon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjär-gən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jargon01.mp3"
+      }
+    ]
+  },
+  "jaundice": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjȯn-dəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jaundi01.mp3"
+      }
+    ]
+  },
+  "jeopardize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈje-pər-ˌdīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jeopar02.mp3"
+      }
+    ]
+  },
+  "jingo": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjiŋ-(ˌ)gō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jingo001.mp3"
+      }
+    ]
+  },
+  "jocose": {
+    "pronunciations": [
+      {
+        "syllables": "jō-ˈkōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jocose01.mp3"
+      }
+    ]
+  },
+  "jocular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjä-kyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jocula01.mp3"
+      }
+    ]
+  },
+  "joggle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjä-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/joggle01.mp3"
+      }
+    ]
+  },
+  "journalize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjər-nə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/journa07.mp3"
+      }
+    ]
+  },
+  "joust": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjau̇st",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/joust001.mp3"
+      }
+    ]
+  },
+  "jovial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjō-vē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jovial01.mp3"
+      }
+    ]
+  },
+  "jubilation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌjü-bə-ˈlā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jubila06.mp3"
+      }
+    ]
+  },
+  "judgment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjəj-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/judgme01.mp3"
+      }
+    ]
+  },
+  "judicature": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjü-di-kə-ˌchu̇r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/judica02.mp3"
+      }
+    ]
+  },
+  "judicial": {
+    "pronunciations": [
+      {
+        "syllables": "jü-ˈdi-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/judici01.mp3"
+      }
+    ]
+  },
+  "judiciary": {
+    "pronunciations": [
+      {
+        "syllables": "jü-ˈdi-shē-ˌer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/judici04.mp3"
+      }
+    ]
+  },
+  "judicious": {
+    "pronunciations": [
+      {
+        "syllables": "jü-ˈdi-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/judici05.mp3"
+      }
+    ]
+  },
+  "juggle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjə-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juggle01.mp3"
+      }
+    ]
+  },
+  "jugglery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjə-glə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juggle04.mp3"
+      }
+    ]
+  },
+  "jugular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjə-gyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jugula01.mp3"
+      }
+    ]
+  },
+  "juicy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjü-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juicy001.mp3"
+      }
+    ]
+  },
+  "junction": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjəŋ(k)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juncti01.mp3"
+      }
+    ]
+  },
+  "juncture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjəŋ(k)-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/junctu02.mp3"
+      }
+    ]
+  },
+  "junta": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhu̇n-tə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/junta002.mp3"
+      }
+    ]
+  },
+  "juridical": {
+    "pronunciations": [
+      {
+        "syllables": "ju̇-ˈri-di-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juridi01.mp3"
+      }
+    ]
+  },
+  "jurisdiction": {
+    "pronunciations": [
+      {
+        "syllables": "ˌju̇r-əs-ˈdik-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jurisd01.mp3"
+      }
+    ]
+  },
+  "jurisprudence": {
+    "pronunciations": [
+      {
+        "syllables": "ˌju̇r-əs-ˈprü-dᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/jurisp01.mp3"
+      }
+    ]
+  },
+  "juror": {
+    "pronunciations": [
+      {
+        "syllables": "ˈju̇r-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juror002.mp3"
+      }
+    ]
+  },
+  "justification": {
+    "pronunciations": [
+      {
+        "syllables": "ˌjə-stə-fə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/justif04.mp3"
+      }
+    ]
+  },
+  "juvenile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjü-və-ˌnī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juveni02.mp3"
+      }
+    ]
+  },
+  "juxtapose": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjək-stə-ˌpōz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/j/juxtap01.mp3"
+      }
+    ]
+  }
+}

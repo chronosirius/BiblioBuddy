@@ -1,1 +1,906 @@
-{}
+{
+  "vacate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvā-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vacate02.mp3"
+      }
+    ]
+  },
+  "vaccinate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvak-sə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vaccin03.mp3"
+      }
+    ]
+  },
+  "vacillate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-sə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vacill01.mp3"
+      }
+    ]
+  },
+  "vacuous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-kyə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vacuou01.mp3"
+      }
+    ]
+  },
+  "vacuum": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-(ˌ)kyüm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vacuum02.mp3"
+      }
+    ]
+  },
+  "vagabond": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-gə-ˌbänd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vagabo01.mp3"
+      }
+    ]
+  },
+  "vagrant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvā-grənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vagran02.mp3"
+      }
+    ]
+  },
+  "vainglory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvān-ˌglȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vaingl02.mp3"
+      }
+    ]
+  },
+  "vale": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vale0001.mp3"
+      }
+    ]
+  },
+  "valediction": {
+    "pronunciations": [
+      {
+        "syllables": "ˌva-lə-ˈdik-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/valedi01.mp3"
+      }
+    ]
+  },
+  "valedictorian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌva-lə-ˌdik-ˈtȯr-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/valedi02.mp3"
+      }
+    ]
+  },
+  "valedictory": {
+    "pronunciations": [
+      {
+        "syllables": "ˌva-lə-ˈdik-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/valedi03.mp3"
+      }
+    ]
+  },
+  "valid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-ləd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/valid001.mp3"
+      }
+    ]
+  },
+  "valorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-lə-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/valoro01.mp3"
+      }
+    ]
+  },
+  "vapid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-pəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vapid002.mp3"
+      }
+    ]
+  },
+  "vaporizer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvā-pə-ˌrī-zər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vapori06.mp3"
+      }
+    ]
+  },
+  "variable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ē-ə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/variab01.mp3"
+      }
+    ]
+  },
+  "variance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ē-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/varian01.mp3"
+      }
+    ]
+  },
+  "variant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/varian02.mp3"
+      }
+    ]
+  },
+  "variation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌver-ē-ˈā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/variat03.mp3"
+      }
+    ]
+  },
+  "variegate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ē-ə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/varieg01.mp3"
+      }
+    ]
+  },
+  "vassal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈva-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vassal01.mp3"
+      }
+    ]
+  },
+  "vaudeville": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvȯd-vəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vaudev03.mp3"
+      }
+    ]
+  },
+  "vegetal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-jə-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vegeta03.mp3"
+      }
+    ]
+  },
+  "vegetarian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌve-jə-ˈter-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vegeta04.mp3"
+      }
+    ]
+  },
+  "vegetate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-jə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vegeta06.mp3"
+      }
+    ]
+  },
+  "vegetation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌve-jə-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vegeta07.mp3"
+      }
+    ]
+  },
+  "vegetative": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-jə-ˌtā-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vegeta09.mp3"
+      }
+    ]
+  },
+  "vehement": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvē-ə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veheme02.mp3"
+      }
+    ]
+  },
+  "velocity": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈlä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veloci03.mp3"
+      }
+    ]
+  },
+  "velvety": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvel-və-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/velvet04.mp3"
+      }
+    ]
+  },
+  "venal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvē-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venal001.mp3"
+      }
+    ]
+  },
+  "vendible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈven-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vendab01.mp3"
+      }
+    ]
+  },
+  "vendor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈven-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vendor01.mp3"
+      }
+    ]
+  },
+  "veneer": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈnir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veneer01.mp3"
+      }
+    ]
+  },
+  "venerable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-nər(-ə)-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venera01.mp3"
+      }
+    ]
+  },
+  "venerate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-nə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venera05.mp3"
+      }
+    ]
+  },
+  "venereal": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈnir-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venere01.mp3"
+      }
+    ]
+  },
+  "venial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvē-nē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venial01.mp3"
+      }
+    ]
+  },
+  "venison": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-nə-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veniso01.mp3"
+      }
+    ]
+  },
+  "venom": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-nəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venom001.mp3"
+      }
+    ]
+  },
+  "venous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvē-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/venous01.mp3"
+      }
+    ]
+  },
+  "veracious": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈrā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veraci01.mp3"
+      }
+    ]
+  },
+  "veracity": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈra-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veraci02.mp3"
+      }
+    ]
+  },
+  "verbatim": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)vər-ˈbā-təm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verbat01.mp3"
+      }
+    ]
+  },
+  "verbiage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-bē-ij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verbia02.mp3"
+      }
+    ]
+  },
+  "verbose": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)vər-ˈbōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verbos01.mp3"
+      }
+    ]
+  },
+  "verdant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verdan01.mp3"
+      }
+    ]
+  },
+  "verification": {
+    "pronunciations": [
+      {
+        "syllables": "ˌver-ə-fə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verifi03.mp3"
+      }
+    ]
+  },
+  "verify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verify01.mp3"
+      }
+    ]
+  },
+  "verily": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ə-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verily01.mp3"
+      }
+    ]
+  },
+  "verity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈver-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/verity01.mp3"
+      }
+    ]
+  },
+  "vermin": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vermin01.mp3"
+      }
+    ]
+  },
+  "vernacular": {
+    "pronunciations": [
+      {
+        "syllables": "vər-ˈna-kyə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vernac01.mp3"
+      }
+    ]
+  },
+  "vernal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vernal01.mp3"
+      }
+    ]
+  },
+  "versatile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-sə-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/versat02.mp3"
+      }
+    ]
+  },
+  "version": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/versio01.mp3"
+      }
+    ]
+  },
+  "vertex": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-ˌteks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vertex01.mp3"
+      }
+    ]
+  },
+  "vertical": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-ti-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vertic02.mp3"
+      }
+    ]
+  },
+  "vertigo": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-ti-ˌgō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vertig02.mp3"
+      }
+    ]
+  },
+  "vestige": {
+    "pronunciations": [
+      {
+        "syllables": "ˈve-stij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vestig01.mp3"
+      }
+    ]
+  },
+  "vestment": {
+    "pronunciations": [
+      {
+        "syllables": "ˈves(t)-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vestme01.mp3"
+      }
+    ]
+  },
+  "veto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvē-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/veto0001.mp3"
+      }
+    ]
+  },
+  "vicarious": {
+    "pronunciations": [
+      {
+        "syllables": "vī-ˈker-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vicari05.mp3"
+      }
+    ]
+  },
+  "viceroy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvīs-ˌrȯi",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vicero01.mp3"
+      }
+    ]
+  },
+  "vicissitude": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈsi-sə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/viciss01.mp3"
+      }
+    ]
+  },
+  "vie": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vie00001.mp3"
+      }
+    ]
+  },
+  "vigilance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-jə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vigila01.mp3"
+      }
+    ]
+  },
+  "vigilant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-jə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vigila02.mp3"
+      }
+    ]
+  },
+  "vignette": {
+    "pronunciations": [
+      {
+        "syllables": "vin-ˈyet",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vignet01.mp3"
+      }
+    ]
+  },
+  "vincible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvin(t)-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vincib01.mp3"
+      }
+    ]
+  },
+  "vindicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvin-də-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vindic02.mp3"
+      }
+    ]
+  },
+  "vindicative": {
+    "pronunciations": [
+      {
+        "syllables": "vin-ˈdi-kə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vindic05.mp3"
+      }
+    ]
+  },
+  "vinery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvīn-rē",
+        "audio": null
+      }
+    ]
+  },
+  "viol": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/viol0001.mp3"
+      }
+    ]
+  },
+  "viola": {
+    "pronunciations": [
+      {
+        "syllables": "vī-ˈō-lə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/viola003.mp3"
+      }
+    ]
+  },
+  "violation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌvī-ə-ˈlā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/violat05.mp3"
+      }
+    ]
+  },
+  "violoncello": {
+    "pronunciations": [
+      {
+        "syllables": "ˌvī-ə-lən-ˈche-(ˌ)lō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/violon01.mp3"
+      }
+    ]
+  },
+  "virago": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈrä-(ˌ)gō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virago02.mp3"
+      }
+    ]
+  },
+  "virile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvir-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virile02.mp3"
+      }
+    ]
+  },
+  "virtu": {
+    "pronunciations": [
+      {
+        "syllables": "ˌvər-ˈtü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virtu001.mp3"
+      }
+    ]
+  },
+  "virtual": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvər-chə-wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virtua01.mp3"
+      }
+    ]
+  },
+  "virtuoso": {
+    "pronunciations": [
+      {
+        "syllables": "ˌvər-chü-ˈō-(ˌ)sō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virtuo03.mp3"
+      }
+    ]
+  },
+  "virulence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvir-ə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/number/9virul01.mp3"
+      }
+    ]
+  },
+  "virulent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvir-ə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/virule04.mp3"
+      }
+    ]
+  },
+  "visage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-zij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/visage01.mp3"
+      }
+    ]
+  },
+  "viscount": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvī-ˌkau̇nt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/viscou01.mp3"
+      }
+    ]
+  },
+  "vista": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-stə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vista001.mp3"
+      }
+    ]
+  },
+  "visual": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-zhə-wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/visual01.mp3"
+      }
+    ]
+  },
+  "visualize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-zhə-wə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/visual04.mp3"
+      }
+    ]
+  },
+  "vitality": {
+    "pronunciations": [
+      {
+        "syllables": "vī-ˈta-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vitali04.mp3"
+      }
+    ]
+  },
+  "vitalize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvī-tə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vitali05.mp3"
+      }
+    ]
+  },
+  "vitiate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-shē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vitiat01.mp3"
+      }
+    ]
+  },
+  "vivacity": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈva-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vivaci02.mp3"
+      }
+    ]
+  },
+  "vivify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvi-və-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vivify01.mp3"
+      }
+    ]
+  },
+  "vivisection": {
+    "pronunciations": [
+      {
+        "syllables": "ˌvi-və-ˈsek-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vivise03.mp3"
+      }
+    ]
+  },
+  "vocable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvō-kə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vocabl01.mp3"
+      }
+    ]
+  },
+  "vocative": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvä-kə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vocati05.mp3"
+      }
+    ]
+  },
+  "vociferate": {
+    "pronunciations": [
+      {
+        "syllables": "vō-ˈsi-fə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vocife02.mp3"
+      }
+    ]
+  },
+  "vociferous": {
+    "pronunciations": [
+      {
+        "syllables": "vō-ˈsi-f(ə-)rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vocife05.mp3"
+      }
+    ]
+  },
+  "vogue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvōg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vogue001.mp3"
+      }
+    ]
+  },
+  "volant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvō-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/volant01.mp3"
+      }
+    ]
+  },
+  "volatile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvä-lə-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/volati01.mp3"
+      }
+    ]
+  },
+  "volition": {
+    "pronunciations": [
+      {
+        "syllables": "vō-ˈli-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/voliti01.mp3"
+      }
+    ]
+  },
+  "volitive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvä-lə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/voliti03.mp3"
+      }
+    ]
+  },
+  "voluble": {
+    "pronunciations": [
+      {
+        "syllables": "ˈväl-yə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/volubl01.mp3"
+      }
+    ]
+  },
+  "voluptuous": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈləp(t)-shə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/volupt02.mp3"
+      }
+    ]
+  },
+  "voracious": {
+    "pronunciations": [
+      {
+        "syllables": "və-ˈrā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/voraci01.mp3"
+      }
+    ]
+  },
+  "vortex": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvȯr-ˌteks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vortex01.mp3"
+      }
+    ]
+  },
+  "votary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvō-tə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/votary01.mp3"
+      }
+    ]
+  },
+  "votive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvō-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/votive01.mp3"
+      }
+    ]
+  },
+  "vulgarity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌvəl-ˈger-rə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vulgar04.mp3"
+      }
+    ]
+  },
+  "vulnerable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈvəl-n(ə-)rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/v/vulner01.mp3"
+      }
+    ]
+  }
+}

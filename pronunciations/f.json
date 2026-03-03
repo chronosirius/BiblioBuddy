@@ -1,1 +1,1418 @@
-{}
+{
+  "fabricate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-bri-ˌkāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fabric03.mp3"
+      }
+    ]
+  },
+  "fabulous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-byə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fabulo01.mp3"
+      }
+    ]
+  },
+  "facet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-sət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/facet001.mp3"
+      }
+    ]
+  },
+  "facetious": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈsē-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/faceti02.mp3"
+      }
+    ]
+  },
+  "facial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfā-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/facial01.mp3"
+      }
+    ]
+  },
+  "facile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/facile01.mp3"
+      }
+    ]
+  },
+  "facilitate": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈsi-lə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/facili01.mp3"
+      }
+    ]
+  },
+  "facility": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈsi-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/facili06.mp3"
+      }
+    ]
+  },
+  "facsimile": {
+    "pronunciations": [
+      {
+        "syllables": "fak-ˈsi-mə-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/facsim01.mp3"
+      }
+    ]
+  },
+  "faction": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfak-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/factio01.mp3"
+      }
+    ]
+  },
+  "factious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfak-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/factio05.mp3"
+      }
+    ]
+  },
+  "fallacious": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fallac01.mp3"
+      }
+    ]
+  },
+  "fallacy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-lə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fallac02.mp3"
+      }
+    ]
+  },
+  "fallible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fallib02.mp3"
+      }
+    ]
+  },
+  "fallow": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-(ˌ)lō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fallow01.mp3"
+      }
+    ]
+  },
+  "famish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-mish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/famish01.mp3"
+      }
+    ]
+  },
+  "fanatic": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈna-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fanati01.mp3"
+      }
+    ]
+  },
+  "fancier": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfan(t)-sē-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fancie01.mp3"
+      }
+    ]
+  },
+  "fastidious": {
+    "pronunciations": [
+      {
+        "syllables": "fa-ˈsti-dē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fastid01.mp3"
+      }
+    ]
+  },
+  "fathom": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-t͟həm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fathom01.mp3"
+      }
+    ]
+  },
+  "fatuous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfa-chü-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fatuou01.mp3"
+      }
+    ]
+  },
+  "faulty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯl-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/faulty01.mp3"
+      }
+    ]
+  },
+  "faun": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/faun0001.mp3"
+      }
+    ]
+  },
+  "fawn": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fawn0001.mp3"
+      }
+    ]
+  },
+  "fealty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfē(-ə)l-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fealty01.mp3"
+      }
+    ]
+  },
+  "feasible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfē-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feasib01.mp3"
+      }
+    ]
+  },
+  "federate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfe-d(ə-)rət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/federa08.mp3"
+      }
+    ]
+  },
+  "feint": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfānt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feint001.mp3"
+      }
+    ]
+  },
+  "felicitate": {
+    "pronunciations": [
+      {
+        "syllables": "fi-ˈli-sə-ˌtāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/felici02.mp3"
+      }
+    ]
+  },
+  "felicity": {
+    "pronunciations": [
+      {
+        "syllables": "fi-ˈli-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/felici06.mp3"
+      }
+    ]
+  },
+  "felon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfe-lən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/felon001.mp3"
+      }
+    ]
+  },
+  "felonious": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈlō-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feloni01.mp3"
+      }
+    ]
+  },
+  "felony": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfe-lə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/felony01.mp3"
+      }
+    ]
+  },
+  "feminine": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfe-mə-nən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/femini01.mp3"
+      }
+    ]
+  },
+  "fernery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/ferner01.mp3"
+      }
+    ]
+  },
+  "ferocious": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈrō-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feroci01.mp3"
+      }
+    ]
+  },
+  "ferocity": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈrä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feroci02.mp3"
+      }
+    ]
+  },
+  "fervent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-vənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/ferven02.mp3"
+      }
+    ]
+  },
+  "fervid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-vəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fervid01.mp3"
+      }
+    ]
+  },
+  "fervor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-vər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fervor01.mp3"
+      }
+    ]
+  },
+  "festal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfe-stᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/festal01.mp3"
+      }
+    ]
+  },
+  "festive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfe-stiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/festiv03.mp3"
+      }
+    ]
+  },
+  "fete": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fete_101.mp3"
+      }
+    ]
+  },
+  "fetus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfē-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fetus001.mp3"
+      }
+    ]
+  },
+  "feudal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyü-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feudal01.mp3"
+      }
+    ]
+  },
+  "feudalism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyü-də-ˌli-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/feudal03.mp3"
+      }
+    ]
+  },
+  "fez": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfez",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fez00001.mp3"
+      }
+    ]
+  },
+  "fiasco": {
+    "pronunciations": [
+      {
+        "syllables": "fē-ˈa-(ˌ)skō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fiasco01.mp3"
+      }
+    ]
+  },
+  "fickle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfi-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fickle01.mp3"
+      }
+    ]
+  },
+  "fictitious": {
+    "pronunciations": [
+      {
+        "syllables": "fik-ˈti-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fictit01.mp3"
+      }
+    ]
+  },
+  "fidelity": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈde-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fideli02.mp3"
+      }
+    ]
+  },
+  "fiducial": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈdü-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fiduci01.mp3"
+      }
+    ]
+  },
+  "fief": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfēf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fief0001.mp3"
+      }
+    ]
+  },
+  "filibuster": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfi-lə-ˌbə-stər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/filibu01.mp3"
+      }
+    ]
+  },
+  "finale": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈna-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/finale02.mp3"
+      }
+    ]
+  },
+  "finality": {
+    "pronunciations": [
+      {
+        "syllables": "fī-ˈna-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/finali02.mp3"
+      }
+    ]
+  },
+  "finally": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfī-nᵊl-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/final002.mp3"
+      }
+    ]
+  },
+  "financial": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈnan(t)-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/financ03.mp3"
+      }
+    ]
+  },
+  "financier": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfi-nən-ˈsir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/financ05.mp3"
+      }
+    ]
+  },
+  "finery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfī-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/finery01.mp3"
+      }
+    ]
+  },
+  "finesse": {
+    "pronunciations": [
+      {
+        "syllables": "fə-ˈnes",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/finess01.mp3"
+      }
+    ]
+  },
+  "finite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfī-ˌnīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/finite10.mp3"
+      }
+    ]
+  },
+  "fiscal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfi-skəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fiscal01.mp3"
+      }
+    ]
+  },
+  "fishmonger": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfish-ˌmäŋ-gər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fishmo01.mp3"
+      }
+    ]
+  },
+  "fissure": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfi-shər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fissur01.mp3"
+      }
+    ]
+  },
+  "fitful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfit-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fitful01.mp3"
+      }
+    ]
+  },
+  "fixture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfiks-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fixtur01.mp3"
+      }
+    ]
+  },
+  "flagrant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflā-grənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flagra03.mp3"
+      }
+    ]
+  },
+  "flamboyant": {
+    "pronunciations": [
+      {
+        "syllables": "flam-ˈbȯi-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flambo03.mp3"
+      }
+    ]
+  },
+  "flatulence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfla-chə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flatul01.mp3"
+      }
+    ]
+  },
+  "fledgling": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflej-liŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fledgl01.mp3"
+      }
+    ]
+  },
+  "flexible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflek-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flexib01.mp3"
+      }
+    ]
+  },
+  "flimsy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflim-zē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flimsy01.mp3"
+      }
+    ]
+  },
+  "flippant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfli-pənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flippa02.mp3"
+      }
+    ]
+  },
+  "floe": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/floe0001.mp3"
+      }
+    ]
+  },
+  "flora": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflȯr-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flora001.mp3"
+      }
+    ]
+  },
+  "floral": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflȯr-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/floral01.mp3"
+      }
+    ]
+  },
+  "florid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflȯr-əd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/florid01.mp3"
+      }
+    ]
+  },
+  "florist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflȯr-ist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/floris01.mp3"
+      }
+    ]
+  },
+  "fluctuate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflək-chə-ˌwāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fluctu02.mp3"
+      }
+    ]
+  },
+  "fluctuation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌflək-chə-ˈwā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fluctu03.mp3"
+      }
+    ]
+  },
+  "flue": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflü",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flue0001.mp3"
+      }
+    ]
+  },
+  "fluent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈflü-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fluent01.mp3"
+      }
+    ]
+  },
+  "flux": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfləks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/flux0001.mp3"
+      }
+    ]
+  },
+  "foggy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯ-gē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foggy001.mp3"
+      }
+    ]
+  },
+  "foible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯi-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foible01.mp3"
+      }
+    ]
+  },
+  "foist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foist001.mp3"
+      }
+    ]
+  },
+  "foliage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfō-lē-ij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foliag01.mp3"
+      }
+    ]
+  },
+  "folio": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfō-lē-ˌō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/folio001.mp3"
+      }
+    ]
+  },
+  "fondle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfän-dᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fondle01.mp3"
+      }
+    ]
+  },
+  "foolery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfü-lə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fooler01.mp3"
+      }
+    ]
+  },
+  "foppery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfä-p(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fopper01.mp3"
+      }
+    ]
+  },
+  "foppish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfä-pish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foppis01.mp3"
+      }
+    ]
+  },
+  "forbearance": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈber-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forbea04.mp3"
+      }
+    ]
+  },
+  "forby": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈbī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forby_01.mp3"
+      }
+    ]
+  },
+  "forcible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forcib01.mp3"
+      }
+    ]
+  },
+  "forebode": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)fȯr-ˈbōd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forebo01.mp3"
+      }
+    ]
+  },
+  "forecast": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌkast",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreca02.mp3"
+      }
+    ]
+  },
+  "forecastle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfōk-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreca05.mp3"
+      }
+    ]
+  },
+  "foreclose": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)fȯr-ˈklōz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forecl01.mp3"
+      }
+    ]
+  },
+  "forecourt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌkȯrt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreco01.mp3"
+      }
+    ]
+  },
+  "forefather": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌfä-t͟hər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forefa02.mp3"
+      }
+    ]
+  },
+  "forego": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈgō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forego01.mp3"
+      }
+    ]
+  },
+  "foreground": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌgrau̇nd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foregr01.mp3"
+      }
+    ]
+  },
+  "forehead": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌhed",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forehe02.mp3"
+      }
+    ]
+  },
+  "foreign": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreig01.mp3"
+      }
+    ]
+  },
+  "foreigner": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ə-nər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreig04.mp3"
+      }
+    ]
+  },
+  "forejudge": {
+    "pronunciations": [
+      {
+        "syllables": "fər-ˈjəj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forejudge.mp3"
+      }
+    ]
+  },
+  "foreman": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forema01.mp3"
+      }
+    ]
+  },
+  "foreordain": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfȯr-ȯr-ˈdān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreor01.mp3"
+      }
+    ]
+  },
+  "forepeak": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌpēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forepe01.mp3"
+      }
+    ]
+  },
+  "forerun": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈrən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreru01.mp3"
+      }
+    ]
+  },
+  "foresail": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌsāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foresa02.mp3"
+      }
+    ]
+  },
+  "foresee": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈsē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forese01.mp3"
+      }
+    ]
+  },
+  "foreshore": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌshȯr",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foresh06.mp3"
+      }
+    ]
+  },
+  "foresight": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌsīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foresi02.mp3"
+      }
+    ]
+  },
+  "foretell": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈtel",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forete01.mp3"
+      }
+    ]
+  },
+  "forethought": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌthȯt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/foreth01.mp3"
+      }
+    ]
+  },
+  "forfeit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-fət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forfei01.mp3"
+      }
+    ]
+  },
+  "forfend": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈfend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forfen01.mp3"
+      }
+    ]
+  },
+  "forgery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-jə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forger02.mp3"
+      }
+    ]
+  },
+  "forgo": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈgō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forgo001.mp3"
+      }
+    ]
+  },
+  "formation": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈmā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/format03.mp3"
+      }
+    ]
+  },
+  "formidable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-mə-də-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/formid02.mp3"
+      }
+    ]
+  },
+  "formula": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-myə-lə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/formul01.mp3"
+      }
+    ]
+  },
+  "forswear": {
+    "pronunciations": [
+      {
+        "syllables": "fȯr-ˈswer",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forswe01.mp3"
+      }
+    ]
+  },
+  "forte": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-ˌtā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forte002.mp3"
+      }
+    ]
+  },
+  "forth": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯrth",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forth001.mp3"
+      }
+    ]
+  },
+  "forthright": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯrth-ˌrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/forthr01.mp3"
+      }
+    ]
+  },
+  "fortify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-tə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fortif03.mp3"
+      }
+    ]
+  },
+  "fortitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-tə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fortit01.mp3"
+      }
+    ]
+  },
+  "foursome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfȯr-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fourso01.mp3"
+      }
+    ]
+  },
+  "fracture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrak-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fractu01.mp3"
+      }
+    ]
+  },
+  "fragile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfra-jəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fragil01.mp3"
+      }
+    ]
+  },
+  "frailty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrāl-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frailt01.mp3"
+      }
+    ]
+  },
+  "frankincense": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfraŋ-kən-ˌsen(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/franki01.mp3"
+      }
+    ]
+  },
+  "frantic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfran-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/franti01.mp3"
+      }
+    ]
+  },
+  "fraternal": {
+    "pronunciations": [
+      {
+        "syllables": "frə-ˈtər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frater01.mp3"
+      }
+    ]
+  },
+  "fraudulence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrȯ-jə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fraudu01.mp3"
+      }
+    ]
+  },
+  "fraudulent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrȯ-jə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fraudu02.mp3"
+      }
+    ]
+  },
+  "fray": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrā",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fray0001.mp3"
+      }
+    ]
+  },
+  "freemason": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrē-ˈmā-sᵊn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/freema03.mp3"
+      }
+    ]
+  },
+  "freethinker": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrē-ˈthiŋ-kər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/freeth01.mp3"
+      }
+    ]
+  },
+  "frequency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrē-kwən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/freque02.mp3"
+      }
+    ]
+  },
+  "fresco": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfre-(ˌ)skō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fresco01.mp3"
+      }
+    ]
+  },
+  "fretful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfret-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fretfu01.mp3"
+      }
+    ]
+  },
+  "frightful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrīt-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fright05.mp3"
+      }
+    ]
+  },
+  "frigid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfri-jəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frigid01.mp3"
+      }
+    ]
+  },
+  "frivolity": {
+    "pronunciations": [
+      {
+        "syllables": "fri-ˈvä-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frivol04.mp3"
+      }
+    ]
+  },
+  "frivolous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfri-və-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frivol05.mp3"
+      }
+    ]
+  },
+  "frizz": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfriz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frizz001.mp3"
+      }
+    ]
+  },
+  "frizzle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfri-zᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frizzl01.mp3"
+      }
+    ]
+  },
+  "frolicsome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrä-lik-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frolic02.mp3"
+      }
+    ]
+  },
+  "frontier": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfrən-ˈtir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fronti02.mp3"
+      }
+    ]
+  },
+  "frugal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfrü-gəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/frugal01.mp3"
+      }
+    ]
+  },
+  "fruition": {
+    "pronunciations": [
+      {
+        "syllables": "frü-ˈi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fruiti01.mp3"
+      }
+    ]
+  },
+  "fugacious": {
+    "pronunciations": [
+      {
+        "syllables": "fyü-ˈgā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fugaci01.mp3"
+      }
+    ]
+  },
+  "fulcrum": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfu̇l-krəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fulcru02.mp3"
+      }
+    ]
+  },
+  "fulminate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfu̇l-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fulmin02.mp3"
+      }
+    ]
+  },
+  "fulsome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfu̇l-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fulsom01.mp3"
+      }
+    ]
+  },
+  "fumigate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyü-mə-ˌgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fumiga02.mp3"
+      }
+    ]
+  },
+  "functionary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfəŋ(k)-shə-ˌner-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/functi10.mp3"
+      }
+    ]
+  },
+  "fundamental": {
+    "pronunciations": [
+      {
+        "syllables": "ˌfən-də-ˈmen-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fundam02.mp3"
+      }
+    ]
+  },
+  "fungible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfən-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fungib01.mp3"
+      }
+    ]
+  },
+  "fungous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfəŋ-gəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fungou01.mp3"
+      }
+    ]
+  },
+  "fungus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfəŋ-gəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fungou01.mp3"
+      }
+    ]
+  },
+  "furbish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-bish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furbis01.mp3"
+      }
+    ]
+  },
+  "furlong": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-ˌlȯŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furlon01.mp3"
+      }
+    ]
+  },
+  "furlough": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-(ˌ)lō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furlou01.mp3"
+      }
+    ]
+  },
+  "furrier": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-ē-ər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furrie01.mp3"
+      }
+    ]
+  },
+  "further": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-t͟hər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furthe01.mp3"
+      }
+    ]
+  },
+  "furtherance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-t͟hə-rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furthe04.mp3"
+      }
+    ]
+  },
+  "furtive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfər-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/furtiv01.mp3"
+      }
+    ]
+  },
+  "fuse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyüz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fuse0001.mp3"
+      }
+    ]
+  },
+  "fusible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyü-zə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/fusibl01.mp3"
+      }
+    ]
+  },
+  "futile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyü-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/futile02.mp3"
+      }
+    ]
+  },
+  "futurist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈfyü-chə-rist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/f/futuri02.mp3"
+      }
+    ]
+  }
+}

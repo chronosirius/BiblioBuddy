@@ -2,56 +2,124 @@
   "nameless": {
     "def": [
       {
-        "definition": "Having no fame or reputation.",
+        "definition": "not known by name",
+        "type": "adj."
+      },
+      {
+        "definition": "having no legal right to a name (as due to being born to parents not married to each other)",
+        "type": "adj."
+      },
+      {
+        "definition": "not having been given a name",
+        "type": "adj."
+      },
+      {
+        "definition": "not marked with a name",
+        "type": "adj."
+      },
+      {
+        "definition": "incapable of precise description",
+        "type": "adj."
+      },
+      {
+        "definition": "too repulsive or distressing to describe",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nameless",
+      "namelessly",
+      "namelessness",
+      "namelessnesses"
+    ]
   },
   "naphtha": {
     "def": [
       {
-        "definition": "A light, colorless, volatile, inflammable oil used as a solvent, as in",
+        "definition": "any of various volatile often flammable liquid hydrocarbon mixtures used chiefly as solvents and diluents",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "naphtha",
+      "naphthas"
+    ]
   },
   "narcissus": {
     "def": [
       {
-        "definition": "The son of the Athenian river-god Cephisus, fabled to have fallen in love",
+        "definition": "a beautiful youth in Greek mythology who pines away for love of his own reflection and is then turned into the narcissus flower",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Narcissus",
+      "narcissi",
+      "narcissus",
+      "narcissuses"
+    ]
   },
   "narrate": {
     "def": [
       {
-        "definition": "To tell a story.",
+        "definition": "to tell (a story) in detail",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "narrate",
+      "narrated",
+      "narrates",
+      "narrating",
+      "narrator",
+      "narrators"
+    ]
   },
   "narration": {
     "def": [
       {
-        "definition": "The act of recounting the particulars of an event in the order of time or",
+        "definition": "the act or process or an instance of narrating",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "narration",
+      "narrational",
+      "narrations"
+    ]
   },
   "narrative": {
     "def": [
       {
-        "definition": "An orderly continuous account of the successive particulars of an event.",
+        "definition": "something that is  ,",
         "type": "n."
+      },
+      {
+        "definition": "a way of presenting or understanding a situation or series of events that reflects and promotes a particular point of view or set of values",
+        "type": "n."
+      },
+      {
+        "definition": "the art or practice of narration",
+        "type": "n."
+      },
+      {
+        "definition": "the representation in art of an event or story",
+        "type": "n."
+      },
+      {
+        "definition": "having the form of a story or representing a story",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to the process of telling a story",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "narrative",
+      "narratively",
+      "narratives"
+    ]
   },
   "narrator": {
     "def": [
@@ -60,169 +128,398 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "narrator"
+    ]
   },
   "narrow-minded": {
     "def": [
       {
-        "definition": "Characterized by illiberal views or sentiments.",
+        "definition": "not willing to accept opinions, beliefs, behaviors, etc. that are unusual or different from one's own not",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "narrow-minded",
+      "narrow-mindedly",
+      "narrow-mindedness",
+      "narrow-mindednesses"
+    ]
   },
   "nasal": {
     "def": [
       {
-        "definition": "Pertaining to the nose.",
+        "definition": "the nosepiece of a helmet",
+        "type": "n."
+      },
+      {
+        "definition": "a nasal part",
+        "type": "n."
+      },
+      {
+        "definition": "a nasal consonant",
+        "type": "n."
+      },
+      {
+        "definition": "of or relating to the nose",
+        "type": "adj."
+      },
+      {
+        "definition": "uttered with the soft palate lowered and with passage of air through the nose (as with \\m\\, \\n\\, \\ŋ\\, \\ōⁿ\\, or \\aⁿ\\)",
+        "type": "adj."
+      },
+      {
+        "definition": "characterized by resonance produced through the nose",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nasal",
+      "nasals",
+      "nasalities",
+      "nasality",
+      "nasally"
+    ]
   },
   "natal": {
     "def": [
       {
-        "definition": "Pertaining to one's birth.",
+        "definition": "of, relating to, or present at birth",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "natal"
+    ]
   },
   "nationality": {
     "def": [
       {
-        "definition": "A connection with a particular nation.",
+        "definition": "national status",
+        "type": "n."
+      },
+      {
+        "definition": "membership in a particular nation",
+        "type": "n."
+      },
+      {
+        "definition": "an ethnic group constituting one element of a larger unit (such as a nation)",
+        "type": "n."
+      },
+      {
+        "definition": "a people having a common origin, tradition, and language and capable of forming or actually constituting a nation-state",
+        "type": "n."
+      },
+      {
+        "definition": "national character",
+        "type": "n."
+      },
+      {
+        "definition": "loyalty and devotion to a nation",
+        "type": "n."
+      },
+      {
+        "definition": "political independence or existence as a separate nation",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nationalities",
+      "nationality"
+    ]
   },
   "naturally": {
     "def": [
       {
-        "definition": "According to the usual order of things.",
+        "definition": "by nature by natural character or ability",
+        "type": "adv."
+      },
+      {
+        "definition": "according to the usual course of things as might be expected",
+        "type": "adv."
+      },
+      {
+        "definition": "without artificial aid",
+        "type": "adv."
+      },
+      {
+        "definition": "without affectation",
+        "type": "adv."
+      },
+      {
+        "definition": "with truth to nature",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "naturally"
+    ]
   },
   "nausea": {
     "def": [
       {
-        "definition": "An affection of the stomach producing dizziness and usually an impulse to vomit",
+        "definition": "a stomach distress with distaste for food and an urge to vomit",
+        "type": "n."
+      },
+      {
+        "definition": "extreme disgust",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nausea",
+      "nauseant",
+      "nauseants",
+      "nauseas"
+    ]
   },
   "nauseate": {
     "def": [
       {
-        "definition": "To cause to loathe.",
+        "definition": "to become affected with nausea",
+        "type": "v."
+      },
+      {
+        "definition": "to feel disgust",
+        "type": "v."
+      },
+      {
+        "definition": "to affect with nausea or disgust",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "nauseate",
+      "nauseated",
+      "nauseates",
+      "nauseating"
+    ]
   },
   "nauseous": {
     "def": [
       {
-        "definition": "Loathsome.",
+        "definition": "causing  or disgust",
+        "type": "adj."
+      },
+      {
+        "definition": "affected with nausea or disgust",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nauseous",
+      "nauseously",
+      "nauseousness",
+      "nauseousnesses"
+    ]
   },
   "nautical": {
     "def": [
       {
-        "definition": "Pertaining to ships, seamen, or navigation.",
+        "definition": "of, relating to, or associated with sailors, navigation, or ships",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nautical",
+      "nautically"
+    ]
   },
   "naval": {
     "def": [
       {
-        "definition": "Pertaining to ships.",
+        "definition": "of or relating to ships or shipping",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a navy",
+        "type": "adj."
+      },
+      {
+        "definition": "consisting of or involving warships",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "naval"
+    ]
   },
   "navel": {
     "def": [
       {
-        "definition": "The depression on the abdomen where the umbilical cord of the fetus was attached.",
+        "definition": "a depression in the middle of the abdomen that marks the point of former attachment of the  or",
+        "type": "n."
+      },
+      {
+        "definition": "the central point",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "navel",
+      "navels"
+    ]
   },
   "navigable": {
     "def": [
       {
-        "definition": "Capable of commercial navigation.",
+        "definition": "deep enough and wide enough to afford passage to ships",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being navigated",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being steered",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "navigabilities",
+      "navigability",
+      "navigable",
+      "navigably"
+    ]
   },
   "navigate": {
     "def": [
       {
-        "definition": "To traverse by ship.",
+        "definition": "to travel by water",
+        "type": "v."
+      },
+      {
+        "definition": "to steer a course through a medium",
+        "type": "v."
+      },
+      {
+        "definition": "to sail over, on, or through",
+        "type": "v."
+      },
+      {
+        "definition": "to make one's way over or through",
+        "type": "v."
+      },
+      {
+        "definition": "to steer or manage (a boat) in sailing",
+        "type": "v."
+      },
+      {
+        "definition": "to operate or control the course of",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "navigate",
+      "navigated",
+      "navigates",
+      "navigating"
+    ]
   },
   "nebula": {
     "def": [
       {
-        "definition": "A gaseous body of unorganized stellar substance.",
+        "definition": "any of numerous clouds of gas or dust in interstellar space",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nebula",
+      "nebulae",
+      "nebular",
+      "nebulas"
+    ]
   },
   "necessary": {
     "def": [
       {
-        "definition": "Indispensably requisite or absolutely needed to accomplish a desired",
+        "definition": "absolutely needed",
         "type": "adj."
+      },
+      {
+        "definition": "of an  nature",
+        "type": "adj."
+      },
+      {
+        "definition": "determined or produced by the previous condition of things",
+        "type": "adj."
+      },
+      {
+        "definition": "an  item",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "necessary",
+      "necessaries"
+    ]
   },
   "necessitate": {
     "def": [
       {
-        "definition": "To render indispensable.",
+        "definition": "to make necessary",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "necessitate",
+      "necessitated",
+      "necessitates",
+      "necessitating",
+      "necessitation",
+      "necessitations"
+    ]
   },
   "necessity": {
     "def": [
       {
-        "definition": "That which is indispensably requisite to an end desired.",
+        "definition": "the quality or state of being necessary",
+        "type": "n."
+      },
+      {
+        "definition": "pressure of circumstance",
+        "type": "n."
+      },
+      {
+        "definition": "physical or moral compulsion",
+        "type": "n."
+      },
+      {
+        "definition": "impossibility of a contrary order or condition",
+        "type": "n."
+      },
+      {
+        "definition": "the quality or state of being in need",
+        "type": "n."
+      },
+      {
+        "definition": "something that is necessary",
+        "type": "n."
+      },
+      {
+        "definition": "an urgent need or desire",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "necessities",
+      "necessity"
+    ]
   },
   "necrology": {
     "def": [
       {
-        "definition": "A list of persons who have died in a certain place or time.",
+        "definition": "a list of the recently dead",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "necrological",
+      "necrologies",
+      "necrologist",
+      "necrologists",
+      "necrology"
+    ]
   },
   "necromancer": {
     "def": [
@@ -231,7 +528,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "necromancer"
+    ]
   },
   "necropolis": {
     "def": [
@@ -240,142 +539,287 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "necropolis"
+    ]
   },
   "necrosis": {
     "def": [
       {
-        "definition": "the death of part of the body.",
+        "definition": "usually localized death of living tissue",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "necroses",
+      "necrosis"
+    ]
   },
   "nectar": {
     "def": [
       {
-        "definition": "Any especially sweet and delicious drink.",
+        "definition": "the drink of the Greek and Roman gods",
+        "type": "n."
+      },
+      {
+        "definition": "something delicious to drink",
+        "type": "n."
+      },
+      {
+        "definition": "a beverage of fruit juice and pulp",
+        "type": "n."
+      },
+      {
+        "definition": "a sweet liquid that is secreted by the nectaries of a plant and is the chief raw material of honey",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nectar",
+      "nectarous",
+      "nectars"
+    ]
   },
   "nectarine": {
     "def": [
       {
-        "definition": "A variety of the peach.",
+        "definition": "a peach with a smooth-skinned fruit that is a frequent somatic mutation of the normal peach",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nectarine",
+      "nectarines"
+    ]
   },
   "needlework": {
     "def": [
       {
-        "definition": "Embroidery.",
+        "definition": "work done with a needle",
+        "type": "n."
+      },
+      {
+        "definition": "the occupation of one who does needlework",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "needlework",
+      "needleworker",
+      "needleworkers",
+      "needleworks"
+    ]
   },
   "needy": {
     "def": [
       {
-        "definition": "Being in need, want, or poverty.",
+        "definition": "being in want",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by want of affection, attention, or emotional support",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "needier",
+      "neediest",
+      "neediness",
+      "needinesses",
+      "needy"
+    ]
   },
   "nefarious": {
     "def": [
       {
-        "definition": "Wicked in the extreme.",
+        "definition": "flagrantly  or corrupt",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nefarious",
+      "nefariously"
+    ]
   },
   "negate": {
     "def": [
       {
-        "definition": "To deny.",
+        "definition": "to deny the existence or truth of",
+        "type": "v."
+      },
+      {
+        "definition": "to cause to be ineffective or invalid",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "negate",
+      "negated",
+      "negates",
+      "negating",
+      "negator",
+      "negators"
+    ]
   },
   "negation": {
     "def": [
       {
-        "definition": "The act of denying or of asserting the falsity of a proposition.",
+        "definition": "the action or logical operation of negating or making negative",
+        "type": "n."
+      },
+      {
+        "definition": "a negative statement, judgment, or doctrine",
+        "type": "n."
+      },
+      {
+        "definition": "something that is the absence of something actual",
+        "type": "n."
+      },
+      {
+        "definition": "something considered the opposite of something regarded as positive",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "negation",
+      "negational",
+      "negations"
+    ]
   },
   "neglectful": {
     "def": [
       {
-        "definition": "Exhibiting or indicating omission.",
+        "definition": "given to neglecting ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "neglectful",
+      "neglectfully",
+      "neglectfulness",
+      "neglectfulnesses"
+    ]
   },
   "negligee": {
     "def": [
       {
-        "definition": "A loose gown worn by women.",
+        "definition": "a woman's long flowing usually sheer dressing gown",
+        "type": "n."
+      },
+      {
+        "definition": "carelessly informal or incomplete attire",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neglige",
+      "negligee",
+      "negligees",
+      "negliges",
+      "negligé"
+    ]
   },
   "negligence": {
     "def": [
       {
-        "definition": "Omission of that which ought to be done.",
+        "definition": "the quality or state of being",
+        "type": "n."
+      },
+      {
+        "definition": "failure to exercise the care that a reasonably prudent person would exercise in like circumstances",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of being negligent",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "negligence",
+      "negligences"
+    ]
   },
   "negligent": {
     "def": [
       {
-        "definition": "Apt to omit what ought to be done.",
+        "definition": "marked by or given to neglect especially habitually or culpably",
+        "type": "adj."
+      },
+      {
+        "definition": "failing to exercise the care expected of a reasonably prudent person in like circumstances",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by a carelessly easy manner",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "negligent",
+      "negligently"
+    ]
   },
   "negligible": {
     "def": [
       {
-        "definition": "Transferable by assignment, endorsement, or delivery.",
+        "definition": "so small or unimportant or of so little consequence as to warrant little or no attention",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "negligibilities",
+      "negligibility",
+      "negligible",
+      "negligibly"
+    ]
   },
   "negotiable": {
     "def": [
       {
-        "definition": "To bargain with others for an agreement, as for a treaty or transfer of",
-        "type": "v."
+        "definition": "transferable from one person to another by being delivered with or without endorsement {dx_def}see {/dx_def} so that the title passes to the transferee {dx_def}see {/dx_def}",
+        "type": "adj."
+      },
+      {
+        "definition": "capable of being traversed, dealt with, or accomplished",
+        "type": "adj."
+      },
+      {
+        "definition": "open to discussion or dispute",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "negotiabilities",
+      "negotiability",
+      "negotiable"
+    ]
   },
   "nemesis": {
     "def": [
       {
-        "definition": "A goddess; divinity of chastisement and vengeance.",
+        "definition": "the Greek  of retributive justice",
+        "type": "n."
+      },
+      {
+        "definition": "one that inflicts  or vengeance",
+        "type": "n."
+      },
+      {
+        "definition": "a formidable and usually victorious  or opponent",
+        "type": "n."
+      },
+      {
+        "definition": "an act or effect of retribution",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Nemeses",
+      "Nemesis",
+      "nemeses",
+      "nemesis",
+      "nemesises"
+    ]
   },
   "neocracy": {
     "def": [
@@ -384,7 +828,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neocracy"
+    ]
   },
   "neo-darwinsim": {
     "def": [
@@ -393,7 +839,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neo-darwinsim"
+    ]
   },
   "neo-latin": {
     "def": [
@@ -402,7 +850,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neo-latin"
+    ]
   },
   "neopaganism": {
     "def": [
@@ -411,16 +861,25 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neopaganism"
+    ]
   },
   "neolithic": {
     "def": [
       {
-        "definition": "Pertaining to the later stone age.",
+        "definition": "of or relating to the latest period of the Stone Age characterized by polished stone implements",
+        "type": "adj."
+      },
+      {
+        "definition": "belonging to an earlier age and now outmoded",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Neolithic",
+      "neolithic"
+    ]
   },
   "neology": {
     "def": [
@@ -429,115 +888,311 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neology"
+    ]
   },
   "neophyte": {
     "def": [
       {
-        "definition": "Having the character of a beginner.",
-        "type": "adj."
+        "definition": "a new convert",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neophyte",
+      "neophytes"
+    ]
   },
   "nestle": {
     "def": [
       {
-        "definition": "To adjust cozily in snug quarters.",
+        "definition": "to settle snugly or comfortably",
+        "type": "v."
+      },
+      {
+        "definition": "to lie in an inconspicuous or sheltered manner",
+        "type": "v."
+      },
+      {
+        "definition": "to settle, shelter, or house in or as if in a nest",
+        "type": "v."
+      },
+      {
+        "definition": "to press closely and affectionately",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "nestle",
+      "nestled",
+      "nestler",
+      "nestlers",
+      "nestles",
+      "nestling"
+    ]
   },
   "nestling": {
     "def": [
       {
-        "definition": "Recently hatched.",
-        "type": "adj."
+        "definition": "a young bird that has not left the nest",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nestling",
+      "nestlings"
+    ]
   },
   "nettle": {
     "def": [
       {
-        "definition": "To excite sensations of uneasiness or displeasure in.",
+        "definition": "any of a genus (Urtica of the family Urticaceae, the nettle family) of chiefly coarse herbs armed with stinging hairs",
+        "type": "n."
+      },
+      {
+        "definition": "any of various prickly or stinging plants other than the true nettles (genus Urtica)",
+        "type": "n."
+      },
+      {
+        "definition": "to strike or sting with or as if with nettles",
+        "type": "v."
+      },
+      {
+        "definition": "to arouse to sharp but transitory annoyance or anger",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "nettle",
+      "nettles",
+      "nettled",
+      "nettling"
+    ]
   },
   "network": {
     "def": [
       {
-        "definition": "Anything that presents a system of cross- lines.",
+        "definition": "a fabric or structure of cords or wires that cross at regular intervals and are knotted or secured at the crossings",
         "type": "n."
+      },
+      {
+        "definition": "a system of lines or channels resembling a network",
+        "type": "n."
+      },
+      {
+        "definition": "an interconnected or interrelated chain, group, or system",
+        "type": "n."
+      },
+      {
+        "definition": "a system of computers and  that are able to communicate with each other",
+        "type": "n."
+      },
+      {
+        "definition": "a group of radio or television stations linked by wire or radio relay",
+        "type": "n."
+      },
+      {
+        "definition": "a radio or television company that produces programs for broadcast over such a network",
+        "type": "n."
+      },
+      {
+        "definition": "a usually informally interconnected group or association of persons (such as friends or professional colleagues)",
+        "type": "n."
+      },
+      {
+        "definition": "to cover with or as if with a network",
+        "type": "v."
+      },
+      {
+        "definition": "to distribute for broadcast on a television network",
+        "type": "v."
+      },
+      {
+        "definition": "to join (things, such as computers) in a network",
+        "type": "v."
+      },
+      {
+        "definition": "to engage in networking",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "network",
+      "networks",
+      "networked",
+      "networker",
+      "networkers",
+      "networking"
+    ]
   },
   "neural": {
     "def": [
       {
-        "definition": "Pertaining to the nerves or nervous system.",
+        "definition": "of, relating to, or affecting a nerve or the nervous system",
+        "type": "adj."
+      },
+      {
+        "definition": "situated in the region of or on the same side of the body as the brain and spinal cord",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "neural",
+      "neurally"
+    ]
   },
   "neurology": {
     "def": [
       {
-        "definition": "The science of the nervous system.",
+        "definition": "a branch of medicine concerned especially with the structure, function, and diseases of the nervous system",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "neurologic",
+      "neurological",
+      "neurologically",
+      "neurologies",
+      "neurology"
+    ]
   },
   "neuter": {
     "def": [
       {
-        "definition": "Neither masculine nor feminine.",
+        "definition": "of, relating to, or constituting the gender that ordinarily includes most words or grammatical forms referring to things classed as neither masculine nor feminine",
         "type": "adj."
+      },
+      {
+        "definition": "neither active nor passive",
+        "type": "adj."
+      },
+      {
+        "definition": "taking no side",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking or having imperfectly developed or nonfunctional generative organs",
+        "type": "adj."
+      },
+      {
+        "definition": "a noun, pronoun, adjective, or inflectional form or class of the neuter gender",
+        "type": "n."
+      },
+      {
+        "definition": "the neuter gender",
+        "type": "n."
+      },
+      {
+        "definition": "one that is neutral",
+        "type": "n."
+      },
+      {
+        "definition": "a spayed or castrated animal",
+        "type": "n."
+      },
+      {
+        "definition": "to  or  (an animal)",
+        "type": "v."
+      },
+      {
+        "definition": "to remove the force or effectiveness of (someone or something)",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "neuter",
+      "neuters",
+      "neutered",
+      "neutering"
+    ]
   },
   "neutral": {
     "def": [
       {
-        "definition": "Belonging to or under control of neither of two contestants.",
+        "definition": "one that is",
+        "type": "n."
+      },
+      {
+        "definition": "a neutral color",
+        "type": "n."
+      },
+      {
+        "definition": "a position of disengagement (as of gears)",
+        "type": "n."
+      },
+      {
+        "definition": "not engaged on either side",
+        "type": "adj."
+      },
+      {
+        "definition": "of or relating to a neutral state or power",
+        "type": "adj."
+      },
+      {
+        "definition": "not decided or pronounced as to characteristics",
+        "type": "adj."
+      },
+      {
+        "definition": "neither acid nor basic",
+        "type": "adj."
+      },
+      {
+        "definition": "not electrically charged",
+        "type": "adj."
+      },
+      {
+        "definition": "produced with the tongue in the position it has when at rest",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "neutral",
+      "neutrals",
+      "neutrally",
+      "neutralness",
+      "neutralnesses"
+    ]
   },
   "nevertheless": {
     "def": [
       {
-        "definition": "Notwithstanding.",
-        "type": "conj."
+        "definition": "in spite of that",
+        "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "nevertheless"
+    ]
   },
   "newtonian": {
     "def": [
       {
-        "definition": "Of or pertaining to Sir Isaac Newton, the English philosopher.",
+        "definition": "of or relating to  or his doctrines",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "Newtonian",
+      "newtonian"
+    ]
   },
   "niggardly": {
     "def": [
       {
-        "definition": "Stingy. (no longer acceptable to use)",
+        "definition": "grudgingly mean about spending or granting",
+        "type": "adj."
+      },
+      {
+        "definition": "provided in meanly limited supply",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "niggardliness",
+      "niggardlinesses",
+      "niggardly"
+    ]
   },
   "nihilist": {
     "def": [
@@ -546,43 +1201,81 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nihilist"
+    ]
   },
   "nil": {
-    "def": [
-      {
-        "definition": "Nothing",
-        "type": "n."
-      }
-    ],
-    "forms": []
+    "def": [],
+    "forms": [
+      "nil",
+      "nils"
+    ]
   },
   "nimble": {
     "def": [
       {
-        "definition": "Light and quick in motion or action.",
+        "definition": "quick and light in motion",
+        "type": "adj."
+      },
+      {
+        "definition": "marked by quick, alert, clever conception {dx_def}see {/dx_def}, comprehension {dx_def}see {/dx_def}, or resourcefulness",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nimble",
+      "nimbleness",
+      "nimblenesses",
+      "nimbler",
+      "nimblest",
+      "nimbly"
+    ]
   },
   "nit": {
     "def": [
       {
-        "definition": "The egg of a louse or some other insect.",
+        "definition": "the egg of a louse or other parasitic insect",
         "type": "n."
+      },
+      {
+        "definition": "a minor shortcoming",
+        "type": "n."
+      },
+      {
+        "definition": "a silly or stupid person",
+        "type": "n."
+      },
+      {
+        "definition": "a unit of luminance equal to one  per square meter",
+        "type": "n."
+      },
+      {
+        "definition": "National Invitational Tournament",
+        "type": "abbreviation"
       }
     ],
-    "forms": []
+    "forms": [
+      "nit",
+      "nits",
+      "NIT"
+    ]
   },
   "nocturnal": {
     "def": [
       {
-        "definition": "Of or pertaining to the night.",
+        "definition": "of, relating to, or occurring in the night",
+        "type": "adj."
+      },
+      {
+        "definition": "active at night",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nocturnal",
+      "nocturnally"
+    ]
   },
   "noiseless": {
     "def": [
@@ -591,34 +1284,69 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "noiseless"
+    ]
   },
   "noisome": {
     "def": [
       {
-        "definition": "Very offensive, particularly to the sense of smell.",
+        "definition": "offensive to the senses and especially to the sense of smell",
+        "type": "adj."
+      },
+      {
+        "definition": "highly obnoxious or objectionable",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "noisome",
+      "noisomely",
+      "noisomeness",
+      "noisomenesses"
+    ]
   },
   "noisy": {
     "def": [
       {
-        "definition": "Clamorous.",
+        "definition": "making noise",
+        "type": "adj."
+      },
+      {
+        "definition": "full of or characterized by noise or clamor",
+        "type": "adj."
+      },
+      {
+        "definition": "noticeably showy, gaudy, or bright",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "noisier",
+      "noisiest",
+      "noisily",
+      "noisiness",
+      "noisinesses",
+      "noisy"
+    ]
   },
   "nomad": {
     "def": [
       {
-        "definition": "Having no fixed abode.",
-        "type": "adj."
+        "definition": "a member of a people who have no fixed residence but move from place to place usually seasonally and within a well-defined territory",
+        "type": "n."
+      },
+      {
+        "definition": "an individual who roams about",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nomad",
+      "nomadism",
+      "nomadisms",
+      "nomads"
+    ]
   },
   "nomic": {
     "def": [
@@ -627,34 +1355,101 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nomic"
+    ]
   },
   "nominal": {
     "def": [
       {
-        "definition": "Trivial.",
+        "definition": "existing or being something in name or form only",
         "type": "adj."
+      },
+      {
+        "definition": "of, being, or relating to a designated or theoretical size that may vary from the actual",
+        "type": "adj."
+      },
+      {
+        "definition": "equal to the annual rate of  that would be obtained if interest were not  when in fact it is compounded and paid for periods of less than a year",
+        "type": "adj."
+      },
+      {
+        "definition": "equal to the percentage by which a repaid loan exceeds the  borrowed with no adjustment made for inflation",
+        "type": "adj."
+      },
+      {
+        "definition": "being according to plan",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or constituting a name",
+        "type": "adj."
+      },
+      {
+        "definition": "bearing the name of a person",
+        "type": "adj."
+      },
+      {
+        "definition": "of, relating to, or being a  or a word or expression taking a noun",
+        "type": "adj."
+      },
+      {
+        "definition": "a word or word group functioning as a",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nominal",
+      "nominally",
+      "nominals"
+    ]
   },
   "nominate": {
     "def": [
       {
-        "definition": "To designate as a candidate for any office.",
+        "definition": "to appoint or propose for appointment to an office or place",
+        "type": "v."
+      },
+      {
+        "definition": "to propose as a candidate for election to office",
+        "type": "v."
+      },
+      {
+        "definition": "to propose for an honor",
+        "type": "v."
+      },
+      {
+        "definition": "to enter (a horse) in a race",
         "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "nominatable",
+      "nominate",
+      "nominated",
+      "nominates",
+      "nominating",
+      "nominator",
+      "nominators",
+      "nominee",
+      "nominees"
+    ]
   },
   "nomination": {
     "def": [
       {
-        "definition": "The act or ceremony of naming a man or woman for office.",
+        "definition": "the act, process, or an instance of nominating",
+        "type": "n."
+      },
+      {
+        "definition": "the state of being nominated",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nomination",
+      "nominations"
+    ]
   },
   "nominee": {
     "def": [
@@ -663,7 +1458,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nominee"
+    ]
   },
   "non-existent": {
     "def": [
@@ -672,7 +1469,9 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "non-existent"
+    ]
   },
   "non-resident": {
     "def": [
@@ -681,16 +1480,21 @@
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "non-resident"
+    ]
   },
   "nonchalance": {
     "def": [
       {
-        "definition": "A state of mind indicating lack of interest.",
+        "definition": "the quality or state of being",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nonchalance",
+      "nonchalances"
+    ]
   },
   "non-combatant": {
     "def": [
@@ -699,88 +1503,173 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "non-combatant"
+    ]
   },
   "nondescript": {
     "def": [
       {
-        "definition": "Indescribable.",
+        "definition": "belonging or appearing to belong to no particular class or kind not easily described",
+        "type": "adj."
+      },
+      {
+        "definition": "lacking distinctive or interesting qualities ,",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nondescript",
+      "nondescripts"
+    ]
   },
   "nonentity": {
     "def": [
       {
-        "definition": "A person or thing of little or no account.",
+        "definition": "something that does not exist or exists only in the imagination",
+        "type": "n."
+      },
+      {
+        "definition": "a person or thing of little consequence or significance",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nonentities",
+      "nonentity"
+    ]
   },
   "nonpareil": {
     "def": [
       {
-        "definition": "One who or that which is of unequaled excellence.",
+        "definition": "having no equal",
+        "type": "adj."
+      },
+      {
+        "definition": "an individual of unequaled excellence",
+        "type": "n."
+      },
+      {
+        "definition": "a small flat disk of chocolate covered with white sugar pellets",
+        "type": "n."
+      },
+      {
+        "definition": "sugar in small pellets of various colors",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nonpareil",
+      "nonpareils"
+    ]
   },
   "norm": {
     "def": [
       {
-        "definition": "A model.",
+        "definition": "an authoritative standard",
+        "type": "n."
+      },
+      {
+        "definition": "a principle of right action binding upon the members of a group and serving to guide, control, or regulate proper and acceptable behavior",
+        "type": "n."
+      },
+      {
+        "definition": "a set standard of development or achievement usually derived from the average or median achievement of a large group",
+        "type": "n."
+      },
+      {
+        "definition": "a pattern or trait taken to be typical in the behavior of a social group",
+        "type": "n."
+      },
+      {
+        "definition": "a widespread or usual practice, procedure, or custom",
+        "type": "n."
+      },
+      {
+        "definition": "a real-valued nonnegative function defined on a  with value analogous to length and satisfying the conditions that the function is zero if and only if the vector {dx_def}see {/dx_def} is zero, the function of the product of a  and a vector is equal to the product of the  of the scalar and the function of the vector, and the function of the sum of two vectors is less than or equal to the sum of the functions of the two vectors",
+        "type": "n."
+      },
+      {
+        "definition": "the greatest distance between two successive points of a set of points that partition an interval {dx_def}see {/dx_def} into smaller intervals",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "norm",
+      "norms"
+    ]
   },
   "normalcy": {
     "def": [
       {
-        "definition": "The state of being normal.",
+        "definition": "the state or fact of being",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "normalcies",
+      "normalcy"
+    ]
   },
   "norman": {
     "def": [
       {
-        "definition": "Of or peculiar to Normandy, in northern France.",
-        "type": "adj."
+        "definition": "one of the Scandinavian conquerors of Normandy in the 10th century",
+        "type": "n."
+      },
+      {
+        "definition": "one of the Norman-French conquerors of England in 1066",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "Norman",
+      "Normans",
+      "norman"
+    ]
   },
   "nostrum": {
     "def": [
       {
-        "definition": "Any scheme or recipe of a charlatan character.",
+        "definition": "a medicine of secret composition recommended by its preparer but usually without scientific proof of its effectiveness",
+        "type": "n."
+      },
+      {
+        "definition": "a usually questionable remedy or scheme",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nostrum",
+      "nostrums"
+    ]
   },
   "noticeable": {
     "def": [
       {
-        "definition": "Perceptible.",
+        "definition": "worthy of notice",
+        "type": "adj."
+      },
+      {
+        "definition": "likely to be noticed",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "noticeable",
+      "noticeably"
+    ]
   },
   "notorious": {
     "def": [
       {
-        "definition": "Unfavorably known to the general public.",
+        "definition": "generally known and talked of",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "notorious"
+    ]
   },
   "novellette": {
     "def": [
@@ -789,150 +1678,328 @@
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "novellette"
+    ]
   },
   "novice": {
     "def": [
       {
-        "definition": "A beginner in any business or occupation.",
+        "definition": "a person admitted to probationary membership in a religious community",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "novice",
+      "novices"
+    ]
   },
   "nowadays": {
     "def": [
       {
-        "definition": "In the present time or age.",
+        "definition": "at the present time",
         "type": "adv."
       }
     ],
-    "forms": []
+    "forms": [
+      "nowadays"
+    ]
   },
   "nowhere": {
     "def": [
       {
-        "definition": "In no place or state.",
+        "definition": "not in or at any place",
         "type": "adv."
+      },
+      {
+        "definition": "to no place",
+        "type": "adv."
+      },
+      {
+        "definition": "not at all not to the least extent",
+        "type": "adv."
+      },
+      {
+        "definition": "a nonexistent place",
+        "type": "n."
+      },
+      {
+        "definition": "an unknown, distant, or obscure place or state",
+        "type": "n."
+      },
+      {
+        "definition": "of or relating to a remote or relatively unknown location",
+        "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nowhere",
+      "nowheres"
+    ]
   },
   "noxious": {
     "def": [
       {
-        "definition": "Hurtful.",
+        "definition": "physically harmful or destructive to living beings",
+        "type": "adj."
+      },
+      {
+        "definition": "constituting a harmful influence on mind or behavior",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "noxious",
+      "noxiously",
+      "noxiousness",
+      "noxiousnesses"
+    ]
   },
   "nuance": {
     "def": [
       {
-        "definition": "A slight degree of difference in anything perceptible to the sense of the mind.",
+        "definition": "a  distinction or variation",
+        "type": "n."
+      },
+      {
+        "definition": "a subtle quality",
+        "type": "n."
+      },
+      {
+        "definition": "sensibility to, awareness of, or ability to express  shadings (as of meaning, feeling, or value)",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nuance",
+      "nuances"
+    ]
   },
   "nucleus": {
     "def": [
       {
-        "definition": "A central point or part about which matter is aggregated.",
+        "definition": "the small bright body in the head of a comet",
+        "type": "n."
+      },
+      {
+        "definition": "the small brighter and denser portion of a galaxy {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "a cellular  of  that is essential to cell functions (such as reproduction and protein synthesis), is composed of  and a -rich network from which  and  arise, and is enclosed in a definite membrane {dx}see",
+        "type": "n."
+      },
+      {
+        "definition": "a mass of  or group of cell bodies of  in the",
+        "type": "n."
+      },
+      {
+        "definition": "a characteristic and stable complex of atoms or groups in a molecule {dx_def}see {/dx_def}",
+        "type": "n."
+      },
+      {
+        "definition": "the positively charged central portion of an atom that comprises nearly all of the  and that consists of  and usually",
+        "type": "n."
+      },
+      {
+        "definition": "the peak of  in the utterance of a syllable",
+        "type": "n."
+      },
+      {
+        "definition": "a basic or essential part",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nuclei",
+      "nucleus",
+      "nucleuses"
+    ]
   },
   "nude": {
     "def": [
       {
-        "definition": "Naked.",
+        "definition": "lacking something essential especially to legal validity",
         "type": "adj."
+      },
+      {
+        "definition": "devoid of a natural or conventional covering",
+        "type": "adj."
+      },
+      {
+        "definition": "featuring nudes",
+        "type": "adj."
+      },
+      {
+        "definition": "frequented by naked people",
+        "type": "adj."
+      },
+      {
+        "definition": "a representation of a nude human figure",
+        "type": "n."
+      },
+      {
+        "definition": "a nude person",
+        "type": "n."
+      },
+      {
+        "definition": "the condition of being nude",
+        "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nude",
+      "nudely",
+      "nudeness",
+      "nudenesses",
+      "nuder",
+      "nudest",
+      "nudities",
+      "nudity",
+      "nudes"
+    ]
   },
   "nugatory": {
     "def": [
       {
-        "definition": "Having no power or force.",
+        "definition": "of little or no consequence ,",
+        "type": "adj."
+      },
+      {
+        "definition": "having no force",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nugatory"
+    ]
   },
   "nuisance": {
     "def": [
       {
-        "definition": "That which annoys, vexes, or irritates.",
+        "definition": "one that is annoying, unpleasant, or obnoxious",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nuisance",
+      "nuisances"
+    ]
   },
   "numeration": {
     "def": [
       {
-        "definition": "The act or art of reading or naming numbers.",
+        "definition": "the act or process or an instance of counting or numbering",
+        "type": "n."
+      },
+      {
+        "definition": "an act or instance of designating by a number",
+        "type": "n."
+      },
+      {
+        "definition": "the art of reading in words numbers expressed by numerals",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "numeration",
+      "numerations"
+    ]
   },
   "numerical": {
     "def": [
       {
-        "definition": "Of or pertaining to number.",
+        "definition": "of or relating to numbers",
+        "type": "adj."
+      },
+      {
+        "definition": "expressed in or involving numbers or a number system",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "numerical",
+      "numerically"
+    ]
   },
   "nunnery": {
     "def": [
       {
-        "definition": "A convent for nuns.",
+        "definition": "a convent of nuns",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nunneries",
+      "nunnery"
+    ]
   },
   "nuptial": {
     "def": [
       {
-        "definition": "Of or pertaining to marriage, especially to the marriage ceremony.",
+        "definition": "of or relating to marriage or the marriage ceremony",
+        "type": "adj."
+      },
+      {
+        "definition": "characteristic of or occurring in the breeding season",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nuptial",
+      "nuptials"
+    ]
   },
   "nurture": {
     "def": [
       {
-        "definition": "The process of fostering or promoting growth.",
+        "definition": "something that nourishes",
         "type": "n."
+      },
+      {
+        "definition": "the sum of the environmental factors influencing the behavior and traits expressed by an organism",
+        "type": "n."
+      },
+      {
+        "definition": "to supply with nourishment",
+        "type": "v."
+      },
+      {
+        "definition": "to further the development of",
+        "type": "v."
       }
     ],
-    "forms": []
+    "forms": [
+      "nurture",
+      "nurtures",
+      "nurtured",
+      "nurturer",
+      "nurturers",
+      "nurturing"
+    ]
   },
   "nutriment": {
     "def": [
       {
-        "definition": "That which nourishes.",
+        "definition": "something that nourishes",
         "type": "n."
       }
     ],
-    "forms": []
+    "forms": [
+      "nutriment",
+      "nutriments"
+    ]
   },
   "nutritive": {
     "def": [
       {
-        "definition": "Having nutritious properties.",
+        "definition": "of or relating to nutrition",
         "type": "adj."
       }
     ],
-    "forms": []
+    "forms": [
+      "nutritive",
+      "nutritively"
+    ]
   }
 }

@@ -1,1 +1,1410 @@
-{}
+{
+  "tableau": {
+    "pronunciations": [
+      {
+        "syllables": "ˈta-ˌblō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tablea01.mp3"
+      }
+    ]
+  },
+  "tacit": {
+    "pronunciations": [
+      {
+        "syllables": "ˈta-sət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tacit001.mp3"
+      }
+    ]
+  },
+  "taciturn": {
+    "pronunciations": [
+      {
+        "syllables": "ˈta-sə-ˌtərn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tacitu01.mp3"
+      }
+    ]
+  },
+  "tack": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtak",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tack0001.mp3"
+      }
+    ]
+  },
+  "tact": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tact0001.mp3"
+      }
+    ]
+  },
+  "tactician": {
+    "pronunciations": [
+      {
+        "syllables": "tak-ˈti-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tactic04.mp3"
+      }
+    ]
+  },
+  "tactics": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtak-tiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tactic05.mp3"
+      }
+    ]
+  },
+  "tangency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtan-jən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tangen01.mp3"
+      }
+    ]
+  },
+  "tangent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtan-jənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tangen02.mp3"
+      }
+    ]
+  },
+  "tangible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtan-jə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tangib01.mp3"
+      }
+    ]
+  },
+  "tannery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈta-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tanner02.mp3"
+      }
+    ]
+  },
+  "tantalize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtan-tə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tantal03.mp3"
+      }
+    ]
+  },
+  "tantamount": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtan-tə-ˌmau̇nt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tantam01.mp3"
+      }
+    ]
+  },
+  "tapestry": {
+    "pronunciations": [
+      {
+        "syllables": "ˈta-pə-strē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tapest02.mp3"
+      }
+    ]
+  },
+  "tarnish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtär-nish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tarnis01.mp3"
+      }
+    ]
+  },
+  "taut": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/taut0001.mp3"
+      }
+    ]
+  },
+  "taxation": {
+    "pronunciations": [
+      {
+        "syllables": "tak-ˈsā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/taxati01.mp3"
+      }
+    ]
+  },
+  "taxidermy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtak-sə-ˌdər-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/taxide01.mp3"
+      }
+    ]
+  },
+  "technic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtek-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/techni01.mp3"
+      }
+    ]
+  },
+  "technicality": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtek-nə-ˈka-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/techni05.mp3"
+      }
+    ]
+  },
+  "technique": {
+    "pronunciations": [
+      {
+        "syllables": "tek-ˈnēk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/techni10.mp3"
+      }
+    ]
+  },
+  "technology": {
+    "pronunciations": [
+      {
+        "syllables": "tek-ˈnä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/techno09.mp3"
+      }
+    ]
+  },
+  "teem": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtēm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/teem0001.mp3"
+      }
+    ]
+  },
+  "telepathy": {
+    "pronunciations": [
+      {
+        "syllables": "tə-ˈle-pə-thē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/telepa02.mp3"
+      }
+    ]
+  },
+  "telephony": {
+    "pronunciations": [
+      {
+        "syllables": "tə-ˈle-fə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/teleph06.mp3"
+      }
+    ]
+  },
+  "telescope": {
+    "pronunciations": [
+      {
+        "syllables": "ˈte-lə-ˌskōp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/telesc01.mp3"
+      }
+    ]
+  },
+  "telltale": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtel-ˌtāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tellta01.mp3"
+      }
+    ]
+  },
+  "temerity": {
+    "pronunciations": [
+      {
+        "syllables": "tə-ˈmer-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/temeri01.mp3"
+      }
+    ]
+  },
+  "temporal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtem-p(ə-)rəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tempor01.mp3"
+      }
+    ]
+  },
+  "temporary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtem-pə-ˌrer-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tempor05.mp3"
+      }
+    ]
+  },
+  "temporize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtem-pə-ˌrīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tempor06.mp3"
+      }
+    ]
+  },
+  "tempt": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtem(p)t",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tempt001.mp3"
+      }
+    ]
+  },
+  "tempter": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtem(p)-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tempte01.mp3"
+      }
+    ]
+  },
+  "tenacious": {
+    "pronunciations": [
+      {
+        "syllables": "tə-ˈnā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tenaci01.mp3"
+      }
+    ]
+  },
+  "tenant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈte-nənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tenant01.mp3"
+      }
+    ]
+  },
+  "tendency": {
+    "pronunciations": [
+      {
+        "syllables": "ˈten-dən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tenden01.mp3"
+      }
+    ]
+  },
+  "tenet": {
+    "pronunciations": [
+      {
+        "syllables": "ˈte-nət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tenet001.mp3"
+      }
+    ]
+  },
+  "tenor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈte-nər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tenor001.mp3"
+      }
+    ]
+  },
+  "tense": {
+    "pronunciations": [
+      {
+        "syllables": "ˈten(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tense001.mp3"
+      }
+    ]
+  },
+  "tentative": {
+    "pronunciations": [
+      {
+        "syllables": "ˈten-tə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tentat01.mp3"
+      }
+    ]
+  },
+  "tenure": {
+    "pronunciations": [
+      {
+        "syllables": "ˈten-yər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tenure01.mp3"
+      }
+    ]
+  },
+  "tercentenary": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtər-(ˌ)sen-ˈte-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tercen01.mp3"
+      }
+    ]
+  },
+  "termagant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtər-mə-gənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/termag01.mp3"
+      }
+    ]
+  },
+  "terminal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtər-mə-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/termin03.mp3"
+      }
+    ]
+  },
+  "terminate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtər-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/termin05.mp3"
+      }
+    ]
+  },
+  "termination": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtər-mə-ˈnā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/termin06.mp3"
+      }
+    ]
+  },
+  "terminus": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtər-mə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/termin13.mp3"
+      }
+    ]
+  },
+  "terrify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈter-ə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/terrif03.mp3"
+      }
+    ]
+  },
+  "territorial": {
+    "pronunciations": [
+      {
+        "syllables": "ˌter-ə-ˈtȯr-ē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/territ01.mp3"
+      }
+    ]
+  },
+  "terse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/terse001.mp3"
+      }
+    ]
+  },
+  "testament": {
+    "pronunciations": [
+      {
+        "syllables": "ˈte-stə-mənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/testam01.mp3"
+      }
+    ]
+  },
+  "testator": {
+    "pronunciations": [
+      {
+        "syllables": "ˈte-ˌstā-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/testat02.mp3"
+      }
+    ]
+  },
+  "testimonial": {
+    "pronunciations": [
+      {
+        "syllables": "ˌte-stə-ˈmō-nē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/testim01.mp3"
+      }
+    ]
+  },
+  "theism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthē-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theism01.mp3"
+      }
+    ]
+  },
+  "theocracy": {
+    "pronunciations": [
+      {
+        "syllables": "thē-ˈä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theocr01.mp3"
+      }
+    ]
+  },
+  "theologian": {
+    "pronunciations": [
+      {
+        "syllables": "ˌthē-ə-ˈlō-jən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theolo01.mp3"
+      }
+    ]
+  },
+  "theological": {
+    "pronunciations": [
+      {
+        "syllables": "ˌthē-ə-ˈlä-ji-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theolo02.mp3"
+      }
+    ]
+  },
+  "theology": {
+    "pronunciations": [
+      {
+        "syllables": "thē-ˈä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theolo07.mp3"
+      }
+    ]
+  },
+  "theoretical": {
+    "pronunciations": [
+      {
+        "syllables": "ˌthē-ə-ˈre-ti-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theore03.mp3"
+      }
+    ]
+  },
+  "theorist": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthē-ə-rist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theori01.mp3"
+      }
+    ]
+  },
+  "theorize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthē-ə-ˌrīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theori02.mp3"
+      }
+    ]
+  },
+  "therefor": {
+    "pronunciations": [
+      {
+        "syllables": "t͟her-ˈfȯr",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/theref01.mp3"
+      }
+    ]
+  },
+  "thermal": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthər-məl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/therma01.mp3"
+      }
+    ]
+  },
+  "thermoelectric": {
+    "pronunciations": [
+      {
+        "syllables": "ˌthər-mō-i-ˈlek-trik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thermo12.mp3"
+      }
+    ]
+  },
+  "thermoelectricity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌthər-mō-i-ˌlek-ˈtri-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thermo13.mp3"
+      }
+    ]
+  },
+  "thesis": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthē-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thesis01.mp3"
+      }
+    ]
+  },
+  "thoroughbred": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthər-ə-ˌbred",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thorou04.mp3"
+      }
+    ]
+  },
+  "thoroughfare": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthər-ə-ˌfer",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thorou05.mp3"
+      }
+    ]
+  },
+  "thrall": {
+    "pronunciations": [
+      {
+        "syllables": "ˈthrȯl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/thrall01.mp3"
+      }
+    ]
+  },
+  "tilth": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtilth",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tilth001.mp3"
+      }
+    ]
+  },
+  "timbre": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtam-bər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/timbre02.mp3"
+      }
+    ]
+  },
+  "timorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈti-mə-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/timoro01.mp3"
+      }
+    ]
+  },
+  "tincture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtiŋ(k)-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tinctu01.mp3"
+      }
+    ]
+  },
+  "tinge": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtinj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tinge001.mp3"
+      }
+    ]
+  },
+  "tipsy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtip-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tipsy001.mp3"
+      }
+    ]
+  },
+  "tirade": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtī-ˌrād",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tirade01.mp3"
+      }
+    ]
+  },
+  "tireless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtī(-ə)r-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tirele01.mp3"
+      }
+    ]
+  },
+  "tiresome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtī(-ə)r-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tireso01.mp3"
+      }
+    ]
+  },
+  "titanic": {
+    "pronunciations": [
+      {
+        "syllables": "tī-ˈta-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/titani04.mp3"
+      }
+    ]
+  },
+  "toilsome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯi(-ə)l-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/toilso01.mp3"
+      }
+    ]
+  },
+  "tolerable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtä-lə-rə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tolera01.mp3"
+      }
+    ]
+  },
+  "tolerance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtä-lə-rən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tolera04.mp3"
+      }
+    ]
+  },
+  "tolerant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtä-lə-rənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tolera05.mp3"
+      }
+    ]
+  },
+  "tolerate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtä-lə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tolera06.mp3"
+      }
+    ]
+  },
+  "toleration": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtä-lə-ˈrā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tolera09.mp3"
+      }
+    ]
+  },
+  "topography": {
+    "pronunciations": [
+      {
+        "syllables": "tə-ˈpä-grə-fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/topogr05.mp3"
+      }
+    ]
+  },
+  "torpor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯr-pər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/torpor01.mp3"
+      }
+    ]
+  },
+  "torrid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯr-əd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/torrid01.mp3"
+      }
+    ]
+  },
+  "tortious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯr-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tortio01.mp3"
+      }
+    ]
+  },
+  "tortuous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯr-chə-wəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tortuo02.mp3"
+      }
+    ]
+  },
+  "torturous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtȯr-chə-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tortur04.mp3"
+      }
+    ]
+  },
+  "tractable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrak-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tracta01.mp3"
+      }
+    ]
+  },
+  "trait": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trait002.mp3"
+      }
+    ]
+  },
+  "trajectory": {
+    "pronunciations": [
+      {
+        "syllables": "trə-ˈjek-t(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trajec03.mp3"
+      }
+    ]
+  },
+  "trammel": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtra-məl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tramme01.mp3"
+      }
+    ]
+  },
+  "tranquil": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtraŋ-kwəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tranqu01.mp3"
+      }
+    ]
+  },
+  "tranquility": {
+    "pronunciations": [
+      {
+        "syllables": "tran-ˈkwi-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tranqu05.mp3"
+      }
+    ]
+  },
+  "tranquilize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtraŋ-kwə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tranqu03.mp3"
+      }
+    ]
+  },
+  "transact": {
+    "pronunciations": [
+      {
+        "syllables": "tran-ˈzakt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transa02.mp3"
+      }
+    ]
+  },
+  "transalpine": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈal-ˌpīn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transa07.mp3"
+      }
+    ]
+  },
+  "transatlantic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtran(t)s-ət-ˈlan-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transa10.mp3"
+      }
+    ]
+  },
+  "transcend": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)-ˈsend",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transc02.mp3"
+      }
+    ]
+  },
+  "transcendent": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)-ˈsen-dənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transc05.mp3"
+      }
+    ]
+  },
+  "transcontinental": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtran(t)s-ˌkän-tə-ˈnen-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transc10.mp3"
+      }
+    ]
+  },
+  "transcribe": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)-ˈskrīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transc11.mp3"
+      }
+    ]
+  },
+  "transcript": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtran(t)-ˌskript",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transc12.mp3"
+      }
+    ]
+  },
+  "transfer": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈfər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transf04.mp3"
+      }
+    ]
+  },
+  "transferee": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtran(t)s-(ˌ)fər-ˈē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transf11.mp3"
+      }
+    ]
+  },
+  "transference": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈfər-ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transf13.mp3"
+      }
+    ]
+  },
+  "transfigure": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈfi-gyər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transf19.mp3"
+      }
+    ]
+  },
+  "transfuse": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈfyüz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transf31.mp3"
+      }
+    ]
+  },
+  "transfusion": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈfyü-zhən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transf33.mp3"
+      }
+    ]
+  },
+  "transgress": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈgres",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transg02.mp3"
+      }
+    ]
+  },
+  "transience": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtran(t)-sh(ē-)ən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transi01.mp3"
+      }
+    ]
+  },
+  "transient": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtran(t)-sh(ē-)ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transi05.mp3"
+      }
+    ]
+  },
+  "transition": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)-ˈsi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transi15.mp3"
+      }
+    ]
+  },
+  "transitory": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtran(t)-sə-ˌtȯr-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transi19.mp3"
+      }
+    ]
+  },
+  "translate": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transl02.mp3"
+      }
+    ]
+  },
+  "translucence": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈlü-sᵊn(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transl15.mp3"
+      }
+    ]
+  },
+  "translucent": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈlü-sᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transl17.mp3"
+      }
+    ]
+  },
+  "transmissible": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈmi-sə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transm07.mp3"
+      }
+    ]
+  },
+  "transmission": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈmi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transm10.mp3"
+      }
+    ]
+  },
+  "transmit": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈmit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transm15.mp3"
+      }
+    ]
+  },
+  "transmute": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈmyüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transm28.mp3"
+      }
+    ]
+  },
+  "transparent": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈper-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transp04.mp3"
+      }
+    ]
+  },
+  "transpire": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)-ˈspī(-ə)r",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transp11.mp3"
+      }
+    ]
+  },
+  "transplant": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtran(t)s-ˈplant",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transp14.mp3"
+      }
+    ]
+  },
+  "transposition": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtran(t)s-pə-ˈzi-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transp35.mp3"
+      }
+    ]
+  },
+  "transverse": {
+    "pronunciations": [
+      {
+        "syllables": "tran(t)s-ˈvərs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/transv06.mp3"
+      }
+    ]
+  },
+  "travail": {
+    "pronunciations": [
+      {
+        "syllables": "trə-ˈvāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/travai01.mp3"
+      }
+    ]
+  },
+  "travesty": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtra-və-stē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/traves01.mp3"
+      }
+    ]
+  },
+  "treacherous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtre-chə-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/treach01.mp3"
+      }
+    ]
+  },
+  "treachery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtre-chə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/treach02.mp3"
+      }
+    ]
+  },
+  "treasonable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrē-zə-nə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/treaso02.mp3"
+      }
+    ]
+  },
+  "treatise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrē-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/treati01.mp3"
+      }
+    ]
+  },
+  "treble": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtre-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/treble01.mp3"
+      }
+    ]
+  },
+  "tremendous": {
+    "pronunciations": [
+      {
+        "syllables": "tri-ˈmen-dəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tremen01.mp3"
+      }
+    ]
+  },
+  "tremor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtre-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tremor01.mp3"
+      }
+    ]
+  },
+  "tremulous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrem-yə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tremul02.mp3"
+      }
+    ]
+  },
+  "trenchant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtren-chənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trench03.mp3"
+      }
+    ]
+  },
+  "trepidation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌtre-pə-ˈdā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trepid03.mp3"
+      }
+    ]
+  },
+  "trestle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtre-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trestl01.mp3"
+      }
+    ]
+  },
+  "triad": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrī-ˌad",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/triad001.mp3"
+      }
+    ]
+  },
+  "tribune": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtri-ˌbyün",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tribun05.mp3"
+      }
+    ]
+  },
+  "trickery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtri-k(ə-)rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tricke02.mp3"
+      }
+    ]
+  },
+  "tricolor": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrī-ˌkə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tricol02.mp3"
+      }
+    ]
+  },
+  "tricycle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrī-sə-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tricyc01.mp3"
+      }
+    ]
+  },
+  "trident": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrī-dᵊnt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/triden01.mp3"
+      }
+    ]
+  },
+  "triennial": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)trī-ˈe-nē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trienn01.mp3"
+      }
+    ]
+  },
+  "trinity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtri-nə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trinit04.mp3"
+      }
+    ]
+  },
+  "trio": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrē-(ˌ)ō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trio0001.mp3"
+      }
+    ]
+  },
+  "triple": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtri-pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/triple01.mp3"
+      }
+    ]
+  },
+  "triplicate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtri-pli-kət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tripli04.mp3"
+      }
+    ]
+  },
+  "triplicity": {
+    "pronunciations": [
+      {
+        "syllables": "tri-ˈpli-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tripli05.mp3"
+      }
+    ]
+  },
+  "tripod": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrī-ˌpäd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tripod01.mp3"
+      }
+    ]
+  },
+  "trisect": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrī-ˌsekt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trisec02.mp3"
+      }
+    ]
+  },
+  "trite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrīt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trite001.mp3"
+      }
+    ]
+  },
+  "triumvir": {
+    "pronunciations": [
+      {
+        "syllables": "trī-ˈəm-vər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/triumv01.mp3"
+      }
+    ]
+  },
+  "trivial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtri-vē-əl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trivia02.mp3"
+      }
+    ]
+  },
+  "troublesome": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrə-bəl-səm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/troubl10.mp3"
+      }
+    ]
+  },
+  "truculence": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrə-kyə-lən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trucul01.mp3"
+      }
+    ]
+  },
+  "truculent": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrə-kyə-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/trucul03.mp3"
+      }
+    ]
+  },
+  "truism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrü-ˌi-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/truism01.mp3"
+      }
+    ]
+  },
+  "truthful": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtrüth-fəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/truthf01.mp3"
+      }
+    ]
+  },
+  "turgid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtər-jəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/turgid01.mp3"
+      }
+    ]
+  },
+  "turpitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtər-pə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/turpit01.mp3"
+      }
+    ]
+  },
+  "tutelage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtü-tə-lij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tutela01.mp3"
+      }
+    ]
+  },
+  "tutelar": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtü-tə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tutela02.mp3"
+      }
+    ]
+  },
+  "tutorship": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtü-tər-ˌship",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tutors01.mp3"
+      }
+    ]
+  },
+  "twinge": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtwinj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/twinge01.mp3"
+      }
+    ]
+  },
+  "typical": {
+    "pronunciations": [
+      {
+        "syllables": "ˈti-pi-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/typica01.mp3"
+      }
+    ]
+  },
+  "typify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈti-pə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/typify01.mp3"
+      }
+    ]
+  },
+  "typography": {
+    "pronunciations": [
+      {
+        "syllables": "tī-ˈpä-grə-fē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/typogr06.mp3"
+      }
+    ]
+  },
+  "tyrannical": {
+    "pronunciations": [
+      {
+        "syllables": "tə-ˈra-ni-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tyrann01.mp3"
+      }
+    ]
+  },
+  "tyranny": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtir-ə-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tyrann10.mp3"
+      }
+    ]
+  },
+  "tyro": {
+    "pronunciations": [
+      {
+        "syllables": "ˈtī-(ˌ)rō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/t/tyro0001.mp3"
+      }
+    ]
+  }
+}

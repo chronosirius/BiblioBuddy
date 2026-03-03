@@ -1,1 +1,834 @@
-{}
+{
+  "gaiety": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgā-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gaiety01.mp3"
+      }
+    ]
+  },
+  "gaily": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgā-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gaily001.mp3"
+      }
+    ]
+  },
+  "gait": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gait0001.mp3"
+      }
+    ]
+  },
+  "gallant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈga-lənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gallan03.mp3"
+      }
+    ]
+  },
+  "galore": {
+    "pronunciations": [
+      {
+        "syllables": "gə-ˈlȯr",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/galore01.mp3"
+      }
+    ]
+  },
+  "galvanic": {
+    "pronunciations": [
+      {
+        "syllables": "gal-ˈva-nik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/galvan01.mp3"
+      }
+    ]
+  },
+  "galvanism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgal-və-ˌni-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/galvan03.mp3"
+      }
+    ]
+  },
+  "galvanize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgal-və-ˌnīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/galvan04.mp3"
+      }
+    ]
+  },
+  "gamble": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgam-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gamble01.mp3"
+      }
+    ]
+  },
+  "gambol": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgam-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gambol01.mp3"
+      }
+    ]
+  },
+  "gamester": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgām-stər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gamest01.mp3"
+      }
+    ]
+  },
+  "gamut": {
+    "pronunciations": [
+      {
+        "syllables": "ˈga-mət",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gamut001.mp3"
+      }
+    ]
+  },
+  "garnish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgär-nish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garnis01.mp3"
+      }
+    ]
+  },
+  "garrison": {
+    "pronunciations": [
+      {
+        "syllables": "ˈger-ə-sən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garris01.mp3"
+      }
+    ]
+  },
+  "garrote": {
+    "pronunciations": [
+      {
+        "syllables": "gə-ˈrät",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garrot01.mp3"
+      }
+    ]
+  },
+  "garrulous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈger-ə-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/garrul02.mp3"
+      }
+    ]
+  },
+  "gaseous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈga-sē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gaseo01r.mp3"
+      }
+    ]
+  },
+  "gastric": {
+    "pronunciations": [
+      {
+        "syllables": "ˈga-strik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gastri01.mp3"
+      }
+    ]
+  },
+  "gastritis": {
+    "pronunciations": [
+      {
+        "syllables": "ga-ˈstrī-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gastri03.mp3"
+      }
+    ]
+  },
+  "gastronomy": {
+    "pronunciations": [
+      {
+        "syllables": "ga-ˈsträ-nə-mē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gastro15.mp3"
+      }
+    ]
+  },
+  "gauge": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgāj",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gauge001.mp3"
+      }
+    ]
+  },
+  "gendarme": {
+    "pronunciations": [
+      {
+        "syllables": "ˈzhän-ˌdärm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gendar01.mp3"
+      }
+    ]
+  },
+  "genealogist": {
+    "pronunciations": [
+      {
+        "syllables": "ˌjē-nē-ˈä-lə-jist",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/geneal01.mp3"
+      }
+    ]
+  },
+  "genealogy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌjē-nē-ˈä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/geneal02.mp3"
+      }
+    ]
+  },
+  "generality": {
+    "pronunciations": [
+      {
+        "syllables": "ˌje-nə-ˈra-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genera05.mp3"
+      }
+    ]
+  },
+  "generalize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjen-rə-ˌlīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genera07.mp3"
+      }
+    ]
+  },
+  "generally": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjen-rə-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genera10.mp3"
+      }
+    ]
+  },
+  "generate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈje-nə-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genera12.mp3"
+      }
+    ]
+  },
+  "generic": {
+    "pronunciations": [
+      {
+        "syllables": "jə-ˈner-ik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/generi01.mp3"
+      }
+    ]
+  },
+  "generosity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌje-nə-ˈrä-sə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genero01.mp3"
+      }
+    ]
+  },
+  "genesis": {
+    "pronunciations": [
+      {
+        "syllables": "ˈje-nə-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genesi01.mp3"
+      }
+    ]
+  },
+  "genital": {
+    "pronunciations": [
+      {
+        "syllables": "ˈje-nə-tᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/genita01.mp3"
+      }
+    ]
+  },
+  "genitive": {
+    "pronunciations": [
+      {
+        "syllables": "ˈje-nə-tiv",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/geniti03.mp3"
+      }
+    ]
+  },
+  "genteel": {
+    "pronunciations": [
+      {
+        "syllables": "jen-ˈtēl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gentee01.mp3"
+      }
+    ]
+  },
+  "gentile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjen-ˌtī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gentil01.mp3"
+      }
+    ]
+  },
+  "geology": {
+    "pronunciations": [
+      {
+        "syllables": "jē-ˈä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/geolog05.mp3"
+      }
+    ]
+  },
+  "germane": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)jər-ˈmān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/german04.mp3"
+      }
+    ]
+  },
+  "germinate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjər-mə-ˌnāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/germin03.mp3"
+      }
+    ]
+  },
+  "gestation": {
+    "pronunciations": [
+      {
+        "syllables": "je-ˈstā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gestat02.mp3"
+      }
+    ]
+  },
+  "gesticulate": {
+    "pronunciations": [
+      {
+        "syllables": "je-ˈsti-kyə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gestic03.mp3"
+      }
+    ]
+  },
+  "gesture": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjes-chər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gestur01.mp3"
+      }
+    ]
+  },
+  "ghastly": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgast-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/ghastl01.mp3"
+      }
+    ]
+  },
+  "gibe": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjīb",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gibe0001.mp3"
+      }
+    ]
+  },
+  "giddy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgi-dē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/giddy001.mp3"
+      }
+    ]
+  },
+  "gigantic": {
+    "pronunciations": [
+      {
+        "syllables": "jī-ˈgan-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gigant02.mp3"
+      }
+    ]
+  },
+  "giver": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgi-vər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/giver001.mp3"
+      }
+    ]
+  },
+  "glacial": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglā-shəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glacia01.mp3"
+      }
+    ]
+  },
+  "glacier": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglā-shər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glacie01.mp3"
+      }
+    ]
+  },
+  "gladden": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgla-dᵊn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gladde01.mp3"
+      }
+    ]
+  },
+  "glazier": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglā-zhər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glazie01.mp3"
+      }
+    ]
+  },
+  "glimmer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgli-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glimme01.mp3"
+      }
+    ]
+  },
+  "glimpse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglim(p)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glimps01.mp3"
+      }
+    ]
+  },
+  "globose": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglō-ˌbōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/globos01.mp3"
+      }
+    ]
+  },
+  "globular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglä-byə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/globul01.mp3"
+      }
+    ]
+  },
+  "glorious": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglȯr-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glorio01.mp3"
+      }
+    ]
+  },
+  "glutinous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglü-tə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glutin01.mp3"
+      }
+    ]
+  },
+  "gluttonous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈglə-tə-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/glutto02.mp3"
+      }
+    ]
+  },
+  "gnash": {
+    "pronunciations": [
+      {
+        "syllables": "ˈnash",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gnash001.mp3"
+      }
+    ]
+  },
+  "gordian knot": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgȯr-dē-ən-",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gordia01.mp3"
+      }
+    ]
+  },
+  "gosling": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgäz-liŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/goslin01.mp3"
+      }
+    ]
+  },
+  "gossamer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgä-sə-mər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gossam01.mp3"
+      }
+    ]
+  },
+  "gourd": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgȯrd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gourd002.mp3"
+      }
+    ]
+  },
+  "gourmand": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgu̇r-ˌmänd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gourma01.mp3"
+      }
+    ]
+  },
+  "graceless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrās-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gracel01.mp3"
+      }
+    ]
+  },
+  "gradation": {
+    "pronunciations": [
+      {
+        "syllables": "grā-ˈdā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gradat01.mp3"
+      }
+    ]
+  },
+  "gradient": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrā-dē-ənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gradie01.mp3"
+      }
+    ]
+  },
+  "granary": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrā-nə-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/granar02.mp3"
+      }
+    ]
+  },
+  "grandeur": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgran-jər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grande05.mp3"
+      }
+    ]
+  },
+  "grandiose": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgran-dē-ˌōs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grand01r.mp3"
+      }
+    ]
+  },
+  "grantee": {
+    "pronunciations": [
+      {
+        "syllables": "gran-ˈtē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grante01.mp3"
+      }
+    ]
+  },
+  "granular": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgran-yə-lər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/granul01.mp3"
+      }
+    ]
+  },
+  "granulate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgran-yə-ˌlāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/granul03.mp3"
+      }
+    ]
+  },
+  "granule": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgran-(ˌ)yül",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/granul06.mp3"
+      }
+    ]
+  },
+  "grapple": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgra-pəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grappl01.mp3"
+      }
+    ]
+  },
+  "gratification": {
+    "pronunciations": [
+      {
+        "syllables": "ˌgra-tə-fə-ˈkā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gratif01.mp3"
+      }
+    ]
+  },
+  "gratify": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgra-tə-ˌfī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gratif02.mp3"
+      }
+    ]
+  },
+  "gratuitous": {
+    "pronunciations": [
+      {
+        "syllables": "grə-ˈtü-ə-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gratui01.mp3"
+      }
+    ]
+  },
+  "gratuity": {
+    "pronunciations": [
+      {
+        "syllables": "grə-ˈtü-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gratui02.mp3"
+      }
+    ]
+  },
+  "gravity": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgra-və-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gravit07.mp3"
+      }
+    ]
+  },
+  "gregarious": {
+    "pronunciations": [
+      {
+        "syllables": "gri-ˈger-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gregar02.mp3"
+      }
+    ]
+  },
+  "grenadier": {
+    "pronunciations": [
+      {
+        "syllables": "ˌgre-nə-ˈdir",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grenad02.mp3"
+      }
+    ]
+  },
+  "grief": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrēf",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grief001.mp3"
+      }
+    ]
+  },
+  "grievance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrē-vən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grieva01.mp3"
+      }
+    ]
+  },
+  "grievous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrē-vəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grievo01.mp3"
+      }
+    ]
+  },
+  "grimace": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgri-məs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grimac01.mp3"
+      }
+    ]
+  },
+  "grindstone": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrīn(d)-ˌstōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grinds01.mp3"
+      }
+    ]
+  },
+  "grisly": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgriz-lē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grisly01.mp3"
+      }
+    ]
+  },
+  "grotesque": {
+    "pronunciations": [
+      {
+        "syllables": "grō-ˈtesk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grotes01.mp3"
+      }
+    ]
+  },
+  "grotto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrä-(ˌ)tō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/grotto01.mp3"
+      }
+    ]
+  },
+  "ground": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgrau̇nd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/ground01.mp3"
+      }
+    ]
+  },
+  "guess": {
+    "pronunciations": [
+      {
+        "syllables": "ˈges",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guess001.mp3"
+      }
+    ]
+  },
+  "guile": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgī(-ə)l",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guile001.mp3"
+      }
+    ]
+  },
+  "guileless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgī(-ə)l-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guilel01.mp3"
+      }
+    ]
+  },
+  "guinea": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgi-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guinea01.mp3"
+      }
+    ]
+  },
+  "guise": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guise001.mp3"
+      }
+    ]
+  },
+  "gullible": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgə-lə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gullib01.mp3"
+      }
+    ]
+  },
+  "gumption": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgəm(p)-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gumpti01.mp3"
+      }
+    ]
+  },
+  "gusto": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgə-(ˌ)stō",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gusto001.mp3"
+      }
+    ]
+  },
+  "guy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgī",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guy00001.mp3"
+      }
+    ]
+  },
+  "guzzle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈgə-zəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/guzzle01.mp3"
+      }
+    ]
+  },
+  "gynecocracy": {
+    "pronunciations": [
+      {
+        "syllables": "ˌgī-ni-ˈkä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gyneco01.mp3"
+      }
+    ]
+  },
+  "gynecology": {
+    "pronunciations": [
+      {
+        "syllables": "ˌgī-nə-ˈkä-lə-jē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gyneco05.mp3"
+      }
+    ]
+  },
+  "gyrate": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjī-ˌrāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gyrate01.mp3"
+      }
+    ]
+  },
+  "gyroscope": {
+    "pronunciations": [
+      {
+        "syllables": "ˈjī-rə-ˌskōp",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/g/gyrosc01.mp3"
+      }
+    ]
+  }
+}

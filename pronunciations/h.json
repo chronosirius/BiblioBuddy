@@ -1,1 +1,802 @@
-{}
+{
+  "habitable": {
+    "pronunciations": [
+      {
+        "syllables": "ˈha-bə-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/habita01.mp3"
+      }
+    ]
+  },
+  "habitual": {
+    "pronunciations": [
+      {
+        "syllables": "hə-ˈbi-ch(ə-)wəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/habitu01.mp3"
+      }
+    ]
+  },
+  "habitude": {
+    "pronunciations": [
+      {
+        "syllables": "ˈha-bə-ˌtüd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/habitu04.mp3"
+      }
+    ]
+  },
+  "hackney": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhak-nē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hackne01.mp3"
+      }
+    ]
+  },
+  "haggard": {
+    "pronunciations": [
+      {
+        "syllables": "ˈha-gərd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/haggar01.mp3"
+      }
+    ]
+  },
+  "halcyon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhal-sē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/halcyo01.mp3"
+      }
+    ]
+  },
+  "hale": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhāl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hale0001.mp3"
+      }
+    ]
+  },
+  "handwriting": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhand-ˌrī-tiŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/handwr05.mp3"
+      }
+    ]
+  },
+  "hanger-on": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhaŋ-ər-ˌȯn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hanger02.mp3"
+      }
+    ]
+  },
+  "happy-go-lucky": {
+    "pronunciations": [
+      {
+        "syllables": "ˌha-pē-gō-ˈlə-kē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/happyg01.mp3"
+      }
+    ]
+  },
+  "harangue": {
+    "pronunciations": [
+      {
+        "syllables": "hə-ˈraŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/harang01.mp3"
+      }
+    ]
+  },
+  "harass": {
+    "pronunciations": [
+      {
+        "syllables": "hə-ˈras",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/harass02.mp3"
+      }
+    ]
+  },
+  "harbinger": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhär-bən-jər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/harbin01.mp3"
+      }
+    ]
+  },
+  "hard-hearted": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhärd-ˈhär-təd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hardhe03.mp3"
+      }
+    ]
+  },
+  "hardihood": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhär-dē-ˌhu̇d",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hardih01.mp3"
+      }
+    ]
+  },
+  "harmonious": {
+    "pronunciations": [
+      {
+        "syllables": "här-ˈmō-nē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/harmon05.mp3"
+      }
+    ]
+  },
+  "havoc": {
+    "pronunciations": [
+      {
+        "syllables": "ˈha-vək",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/havoc001.mp3"
+      }
+    ]
+  },
+  "hawthorn": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhȯ-ˌthȯrn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hawtho01.mp3"
+      }
+    ]
+  },
+  "hazard": {
+    "pronunciations": [
+      {
+        "syllables": "ˈha-zərd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hazard01.mp3"
+      }
+    ]
+  },
+  "heartrending": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhärt-ˌren-diŋ",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heartr01.mp3"
+      }
+    ]
+  },
+  "heathenish": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhē-t͟hə-nish",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heathe05.mp3"
+      }
+    ]
+  },
+  "heedless": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhēd-ləs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heedle01.mp3"
+      }
+    ]
+  },
+  "heifer": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhe-fər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heifer01.mp3"
+      }
+    ]
+  },
+  "heinous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhā-nəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heinou01.mp3"
+      }
+    ]
+  },
+  "hemorrhage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhe-mə-rij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hemorr01.mp3"
+      }
+    ]
+  },
+  "henchman": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhench-mən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/henchm01.mp3"
+      }
+    ]
+  },
+  "henpeck": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhen-ˌpek",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/henpec01.mp3"
+      }
+    ]
+  },
+  "heptagon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhep-tə-ˌgän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heptag01.mp3"
+      }
+    ]
+  },
+  "heptarchy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhep-ˌtär-kē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heptar01.mp3"
+      }
+    ]
+  },
+  "herbaceous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌ(h)ər-ˈbā-shəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/herbac01.mp3"
+      }
+    ]
+  },
+  "herbarium": {
+    "pronunciations": [
+      {
+        "syllables": "ˌ(h)ər-ˈber-ē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/herbar01.mp3"
+      }
+    ]
+  },
+  "herbivorous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌ(h)ər-ˈbi-və-rəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/herbi05m.mp3"
+      }
+    ]
+  },
+  "hereditary": {
+    "pronunciations": [
+      {
+        "syllables": "hə-ˈre-də-ˌter-ē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heredi03.mp3"
+      }
+    ]
+  },
+  "heredity": {
+    "pronunciations": [
+      {
+        "syllables": "hə-ˈre-də-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heredi05.mp3"
+      }
+    ]
+  },
+  "heresy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈher-ə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/heresy01.mp3"
+      }
+    ]
+  },
+  "heretic": {
+    "pronunciations": [
+      {
+        "syllables": "ˈher-ə-ˌtik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hereti01.mp3"
+      }
+    ]
+  },
+  "heritage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈher-ə-tij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/herita03.mp3"
+      }
+    ]
+  },
+  "hernia": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhər-nē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hernia01.mp3"
+      }
+    ]
+  },
+  "hesitancy": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhe-zə-tən(t)-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hesita02.mp3"
+      }
+    ]
+  },
+  "hesitant": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhe-zə-tənt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hesita03.mp3"
+      }
+    ]
+  },
+  "hesitation": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhe-zə-ˈtā-shən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hesita06.mp3"
+      }
+    ]
+  },
+  "heterodox": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhe-tə-rə-ˌdäks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hetero12.mp3"
+      }
+    ]
+  },
+  "heterogeneity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhe-tə-rō-jə-ˈnē-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hetero23.mp3"
+      }
+    ]
+  },
+  "heterogeneous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhe-tə-rə-ˈjēn-yəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hetero24.mp3"
+      }
+    ]
+  },
+  "heteromorphic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhe-tə-rə-ˈmȯr-fik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hetero35.mp3"
+      }
+    ]
+  },
+  "hexagon": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhek-sə-ˌgän",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hexago01.mp3"
+      }
+    ]
+  },
+  "hexapod": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhek-sə-ˌpäd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hexapo01.mp3"
+      }
+    ]
+  },
+  "hiatus": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈā-təs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hiatus01.mp3"
+      }
+    ]
+  },
+  "hibernal": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈbər-nᵊl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hibern03.mp3"
+      }
+    ]
+  },
+  "hibernian": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈbər-nē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hibern07.mp3"
+      }
+    ]
+  },
+  "hideous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhi-dē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hideou01.mp3"
+      }
+    ]
+  },
+  "hilarious": {
+    "pronunciations": [
+      {
+        "syllables": "hi-ˈler-ē-əs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hilari01.mp3"
+      }
+    ]
+  },
+  "hillock": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhi-lək",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hilloc01.mp3"
+      }
+    ]
+  },
+  "hinder": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhin-dər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hinder01.mp3"
+      }
+    ]
+  },
+  "hindmost": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhīn(d)-ˌmōst",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hindmo01.mp3"
+      }
+    ]
+  },
+  "hindrance": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhin-drən(t)s",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hindra08.mp3"
+      }
+    ]
+  },
+  "hirsute": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhər-ˌsüt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hirsut02.mp3"
+      }
+    ]
+  },
+  "hoard": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhȯrd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hoard001.mp3"
+      }
+    ]
+  },
+  "hoarse": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhȯrs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hoarse01.mp3"
+      }
+    ]
+  },
+  "homage": {
+    "pronunciations": [
+      {
+        "syllables": "ˈä-mij",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/homage02.mp3"
+      }
+    ]
+  },
+  "homogeneity": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhō-mə-jə-ˈnē-ə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/homoge02.mp3"
+      }
+    ]
+  },
+  "homogeneous": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhō-mə-ˈjēn-yəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/homoge03.mp3"
+      }
+    ]
+  },
+  "homologous": {
+    "pronunciations": [
+      {
+        "syllables": "hō-ˈmä-lə-gəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/homolo06.mp3"
+      }
+    ]
+  },
+  "homonym": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhä-mə-ˌnim",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/homony01.mp3"
+      }
+    ]
+  },
+  "homophone": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhä-mə-ˌfōn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/homoph05.mp3"
+      }
+    ]
+  },
+  "honorarium": {
+    "pronunciations": [
+      {
+        "syllables": "ˌä-nə-ˈrer-ē-əm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/honora05.mp3"
+      }
+    ]
+  },
+  "hoodwink": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhu̇d-ˌwiŋk",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hoodwi01.mp3"
+      }
+    ]
+  },
+  "horde": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhȯrd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/horde001.mp3"
+      }
+    ]
+  },
+  "hosiery": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhōzh-rē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hosiery.mp3"
+      }
+    ]
+  },
+  "hospitable": {
+    "pronunciations": [
+      {
+        "syllables": "hä-ˈspi-tə-bəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hospit02.mp3"
+      }
+    ]
+  },
+  "hospitality": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhä-spə-ˈta-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hospit05.mp3"
+      }
+    ]
+  },
+  "hostility": {
+    "pronunciations": [
+      {
+        "syllables": "hä-ˈsti-lə-tē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hostil04.mp3"
+      }
+    ]
+  },
+  "huckster": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhək-stər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/huckst01.mp3"
+      }
+    ]
+  },
+  "humane": {
+    "pronunciations": [
+      {
+        "syllables": "hyü-ˈmān",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/humane01.mp3"
+      }
+    ]
+  },
+  "humanitarian": {
+    "pronunciations": [
+      {
+        "syllables": "hyü-ˌma-nə-ˈter-ē-ən",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/humani05.mp3"
+      }
+    ]
+  },
+  "humanize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhyü-mə-ˌnīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/humani08.mp3"
+      }
+    ]
+  },
+  "humbug": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhəm-ˌbəg",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/humbug01.mp3"
+      }
+    ]
+  },
+  "humiliate": {
+    "pronunciations": [
+      {
+        "syllables": "hyü-ˈmi-lē-ˌāt",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/humili01.mp3"
+      }
+    ]
+  },
+  "hussar": {
+    "pronunciations": [
+      {
+        "syllables": "(ˌ)hə-ˈzär",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hussar02.mp3"
+      }
+    ]
+  },
+  "hustle": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhə-səl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hustle01.mp3"
+      }
+    ]
+  },
+  "hybrid": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhī-brəd",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hybrid01.mp3"
+      }
+    ]
+  },
+  "hydra": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhī-drə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/gg/gghydr01.mp3"
+      }
+    ]
+  },
+  "hydraulic": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈdrȯ-lik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hydrau01.mp3"
+      }
+    ]
+  },
+  "hydrodynamics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhī-drō-dī-ˈna-miks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hydrod04.mp3"
+      }
+    ]
+  },
+  "hydroelectric": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhī-drō-i-ˈlek-trik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hydroe01.mp3"
+      }
+    ]
+  },
+  "hydrometer": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈdrä-mə-tər",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hydrom14.mp3"
+      }
+    ]
+  },
+  "hydrostatics": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhī-drə-ˈsta-tiks",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hydros09.mp3"
+      }
+    ]
+  },
+  "hydrous": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhī-drəs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hydrou01.mp3"
+      }
+    ]
+  },
+  "hygiene": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhī-ˌjēn",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hygien01.mp3"
+      }
+    ]
+  },
+  "hypercritical": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhī-pər-ˈkri-ti-kəl",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hyperc18.mp3"
+      }
+    ]
+  },
+  "hypnosis": {
+    "pronunciations": [
+      {
+        "syllables": "hip-ˈnō-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypnos02.mp3"
+      }
+    ]
+  },
+  "hypnotic": {
+    "pronunciations": [
+      {
+        "syllables": "hip-ˈnä-tik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypnot03.mp3"
+      }
+    ]
+  },
+  "hypnotism": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhip-nə-ˌti-zəm",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypnot05.mp3"
+      }
+    ]
+  },
+  "hypnotize": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhip-nə-ˌtīz",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypnot07.mp3"
+      }
+    ]
+  },
+  "hypocrisy": {
+    "pronunciations": [
+      {
+        "syllables": "hi-ˈpä-krə-sē",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypocr01.mp3"
+      }
+    ]
+  },
+  "hypocrite": {
+    "pronunciations": [
+      {
+        "syllables": "ˈhi-pə-ˌkrit",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypocr02.mp3"
+      }
+    ]
+  },
+  "hypodermic": {
+    "pronunciations": [
+      {
+        "syllables": "ˌhī-pə-ˈdər-mik",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypode02.mp3"
+      }
+    ]
+  },
+  "hypotenuse": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈpä-tə-ˌnüs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypote03.mp3"
+      }
+    ]
+  },
+  "hypothesis": {
+    "pronunciations": [
+      {
+        "syllables": "hī-ˈpä-thə-səs",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hypoth10.mp3"
+      }
+    ]
+  },
+  "hysteria": {
+    "pronunciations": [
+      {
+        "syllables": "hi-ˈster-ē-ə",
+        "audio": "https://media.merriam-webster.com/audio/prons/en/us/mp3/h/hyster07.mp3"
+      }
+    ]
+  }
+}
