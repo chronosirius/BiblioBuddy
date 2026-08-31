@@ -117,6 +117,13 @@ function bindEvents() {
     handleSubmit();
   });
 
+  elements.answerInput.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" && !elements.answerInput.disabled && elements.nextButton.disabled === false) {
+      event.preventDefault();
+      handleNext();
+    }
+  });
+
   elements.nextButton.addEventListener("click", () => {
     handleNext();
   });
