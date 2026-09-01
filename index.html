@@ -117,5 +117,63 @@
     </div>
 
     <script src="app.js"></script>
+    <script>
+      (() => {
+        const rainbowColors = ["#ff4d4d", "#ff8a3d", "#f7c948", "#53d769", "#4ca3ff", "#5b4dff"];
+
+        function recolorBiblioText(root) {
+          const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+          const nodesToReplace = [];
+
+          while (walker.nextNode()) {
+            const node = walker.currentNode;
+            if (!node.textContent || !/biblio/gi.test(node.textContent)) {
+              continue;
+            }
+
+            const parent = node.parentElement;
+            if (!parent || parent.closest("h1") || parent.closest("title") || parent.closest(".biblio-rainbow")) {
+              continue;
+            }
+
+            nodesToReplace.push(node);
+          }
+
+          nodesToReplace.forEach((node) => {
+            const fragment = document.createDocumentFragment();
+            const value = node.textContent;
+            let lastIndex = 0;
+            const regex = /biblio/gi;
+
+            for (const match of value.matchAll(regex)) {
+              const start = match.index;
+              const end = start + match[0].length;
+
+              if (start > lastIndex) {
+                fragment.appendChild(document.createTextNode(value.slice(lastIndex, start)));
+              }
+
+              Array.from(match[0]).forEach((char, index) => {
+                const span = document.createElement("span");
+                span.textContent = char;
+                span.className = "biblio-rainbow";
+                span.style.color = rainbowColors[index % rainbowColors.length];
+                fragment.appendChild(span);
+              });
+
+              lastIndex = end;
+            }
+
+            if (lastIndex < value.length) {
+              fragment.appendChild(document.createTextNode(value.slice(lastIndex)));
+            }
+
+            node.replaceWith(fragment);
+          });
+        }
+
+        recolorBiblioText(document.body);
+      })();
+    </script>
   </body>
 </html>

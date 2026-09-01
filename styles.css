@@ -72,6 +72,10 @@ body {
   text-underline-offset: 3px;
 }
 
+.biblio-rainbow {
+  font-weight: 700;
+}
+
 h1 {
   font-family: var(--display);
   font-size: 54px;

@@ -442,6 +442,8 @@ function renderLearnQuestion() {
     title: entry.stemRaw,
     prompt: "Type the definition for this stem.",
   });
+  applyRainbowText(elements.questionTitle);
+  applyRainbowText(elements.questionPrompt);
 
   setInputState({ submitted: state.learn.submitted });
 }
@@ -482,6 +484,8 @@ function renderPracticeQuestion() {
     title: entry.stemRaw,
     prompt: "Type the definition for this stem.",
   });
+  applyRainbowText(elements.questionTitle);
+  applyRainbowText(elements.questionPrompt);
 
   elements.focusNote.textContent = "Practice loops forever by reshuffling after each full run.";
   setInputState({ submitted: state.practice.submitted });
@@ -512,6 +516,7 @@ function renderWotdQuestion() {
     title: "Definition",
     prompt: entry.definitionRaw,
   });
+  applyRainbowText(elements.questionPrompt);
 
   setInputState({ submitted: state.wotd.submitted });
 }
@@ -520,6 +525,8 @@ function renderPrompt({ meta, title, prompt }) {
   elements.questionMeta.textContent = meta;
   elements.questionTitle.textContent = title;
   elements.questionPrompt.textContent = prompt;
+  applyRainbowText(elements.questionTitle);
+  applyRainbowText(elements.questionPrompt);
 }
 
 function renderNoQuestion(message) {
@@ -760,6 +767,57 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#39;");
+}
+
+function applyRainbowText(element) {
+  if (!element || element.closest("h1") || element.closest("title")) {
+    return;
+  }
+
+  const textNodes = [];
+  const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT);
+
+  while (walker.nextNode()) {
+    textNodes.push(walker.currentNode);
+  }
+
+  textNodes.forEach((node) => {
+    const value = node.textContent || "";
+    const matches = [...value.matchAll(/biblio/gi)];
+
+    if (!matches.length) {
+      return;
+    }
+
+    const fragment = document.createDocumentFragment();
+    const colors = ["#ff4d4d", "#ff8a3d", "#f7c948", "#53d769", "#4ca3ff", "#5b4dff"];
+    let lastIndex = 0;
+
+    matches.forEach((match) => {
+      const start = match.index;
+      const end = start + match[0].length;
+
+      if (start > lastIndex) {
+        fragment.appendChild(document.createTextNode(value.slice(lastIndex, start)));
+      }
+
+      Array.from(match[0]).forEach((char, index) => {
+        const span = document.createElement("span");
+        span.textContent = char;
+        span.style.color = colors[index % colors.length];
+        span.style.fontWeight = "700";
+        fragment.appendChild(span);
+      });
+
+      lastIndex = end;
+    });
+
+    if (lastIndex < value.length) {
+      fragment.appendChild(document.createTextNode(value.slice(lastIndex)));
+    }
+
+    node.replaceWith(fragment);
+  });
 }
 
 function renderFatalError(error) {

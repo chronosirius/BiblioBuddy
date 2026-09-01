@@ -280,7 +280,9 @@ function renderQuestion() {
   elements.questionMeta.textContent = MODES[state.mode].label;
   elements.questionTitle.textContent =
     state.mode === "fitb" ? "Complete the sentence" : entry.word;
+  applyRainbowText(elements.questionTitle);
   elements.questionPrompt.textContent = question.prompt;
+  applyRainbowText(elements.questionPrompt);
   elements.feedback.textContent = "";
   elements.nextButton.disabled = true;
   elements.answerDetails.classList.remove("visible");
@@ -297,6 +299,7 @@ function renderOptions(options, entry, modeState) {
     const button = document.createElement("button");
     button.className = "option-button";
     button.textContent = option.text;
+    applyRainbowText(button);
     button.dataset.correct = option.isCorrect ? "true" : "false";
     button.addEventListener("click", () => {
       handleAnswer(button, option.isCorrect, entry, modeState);
@@ -508,6 +511,57 @@ function updateStats(modeState, eligible, trackedCount, masteredCount) {
   elements.statsGrid.innerHTML = rows.join("");
 
   elements.limitSummary.textContent = `Active non-mastered: ${trackedCount}/${MAX_ACTIVE_NON_MASTERED}. Mastered: ${masteredCount}.`;
+}
+
+function applyRainbowText(element) {
+  if (!element || element.closest("h1") || element.closest("title")) {
+    return;
+  }
+
+  const textNodes = [];
+  const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT);
+
+  while (walker.nextNode()) {
+    textNodes.push(walker.currentNode);
+  }
+
+  textNodes.forEach((node) => {
+    const value = node.textContent || "";
+    const matches = [...value.matchAll(/biblio/gi)];
+
+    if (!matches.length) {
+      return;
+    }
+
+    const fragment = document.createDocumentFragment();
+    const colors = ["#ff4d4d", "#ff8a3d", "#f7c948", "#53d769", "#4ca3ff", "#5b4dff"];
+    let lastIndex = 0;
+
+    matches.forEach((match) => {
+      const start = match.index;
+      const end = start + match[0].length;
+
+      if (start > lastIndex) {
+        fragment.appendChild(document.createTextNode(value.slice(lastIndex, start)));
+      }
+
+      Array.from(match[0]).forEach((char, index) => {
+        const span = document.createElement("span");
+        span.textContent = char;
+        span.style.color = colors[index % colors.length];
+        span.style.fontWeight = "700";
+        fragment.appendChild(span);
+      });
+
+      lastIndex = end;
+    });
+
+    if (lastIndex < value.length) {
+      fragment.appendChild(document.createTextNode(value.slice(lastIndex)));
+    }
+
+    node.replaceWith(fragment);
+  });
 }
 
 function renderAnswerDetails(entry) {
