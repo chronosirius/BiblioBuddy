@@ -1,3 +1,7 @@
+// Progress Snapshot page: browse words by category and revisit any word card.
+// Reuses utilities shared with the main modes via window.SharedUtils and
+// window.SharedPronunciation.
+
 const DEFINITIONS_DIR = "definitions";
 const SYNONYMS_DIR = "synonyms";
 const STORAGE_PREFIX = "biblioBuddy.v1";
@@ -61,7 +65,7 @@ async function loadData() {
   const lettersToTry = "abcdefghijklmnopqrstuvwxyz".split("");
   const definitionsData = await loadDefinitionsByLetters(lettersToTry);
   const words = definitionsData;
-  
+
   const letters = getLettersFromWords(words);
   const synonymsData = await loadSynonymsByLetters(letters);
 
@@ -73,7 +77,6 @@ async function loadData() {
       return {
         word: word.trim(),
         definitions: data.def || [],
-        // Keep single definition for backward compatibility with display
         definition: firstDef?.definition || "",
         pos: normalizePos(firstDef?.type || ""),
         rawType: firstDef?.type || "",
@@ -85,6 +88,39 @@ async function loadData() {
     map.set(entry.word, entry);
     return map;
   }, new Map());
+}
+
+function getLettersFromWords(words) {
+  const letters = new Set();
+  Object.keys(words).forEach((word) => {
+    const letter = window.SharedPronunciation.getWordLetter(word);
+    if (letter) {
+      letters.add(letter);
+    }
+  });
+  return Array.from(letters).sort();
+}
+
+async function loadDefinitionsByLetters(letters) {
+  const requests = letters.map((letter) =>
+    fetch(`${DEFINITIONS_DIR}/${letter}.json`)
+      .then((response) => (response.ok ? response.json() : {}))
+      .catch(() => ({}))
+  );
+
+  const results = await Promise.all(requests);
+  return Object.assign({}, ...results);
+}
+
+async function loadSynonymsByLetters(letters) {
+  const requests = letters.map((letter) =>
+    fetch(`${SYNONYMS_DIR}/${letter}.json`)
+      .then((response) => (response.ok ? response.json() : {}))
+      .catch(() => ({}))
+  );
+
+  const results = await Promise.all(requests);
+  return results.reduce((acc, data) => Object.assign(acc, data), {});
 }
 
 function setMode(mode) {
@@ -167,16 +203,15 @@ function renderWordCard(word) {
   elements.cardWord.textContent = entry.word;
   renderDefinitionsList(elements.cardDefinitions, entry.definitions, entry.definition);
   loadAndRenderPronunciations(entry.word);
-  fillList(elements.cardSynonyms, pickRandomSubset(synonyms, 10), "No synonyms available.");
-  fillList(elements.cardSentences, pickRandomSubset(sentences, 10), "No example sentences available.");
+  fillList(elements.cardSynonyms, window.SharedUtils.pickRandomSubset(synonyms, 10), "No synonyms available.");
+  fillList(elements.cardSentences, window.SharedUtils.pickRandomSubset(sentences, 10), "No example sentences available.");
 }
 
 function renderDefinitionsList(listEl, definitions, fallbackDefinition) {
   listEl.innerHTML = "";
   const items = Array.isArray(definitions) ? definitions : [];
-  
+
   if (items.length > 0) {
-    // Group definitions by part of speech
     const groupedDefs = {};
     items.forEach((def) => {
       const pos = def.type || "Other";
@@ -186,20 +221,16 @@ function renderDefinitionsList(listEl, definitions, fallbackDefinition) {
       groupedDefs[pos].push(def.definition || "");
     });
 
-    // Render each group
     Object.entries(groupedDefs).forEach(([pos, defs]) => {
-      // Create a wrapper div for each POS group
       const groupDiv = document.createElement("div");
       groupDiv.style.marginBottom = "1em";
-      
-      // Create a header for the part of speech
+
       const posHeader = document.createElement("p");
       posHeader.style.fontWeight = "bold";
       posHeader.style.marginBottom = "0.25em";
       posHeader.textContent = pos;
       groupDiv.appendChild(posHeader);
 
-      // Create an ordered list for definitions of this POS
       const ol = document.createElement("ol");
       ol.style.margin = "0";
       ol.style.paddingLeft = "0";
@@ -209,7 +240,7 @@ function renderDefinitionsList(listEl, definitions, fallbackDefinition) {
         li.textContent = defText;
         ol.appendChild(li);
       });
-      
+
       groupDiv.appendChild(ol);
       listEl.appendChild(groupDiv);
     });
@@ -221,70 +252,44 @@ function renderDefinitionsList(listEl, definitions, fallbackDefinition) {
   listEl.appendChild(item);
 }
 
-function formatDefinitionText(definition, fallbackType) {
-  const type = String(definition?.type || fallbackType || "").trim();
-  const prefix = type ? `(${type}) ` : "";
-  const text = String(definition?.definition || "").trim();
-  return `${prefix}${text}`.trim();
-}
-
 async function loadAndRenderPronunciations(word) {
-  const letter = getWordLetter(word);
+  const letter = window.SharedPronunciation.getWordLetter(word);
   if (!letter) {
     elements.cardPronunciation.innerHTML =
       '<p class="pronunciation-empty">No pronunciation available.</p>';
     return;
   }
 
-  try {
-    const response = await fetch(`pronunciations/${letter}.json`);
-    if (!response.ok) {
-      elements.cardPronunciation.innerHTML =
-        '<p class="pronunciation-empty">No pronunciation available.</p>';
-      return;
-    }
-    const pronunciationsData = await response.json();
-    const wordPronunciations = pronunciationsData[word];
+  const pronunciationsData = await window.SharedPronunciation.loadPronunciationsForLetter(letter);
+  const wordPronunciations = pronunciationsData[word];
 
-    if (!wordPronunciations || !Array.isArray(wordPronunciations.pronunciations)) {
-      elements.cardPronunciation.innerHTML =
-        '<p class="pronunciation-empty">No pronunciation available.</p>';
-      return;
-    }
-
-    elements.cardPronunciation.innerHTML = "";
-    wordPronunciations.pronunciations.forEach((pron, index) => {
-      const div = document.createElement("div");
-      div.className = "pronunciation-item";
-
-      const syllablesSpan = document.createElement("span");
-      syllablesSpan.className = "pronunciation-text";
-      syllablesSpan.textContent = pron.syllables || "";
-
-      div.appendChild(syllablesSpan);
-
-      if (pron.audio) {
-        const audioBtn = document.createElement("button");
-        audioBtn.className = "audio-btn";
-        audioBtn.setAttribute("aria-label", `Play pronunciation ${index + 1}`);
-        audioBtn.innerHTML = "🔊";
-        audioBtn.addEventListener("click", () => playAudio(pron.audio));
-        div.appendChild(audioBtn);
-      }
-
-      elements.cardPronunciation.appendChild(div);
-    });
-  } catch (error) {
-    console.error(`Failed to load pronunciations for ${word}:`, error);
+  if (!wordPronunciations || !Array.isArray(wordPronunciations.pronunciations)) {
     elements.cardPronunciation.innerHTML =
       '<p class="pronunciation-empty">No pronunciation available.</p>';
+    return;
   }
-}
 
-function playAudio(url) {
-  const audio = new Audio(url);
-  audio.play().catch((error) => {
-    console.error("Failed to play audio:", error);
+  elements.cardPronunciation.innerHTML = "";
+  wordPronunciations.pronunciations.forEach((pron, index) => {
+    const div = document.createElement("div");
+    div.className = "pronunciation-item";
+
+    const syllablesSpan = document.createElement("span");
+    syllablesSpan.className = "pronunciation-text";
+    syllablesSpan.textContent = pron.syllables || "";
+
+    div.appendChild(syllablesSpan);
+
+    if (pron.audio) {
+      const audioBtn = document.createElement("button");
+      audioBtn.className = "audio-btn";
+      audioBtn.setAttribute("aria-label", `Play pronunciation ${index + 1}`);
+      audioBtn.innerHTML = "🔊";
+      audioBtn.addEventListener("click", () => window.SharedPronunciation.playAudio(pron.audio));
+      div.appendChild(audioBtn);
+    }
+
+    elements.cardPronunciation.appendChild(div);
   });
 }
 
@@ -304,26 +309,41 @@ function fillList(listEl, items, emptyMessage) {
   });
 }
 
-function pickRandomSubset(items, maxCount) {
-  if (!Array.isArray(items) || items.length <= maxCount) {
-    return items || [];
-  }
-  return shuffle(items.slice()).slice(0, maxCount);
+function countCategories(modeState, eligible) {
+  return eligible.reduce((acc, entry) => {
+    const score = modeState.scores[entry.word];
+    const category = getCategory(score);
+    acc[category] = (acc[category] || 0) + 1;
+    return acc;
+  }, {});
 }
 
-function getModeState(mode) {
-  const stored = localStorage.getItem(getStorageKey(mode));
-  if (stored) {
-    const parsed = JSON.parse(stored);
-    return {
-      scores: parsed.scores || {},
-    };
+function getEligibleEntries(mode) {
+  if (mode === "definitions") {
+    return state.entries;
   }
-  return { scores: {} };
+
+  if (mode === "synonyms") {
+    return state.entries.filter((entry) => {
+      const data = state.synonymsData[entry.word];
+      return Array.isArray(data?.synonyms) && data.synonyms.length > 0;
+    });
+  }
+
+  return state.entries.filter((entry) => {
+    const data = state.synonymsData[entry.word];
+    return Array.isArray(data?.sentences) && data.sentences.length > 0;
+  });
 }
 
-function getStorageKey(mode) {
-  return `${STORAGE_PREFIX}.${mode}`;
+function isTrackedNonMastered(word, modeState) {
+  const score = modeState.scores[word];
+  return score !== undefined && score <= 10;
+}
+
+function isMastered(word, modeState) {
+  const score = modeState.scores[word];
+  return score !== undefined && score > 10;
 }
 
 function getCategory(score) {
@@ -345,40 +365,21 @@ function getCategory(score) {
   return "mastered";
 }
 
-function getLettersFromWords(words) {
-  const letters = new Set();
-  Object.keys(words).forEach((word) => {
-    const letter = getWordLetter(word);
-    if (letter) {
-      letters.add(letter);
-    }
-  });
-  return Array.from(letters).sort();
+function getModeState(mode) {
+  const stored = localStorage.getItem(getStorageKey(mode));
+  if (stored) {
+    const parsed = JSON.parse(stored);
+    return {
+      scores: parsed.scores || {},
+      lastSeen: parsed.lastSeen || {},
+      reviewMastered: parsed.reviewMastered || false,
+    };
+  }
+  return { scores: {}, lastSeen: {}, reviewMastered: false };
 }
 
-function getWordLetter(word) {
-  const match = String(word || "").match(/[a-z]/i);
-  return match ? match[0].toLowerCase() : null;
-}
-async function loadDefinitionsByLetters(letters) {
-  const requests = letters.map((letter) =>
-    fetch(`${DEFINITIONS_DIR}/${letter}.json`)
-      .then((response) => (response.ok ? response.json() : {}))
-      .catch(() => ({}))
-  );
-
-  const results = await Promise.all(requests);
-  return Object.assign({}, ...results);
-}
-async function loadSynonymsByLetters(letters) {
-  const requests = letters.map((letter) =>
-    fetch(`${SYNONYMS_DIR}/${letter}.json`)
-      .then((response) => (response.ok ? response.json() : {}))
-      .catch(() => ({}))
-  );
-
-  const results = await Promise.all(requests);
-  return results.reduce((acc, data) => Object.assign(acc, data), {});
+function getStorageKey(mode) {
+  return `${STORAGE_PREFIX}.${mode}`;
 }
 
 function normalizePos(type) {
@@ -388,30 +389,4 @@ function normalizePos(type) {
   if (value.includes("adj.")) return "adj";
   if (value.includes("adv.")) return "adv";
   return "other";
-}
-
-function shuffle(items) {
-  for (let i = items.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [items[i], items[j]] = [items[j], items[i]];
-  }
-  return items;
-}
-
-function getEligibleEntries(mode) {
-  if (mode === "definitions") {
-    return state.entries;
-  }
-
-  if (mode === "synonyms") {
-    return state.entries.filter((entry) => {
-      const data = state.synonymsData[entry.word];
-      return Array.isArray(data?.synonyms) && data.synonyms.length > 0;
-    });
-  }
-
-  return state.entries.filter((entry) => {
-    const data = state.synonymsData[entry.word];
-    return Array.isArray(data?.sentences) && data.sentences.length > 0;
-  });
 }

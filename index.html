@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>BiblioBuddy</title>
+    <title>SAT Words Buddy</title>
     <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
@@ -14,165 +14,348 @@
       href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Space+Grotesk:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="shared/css/styles.css" />
+    <link rel="stylesheet" href="modes/benbenekbuddy/benbenekbuddy.css" />
   </head>
   <body>
     <div class="app">
       <header class="hero">
         <div>
-          <a class="switch-mode-link" href="benbenekbuddy/benbenekbuddy.html">Switch mode</a>
-          <h1>BiblioBuddy</h1>
-          <p class="subtitle">Learn words with intent, track progress with clarity.</p>
+          <button id="modeSwitcher" class="switch-mode-link" type="button">Switch mode</button>
+          <h1 id="appTitle">BiblioBuddy</h1>
+          <p id="appSubtitle" class="subtitle">Learn words with intent, track progress with clarity.</p>
         </div>
         <div class="hero-card">
-          <p class="hero-label">Session Focus</p>
-          <div id="modeCapsule" class="hero-mode">Definitions</div>
-          <p id="capNotice" class="hero-note"></p>
+          <p id="appHeroLabel" class="hero-label">Session Focus</p>
+          <div id="appHeroValue" class="hero-mode">Definitions</div>
         </div>
       </header>
 
-      <section class="mode-bar">
-        <div class="mode-group">
-          <button class="mode-button" data-mode="definitions">Definitions</button>
-          <button class="mode-button" data-mode="synonyms">Synonyms</button>
-          <button class="mode-button" data-mode="fitb">Fill in the Blank</button>
-          <button id="settingsTabButton" class="mode-button" data-mode="settings">Settings</button>
-        </div>
-        <div class="mode-actions">
-          <button id="resetMode" class="ghost-button reset-button">Reset this mode</button>
-        </div>
-      </section>
-
-      <section id="settingsPanel" class="settings-panel" hidden>
-        <div class="settings-card">
-          <h3>Settings</h3>
-          <p class="settings-note">Save or restore your progress across modes.</p>
-          <div class="settings-actions">
-            <button id="saveData" class="save-button">Save user data</button>
-            <button id="loadData" class="load-button">Load user data</button>
-            <input id="loadInput" type="file" accept="application/json" hidden />
+      <!-- ============================================================
+           BiblioBuddy mode: Definitions, Synonyms, Fill in the Blank.
+           ============================================================ -->
+      <section data-mode="bibliobuddy" hidden>
+        <!-- Hidden display sink used by the mode module to report its
+             current label, and read by the host page to populate the
+             unified hero capsule. -->
+        <span id="biblio-modeCapsule" hidden></span>
+        <section class="mode-bar">
+          <div class="mode-group">
+            <button class="mode-button" data-mode="definitions">Definitions</button>
+            <button class="mode-button" data-mode="synonyms">Synonyms</button>
+            <button class="mode-button" data-mode="fitb">Fill in the Blank</button>
+            <button id="biblio-settingsTabButton" class="mode-button" data-mode="settings">Settings</button>
           </div>
-        </div>
-      </section>
-
-      <main class="layout">
-        <section class="question-card">
-          <div class="question-header">
-            <div>
-              <p id="questionMeta" class="question-meta"></p>
-              <h2 id="questionTitle"></h2>
-            </div>
-          </div>
-          <p id="questionPrompt" class="question-prompt"></p>
-          <div id="options" class="options"></div>
-          <p id="feedback" class="feedback"></p>
-          <section id="answerDetails" class="answer-details" aria-live="polite">
-            <div class="answer-grid">
-              <div>
-                <p class="detail-label">Correct answer</p>
-                <p id="detailWord" class="detail-value"></p>
-              </div>
-              <div class="detail-span">
-                <p class="detail-label">Definitions</p>
-                <ol id="detailDefinitions" class="detail-definitions"></ol>
-              </div>
-              <div class="detail-span">
-                <p class="detail-label">Pronunciation</p>
-                <div id="detailPronunciation" class="pronunciation-container"></div>
-              </div>
-              <div class="detail-span">
-                <p class="detail-label">Synonyms</p>
-                <ul id="detailSynonyms" class="detail-list"></ul>
-              </div>
-              <div class="detail-span">
-                <p class="detail-label">Example sentences</p>
-                <ul id="detailSentences" class="detail-list"></ul>
-              </div>
-            </div>
-          </section>
-          <div class="question-footer">
-            <button id="nextButton" class="primary-button" disabled>Next</button>
+          <div class="mode-actions">
+            <button id="biblio-resetMode" class="ghost-button reset-button">Reset this mode</button>
           </div>
         </section>
 
-        <aside class="stats">
-          <div class="stats-card stats-link" onclick="window.location.href='progress_snapshot.html'">
-            <h3>Progress Snapshot</h3>
-            <div id="statsGrid" class="stats-grid"></div>
+        <section id="biblio-settingsPanel" class="settings-panel" hidden>
+          <div class="settings-card">
+            <h3>Settings</h3>
+            <p class="settings-note">Save or restore your progress across modes.</p>
+            <div class="settings-actions">
+              <button id="biblio-saveData" class="save-button">Save user data</button>
+              <button id="biblio-loadData" class="load-button">Load user data</button>
+              <input id="biblio-loadInput" type="file" accept="application/json" hidden />
+            </div>
           </div>
-          <div class="stats-card">
-            <h3>Category Limits</h3>
-            <p id="limitSummary" class="limit-summary"></p>
-            <p class="limit-note">
-              Non-mastered words cap at 50 per mode. When the cap is reached, new
-              words pause.
-            </p>
-            <label class="review-toggle">
-              <input id="reviewMastered" type="checkbox" />
-              <span>Review mastered words</span>
+        </section>
+
+        <main class="layout">
+          <section class="question-card">
+            <div class="question-header">
+              <div>
+                <p id="biblio-questionMeta" class="question-meta"></p>
+                <h2 id="biblio-questionTitle"></h2>
+              </div>
+            </div>
+            <p id="biblio-questionPrompt" class="question-prompt"></p>
+            <div id="biblio-options" class="options"></div>
+            <p id="biblio-feedback" class="feedback"></p>
+            <section id="biblio-answerDetails" class="answer-details" aria-live="polite">
+              <div class="answer-grid">
+                <div>
+                  <p class="detail-label">Correct answer</p>
+                  <p id="biblio-detailWord" class="detail-value"></p>
+                </div>
+                <div class="detail-span">
+                  <p class="detail-label">Definitions</p>
+                  <ol id="biblio-detailDefinitions" class="detail-definitions"></ol>
+                </div>
+                <div class="detail-span">
+                  <p class="detail-label">Pronunciation</p>
+                  <div id="biblio-detailPronunciation" class="pronunciation-container"></div>
+                </div>
+                <div class="detail-span">
+                  <p class="detail-label">Synonyms</p>
+                  <ul id="biblio-detailSynonyms" class="detail-list"></ul>
+                </div>
+                <div class="detail-span">
+                  <p class="detail-label">Example sentences</p>
+                  <ul id="biblio-detailSentences" class="detail-list"></ul>
+                </div>
+              </div>
+            </section>
+            <div class="question-footer">
+              <button id="biblio-nextButton" class="primary-button" disabled>Next</button>
+            </div>
+          </section>
+
+          <aside id="biblio-statsAside" class="stats">
+            <div class="stats-card stats-link" onclick="window.location.href='progress_snapshot.html'">
+              <h3>Progress Snapshot</h3>
+              <div id="biblio-statsGrid" class="stats-grid"></div>
+              <p id="biblio-capNotice" class="hero-note" style="margin-top: 12px;"></p>
+            </div>
+            <div class="stats-card">
+              <h3>Category Limits</h3>
+              <p id="biblio-limitSummary" class="limit-summary"></p>
+              <p class="limit-note">
+                Non-mastered words cap at 50 per mode. When the cap is reached, new
+                words pause.
+              </p>
+              <label class="review-toggle">
+                <input id="biblio-reviewMastered" type="checkbox" />
+                <span>Review mastered words</span>
+              </label>
+            </div>
+          </aside>
+        </main>
+      </section>
+
+      <!-- ============================================================
+           BenbenekBuddy mode: Word Within the Word (Learn/Practice)
+           and Words of the Day.
+           ============================================================ -->
+      <section data-mode="benbenekbuddy" hidden>
+        <!-- Hidden display sinks used by the mode module to report its
+             current focus label and any free-form note. The host page
+             watches these to keep the unified hero capsule in sync. -->
+        <span id="benbenek-focusCapsule" hidden></span>
+        <span id="benbenek-focusNote" hidden></span>
+        <section class="mode-bar">
+          <div class="mode-group">
+            <button id="benbenek-modeWwtw" class="mode-button active" type="button">Word Within the Word</button>
+            <button id="benbenek-modeWotd" class="mode-button" type="button">Words of the Day</button>
+          </div>
+        </section>
+
+        <section id="benbenek-wwtwControls" class="bb-panel">
+          <div class="bb-tabs">
+            <button id="benbenek-tabLearn" class="mode-button active" type="button">Learn</button>
+            <button id="benbenek-tabPractice" class="mode-button" type="button">Practice</button>
+          </div>
+
+          <div id="benbenek-learnControls" class="bb-control-row">
+            <label class="bb-field">
+              <span>List</span>
+              <select id="benbenek-learnListSelect"></select>
             </label>
+            <p id="benbenek-learnProgressText" class="bb-progress"></p>
           </div>
-        </aside>
-      </main>
+
+          <div id="benbenek-practiceControls" class="bb-control-row" hidden>
+            <label class="bb-field">
+              <span>Scope</span>
+              <select id="benbenek-practiceScopeSelect">
+                <option value="all">All mastered lists</option>
+                <option value="one">One mastered list</option>
+              </select>
+            </label>
+            <p id="benbenek-practiceScopeHint" class="bb-progress"></p>
+          </div>
+        </section>
+
+        <main class="layout">
+          <section class="question-card">
+            <div class="question-header">
+              <div>
+                <p id="benbenek-questionMeta" class="question-meta"></p>
+                <h2 id="benbenek-questionTitle"></h2>
+              </div>
+            </div>
+            <p id="benbenek-questionPrompt" class="question-prompt"></p>
+
+            <form id="benbenek-answerForm" class="bb-answer-form">
+              <label for="benbenek-answerInput" class="bb-input-label">Your answer</label>
+              <input id="benbenek-answerInput" class="bb-input" type="text" autocomplete="off" />
+              <div class="bb-actions">
+                <button id="benbenek-submitButton" class="primary-button" type="submit">Submit</button>
+                <button id="benbenek-nextButton" class="ghost-button" type="button" disabled>Next</button>
+              </div>
+            </form>
+
+            <p id="benbenek-feedback" class="feedback"></p>
+
+            <section id="benbenek-answerDetails" class="answer-details" aria-live="polite">
+              <div class="answer-grid">
+                <div class="detail-span">
+                  <p class="detail-label">Correct answer</p>
+                  <p id="benbenek-detailAnswer" class="detail-value"></p>
+                </div>
+                <div class="detail-span">
+                  <p class="detail-label">Words</p>
+                  <p id="benbenek-detailWords" class="detail-value"></p>
+                </div>
+                <div class="detail-span">
+                  <p class="detail-label">Language</p>
+                  <p id="benbenek-detailLanguage" class="detail-value"></p>
+                </div>
+              </div>
+            </section>
+          </section>
+
+          <aside class="stats">
+            <div class="stats-card">
+              <h3>WWTW Mastery</h3>
+              <p id="benbenek-masterySummary" class="limit-summary"></p>
+              <div id="benbenek-masteredLists" class="stats-grid"></div>
+            </div>
+            <div class="stats-card">
+              <h3>Progress</h3>
+              <p class="limit-note">Each stem is mastered after 3 correct answers in Learn mode.</p>
+              <button id="benbenek-resetProgress" class="ghost-button reset-button" type="button">Reset Benbenek progress</button>
+            </div>
+          </aside>
+        </main>
+      </section>
     </div>
 
-    <script src="app.js"></script>
+    <!-- Shared utilities, then mode modules. Order matters: utils first. -->
+    <script src="shared/js/utils.js"></script>
+    <script src="shared/js/pronunciation.js"></script>
+    <script src="modes/bibliobuddy/bibliobuddy.js"></script>
+    <script src="modes/benbenekbuddy/benbenekbuddy.js"></script>
     <script>
       (() => {
-        const rainbowColors = ["#ff4d4d", "#ff8a3d", "#f7c948", "#53d769", "#4ca3ff", "#5b4dff"];
+        // Top-level chrome that hosts both modes on a single page.
+        // Mode is persisted in localStorage so the user lands back on the
+        // same mode they were last using.
 
-        function recolorBiblioText(root) {
-          const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
-          const nodesToReplace = [];
+        const MODE_STORAGE_KEY = "appBuddy.v1.mode";
+        const VALID_MODES = ["bibliobuddy", "benbenekbuddy"];
 
-          while (walker.nextNode()) {
-            const node = walker.currentNode;
-            if (!node.textContent || !/biblio/gi.test(node.textContent)) {
-              continue;
+        const MODE_META = {
+          bibliobuddy: {
+            title: "BiblioBuddy",
+            subtitle: "Learn words with intent, track progress with clarity.",
+            heroLabel: "Session Focus",
+            switchLabel: "Switch to BenbenekBuddy",
+          },
+          benbenekbuddy: {
+            title: "BenbenekBuddy",
+            subtitle: "Train stems and challenge your words of the day recall.",
+            heroLabel: "Current Focus",
+            switchLabel: "Switch to BiblioBuddy",
+          },
+        };
+
+        const root = document.body;
+        const modeSwitcher = document.getElementById("modeSwitcher");
+        const appTitle = document.getElementById("appTitle");
+        const appSubtitle = document.getElementById("appSubtitle");
+        const appHeroLabel = document.getElementById("appHeroLabel");
+        const appHeroValue = document.getElementById("appHeroValue");
+        const modeContainers = {
+          bibliobuddy: document.querySelector('[data-mode="bibliobuddy"]'),
+          benbenekbuddy: document.querySelector('[data-mode="benbenekbuddy"]'),
+        };
+
+        function readStoredMode() {
+          try {
+            const stored = localStorage.getItem(MODE_STORAGE_KEY);
+            if (stored && VALID_MODES.includes(stored)) {
+              return stored;
             }
-
-            const parent = node.parentElement;
-            if (!parent || parent.closest("h1") || parent.closest("title") || parent.closest(".biblio-rainbow")) {
-              continue;
-            }
-
-            nodesToReplace.push(node);
+          } catch (error) {
+            // localStorage may be unavailable (private mode, etc.) - fall through.
           }
-
-          nodesToReplace.forEach((node) => {
-            const fragment = document.createDocumentFragment();
-            const value = node.textContent;
-            let lastIndex = 0;
-            const regex = /biblio/gi;
-
-            for (const match of value.matchAll(regex)) {
-              const start = match.index;
-              const end = start + match[0].length;
-
-              if (start > lastIndex) {
-                fragment.appendChild(document.createTextNode(value.slice(lastIndex, start)));
-              }
-
-              Array.from(match[0]).forEach((char, index) => {
-                const span = document.createElement("span");
-                span.textContent = char;
-                span.className = "biblio-rainbow";
-                span.style.color = rainbowColors[index % rainbowColors.length];
-                fragment.appendChild(span);
-              });
-
-              lastIndex = end;
-            }
-
-            if (lastIndex < value.length) {
-              fragment.appendChild(document.createTextNode(value.slice(lastIndex)));
-            }
-
-            node.replaceWith(fragment);
-          });
+          return "bibliobuddy";
         }
 
-        recolorBiblioText(document.body);
+        function writeStoredMode(mode) {
+          try {
+            localStorage.setItem(MODE_STORAGE_KEY, mode);
+          } catch (error) {
+            // ignore; the in-memory toggle still works for this session.
+          }
+        }
+
+        function applyChrome(mode) {
+          const meta = MODE_META[mode];
+          appTitle.textContent = meta.title;
+          appSubtitle.textContent = meta.subtitle;
+          appHeroLabel.textContent = meta.heroLabel;
+          modeSwitcher.textContent = meta.switchLabel;
+          modeSwitcher.setAttribute("aria-pressed", mode === "benbenekbuddy" ? "true" : "false");
+          syncHeroValue(mode);
+        }
+
+        function syncHeroValue(mode) {
+          if (mode === "bibliobuddy") {
+            const capsule = modeContainers.bibliobuddy.querySelector("#biblio-modeCapsule");
+            if (capsule && capsule.textContent) {
+              appHeroValue.textContent = capsule.textContent;
+              return;
+            }
+          } else if (mode === "benbenekbuddy") {
+            const capsule = modeContainers.benbenekbuddy.querySelector("#benbenek-focusCapsule");
+            if (capsule && capsule.textContent) {
+              appHeroValue.textContent = capsule.textContent;
+              return;
+            }
+          }
+          appHeroValue.textContent = "";
+        }
+
+        function showMode(mode) {
+          Object.entries(modeContainers).forEach(([key, container]) => {
+            if (!container) {
+              return;
+            }
+            if (key === mode) {
+              container.removeAttribute("hidden");
+            } else {
+              container.setAttribute("hidden", "");
+            }
+          });
+          applyChrome(mode);
+        }
+
+        function toggleMode() {
+          const current = readStoredMode();
+          const next = current === "bibliobuddy" ? "benbenekbuddy" : "bibliobuddy";
+          writeStoredMode(next);
+          showMode(next);
+        }
+
+        modeSwitcher.addEventListener("click", toggleMode);
+
+        // Initial render: the persisted mode wins.
+        showMode(readStoredMode());
+
+        // Keep the header's focus capsule in sync when each mode updates its
+        // own sub-capsule. Both modes already manipulate DOM directly, so we
+        // observe them for changes.
+        const observer = new MutationObserver(() => {
+          syncHeroValue(readStoredMode());
+        });
+
+        Object.values(modeContainers).forEach((container) => {
+          if (!container) {
+            return;
+          }
+          observer.observe(container, {
+            subtree: true,
+            childList: true,
+            characterData: true,
+          });
+        });
+
+        // Apply the static page chrome (biblio rainbow colouring).
+        window.SharedUtils.recolorBiblioText(root);
       })();
     </script>
   </body>
