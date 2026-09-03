@@ -6,6 +6,18 @@
   padding: 18px 20px;
 }
 
+/* Make sure the native [hidden] attribute always wins over display rules
+   in this stylesheet. */
+.bb-panel[hidden],
+.bb-control-row[hidden],
+.bb-test-summary[hidden],
+.bb-question-counter[hidden],
+.bb-answer-form[hidden],
+.bb-input-label[hidden],
+.bb-field[hidden] {
+  display: none !important;
+}
+
 .bb-tabs {
   display: flex;
   flex-wrap: wrap;
@@ -97,6 +109,354 @@
   font-size: 14px;
   color: var(--ink-soft);
   gap: 8px;
+}
+
+/* ----------------------------------------------------------------------
+   New: clickable WWTW Mastery list rows, detail dialog, Test summary,
+   progress bars, and conditional controls.
+   ---------------------------------------------------------------------- */
+
+.bb-list-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font: inherit;
+  color: inherit;
+  background: #fff;
+  border: 1px solid #d7dfe6;
+  border-radius: 12px;
+  padding: 10px 14px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 0.15s ease, border-color 0.15s ease, transform 0.15s ease;
+  font-family: var(--sans);
+}
+
+.bb-list-row:hover,
+.bb-list-row:focus-visible {
+  background: #f0f3f8;
+  border-color: #4c6ea6;
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.bb-list-row-label {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.bb-list-row-meta {
+  color: var(--ink-soft);
+  font-size: 14px;
+}
+
+.bb-question-counter {
+  align-self: flex-start;
+  margin: 0;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(13, 27, 42, 0.08);
+  color: var(--ink-soft);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.bb-test-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  border: 1px solid #d7dfe6;
+  border-radius: 16px;
+  padding: 18px 20px;
+  background: rgba(255, 255, 255, 0.6);
+}
+
+.bb-test-summary-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.bb-test-summary-header h3 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 24px;
+  color: var(--ink);
+}
+
+.bb-test-summary-score {
+  margin: 0;
+  font-weight: 600;
+  color: var(--ink-soft);
+}
+
+.bb-test-summary-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.bb-test-summary-item {
+  background: #fff;
+  border: 1px solid #d7dfe6;
+  border-radius: 12px;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.bb-test-summary-stem {
+  align-self: flex-start;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--ink);
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: rgba(13, 27, 42, 0.25);
+  text-underline-offset: 3px;
+}
+
+.bb-test-summary-stem:hover,
+.bb-test-summary-stem:focus-visible {
+  text-decoration-color: var(--ink);
+  outline: none;
+}
+
+.bb-test-summary-meta {
+  margin: 0;
+  font-size: 12px;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.bb-test-summary-line {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+.bb-test-summary-label {
+  display: inline-block;
+  min-width: 80px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* WWTW detail dialog. The element is a native <dialog>; we style it to
+   ~80% of the viewport with a contained scroll region. */
+.bb-detail-dialog {
+  width: min(80vw, 900px);
+  max-width: 900px;
+  max-height: 80vh;
+  border: 0;
+  border-radius: 22px;
+  padding: 0;
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: 0 30px 80px rgba(13, 27, 42, 0.25);
+}
+
+.bb-detail-dialog::backdrop {
+  background: rgba(13, 27, 42, 0.45);
+}
+
+.bb-detail-dialog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 22px;
+  border-bottom: 1px solid #d7dfe6;
+  gap: 12px;
+  background: #fff;
+  border-top-left-radius: 22px;
+  border-top-right-radius: 22px;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.bb-detail-dialog-header h3 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 24px;
+  color: var(--ink);
+}
+
+.bb-detail-dialog-body {
+  padding: 18px 22px 22px;
+  max-height: calc(80vh - 80px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.bb-stem-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.bb-stem-list-item {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Each stem card uses a native <details>/<summary> so the entire
+   card is the toggle. The expanded panel reveals the definition,
+   example words, and language below the card. */
+.bb-stem-card {
+  border: 1px solid #d7dfe6;
+  border-radius: 14px;
+  background: #fff;
+  overflow: hidden;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.bb-stem-card[open] {
+  border-color: #4c6ea6;
+  box-shadow: 0 6px 18px rgba(13, 27, 42, 0.08);
+}
+
+.bb-stem-card-summary {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 8px 14px;
+  padding: 12px 14px;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.bb-stem-card-summary::-webkit-details-marker {
+  display: none;
+}
+
+.bb-stem-card-summary::marker {
+  display: none;
+  content: "";
+}
+
+.bb-stem-card-summary:hover {
+  background: #f0f3f8;
+}
+
+.bb-stem-card-summary:focus-visible {
+  outline: 2px solid #4c6ea6;
+  outline-offset: -2px;
+}
+
+.bb-stem-card-stem {
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--ink);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.bb-stem-card-stem::after {
+  content: "▾";
+  font-size: 12px;
+  color: var(--ink-soft);
+  transition: transform 0.2s ease;
+}
+
+.bb-stem-card[open] .bb-stem-card-stem::after {
+  transform: rotate(180deg);
+}
+
+.bb-stem-card-mastery {
+  color: var(--ink-soft);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.bb-stem-card-summary .bb-progress-track {
+  grid-column: 1 / -1;
+}
+
+.bb-stem-card-body {
+  border-top: 1px solid #e1e7ee;
+  background: #f7f9fc;
+  padding: 14px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.bb-stem-card-definition {
+  margin: 0;
+  font-size: 16px;
+  color: var(--ink);
+}
+
+.bb-stem-card-words {
+  margin: 0;
+  color: var(--ink-soft);
+}
+
+.bb-stem-card-meta {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.bb-stem-card-label {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 11px;
+  color: var(--ink-soft);
+  margin-right: 4px;
+}
+
+.bb-progress-track {
+  width: 100%;
+  height: 8px;
+  background: #e7edf3;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.bb-progress-fill {
+  height: 100%;
+  border-radius: 999px;
+  transition: width 0.3s ease;
+}
+
+.bb-progress-level-0 { background: #d8362f; }   /* 0 correct — red */
+.bb-progress-level-1 { background: #e07b39; }   /* 1 correct — orange */
+.bb-progress-level-2 { background: #2f8f5b; }   /* 2 correct — green */
+.bb-progress-level-3 { background: #2f6fb7; }   /* 3+ correct — blue */
+
+@media (max-width: 640px) {
+  .bb-detail-dialog {
+    width: 92vw;
+    max-height: 88vh;
+  }
+  .bb-detail-dialog-body {
+    max-height: calc(88vh - 80px);
+  }
 }
 
 @media (max-width: 640px) {

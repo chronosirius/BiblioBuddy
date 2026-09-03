@@ -146,6 +146,7 @@
           <div class="bb-tabs">
             <button id="benbenek-tabLearn" class="mode-button active" type="button">Learn</button>
             <button id="benbenek-tabPractice" class="mode-button" type="button">Practice</button>
+            <button id="benbenek-tabTest" class="mode-button" type="button">Test</button>
           </div>
 
           <div id="benbenek-learnControls" class="bb-control-row">
@@ -165,6 +166,21 @@
               </select>
             </label>
             <p id="benbenek-practiceScopeHint" class="bb-progress"></p>
+            <label id="benbenek-practiceListField" class="bb-field" hidden>
+              <span>List</span>
+              <select id="benbenek-practiceListSelect"></select>
+            </label>
+          </div>
+
+          <div id="benbenek-testControls" class="bb-control-row" hidden>
+            <label class="bb-field">
+              <span>Up To</span>
+              <select id="benbenek-testUpToSelect" disabled></select>
+            </label>
+            <p id="benbenek-testUpToHint" class="bb-progress">Master lists in order to unlock tests.</p>
+            <div class="bb-actions">
+              <button id="benbenek-testStartButton" class="primary-button" type="button" disabled>Start Test</button>
+            </div>
           </div>
         </section>
 
@@ -175,6 +191,7 @@
                 <p id="benbenek-questionMeta" class="question-meta"></p>
                 <h2 id="benbenek-questionTitle"></h2>
               </div>
+              <p id="benbenek-questionCounter" class="bb-question-counter" hidden></p>
             </div>
             <p id="benbenek-questionPrompt" class="question-prompt"></p>
 
@@ -205,6 +222,18 @@
                 </div>
               </div>
             </section>
+
+            <section id="benbenek-testSummary" class="bb-test-summary" hidden>
+              <header class="bb-test-summary-header">
+                <h3>Test complete</h3>
+                <p id="benbenek-testSummaryScore" class="bb-test-summary-score"></p>
+              </header>
+              <p id="benbenek-testSummaryEmpty" class="bb-progress" hidden>No incorrect answers — every stem was answered correctly.</p>
+              <ul id="benbenek-testSummaryList" class="bb-test-summary-list"></ul>
+              <div class="bb-actions">
+                <button id="benbenek-testRestartButton" class="primary-button" type="button">Restart Test</button>
+              </div>
+            </section>
           </section>
 
           <aside class="stats">
@@ -220,6 +249,16 @@
             </div>
           </aside>
         </main>
+
+        <!-- Shared WWTW details dialog used by mastery list rows and
+             clickable stems in the Test summary. -->
+        <dialog id="benbenek-detailDialog" class="bb-detail-dialog" aria-labelledby="benbenek-detailDialogTitle">
+          <header class="bb-detail-dialog-header">
+            <h3 id="benbenek-detailDialogTitle">List details</h3>
+            <button id="benbenek-detailDialogClose" class="ghost-button" type="button">Close</button>
+          </header>
+          <div id="benbenek-detailDialogBody" class="bb-detail-dialog-body"></div>
+        </dialog>
       </section>
     </div>
 
