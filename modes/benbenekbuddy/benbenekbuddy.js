@@ -37,6 +37,7 @@
       poolSignature: "",
       currentId: null,
       submitted: false,
+      scores: {}, // word -> score (default 1, +2 wrong, -1 right, min 1)
     },
     test: {
       upToList: "",
@@ -116,6 +117,7 @@
 
   async function init() {
     try {
+      loadPracticeScores();
       await loadData();
       buildListState();
       bindEvents();
@@ -218,6 +220,8 @@
       }
       state.progress = { stems: {} };
       saveProgress();
+      state.practice.scores = {};
+      savePracticeScores();
       resetTransientState();
       renderAll();
     });
@@ -740,6 +744,8 @@
       return;
     }
 
+    initPracticeScores(pool);
+
     const signature = pool.map((entry) => entry.id).sort().join("|");
     if (state.practice.poolSignature !== signature) {
       state.practice.poolSignature = signature;
@@ -750,7 +756,12 @@
     }
 
     if (!state.practice.queue.length || state.practice.index >= state.practice.queue.length) {
-      state.practice.queue = window.SharedUtils.shuffle(pool.map((entry) => entry.id));
+      // Build a new queue using weighted selection (with replacement
+      // allowed, since scores change after each answer).
+      state.practice.queue = [];
+      for (let i = 0; i < Math.min(pool.length, 50); i++) {
+        state.practice.queue.push(weightedPick(pool).id);
+      }
       state.practice.index = 0;
     }
 
@@ -858,7 +869,10 @@
       .slice(0, Math.max(0, remainingSlots));
 
     const queue = highestPicks.concat(lowerPicks).map((entry) => entry.id);
-    state.test.queue = queue;
+    // Shuffle the full queue so the 25 highest-list questions are spread
+    // throughout the test rather than all at the beginning.
+    const shuffledQueue = window.SharedUtils.shuffle(queue.slice());
+    state.test.queue = shuffledQueue;
     state.test.index = 0;
     state.test.answers = queue.map(() => null);
     state.test.currentId = queue[0] || null;
@@ -1057,6 +1071,9 @@
     const userAnswer = window.SharedUtils.normalizeText(elements.answerInput.value);
     const correct = userAnswer === entry.definitionNorm;
 
+    // Update score-based weights.
+    updatePracticeScore(entry.id, correct);
+
     showWwtwFeedback({ entry, correct, includeMastery: false });
     state.practice.submitted = true;
     setInputState({ submitted: true });
@@ -1184,6 +1201,70 @@
       return [];
     }
     return state.wwtwByList.get(target) || [];
+  }
+
+  // Initialize practice scores for all words in the current pool.
+  // Default score is 1. Scores persist across questions within a session.
+  function initPracticeScores(pool) {
+    loadPracticeScores();
+    pool.forEach((entry) => {
+      if (state.practice.scores[entry.id] === undefined) {
+        state.practice.scores[entry.id] = 1;
+      }
+    });
+  }
+
+  // Update score after a practice answer.
+  // Wrong: +2. Right: -1 (min 1).
+  function updatePracticeScore(entryId, correct) {
+    const current = state.practice.scores[entryId] || 1;
+    if (correct) {
+      state.practice.scores[entryId] = Math.max(1, current - 1);
+    } else {
+      state.practice.scores[entryId] = current + 2;
+    }
+    savePracticeScores();
+  }
+
+  const PRACTICE_SCORES_KEY = "benbenekBuddy.v1.practiceScores";
+
+  function savePracticeScores() {
+    try {
+      localStorage.setItem(PRACTICE_SCORES_KEY, JSON.stringify(state.practice.scores));
+    } catch (e) {
+      // ignore storage failures
+    }
+  }
+
+  function loadPracticeScores() {
+    try {
+      const raw = localStorage.getItem(PRACTICE_SCORES_KEY);
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (parsed && typeof parsed === "object") {
+          state.practice.scores = parsed;
+        }
+      }
+    } catch (e) {
+      // ignore
+    }
+  }
+
+  // Weighted random selection: probability = score / sum(scores).
+  function weightedPick(pool) {
+    const scores = pool.map((entry) => state.practice.scores[entry.id] || 1);
+    const total = scores.reduce((a, b) => a + b, 0);
+    if (total <= 0) {
+      return pool[Math.floor(Math.random() * pool.length)];
+    }
+    let r = Math.random() * total;
+    for (let i = 0; i < pool.length; i++) {
+      r -= scores[i];
+      if (r <= 0) {
+        return pool[i];
+      }
+    }
+    return pool[pool.length - 1];
   }
 
   function getMasteredLists() {
