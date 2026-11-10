@@ -55,6 +55,43 @@
   color: var(--ink);
 }
 
+.bb-list-picker {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  min-width: min(100%, 420px);
+}
+
+.bb-list-picker legend {
+  padding: 0;
+  margin-bottom: 8px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--ink-soft);
+}
+
+.bb-list-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.bb-list-option {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 8px 11px;
+  border: 1px solid #ced9e6;
+  border-radius: 999px;
+  background: #fff;
+  cursor: pointer;
+}
+
+.bb-list-option input {
+  accent-color: var(--ink);
+}
+
 .bb-progress {
   margin: 0;
   color: var(--ink-soft);
