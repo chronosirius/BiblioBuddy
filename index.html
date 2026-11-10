@@ -173,13 +173,13 @@
           </div>
 
           <div id="benbenek-testControls" class="bb-control-row" hidden>
-            <label class="bb-field">
-              <span>Up To</span>
-              <select id="benbenek-testUpToSelect" disabled></select>
-            </label>
-            <p id="benbenek-testUpToHint" class="bb-progress">Master lists in order to unlock tests.</p>
+            <fieldset class="bb-list-picker">
+              <legend>Lists to test</legend>
+              <div id="benbenek-testListOptions" class="bb-list-options"></div>
+            </fieldset>
+            <p id="benbenek-testListHint" class="bb-progress">Choose one or more lists.</p>
             <div class="bb-actions">
-              <button id="benbenek-testStartButton" class="primary-button" type="button" disabled>Start Test</button>
+              <button id="benbenek-testStartButton" class="primary-button" type="button">Start Test</button>
             </div>
           </div>
         </section>

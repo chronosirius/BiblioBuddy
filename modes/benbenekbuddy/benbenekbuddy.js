@@ -14,7 +14,6 @@
 
   // Test configuration.
   const TEST_MAX_QUESTIONS = 100;
-  const TEST_HIGHEST_LIST_QUOTA = 25;
 
   const state = {
     topMode: "wwtw",
@@ -40,7 +39,7 @@
       scores: {}, // word -> score (default 1, +2 wrong, -1 right, min 1)
     },
     test: {
-      upToList: "",
+      selectedLists: [],
       queue: [],
       index: 0,
       answers: [],
@@ -75,8 +74,8 @@
     practiceListSelect: root.querySelector("#benbenek-practiceListSelect"),
     practiceScopeHint: root.querySelector("#benbenek-practiceScopeHint"),
     learnProgressText: root.querySelector("#benbenek-learnProgressText"),
-    testUpToSelect: root.querySelector("#benbenek-testUpToSelect"),
-    testUpToHint: root.querySelector("#benbenek-testUpToHint"),
+    testListOptions: root.querySelector("#benbenek-testListOptions"),
+    testListHint: root.querySelector("#benbenek-testListHint"),
     testStartButton: root.querySelector("#benbenek-testStartButton"),
     focusCapsule: root.querySelector("#benbenek-focusCapsule"),
     focusNote: root.querySelector("#benbenek-focusNote"),
@@ -180,10 +179,13 @@
       renderAll();
     });
 
-    elements.testUpToSelect.addEventListener("change", () => {
-      // Selecting a range only changes configuration; the user still
-      // needs to explicitly start/restart the test.
-      state.test.upToList = elements.testUpToSelect.value;
+    elements.testListOptions.addEventListener("change", (event) => {
+      if (!event.target.matches("input[type='checkbox']")) {
+        return;
+      }
+      state.test.selectedLists = Array.from(
+        elements.testListOptions.querySelectorAll("input[type='checkbox']:checked")
+      ).map((input) => input.value);
       renderTestControls();
     });
 
@@ -374,6 +376,7 @@
     if (!state.learn.selectedList && state.listIds.length) {
       state.learn.selectedList = state.listIds[0];
     }
+    state.test.selectedLists = state.listIds.slice();
   }
 
   function renderAll() {
@@ -471,50 +474,21 @@
   }
 
   function renderTestControls() {
-    const eligible = getSequentiallyEligibleTestLists();
-    if (!eligible.length) {
-      elements.testUpToSelect.innerHTML = "";
-      elements.testUpToSelect.disabled = true;
-      elements.testStartButton.disabled = true;
-      elements.testUpToHint.textContent = "Master List 1 in Learn mode to unlock your first test.";
-      return;
-    }
-
-    // If the previously configured Up To list is no longer eligible,
-    // fall back to the first eligible list.
-    if (!eligible.includes(state.test.upToList)) {
-      state.test.upToList = eligible[0];
-    }
-    elements.testUpToSelect.innerHTML = eligible
-      .map((listId) => `<option value="${window.SharedUtils.escapeHtml(listId)}">List ${window.SharedUtils.escapeHtml(listId)}</option>`)
+    const available = new Set(state.listIds);
+    state.test.selectedLists = state.test.selectedLists.filter((listId) => available.has(listId));
+    elements.testListOptions.innerHTML = state.listIds
+      .map((listId) => `
+        <label class="bb-list-option">
+          <input type="checkbox" value="${window.SharedUtils.escapeHtml(listId)}"
+            ${state.test.selectedLists.includes(listId) ? "checked" : ""}>
+          <span>List ${window.SharedUtils.escapeHtml(listId)}</span>
+        </label>
+      `)
       .join("");
-    elements.testUpToSelect.value = state.test.upToList;
-    elements.testUpToSelect.disabled = false;
-    elements.testStartButton.disabled = false;
-    elements.testUpToHint.textContent = `Up to List ${eligible[eligible.length - 1]} unlocked. Choose an Up To value, then start the test.`;
-  }
-
-  // A list is sequentially eligible when every non-empty list from
-  // List 1 through that list is fully mastered.
-  function getSequentiallyEligibleTestLists() {
-    const mastered = new Set(getMasteredLists());
-    const sorted = state.listIds.slice().sort((a, b) => Number(a) - Number(b));
-    const eligible = [];
-    let allOk = true;
-    for (const listId of sorted) {
-      const entries = state.wwtwByList.get(listId) || [];
-      if (entries.length === 0) {
-        // Empty data lists still block progression.
-        allOk = false;
-        continue;
-      }
-      if (!allOk || !mastered.has(listId)) {
-        allOk = false;
-        continue;
-      }
-      eligible.push(listId);
-    }
-    return eligible;
+    elements.testStartButton.disabled = state.test.selectedLists.length === 0;
+    elements.testListHint.textContent = state.test.selectedLists.length
+      ? `${state.test.selectedLists.length} list(s) selected. Mastery is not required.`
+      : "Choose one or more lists to start a test.";
   }
 
   function renderProgressPanels() {
@@ -839,40 +813,15 @@
   // ----- Test mode --------------------------------------------------------
 
   function startTest() {
-    const upTo = state.test.upToList;
-    if (!upTo) {
+    const selectedLists = new Set(state.test.selectedLists);
+    if (!selectedLists.size) {
       return;
     }
-    const eligibleListIds = state.listIds
-      .slice()
-      .sort((a, b) => Number(a) - Number(b))
-      .filter((listId) => Number(listId) <= Number(upTo));
-
-    // Mastered stems only.
-    const masteredStems = state.wwtwEntries.filter((entry) => {
-      return isStemMastered(entry.id) && eligibleListIds.includes(entry.list);
-    });
-
-    const highestList = upTo;
-    const highestStems = masteredStems.filter((entry) => entry.list === highestList);
-    const lowerStems = masteredStems.filter((entry) => entry.list !== highestList);
-
-    const highestQuota = Math.min(TEST_HIGHEST_LIST_QUOTA, highestStems.length);
-    const highestPicks = window.SharedUtils.shuffle(highestStems).slice(0, highestQuota);
-    const highestIds = new Set(highestPicks.map((entry) => entry.id));
-
-    // Fill remaining slots with stems from lower lists, never repeating
-    // any stem already chosen from the highest list.
-    const remainingSlots = TEST_MAX_QUESTIONS - highestPicks.length;
-    const lowerPicks = window.SharedUtils.shuffle(lowerStems)
-      .filter((entry) => !highestIds.has(entry.id))
-      .slice(0, Math.max(0, remainingSlots));
-
-    const queue = highestPicks.concat(lowerPicks).map((entry) => entry.id);
-    // Shuffle the full queue so the 25 highest-list questions are spread
-    // throughout the test rather than all at the beginning.
-    const shuffledQueue = window.SharedUtils.shuffle(queue.slice());
-    state.test.queue = shuffledQueue;
+    const entries = state.wwtwEntries.filter((entry) => selectedLists.has(entry.list));
+    const queue = window.SharedUtils.shuffle(entries)
+      .slice(0, TEST_MAX_QUESTIONS)
+      .map((entry) => entry.id);
+    state.test.queue = queue;
     state.test.index = 0;
     state.test.answers = queue.map(() => null);
     state.test.currentId = queue[0] || null;
@@ -889,11 +838,11 @@
     if (!state.test.queue.length) {
       elements.questionMeta.textContent = "WWTW Test";
       elements.questionTitle.textContent = "No test available";
-      elements.questionPrompt.textContent = "Configure an Up To value and press Start Test.";
+      elements.questionPrompt.textContent = "Choose one or more lists and press Start Test.";
       elements.questionCounter.hidden = true;
       elements.answerForm.hidden = true;
       elements.testSummary.hidden = true;
-      elements.focusNote.textContent = "Up To determines the cumulative mastered range used for the test.";
+      elements.focusNote.textContent = "Tests can use any selected lists, whether or not they are mastered.";
       return;
     }
 
@@ -911,7 +860,7 @@
     elements.questionCounter.textContent = `Question ${state.test.index + 1} out of ${state.test.queue.length}`;
 
     renderPrompt({
-      meta: `WWTW Test • Up to List ${state.test.upToList}`,
+      meta: `WWTW Test • ${state.test.selectedLists.map((listId) => `List ${listId}`).join(", ")}`,
       title: entry.stemRaw,
       prompt: "Type the definition for this stem.",
     });
